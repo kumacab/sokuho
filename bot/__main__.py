@@ -248,6 +248,16 @@ def cmd_publish(cfg):
     if not state["queue"]:
         log("Rien à publier.")
         return
+    # Les actus restées trop longtemps en file (jeton absent, panne…) ne sont plus des « flashs » : on les retire.
+    limit = now_utc().timestamp() - cfg["max_age_hours"] * 3600
+    stale = [q for q in state["queue"] if q["type"] in ("post", "story") and q.get("ts", 0) < limit]
+    if stale:
+        state["queue"] = [q for q in state["queue"] if q not in stale]
+        save_state(state)
+        log(f"{len(stale)} élément(s) trop ancien(s) retiré(s) de la file.")
+    if env("DRY_RUN") != "1" and not env("IG_ACCESS_TOKEN"):
+        log("⚠️ Secret IG_ACCESS_TOKEN pas encore ajouté : rien n'est publié (les visuels sont quand même fabriqués).")
+        return
     if env("DRY_RUN") == "1":
         log(f"DRY_RUN : {len(state['queue'])} élément(s) prêts, rien n'est envoyé à Instagram.")
         for q in state["queue"]:
