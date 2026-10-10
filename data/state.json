@@ -23,42 +23,63 @@
   "7b290e6ab7cc": 1791667058.197828,
   "7f3a616718ba": 1791667058.197829,
   "d3df820e7d4e": 1791667058.19783,
-  "5a95cf269da6": 1791667058.197856
+  "5a95cf269da6": 1791667058.197856,
+  "7b1e2df8791b": 1791670295.295273
  },
- "queue": [
+ "queue": [],
+ "posted": [
   {
    "id": "5a95cf269da6",
+   "type": "post",
    "headline": "One Punch Man Saison 3 Part 2 : nouveau trailer",
-   "category": "ANIME",
-   "link": "https://adala-news.fr/2026/10/lanime-one-punch-man-saison-3-part-2-en-trailer/",
    "key": [
     "man",
     "one",
     "part",
     "punch"
    ],
-   "ts": 1791667059.781714,
-   "type": "post",
-   "files": [
-    "posts/20261010-5a95cf269da6.jpg"
-   ],
-   "caption": "🎬 One Punch Man Saison 3 Part 2 : nouveau trailer\n\nTu attendais cette annonce ?\n\n📌 Œuvre : One Punch Man Saison 3 Part 2\n📰 Source : Adala News\n🖼️ Visuel officiel © ses ayants droit\n\n🔔 Active les notifs de @sokuho.fr pour avoir les annonces en premier\n\n#OnePunchManSaison3Part2 #anime #animefr #japanime #manga #mangafr #actuanime #otaku",
-   "alt": "ANIME — One Punch Man Saison 3 Part 2 : nouveau trailer",
-   "visual": "visuals/20261010-5a95cf269da6.jpg"
+   "link": "https://adala-news.fr/2026/10/lanime-one-punch-man-saison-3-part-2-en-trailer/",
+   "visual": "visuals/20261010-5a95cf269da6.jpg",
+   "media_id": "18133171624676786",
+   "ts": 1791670318.916267,
+   "card": "posts/20261010-5a95cf269da6.jpg"
   },
   {
    "id": "5a95cf269da6",
-   "headline": "One Punch Man Saison 3 Part 2 : nouveau trailer",
-   "category": "ANIME",
-   "link": "https://adala-news.fr/2026/10/lanime-one-punch-man-saison-3-part-2-en-trailer/",
-   "key": null,
-   "ts": 1791667059.781714,
    "type": "story",
-   "files": [
-    "stories/20261010-5a95cf269da6.jpg"
-   ]
+   "headline": "One Punch Man Saison 3 Part 2 : nouveau trailer",
+   "key": null,
+   "link": "https://adala-news.fr/2026/10/lanime-one-punch-man-saison-3-part-2-en-trailer/",
+   "visual": null,
+   "media_id": "18123564779485018",
+   "ts": 1791670327.521364,
+   "card": null
+  },
+  {
+   "id": "7b1e2df8791b",
+   "type": "post",
+   "headline": "Yumene Connect adapté en anime",
+   "key": [
+    "connect",
+    "yumene"
+   ],
+   "link": "https://adala-news.fr/2026/10/le-manga-yumene-connect-adapte-en-anime/",
+   "visual": "visuals/20261010-7b1e2df8791b.jpg",
+   "media_id": "18147975502483728",
+   "ts": 1791670340.086567,
+   "card": "posts/20261010-7b1e2df8791b.jpg"
+  },
+  {
+   "id": "7b1e2df8791b",
+   "type": "story",
+   "headline": "Yumene Connect adapté en anime",
+   "key": null,
+   "link": "https://adala-news.fr/2026/10/le-manga-yumene-connect-adapte-en-anime/",
+   "visual": null,
+   "media_id": "17883059733625197",
+   "ts": 1791670350.420089,
+   "card": null
   }
  ],
- "posted": [],
  "last_recap": null
 }
