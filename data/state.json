@@ -1,1 +1,64 @@
-{"seen": {}, "queue": [], "posted": []}
+{
+ "seen": {
+  "aaa7ad5a5c97": 1791667058.197813,
+  "5c6695f6b27c": 1791667058.197817,
+  "63c8f5c1a6ee": 1791667058.197818,
+  "404d3d1a9369": 1791667058.197819,
+  "087d51da618d": 1791667058.197819,
+  "35c14429d619": 1791667058.19782,
+  "67a9b85ac2c5": 1791667058.197821,
+  "9406f68561d9": 1791667058.197821,
+  "9177bda486b1": 1791667058.197822,
+  "151af34151b1": 1791667058.197822,
+  "eedc350fb8e1": 1791667058.197823,
+  "3814842ecdb3": 1791667058.197824,
+  "a7d9513e4b5a": 1791667058.197824,
+  "56126cbe884f": 1791667058.197825,
+  "60cd0c636ec9": 1791667058.197825,
+  "0e0702d6e804": 1791667058.197826,
+  "b6ebffc9709c": 1791667058.197826,
+  "c71a69d611d0": 1791667058.197827,
+  "7ffdf50baa83": 1791667058.197827,
+  "1ba5f589f9ea": 1791667058.197828,
+  "7b290e6ab7cc": 1791667058.197828,
+  "7f3a616718ba": 1791667058.197829,
+  "d3df820e7d4e": 1791667058.19783,
+  "5a95cf269da6": 1791667058.197856
+ },
+ "queue": [
+  {
+   "id": "5a95cf269da6",
+   "headline": "One Punch Man Saison 3 Part 2 : nouveau trailer",
+   "category": "ANIME",
+   "link": "https://adala-news.fr/2026/10/lanime-one-punch-man-saison-3-part-2-en-trailer/",
+   "key": [
+    "man",
+    "one",
+    "part",
+    "punch"
+   ],
+   "ts": 1791667059.781714,
+   "type": "post",
+   "files": [
+    "posts/20261010-5a95cf269da6.jpg"
+   ],
+   "caption": "🎬 One Punch Man Saison 3 Part 2 : nouveau trailer\n\nTu attendais cette annonce ?\n\n📌 Œuvre : One Punch Man Saison 3 Part 2\n📰 Source : Adala News\n🖼️ Visuel officiel © ses ayants droit\n\n🔔 Active les notifs de @sokuho.fr pour avoir les annonces en premier\n\n#OnePunchManSaison3Part2 #anime #animefr #japanime #manga #mangafr #actuanime #otaku",
+   "alt": "ANIME — One Punch Man Saison 3 Part 2 : nouveau trailer",
+   "visual": "visuals/20261010-5a95cf269da6.jpg"
+  },
+  {
+   "id": "5a95cf269da6",
+   "headline": "One Punch Man Saison 3 Part 2 : nouveau trailer",
+   "category": "ANIME",
+   "link": "https://adala-news.fr/2026/10/lanime-one-punch-man-saison-3-part-2-en-trailer/",
+   "key": null,
+   "ts": 1791667059.781714,
+   "type": "story",
+   "files": [
+    "stories/20261010-5a95cf269da6.jpg"
+   ]
+  }
+ ],
+ "posted": [],
+ "last_recap": null
+}
