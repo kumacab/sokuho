@@ -1,0 +1,32 @@
+name: Prolonger le jeton Instagram
+
+on:
+  schedule:
+    - cron: "17 6 * * 1"   # chaque lundi matin
+  workflow_dispatch:
+
+jobs:
+  prolonger:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Prolonger le jeton de 60 jours
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          NEW_TOKEN_FILE: ${{ runner.temp }}/token
+        run: python -m bot refresh-token
+      - name: Enregistrer le nouveau jeton dans les secrets
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then
+            echo "::warning::Secret GH_PAT absent : le jeton a été prolongé côté Meta mais pas réenregistré. Voir le guide, étape 6."
+            exit 0
+          fi
+          echo "::add-mask::$(cat "$RUNNER_TEMP/token")"
+          gh secret set IG_ACCESS_TOKEN --repo "$GITHUB_REPOSITORY" < "$RUNNER_TEMP/token"
+          echo "Secret IG_ACCESS_TOKEN mis à jour."

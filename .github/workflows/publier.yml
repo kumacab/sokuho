@@ -1,0 +1,95 @@
+name: Publier les actus
+
+on:
+  schedule:
+    - cron: "*/20 * * * *"   # toutes les 20 minutes (GitHub peut décaler de quelques minutes)
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Test à blanc : fabrique et met en ligne les visuels, sans publier sur Instagram"
+        type: boolean
+        default: false
+      recap_now:
+        description: "Fabriquer le récap de la semaine maintenant"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: sokuho
+  cancel-in-progress: false
+
+jobs:
+  publier:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    environment:
+      name: github-pages
+    env:
+      IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+      IG_USER_ID: ${{ secrets.IG_USER_ID }}
+      PUBLIC_BASE_URL: ${{ vars.PUBLIC_BASE_URL }}
+      DRY_RUN: ${{ inputs.dry_run && '1' || '0' }}
+      REPO_URL: https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+
+      - name: Récupérer les médias des derniers jours
+        run: |
+          git clone -q --depth 1 --branch media "$REPO_URL" media 2>/dev/null || mkdir -p media
+          rm -rf media/.git
+          find media -type f | sort | sha1sum > "$RUNNER_TEMP/avant"
+
+      - name: Préparer posts, stories et récap
+        run: |
+          python -m bot prepare
+          if [ "${{ inputs.recap_now }}" = "true" ]; then python -m bot recap-now; fi
+
+      - name: Y a-t-il de nouveaux médias ?
+        id: media
+        run: |
+          find media -type f | sort | sha1sum > "$RUNNER_TEMP/apres"
+          if cmp -s "$RUNNER_TEMP/avant" "$RUNNER_TEMP/apres"; then echo "changed=false" >> "$GITHUB_OUTPUT"; else echo "changed=true" >> "$GITHUB_OUTPUT"; fi
+
+      - name: Sauvegarder les médias (branche media, sans historique)
+        if: steps.media.outputs.changed == 'true'
+        run: |
+          cd media
+          touch .nojekyll
+          git init -q -b media
+          git config user.name "sokuho-bot"
+          git config user.email "sokuho-bot@users.noreply.github.com"
+          git add -A
+          git commit -qm "Médias $(date -u +%F' '%H:%M)"
+          git push -qf "$REPO_URL" media
+          rm -rf .git
+
+      - name: Préparer la mise en ligne
+        if: steps.media.outputs.changed == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: media
+
+      - name: Mettre en ligne (GitHub Pages)
+        if: steps.media.outputs.changed == 'true'
+        uses: actions/deploy-pages@v4
+
+      - name: Publier sur Instagram
+        run: python -m bot publish
+
+      - name: Enregistrer l'état
+        if: always()
+        run: |
+          git config user.name "sokuho-bot"
+          git config user.email "sokuho-bot@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || (git commit -qm "État du robot" && git push -q)
