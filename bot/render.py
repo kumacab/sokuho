@@ -180,8 +180,12 @@ def draw_headline(img, lines, f, size, x0, y0, band_color):
         runs, run = [], None
         for wd, hl in line:
             w = d.textlength(wd, font=f)
+            core_w = d.textlength(wd.split("\u00a0")[0], font=f)  # la ponctuation collée reste hors du bandeau
             if hl:
-                run = [run[0], x + w] if run else [x, x + w]
+                run = [run[0], x + core_w] if run else [x, x + core_w]
+                if core_w < w:
+                    runs.append(run)
+                    run = None
             elif run:
                 runs.append(run)
                 run = None
@@ -192,7 +196,10 @@ def draw_headline(img, lines, f, size, x0, y0, band_color):
             d.rectangle([a - 14, y + cap_top - 12, b + 14, y + cap_bot + 12], fill=band_color)
         x = x0
         for wd, hl in line:
-            d.text((x, y), wd, font=f, fill=on_color(band_color) if hl else INK)
+            core, _, tail = wd.partition("\u00a0")
+            d.text((x, y), core, font=f, fill=on_color(band_color) if hl else INK)
+            if tail:
+                d.text((x + d.textlength(core + "\u00a0", font=f), y), tail, font=f, fill=INK)
             x += d.textlength(wd, font=f) + space
         y += line_h
     return y
@@ -275,8 +282,13 @@ def render_card(item, category, headline, brand, visual=None, tz="Europe/Paris",
     stamp = when.strftime("%d/%m · %Hh%M")
     sfont = font("Inter.ttf", 30, "SemiBold")
     sb = d.textbbox((0, 0), stamp, font=sfont)
-    sy = (48 if not story else 200) + (70 - (sb[3] - sb[1])) // 2 - sb[1]
-    d.text((W - M - (sb[2] - sb[0]), sy), stamp, font=sfont, fill=INK)
+    top = 48 if not story else 200
+    over = Image.new("RGBA", img.size, (0, 0, 0, 0))
+    ImageDraw.Draw(over).rounded_rectangle([W - M - (sb[2] - sb[0]) - 28, top, W - M, top + 70],
+                                           radius=10, fill=(13, 13, 18, 210))
+    img.paste(Image.alpha_composite(img.convert("RGBA"), over).convert("RGB"))
+    d = ImageDraw.Draw(img)
+    d.text((W - M - 14 - (sb[2] - sb[0]), top + (70 - (sb[3] - sb[1])) // 2 - sb[1]), stamp, font=sfont, fill=INK)
 
     tx, _ = draw_tag(d, category, M, tag_y, color)
     if story:
