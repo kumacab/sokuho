@@ -26,7 +26,9 @@
   "5a95cf269da6": 1791667058.197856,
   "7b1e2df8791b": 1791670295.295273,
   "4cf6813a02f5": 1791698417.133729,
-  "80c26ab3faa7": 1791698418.993827
+  "80c26ab3faa7": 1791698418.993827,
+  "f6554e8faff4": 1791723898.103732,
+  "725d4f3613b8": 1791723900.141386
  },
  "queue": [],
  "posted": [
@@ -133,6 +135,58 @@
    "visual": null,
    "media_id": "18097051685109502",
    "ts": 1791698470.269857,
+   "card": null
+  },
+  {
+   "id": "f6554e8faff4",
+   "type": "post",
+   "headline": "SSS-Class Revival Hunter : nouveau trailer",
+   "key": [
+    "class",
+    "hunter",
+    "revival",
+    "sss"
+   ],
+   "link": "https://adala-news.fr/2026/10/lanime-sss-class-revival-hunter-en-trailer/",
+   "visual": "visuals/20261011-f6554e8faff4.jpg",
+   "media_id": "18087995342694147",
+   "ts": 1791723920.029144,
+   "card": "posts/20261011-f6554e8faff4.jpg"
+  },
+  {
+   "id": "f6554e8faff4",
+   "type": "story",
+   "headline": "SSS-Class Revival Hunter : nouveau trailer",
+   "key": null,
+   "link": "https://adala-news.fr/2026/10/lanime-sss-class-revival-hunter-en-trailer/",
+   "visual": null,
+   "media_id": "18117378790790970",
+   "ts": 1791723926.629191,
+   "card": null
+  },
+  {
+   "id": "725d4f3613b8",
+   "type": "post",
+   "headline": "Le film anime Les Carnets de l’Apothicaire, en Teaser Vidéo 2",
+   "key": [
+    "apothicaire",
+    "carnets"
+   ],
+   "link": "https://adala-news.fr/2026/10/le-film-anime-les-carnets-de-lapothicaire-en-teaser-video-2/",
+   "visual": "visuals/20261011-725d4f3613b8.jpg",
+   "media_id": "18169836370462853",
+   "ts": 1791723935.304735,
+   "card": "posts/20261011-725d4f3613b8.jpg"
+  },
+  {
+   "id": "725d4f3613b8",
+   "type": "story",
+   "headline": "Le film anime Les Carnets de l’Apothicaire, en Teaser Vidéo 2",
+   "key": null,
+   "link": "https://adala-news.fr/2026/10/le-film-anime-les-carnets-de-lapothicaire-en-teaser-video-2/",
+   "visual": null,
+   "media_id": "18478904257119799",
+   "ts": 1791723943.25713,
    "card": null
   }
  ],
