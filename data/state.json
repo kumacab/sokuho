@@ -24,7 +24,9 @@
   "7f3a616718ba": 1791667058.197829,
   "d3df820e7d4e": 1791667058.19783,
   "5a95cf269da6": 1791667058.197856,
-  "7b1e2df8791b": 1791670295.295273
+  "7b1e2df8791b": 1791670295.295273,
+  "4cf6813a02f5": 1791698417.133729,
+  "80c26ab3faa7": 1791698418.993827
  },
  "queue": [],
  "posted": [
@@ -78,6 +80,59 @@
    "visual": null,
    "media_id": "17883059733625197",
    "ts": 1791670350.420089,
+   "card": null
+  },
+  {
+   "id": "4cf6813a02f5",
+   "type": "post",
+   "headline": "Le nouvel anime NARUTO sera un crossover avec Ninku",
+   "key": [
+    "crossover",
+    "naruto",
+    "ninku",
+    "sera"
+   ],
+   "link": "https://adala-news.fr/2026/10/le-nouvel-anime-naruto-sera-un-crossover-avec-ninku/",
+   "visual": "visuals/20261011-4cf6813a02f5.jpg",
+   "media_id": "18395329387160848",
+   "ts": 1791698444.023723,
+   "card": "posts/20261011-4cf6813a02f5.jpg"
+  },
+  {
+   "id": "4cf6813a02f5",
+   "type": "story",
+   "headline": "Le nouvel anime NARUTO sera un crossover avec Ninku",
+   "key": null,
+   "link": "https://adala-news.fr/2026/10/le-nouvel-anime-naruto-sera-un-crossover-avec-ninku/",
+   "visual": null,
+   "media_id": "18105246245202502",
+   "ts": 1791698451.862127,
+   "card": null
+  },
+  {
+   "id": "80c26ab3faa7",
+   "type": "post",
+   "headline": "Le manga NARUTO: SHADOW RISING, annoncé",
+   "key": [
+    "naruto",
+    "rising",
+    "shadow"
+   ],
+   "link": "https://adala-news.fr/2026/10/le-manga-naruto-shadow-rising-annonce/",
+   "visual": "visuals/20261011-80c26ab3faa7.jpg",
+   "media_id": "18632836147013406",
+   "ts": 1791698461.65784,
+   "card": "posts/20261011-80c26ab3faa7.jpg"
+  },
+  {
+   "id": "80c26ab3faa7",
+   "type": "story",
+   "headline": "Le manga NARUTO: SHADOW RISING, annoncé",
+   "key": null,
+   "link": "https://adala-news.fr/2026/10/le-manga-naruto-shadow-rising-annonce/",
+   "visual": null,
+   "media_id": "18097051685109502",
+   "ts": 1791698470.269857,
    "card": null
   }
  ],
