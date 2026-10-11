@@ -28,7 +28,9 @@
   "4cf6813a02f5": 1791698417.133729,
   "80c26ab3faa7": 1791698418.993827,
   "f6554e8faff4": 1791723898.103732,
-  "725d4f3613b8": 1791723900.141386
+  "725d4f3613b8": 1791723900.141386,
+  "66e47439e18e": 1791756438.589715,
+  "e5fdf83bd038": 1791756440.662083
  },
  "queue": [],
  "posted": [
@@ -187,6 +189,61 @@
    "visual": null,
    "media_id": "18478904257119799",
    "ts": 1791723943.25713,
+   "card": null
+  },
+  {
+   "id": "66e47439e18e",
+   "type": "post",
+   "headline": "Minigatari : quand le Mexique rencontre le Japon",
+   "key": [
+    "japon",
+    "mexique",
+    "minigatari",
+    "quand",
+    "rencontre"
+   ],
+   "link": "https://www.journaldujapon.com/2026/10/11/minigatari-quand-le-mexique-rencontre-le-japon/",
+   "visual": "visuals/20261011-66e47439e18e.jpg",
+   "media_id": "18097989407414624",
+   "ts": 1791756462.547572,
+   "card": "posts/20261011-66e47439e18e.jpg"
+  },
+  {
+   "id": "66e47439e18e",
+   "type": "story",
+   "headline": "Minigatari : quand le Mexique rencontre le Japon",
+   "key": null,
+   "link": "https://www.journaldujapon.com/2026/10/11/minigatari-quand-le-mexique-rencontre-le-japon/",
+   "visual": null,
+   "media_id": "17873521545649914",
+   "ts": 1791756473.597576,
+   "card": null
+  },
+  {
+   "id": "e5fdf83bd038",
+   "type": "post",
+   "headline": "Noa-senpai wa Tomodachi : première affiche",
+   "key": [
+    "noa",
+    "senpai",
+    "tomodachi",
+    "wa"
+   ],
+   "link": "https://adala-news.fr/2026/10/premiere-affiche-de-lanime-noa-senpai-wa-tomodachi/",
+   "visual": "visuals/20261011-e5fdf83bd038.jpg",
+   "media_id": "18085177418703489",
+   "ts": 1791756482.212633,
+   "card": "posts/20261011-e5fdf83bd038.jpg"
+  },
+  {
+   "id": "e5fdf83bd038",
+   "type": "story",
+   "headline": "Noa-senpai wa Tomodachi : première affiche",
+   "key": null,
+   "link": "https://adala-news.fr/2026/10/premiere-affiche-de-lanime-noa-senpai-wa-tomodachi/",
+   "visual": null,
+   "media_id": "18588538729069284",
+   "ts": 1791756489.40847,
    "card": null
   }
  ],
