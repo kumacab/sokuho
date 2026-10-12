@@ -125,7 +125,10 @@
   "e07e8f43e09e": 1791827752.418148,
   "6d08e0c2ce89": 1791828661.093791,
   "0721f47f2799": 1791828661.093944,
-  "d64a42eec5bd": 1791828661.947966
+  "d64a42eec5bd": 1791828661.947966,
+  "1ff33acf81fe": 1791829575.164681,
+  "2664b080b990": 1791829575.586424,
+  "ffcb38aa9b63": 1791829576.221594
  },
  "queue": [],
  "posted": [
@@ -1036,10 +1039,72 @@
    "media_id": "17954333037036904",
    "ts": 1791828720.484681,
    "card": null
+  },
+  {
+   "id": "2664b080b990",
+   "type": "post",
+   "headline": "PSYCHO-PASS fête ses 14 ans",
+   "key": [
+    "14",
+    "ans",
+    "fete",
+    "pass",
+    "psycho"
+   ],
+   "link": "https://anilist.co/anime/13601",
+   "visual": "visuals/20261012-2664b080b990.jpg",
+   "work": "PSYCHO-PASS",
+   "media_id": "18235849501320520",
+   "ts": 1791829628.880964,
+   "card": "posts/20261012-2664b080b990.jpg"
+  },
+  {
+   "id": "2664b080b990",
+   "type": "story",
+   "headline": "PSYCHO-PASS fête ses 14 ans",
+   "key": null,
+   "link": "https://anilist.co/anime/13601",
+   "visual": null,
+   "work": "PSYCHO-PASS",
+   "media_id": "18105033716204647",
+   "ts": 1791829637.689405,
+   "card": null
+  },
+  {
+   "id": "ffcb38aa9b63",
+   "type": "post",
+   "headline": "Dr. STONE New World Part 2 fête ses 3 ans",
+   "key": [
+    "ans",
+    "dr",
+    "fete",
+    "new",
+    "part",
+    "stone",
+    "world"
+   ],
+   "link": "https://anilist.co/anime/162670",
+   "visual": "visuals/20261012-ffcb38aa9b63.jpg",
+   "work": "Dr. STONE New World Part 2",
+   "media_id": "17906973813576079",
+   "ts": 1791829647.920187,
+   "card": "posts/20261012-ffcb38aa9b63.jpg"
+  },
+  {
+   "id": "ffcb38aa9b63",
+   "type": "story",
+   "headline": "Dr. STONE New World Part 2 fête ses 3 ans",
+   "key": null,
+   "link": "https://anilist.co/anime/162670",
+   "visual": null,
+   "work": "Dr. STONE New World Part 2",
+   "media_id": "18122283857514403",
+   "ts": 1791829655.617859,
+   "card": null
   }
  ],
  "last_recap": null,
- "news_count": 24,
+ "news_count": 26,
  "manual_reels": [
   {
    "id": "ad77aedff405",
@@ -1213,6 +1278,29 @@
    ],
    "visual": "visuals/20261012-d64a42eec5bd.jpg",
    "sound": "My Hero Academia saison 4 opening"
+  },
+  {
+   "id": "ffcb38aa9b63",
+   "ts": 1791829598.521637,
+   "headline": "Dr. STONE New World Part 2 fête ses 3 ans",
+   "work": "Dr. STONE New World Part 2",
+   "video": "reels/20261012-ffcb38aa9b63.mp4",
+   "cover": "posts/20261012-ffcb38aa9b63.jpg",
+   "caption": "🎬 DR. STONE NEW WORLD PART 2 FÊTE SES 3 ANS\n\nIl y a 3 ans jour pour jour, le 12 octobre 2023, l’anime Dr. STONE New World Part 2 était diffusé pour la première fois au Japon. L’animation est signée TMS Entertainment. (via AniList)\n\n🎂 Sortie le 12 octobre 2023\n📺 11 épisodes\n🎬 Studio : TMS Entertainment\n🏷️ Genres : Action, Aventure, Comédie\n\n💬 Tu l’as découvert quand, Dr. STONE New World Part 2 ? 👇\n\n📌 Œuvre : Dr. STONE New World Part 2\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Dr. STONE New World Part 2 et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#DrSTONENewWorldPart2 #anime #animefr #japanime #manga",
+   "mood": "hype",
+   "category": "ANIME",
+   "link": "https://anilist.co/anime/162670",
+   "key": [
+    "ans",
+    "dr",
+    "fete",
+    "new",
+    "part",
+    "stone",
+    "world"
+   ],
+   "visual": "visuals/20261012-ffcb38aa9b63.jpg",
+   "sound": "Dr. STONE New World Part 2 opening"
   }
  ]
 }
