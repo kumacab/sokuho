@@ -120,7 +120,9 @@
   "5e0532a2cec9": 1791825923.261379,
   "3642d59fac91": 1791826832.945499,
   "5381d3c8c57c": 1791826832.945672,
-  "1b7629716d0c": 1791826833.671162
+  "1b7629716d0c": 1791826833.671162,
+  "8b524d45e0f4": 1791827751.840455,
+  "e07e8f43e09e": 1791827752.418148
  },
  "queue": [],
  "posted": [
@@ -908,10 +910,74 @@
    "media_id": "18374359573213389",
    "ts": 1791826900.401066,
    "card": null
+  },
+  {
+   "id": "8b524d45e0f4",
+   "type": "post",
+   "headline": "From Far Away : l’épisode 2 est sorti",
+   "key": [
+    "away",
+    "episode",
+    "est",
+    "far",
+    "from",
+    "sorti"
+   ],
+   "link": "https://anilist.co/anime/209463",
+   "visual": "visuals/20261012-8b524d45e0f4.jpg",
+   "work": "From Far Away",
+   "media_id": "18012578297973479",
+   "ts": 1791827798.058361,
+   "card": "posts/20261012-8b524d45e0f4.jpg"
+  },
+  {
+   "id": "8b524d45e0f4",
+   "type": "story",
+   "headline": "From Far Away : l’épisode 2 est sorti",
+   "key": null,
+   "link": "https://anilist.co/anime/209463",
+   "visual": null,
+   "work": "From Far Away",
+   "media_id": "17999048538042834",
+   "ts": 1791827807.907637,
+   "card": null
+  },
+  {
+   "id": "e07e8f43e09e",
+   "type": "post",
+   "headline": "Uncle's Obsession with Cute Things : l’épisode 2 est sorti",
+   "key": [
+    "cute",
+    "episode",
+    "est",
+    "obsession",
+    "sorti",
+    "things",
+    "uncle",
+    "with"
+   ],
+   "link": "https://anilist.co/anime/202079",
+   "visual": "visuals/20261012-e07e8f43e09e.jpg",
+   "work": "Uncle's Obsession with Cute Things",
+   "media_id": "17874653355594605",
+   "ts": 1791827819.577291,
+   "card": "posts/20261012-e07e8f43e09e.jpg"
+  },
+  {
+   "id": "e07e8f43e09e",
+   "type": "story",
+   "headline": "Uncle's Obsession with Cute Things : l’épisode 2 est sorti",
+   "key": null,
+   "link": "https://anilist.co/anime/202079",
+   "visual": null,
+   "work": "Uncle's Obsession with Cute Things",
+   "media_id": "18438649432181489",
+   "ts": 1791827829.21328,
+   "card": null
   }
  ],
  "last_recap": null,
- "news_count": 20,
+ "news_count": 22,
  "manual_reels": [
   {
    "id": "ad77aedff405",
@@ -1040,6 +1106,30 @@
    ],
    "visual": "visuals/20261012-1b7629716d0c.jpg",
    "sound": "Renegade Immortal opening"
+  },
+  {
+   "id": "e07e8f43e09e",
+   "ts": 1791827766.041561,
+   "headline": "Uncle's Obsession with Cute Things : l’épisode 2 est sorti",
+   "work": "Uncle's Obsession with Cute Things",
+   "video": "reels/20261012-e07e8f43e09e.mp4",
+   "cover": "posts/20261012-e07e8f43e09e.jpg",
+   "caption": "🎬 UNCLE'S OBSESSION WITH CUTE THINGS : L’ÉPISODE 2 EST SORTI\n\nL’épisode 2 d’Uncle's Obsession with Cute Things a été diffusé au Japon dimanche 11 octobre à 15h00 (heure de Paris). La série est produite par LIDENFILMS. Elle compte 12 épisodes au total : encore 10 à venir. (via AniList)\n\n📺 Épisode 2 sur 12\n🎬 Studio : LIDENFILMS\n🏷️ Genres : Comédie, Tranche de vie\n▶️ Streaming : Crunchyroll (catalogue variable selon les pays)\n\n💬 Tu suis Uncle's Obsession with Cute Things ? Ton avis sur l’épisode 2 👇\n\n📌 Œuvre : Uncle's Obsession with Cute Things\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan d’Uncle's Obsession with Cute Things et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#UncleObsessionWithCuteThings #anime #animefr #japanime #manga",
+   "mood": "fun",
+   "category": "ANIME",
+   "link": "https://anilist.co/anime/202079",
+   "key": [
+    "cute",
+    "episode",
+    "est",
+    "obsession",
+    "sorti",
+    "things",
+    "uncle",
+    "with"
+   ],
+   "visual": "visuals/20261012-e07e8f43e09e.jpg",
+   "sound": "Uncle's Obsession with Cute Things opening"
   }
  ]
 }
