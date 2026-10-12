@@ -145,7 +145,7 @@
    "files": [
     "stories/20261012-806ac8119fe4.jpg"
    ],
-   "errors": 1
+   "errors": 2
   },
   {
    "id": "05ebbdc46beb",
@@ -158,7 +158,25 @@
    "type": "story",
    "files": [
     "stories/20261012-05ebbdc46beb.jpg"
-   ]
+   ],
+   "errors": 1
+  },
+  {
+   "id": "ad77aedff405-reel",
+   "type": "reel",
+   "headline": "Tensei Kizoku, Kantei Skill de Nariagaru saison 3 : l’épisode 3 est sorti",
+   "work": "Tensei Kizoku, Kantei Skill de Nariagaru saison 3",
+   "category": "ANIME",
+   "link": "https://anilist.co/anime/185756",
+   "key": null,
+   "ts": 1791834135.367225,
+   "caption": "🎬 TENSEI KIZOKU, KANTEI SKILL DE NARIAGARU SAISON 3 : L’ÉPISODE 3 EST SORTI\n\nL’épisode 3 de Tensei Kizoku, Kantei Skill de Nariagaru saison 3 a été diffusé au Japon dimanche 11 octobre à 16h30 (heure de Paris). La série est produite par GeyeG Pictures. (via AniList)\n\n📺 Épisode 3\n🎬 Studio : GeyeG Pictures\n🏷️ Genres : Aventure, Fantasy\n▶️ Streaming : Crunchyroll (catalogue variable selon les pays)\n\n💬 Tu suis Tensei Kizoku, Kantei Skill de Nariagaru saison 3 ? Ton avis sur l’épisode 3 👇\n\n📌 Œuvre : Tensei Kizoku, Kantei Skill de Nariagaru saison 3\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Tensei Kizoku, Kantei Skill de Nariagaru saison 3 et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
+   "files": [
+    "reels/20261012-ad77aedff405_auto.mp4",
+    "posts/20261012-ad77aedff405.jpg"
+   ],
+   "visual": "visuals/20261012-ad77aedff405.jpg",
+   "errors": 1
   }
  ],
  "posted": [
@@ -1136,30 +1154,6 @@
  "last_recap": null,
  "news_count": 28,
  "manual_reels": [
-  {
-   "id": "ad77aedff405",
-   "ts": 1791823196.610768,
-   "headline": "Tensei Kizoku, Kantei Skill de Nariagaru saison 3 : l’épisode 3 est sorti",
-   "work": "Tensei Kizoku, Kantei Skill de Nariagaru saison 3",
-   "video": "reels/20261012-ad77aedff405.mp4",
-   "cover": "posts/20261012-ad77aedff405.jpg",
-   "caption": "🎬 TENSEI KIZOKU, KANTEI SKILL DE NARIAGARU SAISON 3 : L’ÉPISODE 3 EST SORTI\n\nL’épisode 3 de Tensei Kizoku, Kantei Skill de Nariagaru saison 3 a été diffusé au Japon dimanche 11 octobre à 16h30 (heure de Paris). La série est produite par GeyeG Pictures. (via AniList)\n\n📺 Épisode 3\n🎬 Studio : GeyeG Pictures\n🏷️ Genres : Aventure, Fantasy\n▶️ Streaming : Crunchyroll (catalogue variable selon les pays)\n\n💬 Tu suis Tensei Kizoku, Kantei Skill de Nariagaru saison 3 ? Ton avis sur l’épisode 3 👇\n\n📌 Œuvre : Tensei Kizoku, Kantei Skill de Nariagaru saison 3\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Tensei Kizoku, Kantei Skill de Nariagaru saison 3 et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
-   "mood": "epic",
-   "category": "ANIME",
-   "link": "https://anilist.co/anime/185756",
-   "key": [
-    "episode",
-    "est",
-    "kantei",
-    "kizoku",
-    "nariagaru",
-    "skill",
-    "sorti",
-    "tensei"
-   ],
-   "visual": "visuals/20261012-ad77aedff405.jpg",
-   "sound": "Tensei Kizoku, Kantei Skill de Nariagaru saison 3 opening"
-  },
   {
    "id": "119fb6e0236e",
    "ts": 1791824110.588066,
