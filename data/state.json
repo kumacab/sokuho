@@ -134,21 +134,21 @@
  },
  "queue": [
   {
-   "id": "ffcb38aa9b63-reel",
+   "id": "05ebbdc46beb-reel",
    "type": "reel",
-   "headline": "Dr. STONE New World Part 2 fête ses 3 ans",
-   "work": "Dr. STONE New World Part 2",
+   "headline": "Robotics;Notes fête ses 14 ans",
+   "work": "Robotics;Notes",
    "category": "ANIME",
-   "link": "https://anilist.co/anime/162670",
+   "link": "https://anilist.co/anime/13599",
    "key": null,
-   "ts": 1791840524.937534,
-   "caption": "🎬 DR. STONE NEW WORLD PART 2 FÊTE SES 3 ANS\n\nIl y a 3 ans jour pour jour, le 12 octobre 2023, l’anime Dr. STONE New World Part 2 était diffusé pour la première fois au Japon. L’animation est signée TMS Entertainment. (via AniList)\n\n🎂 Sortie le 12 octobre 2023\n📺 11 épisodes\n🎬 Studio : TMS Entertainment\n🏷️ Genres : Action, Aventure, Comédie\n\n💬 Tu l’as découvert quand, Dr. STONE New World Part 2 ? 👇\n\n📌 Œuvre : Dr. STONE New World Part 2\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Dr. STONE New World Part 2 et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#DrSTONENewWorldPart2 #anime #animefr #japanime #manga",
+   "ts": 1791842359.743682,
+   "caption": "🎬 ROBOTICS;NOTES FÊTE SES 14 ANS\n\nIl y a 14 ans jour pour jour, le 12 octobre 2012, l’anime Robotics;Notes était diffusé pour la première fois au Japon. L’animation est signée Production I.G. (via AniList)\n\n🎂 Sortie le 12 octobre 2012\n📺 22 épisodes\n🎬 Studio : Production I.G\n🏷️ Genres : Drame, Mecha, Science-fiction\n\n💬 Tu l’as découvert quand, Robotics;Notes ? 👇\n\n📌 Œuvre : Robotics;Notes\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Robotics;Notes et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#RoboticsNotes #anime #animefr #japanime #manga",
    "files": [
-    "reels/20261012-ffcb38aa9b63_auto.mp4",
-    "posts/20261012-ffcb38aa9b63.jpg"
+    "reels/20261012-05ebbdc46beb_auto.mp4",
+    "posts/20261012-05ebbdc46beb.jpg"
    ],
-   "visual": "visuals/20261012-ffcb38aa9b63.jpg",
-   "errors": 2
+   "visual": "visuals/20261012-05ebbdc46beb.jpg",
+   "errors": 1
   }
  ],
  "posted": [
@@ -1125,27 +1125,5 @@
  ],
  "last_recap": null,
  "news_count": 28,
- "manual_reels": [
-  {
-   "id": "05ebbdc46beb",
-   "ts": 1791831419.117897,
-   "headline": "Robotics;Notes fête ses 14 ans",
-   "work": "Robotics;Notes",
-   "video": "reels/20261012-05ebbdc46beb.mp4",
-   "cover": "posts/20261012-05ebbdc46beb.jpg",
-   "caption": "🎬 ROBOTICS;NOTES FÊTE SES 14 ANS\n\nIl y a 14 ans jour pour jour, le 12 octobre 2012, l’anime Robotics;Notes était diffusé pour la première fois au Japon. L’animation est signée Production I.G. (via AniList)\n\n🎂 Sortie le 12 octobre 2012\n📺 22 épisodes\n🎬 Studio : Production I.G\n🏷️ Genres : Drame, Mecha, Science-fiction\n\n💬 Tu l’as découvert quand, Robotics;Notes ? 👇\n\n📌 Œuvre : Robotics;Notes\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Robotics;Notes et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#RoboticsNotes #anime #animefr #japanime #manga",
-   "mood": "emotional",
-   "category": "ANIME",
-   "link": "https://anilist.co/anime/13599",
-   "key": [
-    "14",
-    "ans",
-    "fete",
-    "notes",
-    "robotics"
-   ],
-   "visual": "visuals/20261012-05ebbdc46beb.jpg",
-   "sound": "Robotics;Notes opening"
-  }
- ]
+ "manual_reels": []
 }
