@@ -122,7 +122,10 @@
   "5381d3c8c57c": 1791826832.945672,
   "1b7629716d0c": 1791826833.671162,
   "8b524d45e0f4": 1791827751.840455,
-  "e07e8f43e09e": 1791827752.418148
+  "e07e8f43e09e": 1791827752.418148,
+  "6d08e0c2ce89": 1791828661.093791,
+  "0721f47f2799": 1791828661.093944,
+  "d64a42eec5bd": 1791828661.947966
  },
  "queue": [],
  "posted": [
@@ -974,10 +977,69 @@
    "media_id": "18438649432181489",
    "ts": 1791827829.21328,
    "card": null
+  },
+  {
+   "id": "0721f47f2799",
+   "type": "post",
+   "headline": "Chainsaw Man fête ses 4 ans",
+   "key": [
+    "ans",
+    "chainsaw",
+    "fete",
+    "man"
+   ],
+   "link": "https://anilist.co/anime/127230",
+   "visual": "visuals/20261012-0721f47f2799.jpg",
+   "work": "Chainsaw Man",
+   "media_id": "18158096569521683",
+   "ts": 1791828697.689354,
+   "card": "posts/20261012-0721f47f2799.jpg"
+  },
+  {
+   "id": "0721f47f2799",
+   "type": "story",
+   "headline": "Chainsaw Man fête ses 4 ans",
+   "key": null,
+   "link": "https://anilist.co/anime/127230",
+   "visual": null,
+   "work": "Chainsaw Man",
+   "media_id": "18109263551190011",
+   "ts": 1791828705.538274,
+   "card": null
+  },
+  {
+   "id": "d64a42eec5bd",
+   "type": "post",
+   "headline": "My Hero Academia saison 4 fête ses 7 ans",
+   "key": [
+    "academia",
+    "ans",
+    "fete",
+    "hero",
+    "my"
+   ],
+   "link": "https://anilist.co/anime/104276",
+   "visual": "visuals/20261012-d64a42eec5bd.jpg",
+   "work": "My Hero Academia saison 4",
+   "media_id": "17906838021587848",
+   "ts": 1791828714.601493,
+   "card": "posts/20261012-d64a42eec5bd.jpg"
+  },
+  {
+   "id": "d64a42eec5bd",
+   "type": "story",
+   "headline": "My Hero Academia saison 4 fête ses 7 ans",
+   "key": null,
+   "link": "https://anilist.co/anime/104276",
+   "visual": null,
+   "work": "My Hero Academia saison 4",
+   "media_id": "17954333037036904",
+   "ts": 1791828720.484681,
+   "card": null
   }
  ],
  "last_recap": null,
- "news_count": 22,
+ "news_count": 24,
  "manual_reels": [
   {
    "id": "ad77aedff405",
@@ -1130,6 +1192,27 @@
    ],
    "visual": "visuals/20261012-e07e8f43e09e.jpg",
    "sound": "Uncle's Obsession with Cute Things opening"
+  },
+  {
+   "id": "d64a42eec5bd",
+   "ts": 1791828674.359097,
+   "headline": "My Hero Academia saison 4 fête ses 7 ans",
+   "work": "My Hero Academia saison 4",
+   "video": "reels/20261012-d64a42eec5bd.mp4",
+   "cover": "posts/20261012-d64a42eec5bd.jpg",
+   "caption": "🎬 MY HERO ACADEMIA SAISON 4 FÊTE SES 7 ANS\n\nIl y a 7 ans jour pour jour, le 12 octobre 2019, l’anime My Hero Academia saison 4 était diffusé pour la première fois au Japon. L’animation est signée bones. (via AniList)\n\n🎂 Sortie le 12 octobre 2019\n📺 25 épisodes\n🎬 Studio : bones\n🏷️ Genres : Action, Aventure, Comédie\n\n💬 Tu l’as découvert quand, My Hero Academia saison 4 ? 👇\n\n📌 Œuvre : My Hero Academia saison 4\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de My Hero Academia saison 4 et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#MyHeroAcademiaSaison4 #anime #animefr #japanime #manga",
+   "mood": "hype",
+   "category": "ANIME",
+   "link": "https://anilist.co/anime/104276",
+   "key": [
+    "academia",
+    "ans",
+    "fete",
+    "hero",
+    "my"
+   ],
+   "visual": "visuals/20261012-d64a42eec5bd.jpg",
+   "sound": "My Hero Academia saison 4 opening"
   }
  ]
 }
