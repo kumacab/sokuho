@@ -96,7 +96,8 @@ def text_sprite(text, fnt, fill=INK, band=None, pad=(14, 10), shadow=True):
     probe = ImageDraw.Draw(Image.new("RGBA", (10, 10)))
     bb = probe.textbbox((0, 0), text, font=fnt)
     ref = probe.textbbox((0, 0), "ÉÀHgjq", font=fnt)  # hauteur commune : tous les mots restent alignés
-    bb = (bb[0], ref[1], bb[2], ref[3])
+    # on prend l'union des deux boîtes : un caractère plus haut (kanji, accent) n'est jamais coupé
+    bb = (min(bb[0], 0), min(bb[1], ref[1]), bb[2], max(bb[3], ref[3]))
     w, h = bb[2] - bb[0], bb[3] - bb[1]
     sp = Image.new("RGBA", (w + 2 * pad[0] + 8, h + 2 * pad[1] + 8), (0, 0, 0, 0))
     d = ImageDraw.Draw(sp)
@@ -104,8 +105,23 @@ def text_sprite(text, fnt, fill=INK, band=None, pad=(14, 10), shadow=True):
         d.rectangle([0, 0, sp.width - 8, sp.height - 8], fill=band + (255,))
     elif shadow:
         d.text((pad[0] - bb[0] + 4, pad[1] - bb[1] + 6), text, font=fnt, fill=(0, 0, 0, 170))
-    d.text((pad[0] - bb[0], pad[1] - bb[1]), text, font=fnt, fill=fill + (255,) if len(fill) == 3 else fill)
+    ink = Image.new("RGBA", sp.size, (0, 0, 0, 0))  # le texte seul, pour le contrôle qualité
+    ImageDraw.Draw(ink).text((pad[0] - bb[0], pad[1] - bb[1]), text, font=fnt,
+                             fill=fill + (255,) if len(fill) == 3 else fill)
+    check_not_clipped(ink, text)
+    sp.alpha_composite(ink)
     return sp
+
+
+class ClippedText(RuntimeError):
+    pass
+
+
+def check_not_clipped(sprite, text):
+    """Contrôle qualité : l'encre du texte ne doit pas toucher le bord du calque (sinon il est coupé)."""
+    box = sprite.getchannel("A").getbbox()
+    if box and (box[0] <= 0 or box[1] <= 0 or box[2] >= sprite.width or box[3] >= sprite.height):
+        raise ClippedText(f"texte coupé dans le visuel : {text!r}")
 
 
 def pill_sprite(text, color, size=40):
@@ -374,3 +390,16 @@ def make_reel(item, category, headline, facts, brand, visual, out_path, music=No
     if proc.wait() != 0:
         raise RuntimeError("ffmpeg a échoué")
     return out_path, template
+
+
+def add_music(video, music, out_path, seconds=None):
+    """Remplace la piste son (muette) d'un reel déjà monté par un jingle, sans réencoder l'image."""
+    if seconds is None:
+        seconds = 12
+    cmd = [FFMPEG, "-y", "-loglevel", "error", "-i", str(video), "-stream_loop", "-1", "-i", str(music),
+           "-map", "0:v", "-map", "1:a", "-c:v", "copy",
+           "-af", f"afade=t=in:st=0:d=0.4,afade=t=out:st={seconds - 1.2}:d=1.2",
+           "-c:a", "aac", "-b:a", "128k", "-ar", "48000", "-ac", "2", "-t", str(seconds),
+           "-movflags", "+faststart", str(out_path)]
+    subprocess.run(cmd, check=True)
+    return out_path

@@ -121,13 +121,25 @@ def make_entries(item, cfg, use_visual, state):
     entries = []
     if as_reel:
         try:
-            music = render.pick_music(rc.get("music_dir", "assets/music"), (text or {}).get("mood"), item["id"])
+            music = None if rc.get("mode") == "manual" else \
+                render.pick_music(rc.get("music_dir", "assets/music"), (text or {}).get("mood"), item["id"])
             video, template = reels.make_reel(item, category, headline, (text or {}).get("key_facts"), brand, visual,
                                               MEDIA_DIR / media_name("reels", item["id"], "mp4"), music,
                                               rc.get("seconds", 12))
             log(f"   reel « {template} » monté" + (f" avec {music.name}" if music else " (sans musique : dossier vide)"))
-            entries.append(dict(base, type="reel", files=[rel(video), rel(card)], caption=caption,
-                                visual=rel(vis_path) if vis_path else None, card=rel(card)))
+            if rc.get("mode") == "manual":
+                # Reel à publier à la main (pour ajouter l'opening depuis la bibliothèque musicale d'Instagram)
+                work = item.get("work") or ""
+                state.setdefault("manual_reels", []).append({
+                    "id": item["id"], "ts": now_utc().timestamp(), "headline": headline, "work": work,
+                    "video": rel(video), "cover": rel(card), "caption": caption,
+                    "mood": (text or {}).get("mood"), "category": category, "link": item["link"],
+                    "key": base["key"], "visual": rel(vis_path) if vis_path else None,
+                    "sound": f"{work} opening" if work else "anime opening"})
+                log("   reel ajouté à la page « Reels à publier »")
+            else:
+                entries.append(dict(base, type="reel", files=[rel(video), rel(card)], caption=caption,
+                                    visual=rel(vis_path) if vis_path else None, card=rel(card)))
         except Exception as ex:
             log(f"   reel impossible ({ex}) → post classique")
     if not entries:
@@ -233,6 +245,70 @@ def prune_media(cfg):
         log(f"Ménage : {removed} ancien(s) fichier(s) supprimé(s) de media/")
 
 
+def already_on_instagram(state, reels_list):
+    """Premières lignes des légendes déjà publiées sur le compte (pour ne pas doubler un reel posté à la main)."""
+    if not env("IG_ACCESS_TOKEN") or not reels_list:
+        return set()
+    try:
+        from .instagram import Instagram
+        ig = Instagram()
+        data = ig._call("GET", f"{ig.user_id}/media", fields="caption,media_product_type", limit=40)
+        return {(m.get("caption") or "").strip().splitlines()[0].strip()
+                for m in data.get("data", []) if m.get("media_product_type") == "REELS" and m.get("caption")}
+    except Exception as ex:
+        log(f"   vérification des reels déjà publiés impossible ({ex})")
+        return None
+
+
+def promote_manual_reels(cfg, state):
+    """Reel pas publié à la main après N heures → le robot le publie lui-même avec un jingle original."""
+    rc = cfg.get("reels", {})
+    hours = rc.get("manual_timeout_hours", 3)
+    limit = now_utc().timestamp() - hours * 3600
+    due = [r for r in state.get("manual_reels", []) if r["ts"] < limit and (MEDIA_DIR / r["video"]).exists()]
+    if not due:
+        return
+    published = already_on_instagram(state, due)
+    if published is None:
+        return  # on ne sait pas : on réessaie au prochain passage plutôt que de risquer un doublon
+    for r in due:
+        state["manual_reels"].remove(r)
+        first = r["caption"].strip().splitlines()[0].strip()
+        if first in published:
+            log(f"Reel déjà publié à la main : {r['headline']}")
+            continue
+        music = render.pick_music(rc.get("music_dir", "assets/music"), r.get("mood"), r["id"])
+        src = MEDIA_DIR / r["video"]
+        out = src.with_name(src.stem + "_auto.mp4")
+        try:
+            if music:
+                reels.add_music(src, music, out, rc.get("seconds", 12))
+            else:
+                out = src
+        except Exception as ex:
+            log(f"   mixage du son impossible ({ex}) → reel publié sans musique")
+            out = src
+        state["queue"].append({"id": r["id"] + "-reel", "type": "reel", "headline": r["headline"],
+                               "work": r.get("work", ""), "category": r.get("category"), "link": r.get("link"),
+                               "key": None, "ts": now_utc().timestamp(), "caption": r["caption"],
+                               "files": [rel(out), r["cover"]], "visual": r.get("visual")})
+        log(f"Reel non publié à la main depuis {hours} h → publication automatique"
+            + (f" avec {music.name}" if music else "") + f" : {r['headline']}")
+
+
+def write_reels_page(cfg, state):
+    """Page web (GitHub Pages) qui liste les reels prêts à publier à la main depuis le téléphone."""
+    from . import manual_page
+    reels_list = [r for r in state.get("manual_reels", []) if (MEDIA_DIR / r["video"]).exists()]
+    state["manual_reels"] = reels_list
+    (MEDIA_DIR / "reels").mkdir(parents=True, exist_ok=True)
+    html = manual_page.build(reels_list, cfg["brand"], cfg["timezone"],
+                             cfg.get("reels", {}).get("manual_timeout_hours", 3))
+    page = MEDIA_DIR / "reels" / "index.html"
+    if not page.exists() or page.read_text(encoding="utf-8") != html:
+        page.write_text(html, encoding="utf-8")
+
+
 def cmd_prepare(cfg):
     state = load_state()
     state.setdefault("last_recap", None)
@@ -245,6 +321,9 @@ def cmd_prepare(cfg):
         if week:
             prepare_recap(cfg, state, week)
     prune_media(cfg)
+    if env("DRY_RUN") != "1":
+        promote_manual_reels(cfg, state)
+    write_reels_page(cfg, state)
     save_state(state)
     log(f"File d'attente : {len(state['queue'])} élément(s).")
 

@@ -67,8 +67,10 @@
     }
   ],
   "reels": {
-    "every_n_news": 3,
+    "every_n_news": 2,
     "music_dir": "assets/music",
-    "seconds": 12
+    "seconds": 12,
+    "mode": "manual",
+    "manual_timeout_hours": 3
   }
 }

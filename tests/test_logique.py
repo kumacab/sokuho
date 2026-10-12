@@ -53,7 +53,25 @@ m.cmd_prepare(cfg)
 st = common.load_state()
 types = [q["type"] for q in st["queue"]]
 feed_n = types.count("post") + types.count("reel")
-assert feed_n >= 4 and types.count("story") == feed_n and types.count("reel") >= 1, types
+manual = st.get("manual_reels", [])
+assert feed_n >= 4 and types.count("story") == feed_n and (types.count("reel") + len(manual)) >= 1, types
+page = (m.MEDIA_DIR / "reels" / "index.html").read_text(encoding="utf-8")
+assert all(r["headline"].split()[0] in page for r in manual)
+
+# Reel manuel oublié depuis plus de 3 h → publié par le robot avec un jingle (sans jeton : pas de vérif doublon)
+os.environ.pop("IG_ACCESS_TOKEN", None)
+for r in st["manual_reels"]:
+    r["ts"] -= 4 * 3600
+common.save_state(st)
+n_manual = len(manual)
+m.promote_manual_reels(cfg, st)
+auto = [q for q in st["queue"] if q["type"] == "reel" and q["files"][0].endswith("_auto.mp4")]
+assert len(auto) == n_manual and not st["manual_reels"], (len(auto), n_manual)
+import subprocess as _sp
+probe = _sp.run([render.FFMPEG, "-i", str(m.MEDIA_DIR / auto[0]["files"][0])], capture_output=True, text=True).stderr
+assert "Audio: aac" in probe and "Video: h264" in probe, probe
+common.save_state(st)
+types = [q["type"] for q in st["queue"]]
 assert all((m.MEDIA_DIR / f).exists() for q in st["queue"] for f in q["files"])
 assert not any("Brigandine" in q["headline"] for q in st["queue"]), "le jeu vidéo aurait dû être filtré"
 
