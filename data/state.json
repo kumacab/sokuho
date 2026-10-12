@@ -140,34 +140,6 @@
  },
  "queue": [
   {
-   "id": "b7909294ac7b",
-   "headline": "Shangri-La Frontier saison 2 fête ses 2 ans",
-   "category": "ANIME",
-   "link": "https://anilist.co/anime/176508",
-   "work": "Shangri-La Frontier saison 2",
-   "key": null,
-   "ts": 1791844183.881555,
-   "type": "story",
-   "files": [
-    "stories/20261012-b7909294ac7b.jpg"
-   ],
-   "errors": 2
-  },
-  {
-   "id": "b97fc9721141",
-   "headline": "Paradise Kiss fête ses 21 ans",
-   "category": "ANIME",
-   "link": "https://anilist.co/anime/322",
-   "work": "Paradise Kiss",
-   "key": null,
-   "ts": 1791844184.440132,
-   "type": "story",
-   "files": [
-    "stories/20261012-b97fc9721141.jpg"
-   ],
-   "errors": 2
-  },
-  {
    "id": "e9d1b49160a9",
    "headline": "DEMON LORD 2099 fête ses 2 ans",
    "category": "ANIME",
@@ -179,7 +151,7 @@
    "files": [
     "stories/20261012-e9d1b49160a9.jpg"
    ],
-   "errors": 1
+   "errors": 2
   },
   {
    "id": "1a576619cf57",
@@ -193,7 +165,7 @@
    "files": [
     "stories/20261012-1a576619cf57.jpg"
    ],
-   "errors": 1
+   "errors": 2
   }
  ],
  "posted": [
