@@ -14,6 +14,8 @@ CATEGORIES = {
 
 def classify(item):
     text = strip_accents((item["title"] + " " + " ".join(item["tags"])).lower())
+    if item.get("source") == "Crunchyroll News" and not re.search(r"\b(manga|tome|webtoon|manhua)\b", text):
+        return "ANIME"  # Crunchyroll parle surtout d'anime
     if "manhua" in text or "donghua" in text:
         return "MANHUA"
     if "adapte en anime" in text or "anime" in text or "japanime" in text:

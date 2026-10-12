@@ -76,7 +76,7 @@ def make_entries(item, cfg, use_visual, state):
         log("   article en anglais sans IA disponible → ignoré")
         return []
     if text is None:
-        text = facts.describe(item)  # description détaillée sans IA
+        text = facts.describe(item, editorial.classify(item))  # description détaillée sans IA
         if not text["is_news"]:
             log("   pas une vraie actu (critique, interview, dossier…) → ignorée")
             return []
@@ -87,7 +87,8 @@ def make_entries(item, cfg, use_visual, state):
             log(f"   même œuvre déjà publiée récemment ({item['work']}) → ignorée")
             return []
     category = (text or {}).get("category") or editorial.classify(item)
-    headline = (text or {}).get("headline") or editorial.rewrite_title(item["title"])
+    rewritten = editorial.rewrite_title(item["title"])
+    headline = rewritten if rewritten != item["title"].strip().rstrip(".!") else ((text or {}).get("headline") or rewritten)
 
     visual = None
     if use_visual:

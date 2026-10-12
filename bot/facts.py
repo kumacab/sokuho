@@ -59,16 +59,31 @@ def find(pattern, text, group=1, flags=re.I):
     return re.sub(r"\s+", " ", m.group(group)).strip(" ,.;:") if m else ""
 
 
-def extract_facts(text):
+RELEASE = r"(?:diffus|sortie|sortira|arrive|arrivera|début|commence|prévu|programm|premi|lancement|disponible|en salles|au cinéma|à partir)"
+
+
+def _future(dates, now_year):
+    for d in dates:
+        y = re.search(r"(\d{4})", d)
+        if y and int(y.group(1)) >= now_year:
+            return d
+    return ""
+
+
+def extract_facts(text, category=None, now_year=None):
+    import datetime
+    now_year = now_year or datetime.date.today().year
     facts = []
-    date = find(rf"((?:le )?\d{{1,2}}(?:er)? (?:{MONTHS}) \d{{4}})", text) \
-        or find(rf"((?:{SEASONS}) \d{{4}})", text) \
-        or find(rf"((?:{MONTHS}) \d{{4}})", text) \
-        or find(r"(?:prévue?s? (?:pour|en)|arrivera en|débutera en|sortira en|courant) (\d{4})", text)
+    date_pat = rf"(?:\d{{1,2}}(?:er)? (?:{MONTHS}) \d{{4}}|(?:{SEASONS}) \d{{4}}|(?:{MONTHS}) \d{{4}})"
+    # 1) une date future dans une phrase qui parle de sortie/diffusion, 2) sinon n'importe quelle date future
+    near = [m.group(0) for s in sentences(text) if re.search(RELEASE, s, re.I)
+            for m in re.finditer(date_pat, s, re.I)]
+    date = _future(near, now_year) or _future([m.group(0) for m in re.finditer(date_pat, text, re.I)], now_year)
     if date:
         facts.append(f"📅 Date : {date}")
-    studio = find(r"(?:[Ss]tudio|STUDIO) ([A-Z0-9][\w.&'’-]*(?: (?:[A-Z0-9][\w.&'’-]*|de|du)){0,3})", text, flags=0)
-    if studio:
+    studio = find(r"(?:[Ss]tudios?|STUDIO) ([A-Z0-9][\w&'’-]*(?: [A-Z0-9][\w&'’-]*){0,2})(?=[\s,.;)]|$)", text, flags=0)
+    studio = re.sub(r"\b(Synopsis|Staff|Casting|Cast|Le|La|Les)\b.*$", "", studio).strip(" .")
+    if studio and len(studio) > 1:
         facts.append(f"🎬 Studio : {studio}")
     director = find(r"(?:[Rr]éalis(?:é|ée|ation) (?:par|de)|sous la direction de|[Rr]éalisateur[^:]{0,20}:)\s*"
                     r"([A-Z][\w'’-]+(?: [A-Z][\w'’-]+){1,2})", text, flags=0)
@@ -77,19 +92,37 @@ def extract_facts(text):
     plats = [p for p in PLATFORMS if re.search(rf"(?<![\w]){re.escape(p)}(?![\w])", text)]
     if plats:
         facts.append(f"📺 Diffusion : {', '.join(plats[:2])}")
-    pubs = [p for p in PUBLISHERS if re.search(rf"(?:chez|aux éditions|éditions|éditeur)\s+{re.escape(p)}", text, re.I)]
-    if pubs:
-        facts.append(f"📚 Éditeur : {pubs[0]}")
+    if category in ("MANGA", "MANHUA", "WEBTOON", None):
+        pubs = [p for p in PUBLISHERS if re.search(rf"(?:chez|aux éditions|éditions|éditeur)\s+{re.escape(p)}", text, re.I)]
+        if pubs:
+            facts.append(f"📚 Éditeur : {pubs[0]}")
     eps = find(r"(\d{1,3}) épisodes", text)
-    if eps:
+    if eps and category != "MANGA":
         facts.append(f"🔢 Épisodes : {eps}")
-    tomes = find(r"(\d{1,3}) (?:tomes|volumes)", text)
-    if tomes and not eps:
-        facts.append(f"📖 Tomes : {tomes}")
-    season = find(r"\bsaison (\d{1,2})\b", text)
-    if season:
-        facts.append(f"🔁 Saison {season}")
-    return facts[:6]
+    return facts[:5]
+
+
+def work_from_title(title):
+    """« Dragon Ball Super: Beerus partage… » → « Dragon Ball Super: Beerus »."""
+    t = re.sub(r"^(l[’']anime|le manga|le film|le webtoon|le manhua|l[’']adaptation(?: anime)? de)\s+", "", title, flags=re.I)
+    for sep in (" : ", " - ", " – ", ": "):
+        if sep in t:
+            head = t.split(sep)[0].strip()
+            if 2 <= len(head) <= 45 and not re.search(r"\b(annonc|dévoil|révèle|partage|trailer)\b", head, re.I):
+                return head
+    return ""
+
+
+def short_headline(title, max_len=72):
+    t = re.sub(r"\s+", " ", title).strip()
+    if len(t) <= max_len:
+        return t
+    for sep in (" - ", " – ", ", "):
+        if sep in t and len(t.split(sep)[0]) >= 20:
+            t = t.split(sep)[0]
+            if len(t) <= max_len:
+                return t
+    return t[:max_len].rsplit(" ", 1)[0] + "…"
 
 
 MOODS = [("dark", r"horreur|zombie|mort|sombre|démon|vampire|meurtre|décès|hommage"),
@@ -99,13 +132,16 @@ MOODS = [("dark", r"horreur|zombie|mort|sombre|démon|vampire|meurtre|décès|ho
          ("hype", r"annonc|trailer|teaser|adapt|date|premi")]
 
 
-def describe(item):
+def describe(item, category=None):
     """Remplace l'IA : même format de réponse (body, key_facts, work, mood…)."""
     text = article_text(item, max_chars=12000)
+    text = re.sub(r"\s+([,.])", r"\1", text)  # « Press , » → « Press, »
     body = lead(text) or lead(item.get("summary", ""))
     if body:
         body = f"{body} (via {item['source']})"
     mood = next((m for m, pat in MOODS if re.search(pat, strip_accents(item["title"] + " " + text[:1500]), re.I)),
                 "hype")
-    return {"is_news": is_news(item), "headline": "", "work": clean_work(item.get("work", "")), "category": None,
-            "body": body, "key_facts": extract_facts(text), "question": None, "hashtags": [], "mood": mood}
+    work = clean_work(item.get("work", "")) or work_from_title(item["title"])
+    return {"is_news": is_news(item), "headline": short_headline(item["title"]), "work": work,
+            "category": category, "body": body, "key_facts": extract_facts(text, category),
+            "question": None, "hashtags": [], "mood": mood}
