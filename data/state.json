@@ -129,7 +129,8 @@
   "1ff33acf81fe": 1791829575.164681,
   "2664b080b990": 1791829575.586424,
   "ffcb38aa9b63": 1791829576.221594,
-  "806ac8119fe4": 1791830486.843474
+  "806ac8119fe4": 1791830486.843474,
+  "05ebbdc46beb": 1791831398.426187
  },
  "queue": [
   {
@@ -152,7 +153,7 @@
    "caption": "📚 RELIFE FÊTE SES 13 ANS\n\nIl y a 13 ans jour pour jour, le 12 octobre 2013, le manga ReLIFE commençait sa publication. (via AniList)\n\n🎂 Sortie le 12 octobre 2013\n📖 238 chapitres\n🏷️ Genres : Comédie, Drame, Psychologique\n\n💬 Tu l’as découvert quand, ReLIFE ? 👇\n\n📌 Œuvre : ReLIFE\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de ReLIFE et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#ReLIFE #manga #mangafr #mangaka #anime",
    "alt": "MANGA — ReLIFE fête ses 13 ans",
    "visual": "visuals/20261012-806ac8119fe4.jpg",
-   "errors": 1
+   "errors": 2
   },
   {
    "id": "806ac8119fe4",
@@ -165,6 +166,42 @@
    "type": "story",
    "files": [
     "stories/20261012-806ac8119fe4.jpg"
+   ]
+  },
+  {
+   "id": "05ebbdc46beb",
+   "headline": "Robotics;Notes fête ses 14 ans",
+   "category": "ANIME",
+   "link": "https://anilist.co/anime/13599",
+   "work": "Robotics;Notes",
+   "key": [
+    "14",
+    "ans",
+    "fete",
+    "notes",
+    "robotics"
+   ],
+   "ts": 1791831398.748985,
+   "type": "post",
+   "files": [
+    "posts/20261012-05ebbdc46beb.jpg"
+   ],
+   "caption": "🎬 ROBOTICS;NOTES FÊTE SES 14 ANS\n\nIl y a 14 ans jour pour jour, le 12 octobre 2012, l’anime Robotics;Notes était diffusé pour la première fois au Japon. L’animation est signée Production I.G. (via AniList)\n\n🎂 Sortie le 12 octobre 2012\n📺 22 épisodes\n🎬 Studio : Production I.G\n🏷️ Genres : Drame, Mecha, Science-fiction\n\n💬 Tu l’as découvert quand, Robotics;Notes ? 👇\n\n📌 Œuvre : Robotics;Notes\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Robotics;Notes et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#RoboticsNotes #anime #animefr #japanime #manga",
+   "alt": "ANIME — Robotics;Notes fête ses 14 ans",
+   "visual": "visuals/20261012-05ebbdc46beb.jpg",
+   "errors": 1
+  },
+  {
+   "id": "05ebbdc46beb",
+   "headline": "Robotics;Notes fête ses 14 ans",
+   "category": "ANIME",
+   "link": "https://anilist.co/anime/13599",
+   "work": "Robotics;Notes",
+   "key": null,
+   "ts": 1791831398.748985,
+   "type": "story",
+   "files": [
+    "stories/20261012-05ebbdc46beb.jpg"
    ]
   }
  ],
@@ -1141,7 +1178,7 @@
   }
  ],
  "last_recap": null,
- "news_count": 27,
+ "news_count": 28,
  "manual_reels": [
   {
    "id": "ad77aedff405",
@@ -1338,6 +1375,27 @@
    ],
    "visual": "visuals/20261012-ffcb38aa9b63.jpg",
    "sound": "Dr. STONE New World Part 2 opening"
+  },
+  {
+   "id": "05ebbdc46beb",
+   "ts": 1791831419.117897,
+   "headline": "Robotics;Notes fête ses 14 ans",
+   "work": "Robotics;Notes",
+   "video": "reels/20261012-05ebbdc46beb.mp4",
+   "cover": "posts/20261012-05ebbdc46beb.jpg",
+   "caption": "🎬 ROBOTICS;NOTES FÊTE SES 14 ANS\n\nIl y a 14 ans jour pour jour, le 12 octobre 2012, l’anime Robotics;Notes était diffusé pour la première fois au Japon. L’animation est signée Production I.G. (via AniList)\n\n🎂 Sortie le 12 octobre 2012\n📺 22 épisodes\n🎬 Studio : Production I.G\n🏷️ Genres : Drame, Mecha, Science-fiction\n\n💬 Tu l’as découvert quand, Robotics;Notes ? 👇\n\n📌 Œuvre : Robotics;Notes\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Robotics;Notes et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#RoboticsNotes #anime #animefr #japanime #manga",
+   "mood": "emotional",
+   "category": "ANIME",
+   "link": "https://anilist.co/anime/13599",
+   "key": [
+    "14",
+    "ans",
+    "fete",
+    "notes",
+    "robotics"
+   ],
+   "visual": "visuals/20261012-05ebbdc46beb.jpg",
+   "sound": "Robotics;Notes opening"
   }
  ]
 }
