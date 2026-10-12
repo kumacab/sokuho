@@ -98,13 +98,16 @@ def build_caption(item, category, headline, brand, base_tags, used_visual, ai=No
     lines.append(f"📰 Source : {item['source']}")
     if used_visual:
         lines.append("🖼️ Visuel officiel © ses ayants droit")
-    lines += ["", f"🔔 Abonne-toi à {brand['handle']} et active les notifs pour avoir les annonces en premier", ""]
+    fan = f"un pote fan de {work}" if work else "un pote qui doit savoir ça"
+    lines += ["", f"📤 Partage à {fan} et enregistre le post",
+              f"🔔 Abonne-toi à {brand['handle']} pour avoir les annonces en premier", ""]
     tags = []
     for t in [hashtag(work)] + list((ai or {}).get("hashtags") or []) + cat["tags"] + base_tags:
         t = re.sub(r"[^\w]", "", str(t).lstrip("#"))
         if t and len(t) >= 3 and t.lower() not in [x.lower() for x in tags]:
             tags.append(t)
-    lines.append(" ".join("#" + t for t in tags[:15]))
+    # Instagram limite à 5 hashtags par post/reel et recommande peu de hashtags, mais ciblés
+    lines.append(" ".join("#" + t for t in tags[:5]))
     return "\n".join(lines)[:2150]
 
 
@@ -116,5 +119,5 @@ def build_recap_caption(entries, brand, period_label, base_tags):
     lines += ["", "Laquelle t'a le plus hypé ? Dis-le en commentaire 👇", "",
               "🖼️ Visuels officiels © leurs ayants droit", "",
               f"🔔 Abonne-toi à {brand['handle']} pour ne rien rater", "",
-              " ".join("#" + t for t in ["recapanime", "newsanime"] + base_tags)]
+              " ".join("#" + t for t in (["recapanime", "newsanime"] + base_tags)[:5])]
     return "\n".join(lines)[:2150]
