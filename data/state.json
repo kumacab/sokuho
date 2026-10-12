@@ -101,7 +101,16 @@
   "31752556622d": 1791819308.748569,
   "d3e423236843": 1791819309.735686,
   "feaaace01f31": 1791820444.058511,
-  "6e2e538e69e3": 1791820445.36761
+  "6e2e538e69e3": 1791820445.36761,
+  "83879f97eb10": 1791823178.517378,
+  "0c210ac01e4b": 1791823178.517381,
+  "ca9150556d4f": 1791823178.517383,
+  "c59f989b75f8": 1791823178.517385,
+  "8dfe1f8efd51": 1791823178.517385,
+  "4ebc2802a6f8": 1791823178.517386,
+  "b1137c56dadf": 1791823178.517387,
+  "982a23883140": 1791823179.32415,
+  "ad77aedff405": 1791823179.970696
  },
  "queue": [],
  "posted": [
@@ -550,9 +559,96 @@
    "media_id": "17874484518594923",
    "ts": 1791820476.485002,
    "card": null
+  },
+  {
+   "id": "982a23883140",
+   "type": "post",
+   "headline": "Overgeared : l’épisode 3 est sorti",
+   "key": [
+    "episode",
+    "est",
+    "overgeared",
+    "sorti"
+   ],
+   "link": "https://anilist.co/anime/212888",
+   "visual": "visuals/20261012-982a23883140.jpg",
+   "work": "Overgeared",
+   "media_id": "18176552086801154",
+   "ts": 1791823220.464438,
+   "card": "posts/20261012-982a23883140.jpg"
+  },
+  {
+   "id": "982a23883140",
+   "type": "story",
+   "headline": "Overgeared : l’épisode 3 est sorti",
+   "key": null,
+   "link": "https://anilist.co/anime/212888",
+   "visual": null,
+   "work": "Overgeared",
+   "media_id": "18628509499033195",
+   "ts": 1791823229.299815,
+   "card": null
+  },
+  {
+   "id": "ad77aedff405",
+   "type": "post",
+   "headline": "Tensei Kizoku, Kantei Skill de Nariagaru saison 3 : l’épisode 3 est sorti",
+   "key": [
+    "episode",
+    "est",
+    "kantei",
+    "kizoku",
+    "nariagaru",
+    "skill",
+    "sorti",
+    "tensei"
+   ],
+   "link": "https://anilist.co/anime/185756",
+   "visual": "visuals/20261012-ad77aedff405.jpg",
+   "work": "Tensei Kizoku, Kantei Skill de Nariagaru saison 3",
+   "media_id": "18027136163701412",
+   "ts": 1791823239.824845,
+   "card": "posts/20261012-ad77aedff405.jpg"
+  },
+  {
+   "id": "ad77aedff405",
+   "type": "story",
+   "headline": "Tensei Kizoku, Kantei Skill de Nariagaru saison 3 : l’épisode 3 est sorti",
+   "key": null,
+   "link": "https://anilist.co/anime/185756",
+   "visual": null,
+   "work": "Tensei Kizoku, Kantei Skill de Nariagaru saison 3",
+   "media_id": "17974164768135399",
+   "ts": 1791823247.849415,
+   "card": null
   }
  ],
  "last_recap": null,
- "news_count": 10,
- "manual_reels": []
+ "news_count": 12,
+ "manual_reels": [
+  {
+   "id": "ad77aedff405",
+   "ts": 1791823196.610768,
+   "headline": "Tensei Kizoku, Kantei Skill de Nariagaru saison 3 : l’épisode 3 est sorti",
+   "work": "Tensei Kizoku, Kantei Skill de Nariagaru saison 3",
+   "video": "reels/20261012-ad77aedff405.mp4",
+   "cover": "posts/20261012-ad77aedff405.jpg",
+   "caption": "🎬 TENSEI KIZOKU, KANTEI SKILL DE NARIAGARU SAISON 3 : L’ÉPISODE 3 EST SORTI\n\nL’épisode 3 de Tensei Kizoku, Kantei Skill de Nariagaru saison 3 a été diffusé au Japon dimanche 11 octobre à 16h30 (heure de Paris). La série est produite par GeyeG Pictures. (via AniList)\n\n📺 Épisode 3\n🎬 Studio : GeyeG Pictures\n🏷️ Genres : Aventure, Fantasy\n▶️ Streaming : Crunchyroll (catalogue variable selon les pays)\n\n💬 Tu suis Tensei Kizoku, Kantei Skill de Nariagaru saison 3 ? Ton avis sur l’épisode 3 👇\n\n📌 Œuvre : Tensei Kizoku, Kantei Skill de Nariagaru saison 3\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Tensei Kizoku, Kantei Skill de Nariagaru saison 3 et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
+   "mood": "epic",
+   "category": "ANIME",
+   "link": "https://anilist.co/anime/185756",
+   "key": [
+    "episode",
+    "est",
+    "kantei",
+    "kizoku",
+    "nariagaru",
+    "skill",
+    "sorti",
+    "tensei"
+   ],
+   "visual": "visuals/20261012-ad77aedff405.jpg",
+   "sound": "Tensei Kizoku, Kantei Skill de Nariagaru saison 3 opening"
+  }
+ ]
 }
