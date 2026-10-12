@@ -134,23 +134,6 @@
  },
  "queue": [
   {
-   "id": "e07e8f43e09e-reel",
-   "type": "reel",
-   "headline": "Uncle's Obsession with Cute Things : l’épisode 2 est sorti",
-   "work": "Uncle's Obsession with Cute Things",
-   "category": "ANIME",
-   "link": "https://anilist.co/anime/202079",
-   "key": null,
-   "ts": 1791838702.447653,
-   "caption": "🎬 UNCLE'S OBSESSION WITH CUTE THINGS : L’ÉPISODE 2 EST SORTI\n\nL’épisode 2 d’Uncle's Obsession with Cute Things a été diffusé au Japon dimanche 11 octobre à 15h00 (heure de Paris). La série est produite par LIDENFILMS. Elle compte 12 épisodes au total : encore 10 à venir. (via AniList)\n\n📺 Épisode 2 sur 12\n🎬 Studio : LIDENFILMS\n🏷️ Genres : Comédie, Tranche de vie\n▶️ Streaming : Crunchyroll (catalogue variable selon les pays)\n\n💬 Tu suis Uncle's Obsession with Cute Things ? Ton avis sur l’épisode 2 👇\n\n📌 Œuvre : Uncle's Obsession with Cute Things\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan d’Uncle's Obsession with Cute Things et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#UncleObsessionWithCuteThings #anime #animefr #japanime #manga",
-   "files": [
-    "reels/20261012-e07e8f43e09e_auto.mp4",
-    "posts/20261012-e07e8f43e09e.jpg"
-   ],
-   "visual": "visuals/20261012-e07e8f43e09e.jpg",
-   "errors": 2
-  },
-  {
    "id": "d64a42eec5bd-reel",
    "type": "reel",
    "headline": "My Hero Academia saison 4 fête ses 7 ans",
@@ -165,6 +148,23 @@
     "posts/20261012-d64a42eec5bd.jpg"
    ],
    "visual": "visuals/20261012-d64a42eec5bd.jpg",
+   "errors": 2
+  },
+  {
+   "id": "ffcb38aa9b63-reel",
+   "type": "reel",
+   "headline": "Dr. STONE New World Part 2 fête ses 3 ans",
+   "work": "Dr. STONE New World Part 2",
+   "category": "ANIME",
+   "link": "https://anilist.co/anime/162670",
+   "key": null,
+   "ts": 1791840524.937534,
+   "caption": "🎬 DR. STONE NEW WORLD PART 2 FÊTE SES 3 ANS\n\nIl y a 3 ans jour pour jour, le 12 octobre 2023, l’anime Dr. STONE New World Part 2 était diffusé pour la première fois au Japon. L’animation est signée TMS Entertainment. (via AniList)\n\n🎂 Sortie le 12 octobre 2023\n📺 11 épisodes\n🎬 Studio : TMS Entertainment\n🏷️ Genres : Action, Aventure, Comédie\n\n💬 Tu l’as découvert quand, Dr. STONE New World Part 2 ? 👇\n\n📌 Œuvre : Dr. STONE New World Part 2\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Dr. STONE New World Part 2 et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#DrSTONENewWorldPart2 #anime #animefr #japanime #manga",
+   "files": [
+    "reels/20261012-ffcb38aa9b63_auto.mp4",
+    "posts/20261012-ffcb38aa9b63.jpg"
+   ],
+   "visual": "visuals/20261012-ffcb38aa9b63.jpg",
    "errors": 1
   }
  ],
@@ -1143,29 +1143,6 @@
  "last_recap": null,
  "news_count": 28,
  "manual_reels": [
-  {
-   "id": "ffcb38aa9b63",
-   "ts": 1791829598.521637,
-   "headline": "Dr. STONE New World Part 2 fête ses 3 ans",
-   "work": "Dr. STONE New World Part 2",
-   "video": "reels/20261012-ffcb38aa9b63.mp4",
-   "cover": "posts/20261012-ffcb38aa9b63.jpg",
-   "caption": "🎬 DR. STONE NEW WORLD PART 2 FÊTE SES 3 ANS\n\nIl y a 3 ans jour pour jour, le 12 octobre 2023, l’anime Dr. STONE New World Part 2 était diffusé pour la première fois au Japon. L’animation est signée TMS Entertainment. (via AniList)\n\n🎂 Sortie le 12 octobre 2023\n📺 11 épisodes\n🎬 Studio : TMS Entertainment\n🏷️ Genres : Action, Aventure, Comédie\n\n💬 Tu l’as découvert quand, Dr. STONE New World Part 2 ? 👇\n\n📌 Œuvre : Dr. STONE New World Part 2\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Dr. STONE New World Part 2 et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#DrSTONENewWorldPart2 #anime #animefr #japanime #manga",
-   "mood": "hype",
-   "category": "ANIME",
-   "link": "https://anilist.co/anime/162670",
-   "key": [
-    "ans",
-    "dr",
-    "fete",
-    "new",
-    "part",
-    "stone",
-    "world"
-   ],
-   "visual": "visuals/20261012-ffcb38aa9b63.jpg",
-   "sound": "Dr. STONE New World Part 2 opening"
-  },
   {
    "id": "05ebbdc46beb",
    "ts": 1791831419.117897,
