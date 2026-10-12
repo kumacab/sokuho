@@ -112,7 +112,10 @@
   "982a23883140": 1791823179.32415,
   "ad77aedff405": 1791823179.970696,
   "13fdf87ecb94": 1791824096.28235,
-  "119fb6e0236e": 1791824096.93605
+  "119fb6e0236e": 1791824096.93605,
+  "6b9ea7f4087a": 1791825005.165252,
+  "0bb16c968cbb": 1791825005.752852,
+  "d0c8176728d6": 1791825005.752936
  },
  "queue": [],
  "posted": [
@@ -694,10 +697,75 @@
    "media_id": "18106777193628928",
    "ts": 1791824160.816141,
    "card": null
+  },
+  {
+   "id": "6b9ea7f4087a",
+   "type": "post",
+   "headline": "Dragon Ball Super: Beerus : l’épisode 1 est sorti",
+   "key": [
+    "ball",
+    "beerus",
+    "dragon",
+    "episode",
+    "est",
+    "sorti",
+    "super"
+   ],
+   "link": "https://anilist.co/anime/206814",
+   "visual": "visuals/20261012-6b9ea7f4087a.jpg",
+   "work": "Dragon Ball Super: Beerus",
+   "media_id": "18130173244826738",
+   "ts": 1791825045.182969,
+   "card": "posts/20261012-6b9ea7f4087a.jpg"
+  },
+  {
+   "id": "6b9ea7f4087a",
+   "type": "story",
+   "headline": "Dragon Ball Super: Beerus : l’épisode 1 est sorti",
+   "key": null,
+   "link": "https://anilist.co/anime/206814",
+   "visual": null,
+   "work": "Dragon Ball Super: Beerus",
+   "media_id": "17871077442644417",
+   "ts": 1791825054.064061,
+   "card": null
+  },
+  {
+   "id": "d0c8176728d6",
+   "type": "post",
+   "headline": "Tensei Goblin Dakedo Shitsumon Aru? : l’épisode 3 est sorti",
+   "key": [
+    "aru",
+    "dakedo",
+    "episode",
+    "est",
+    "goblin",
+    "shitsumon",
+    "sorti",
+    "tensei"
+   ],
+   "link": "https://anilist.co/anime/209219",
+   "visual": "visuals/20261012-d0c8176728d6.jpg",
+   "work": "Tensei Goblin Dakedo Shitsumon Aru?",
+   "media_id": "18079862984719593",
+   "ts": 1791825064.332647,
+   "card": "posts/20261012-d0c8176728d6.jpg"
+  },
+  {
+   "id": "d0c8176728d6",
+   "type": "story",
+   "headline": "Tensei Goblin Dakedo Shitsumon Aru? : l’épisode 3 est sorti",
+   "key": null,
+   "link": "https://anilist.co/anime/209219",
+   "visual": null,
+   "work": "Tensei Goblin Dakedo Shitsumon Aru?",
+   "media_id": "18194608153393399",
+   "ts": 1791825073.359106,
+   "card": null
   }
  ],
  "last_recap": null,
- "news_count": 14,
+ "news_count": 16,
  "manual_reels": [
   {
    "id": "ad77aedff405",
@@ -752,6 +820,30 @@
    ],
    "visual": "visuals/20261012-119fb6e0236e.jpg",
    "sound": "Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu opening"
+  },
+  {
+   "id": "d0c8176728d6",
+   "ts": 1791825021.222248,
+   "headline": "Tensei Goblin Dakedo Shitsumon Aru? : l’épisode 3 est sorti",
+   "work": "Tensei Goblin Dakedo Shitsumon Aru?",
+   "video": "reels/20261012-d0c8176728d6.mp4",
+   "cover": "posts/20261012-d0c8176728d6.jpg",
+   "caption": "🎬 TENSEI GOBLIN DAKEDO SHITSUMON ARU? : L’ÉPISODE 3 EST SORTI\n\nL’épisode 3 de Tensei Goblin Dakedo Shitsumon Aru? a été diffusé au Japon lundi 12 octobre à 15h00 (heure de Paris). La série est produite par BAKKKA. (via AniList)\n\n📺 Épisode 3\n🎬 Studio : BAKKKA\n🏷️ Genres : Action, Aventure, Comédie\n▶️ Streaming : Crunchyroll (catalogue variable selon les pays)\n\n💬 Tu suis Tensei Goblin Dakedo Shitsumon Aru? ? Ton avis sur l’épisode 3 👇\n\n📌 Œuvre : Tensei Goblin Dakedo Shitsumon Aru?\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Tensei Goblin Dakedo Shitsumon Aru? et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
+   "mood": "hype",
+   "category": "ANIME",
+   "link": "https://anilist.co/anime/209219",
+   "key": [
+    "aru",
+    "dakedo",
+    "episode",
+    "est",
+    "goblin",
+    "shitsumon",
+    "sorti",
+    "tensei"
+   ],
+   "visual": "visuals/20261012-d0c8176728d6.jpg",
+   "sound": "Tensei Goblin Dakedo Shitsumon Aru? opening"
   }
  ]
 }
