@@ -103,3 +103,29 @@ media/            images et vidéos des 9 derniers jours (branche « media », s
 ```
 
 Polices : Anton, Inter et Noto Sans JP, sous licence SIL Open Font License (`assets/fonts/OFL-*.txt`).
+
+---
+
+## Mise à jour du 12/10/2026
+
+**Ce que fait le robot aujourd'hui**
+
+| Quoi | Quand | Détail |
+|---|---|---|
+| Post actu | dès qu'une actu sort, jusqu'à 30 par jour | image entière sur fond flouté, titre, description détaillée sans IA (date, studio, plateforme, éditeur…), 5 hashtags maximum |
+| Story | après chaque post | image entière, 9:16 |
+| Reel motion design | toutes les 2 actus | 12 s, 3 modèles (impact, kinetic, breaking), carte de fin animée |
+| Récap | dimanche 18 h | carrousel + reel |
+
+Sources : Adala News et Crunchyroll News FR. Journal du Japon a été retiré (il donnait « Œuvre : Mexique »).
+
+**Reels avec le vrai opening : page à ouvrir sur le téléphone** → https://kumacab.github.io/sokuho/reels/
+1. Télécharger la vidéo.
+2. Dans Instagram, « Ajouter un son » et chercher le nom indiqué (bouton Copier).
+3. Coller la légende (bouton Copier) et publier.
+
+Si ce n'est pas fait au bout de 3 h (`reels.manual_timeout_hours`), le robot le publie lui-même avec un de ses 12 jingles originaux (`assets/music/<ambiance>/`, composés par `tools/make_jingles.py`, donc sans droits à payer). Avant ça, il regarde les 40 derniers reels du compte : si la première ligne de la légende y est déjà, il ne publie pas en double. Pour tout passer en automatique : `"mode": "auto"`.
+
+**Contrôle qualité :** chaque texte des reels est vérifié avant le montage. S'il touche le bord de son calque (texte coupé), le reel est abandonné et l'actu part en post classique.
+
+**À faire de ton côté :** le secret `GH_PAT` (étape 6) avant début décembre, sinon le jeton Instagram expire vers le 9 décembre.
