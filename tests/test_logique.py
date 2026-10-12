@@ -21,7 +21,7 @@ m.in_quiet_hours = lambda cfg: False
 render.find_og_image = lambda url: "https://example.org/visuel.jpg"
 render.download_image = lambda url: fake_visual(len(url) % 4)
 os.environ.pop("DRY_RUN", None)
-for k in ("GITHUB_TOKEN", "GITHUB_MODELS_TOKEN"):
+for k in ("GEMINI_API_KEY",):
     os.environ.pop(k, None)
 
 cfg = common.load_config()

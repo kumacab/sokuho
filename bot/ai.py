@@ -1,8 +1,7 @@
-"""Rédaction des descriptions avec un modèle d'IA gratuit (GitHub Models), avec repli sans IA.
+"""Rédaction des descriptions avec l'API Gemini de Google (offre gratuite, clé dans le secret GEMINI_API_KEY).
 
-Dans GitHub Actions, le jeton GITHUB_TOKEN suffit (permission « models: read » dans le workflow).
-Offre gratuite : environ 150 requêtes par jour pour les petits modèles, largement assez pour 30 posts.
-Si l'appel échoue (quota, panne), le robot publie quand même avec une description sans IA.
+Tarifs et offre gratuite : https://ai.google.dev/gemini-api/docs/pricing
+Si l'IA ne répond pas, l'actu est retentée au passage suivant (pas de post sans description).
 """
 import html
 import json
@@ -12,7 +11,8 @@ import requests
 
 from .common import USER_AGENT, env
 
-ENDPOINT = "https://models.github.ai/inference/chat/completions"
+API = "https://generativelanguage.googleapis.com/v1beta"
+_model_cache = {}
 
 SYSTEM = """Tu es le rédacteur de SOKUHŌ, un compte Instagram français d'actualités anime, manga, manhua et webtoon.
 À partir d'un article (souvent en français, parfois en anglais), tu rédiges en FRANÇAIS, avec tes propres mots (jamais de copier-coller de phrases entières) :
@@ -49,33 +49,51 @@ def article_text(item, max_chars=5000):
     return text[:max_chars]
 
 
-def write(item, model=None, timeout=60):
-    """Renvoie un dict (is_news, headline, work, category, body, key_facts, question, hashtags) ou None."""
-    token = env("GITHUB_MODELS_TOKEN") or env("GITHUB_TOKEN")
-    if not token:
+def pick_model(key):
+    """Choisit un modèle Gemini « Flash-Lite » (ou « Flash ») disponible pour cette clé."""
+    if env("AI_MODEL"):
+        return env("AI_MODEL")
+    if "m" in _model_cache:
+        return _model_cache["m"]
+    r = requests.get(f"{API}/models", params={"key": key, "pageSize": 200}, timeout=20)
+    r.raise_for_status()
+    names = [m["name"].split("/", 1)[1] for m in r.json().get("models", [])
+             if "generateContent" in m.get("supportedGenerationMethods", [])]
+    stable = [n for n in names if "preview" not in n and "exp" not in n]
+    for want in ("flash-lite", "flash"):
+        cands = sorted([n for n in stable if want in n and "image" not in n and "tts" not in n
+                        and "live" not in n and "audio" not in n], reverse=True)
+        if cands:
+            _model_cache["m"] = cands[0]
+            return cands[0]
+    raise RuntimeError("aucun modèle Gemini Flash disponible pour cette clé")
+
+
+def write(item, timeout=60):
+    """Renvoie un dict (is_news, headline, work, category, body, key_facts, question, hashtags, mood) ou None."""
+    key = env("GEMINI_API_KEY")
+    if not key:
         return None
     text = article_text(item)
     user = f"Source : {item['source']}\nTitre : {item['title']}\nCatégories : {', '.join(item['tags'])}\n\nArticle :\n{text}"
-    payload = {
-        "model": model or env("AI_MODEL", "openai/gpt-4o-mini"),
-        "messages": [{"role": "system", "content": SYSTEM}, {"role": "user", "content": user}],
-        "temperature": 0.4,
-        "max_tokens": 900,
-        "response_format": {"type": "json_object"},
-    }
+    r = None
     try:
-        r = requests.post(ENDPOINT, json=payload, timeout=timeout,
-                          headers={"Authorization": f"Bearer {token}", "Content-Type": "application/json",
-                                   "Accept": "application/vnd.github+json", "X-GitHub-Api-Version": "2022-11-28"})
+        model = pick_model(key)
+        payload = {
+            "systemInstruction": {"parts": [{"text": SYSTEM}]},
+            "contents": [{"role": "user", "parts": [{"text": user}]}],
+            "generationConfig": {"temperature": 0.4, "maxOutputTokens": 1200, "responseMimeType": "application/json"},
+        }
+        r = requests.post(f"{API}/models/{model}:generateContent", params={"key": key}, json=payload, timeout=timeout)
         if r.status_code != 200:
             print(f"   IA indisponible ({r.status_code} : {r.text[:200]})", flush=True)
             return None
-        content = r.json()["choices"][0]["message"]["content"] or ""
-        m = re.search(r"\{.*\}", content, re.S)  # tolère un bloc ```json … ``` autour de la réponse
+        parts = r.json()["candidates"][0]["content"]["parts"]
+        content = "".join(p.get("text", "") for p in parts)
+        m = re.search(r"\{.*\}", content, re.S)
         data = json.loads(m.group(0) if m else content)
-    except (requests.RequestException, KeyError, IndexError, ValueError) as ex:
-        print(f"   IA indisponible ({type(ex).__name__}: {ex}) — réponse : {r.text[:200] if 'r' in dir() else ''}",
-              flush=True)
+    except (requests.RequestException, KeyError, IndexError, ValueError, RuntimeError) as ex:
+        print(f"   IA indisponible ({type(ex).__name__}: {ex}) {r.text[:200] if r is not None else ''}", flush=True)
         return None
     if data.get("category") not in ("ANIME", "MANGA", "MANHUA", "WEBTOON", "ACTU"):
         data["category"] = None

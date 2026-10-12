@@ -16,7 +16,6 @@ on:
 
 permissions:
   contents: write
-  models: read
   actions: write
   pages: write
   id-token: write
@@ -34,7 +33,7 @@ jobs:
     env:
       IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
       IG_USER_ID: ${{ secrets.IG_USER_ID }}
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       PUBLIC_BASE_URL: ${{ vars.PUBLIC_BASE_URL }}
       DRY_RUN: ${{ inputs.dry_run && '1' || '0' }}
       REPO_URL: https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git

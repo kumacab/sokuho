@@ -68,7 +68,7 @@ def make_entries(item, cfg, use_visual, state):
     if text is not None and text.get("is_news") is False:
         log("   pas une vraie actu (critique, dossier…) → ignorée")
         return []
-    if text is None and (env("GITHUB_TOKEN") or env("GITHUB_MODELS_TOKEN")):
+    if text is None and env("GEMINI_API_KEY"):
         # L'IA est prévue mais n'a pas répondu : on retente au prochain passage plutôt que publier sans description
         log("   description IA indisponible → nouvel essai au prochain passage")
         return None
