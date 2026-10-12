@@ -4,6 +4,12 @@ import math
 import random
 import re
 import subprocess
+
+try:  # ffmpeg fourni par pip (les serveurs GitHub ne l'ont pas toujours)
+    import imageio_ffmpeg
+    FFMPEG = imageio_ffmpeg.get_ffmpeg_exe()
+except Exception:
+    FFMPEG = "ffmpeg"
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
@@ -400,7 +406,7 @@ def make_reel(slides, out_path, seconds_per_slide=2.6, fps=30):
     W, H = STORY
     out_path.parent.mkdir(parents=True, exist_ok=True)
     frames_per = int(seconds_per_slide * fps)
-    cmd = ["ffmpeg", "-y", "-loglevel", "error",
+    cmd = [FFMPEG, "-y", "-loglevel", "error",
            "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}", "-r", str(fps), "-i", "-",
            "-f", "lavfi", "-i", "anullsrc=channel_layout=stereo:sample_rate=48000",
            "-shortest", "-c:v", "libx264", "-profile:v", "high", "-pix_fmt", "yuv420p",
@@ -525,7 +531,7 @@ def make_news_reel(item, category, headline, facts, brand, visual, out_path, mus
     end = render_end_card(brand, STORY)
 
     out_path.parent.mkdir(parents=True, exist_ok=True)
-    cmd = ["ffmpeg", "-y", "-loglevel", "error",
+    cmd = [FFMPEG, "-y", "-loglevel", "error",
            "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}", "-r", str(fps), "-i", "-"]
     if music:
         cmd += ["-stream_loop", "-1", "-i", str(music),

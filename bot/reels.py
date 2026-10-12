@@ -9,6 +9,12 @@ import random
 import re
 import subprocess
 
+try:  # ffmpeg fourni par pip (les serveurs GitHub ne l'ont pas toujours)
+    import imageio_ffmpeg
+    FFMPEG = imageio_ffmpeg.get_ffmpeg_exe()
+except Exception:
+    FFMPEG = "ffmpeg"
+
 from PIL import Image, ImageChops, ImageDraw, ImageFilter
 
 from .render import (BG, CAT_COLORS, INK, M, RED, STORY, YELLOW, contain, darken, draw_logo, font,
@@ -340,7 +346,7 @@ def make_reel(item, category, headline, facts, brand, visual, out_path, music=No
     t_end = seconds - 2.2
 
     out_path.parent.mkdir(parents=True, exist_ok=True)
-    cmd = ["ffmpeg", "-y", "-loglevel", "error",
+    cmd = [FFMPEG, "-y", "-loglevel", "error",
            "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}", "-r", str(FPS), "-i", "-"]
     if music:
         cmd += ["-stream_loop", "-1", "-i", str(music),

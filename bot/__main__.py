@@ -68,6 +68,10 @@ def make_entries(item, cfg, use_visual, state):
     if text is not None and text.get("is_news") is False:
         log("   pas une vraie actu (critique, dossier…) → ignorée")
         return []
+    if text is None and (env("GITHUB_TOKEN") or env("GITHUB_MODELS_TOKEN")):
+        # L'IA est prévue mais n'a pas répondu : on retente au prochain passage plutôt que publier sans description
+        log("   description IA indisponible → nouvel essai au prochain passage")
+        return None
     if text is None and item.get("lang", "fr") != "fr":
         log("   article en anglais sans IA disponible → ignoré")
         return []
@@ -158,6 +162,9 @@ def prepare_news(cfg, state):
             continue
         log(f"→ {item['title']} ({item['source']})")
         entries = make_entries(item, cfg, use_visual, state)
+        if entries is None:
+            state["seen"].pop(item["id"], None)
+            break  # l'IA ne répond pas : inutile d'insister sur les autres actus pendant ce passage
         if entries:
             state["queue"].extend(entries)
             budget -= 1

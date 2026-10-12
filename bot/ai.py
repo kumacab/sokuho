@@ -65,13 +65,17 @@ def write(item, model=None, timeout=60):
     }
     try:
         r = requests.post(ENDPOINT, json=payload, timeout=timeout,
-                          headers={"Authorization": f"Bearer {token}", "Content-Type": "application/json"})
+                          headers={"Authorization": f"Bearer {token}", "Content-Type": "application/json",
+                                   "Accept": "application/vnd.github+json", "X-GitHub-Api-Version": "2022-11-28"})
         if r.status_code != 200:
-            print(f"   IA indisponible ({r.status_code} : {r.text[:150]})", flush=True)
+            print(f"   IA indisponible ({r.status_code} : {r.text[:200]})", flush=True)
             return None
-        data = json.loads(r.json()["choices"][0]["message"]["content"])
-    except (requests.RequestException, KeyError, ValueError) as ex:
-        print(f"   IA indisponible ({ex})", flush=True)
+        content = r.json()["choices"][0]["message"]["content"] or ""
+        m = re.search(r"\{.*\}", content, re.S)  # tolère un bloc ```json … ``` autour de la réponse
+        data = json.loads(m.group(0) if m else content)
+    except (requests.RequestException, KeyError, IndexError, ValueError) as ex:
+        print(f"   IA indisponible ({type(ex).__name__}: {ex}) — réponse : {r.text[:200] if 'r' in dir() else ''}",
+              flush=True)
         return None
     if data.get("category") not in ("ANIME", "MANGA", "MANHUA", "WEBTOON", "ACTU"):
         data["category"] = None

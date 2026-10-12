@@ -17,6 +17,7 @@ on:
 permissions:
   contents: write
   models: read
+  actions: write
   pages: write
   id-token: write
 
@@ -27,7 +28,7 @@ concurrency:
 jobs:
   publier:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 45
     environment:
       name: github-pages
     env:
@@ -38,6 +39,7 @@ jobs:
       DRY_RUN: ${{ inputs.dry_run && '1' || '0' }}
       REPO_URL: https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
     steps:
+      - run: echo "START_TS=$(date +%s)" >> "$GITHUB_ENV"
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
@@ -95,3 +97,14 @@ jobs:
           git config user.email "sokuho-bot@users.noreply.github.com"
           git add data
           git diff --cached --quiet || (git commit -qm "État du robot" && git push -q)
+
+      # Les déclenchements programmés de GitHub sont irréguliers (parfois plusieurs heures d'écart).
+      # Le robot se relance donc lui-même environ toutes les 15 minutes ; le « cron » reste en secours.
+      - name: Programmer le prochain passage
+        if: always() && inputs.dry_run != true
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          elapsed=$(( $(date +%s) - START_TS ))
+          wait=$(( 900 - elapsed )); [ $wait -gt 0 ] && sleep $wait
+          gh workflow run publier.yml --repo "$GITHUB_REPOSITORY" --ref main

@@ -21,6 +21,8 @@ m.in_quiet_hours = lambda cfg: False
 render.find_og_image = lambda url: "https://example.org/visuel.jpg"
 render.download_image = lambda url: fake_visual(len(url) % 4)
 os.environ.pop("DRY_RUN", None)
+for k in ("GITHUB_TOKEN", "GITHUB_MODELS_TOKEN"):
+    os.environ.pop(k, None)
 
 cfg = common.load_config()
 cfg["max_age_hours"] = 10 ** 6  # les actus d'exemple datent de quelques jours
