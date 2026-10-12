@@ -117,7 +117,10 @@
   "0bb16c968cbb": 1791825005.752852,
   "d0c8176728d6": 1791825005.752936,
   "b833813722ee": 1791825922.626097,
-  "5e0532a2cec9": 1791825923.261379
+  "5e0532a2cec9": 1791825923.261379,
+  "3642d59fac91": 1791826832.945499,
+  "5381d3c8c57c": 1791826832.945672,
+  "1b7629716d0c": 1791826833.671162
  },
  "queue": [],
  "posted": [
@@ -841,10 +844,74 @@
    "media_id": "17912214543540507",
    "ts": 1791826003.694251,
    "card": null
+  },
+  {
+   "id": "5381d3c8c57c",
+   "type": "post",
+   "headline": "MAGICAL GIRL RAISING PROJECT restart : l’épisode 2 est sorti",
+   "key": [
+    "episode",
+    "est",
+    "girl",
+    "magical",
+    "project",
+    "raising",
+    "restart",
+    "sorti"
+   ],
+   "link": "https://anilist.co/anime/160803",
+   "visual": "visuals/20261012-5381d3c8c57c.jpg",
+   "work": "MAGICAL GIRL RAISING PROJECT restart",
+   "media_id": "18040933586834654",
+   "ts": 1791826872.469846,
+   "card": "posts/20261012-5381d3c8c57c.jpg"
+  },
+  {
+   "id": "5381d3c8c57c",
+   "type": "story",
+   "headline": "MAGICAL GIRL RAISING PROJECT restart : l’épisode 2 est sorti",
+   "key": null,
+   "link": "https://anilist.co/anime/160803",
+   "visual": null,
+   "work": "MAGICAL GIRL RAISING PROJECT restart",
+   "media_id": "18120537806101689",
+   "ts": 1791826881.308655,
+   "card": null
+  },
+  {
+   "id": "1b7629716d0c",
+   "type": "post",
+   "headline": "Renegade Immortal : l’épisode 162 est sorti",
+   "key": [
+    "162",
+    "episode",
+    "est",
+    "immortal",
+    "renegade",
+    "sorti"
+   ],
+   "link": "https://anilist.co/anime/137653",
+   "visual": "visuals/20261012-1b7629716d0c.jpg",
+   "work": "Renegade Immortal",
+   "media_id": "17881731180534087",
+   "ts": 1791826891.745678,
+   "card": "posts/20261012-1b7629716d0c.jpg"
+  },
+  {
+   "id": "1b7629716d0c",
+   "type": "story",
+   "headline": "Renegade Immortal : l’épisode 162 est sorti",
+   "key": null,
+   "link": "https://anilist.co/anime/137653",
+   "visual": null,
+   "work": "Renegade Immortal",
+   "media_id": "18374359573213389",
+   "ts": 1791826900.401066,
+   "card": null
   }
  ],
  "last_recap": null,
- "news_count": 18,
+ "news_count": 20,
  "manual_reels": [
   {
    "id": "ad77aedff405",
@@ -951,6 +1018,28 @@
    ],
    "visual": "visuals/20261012-5e0532a2cec9.jpg",
    "sound": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku opening"
+  },
+  {
+   "id": "1b7629716d0c",
+   "ts": 1791826847.507774,
+   "headline": "Renegade Immortal : l’épisode 162 est sorti",
+   "work": "Renegade Immortal",
+   "video": "reels/20261012-1b7629716d0c.mp4",
+   "cover": "posts/20261012-1b7629716d0c.jpg",
+   "caption": "🎬 RENEGADE IMMORTAL : L’ÉPISODE 162 EST SORTI\n\nL’épisode 162 de Renegade Immortal a été diffusé au Japon lundi 12 octobre à 04h00 (heure de Paris). La série est produite par Build Dream. Elle compte 180 épisodes au total : encore 18 à venir. (via AniList)\n\n📺 Épisode 162 sur 180\n🎬 Studio : Build Dream\n🏷️ Genres : Action, Aventure, Drame\n▶️ Streaming : Crunchyroll (catalogue variable selon les pays)\n\n💬 Tu suis Renegade Immortal ? Ton avis sur l’épisode 162 👇\n\n📌 Œuvre : Renegade Immortal\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Renegade Immortal et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#RenegadeImmortal #anime #animefr #japanime #manga",
+   "mood": "hype",
+   "category": "ANIME",
+   "link": "https://anilist.co/anime/137653",
+   "key": [
+    "162",
+    "episode",
+    "est",
+    "immortal",
+    "renegade",
+    "sorti"
+   ],
+   "visual": "visuals/20261012-1b7629716d0c.jpg",
+   "sound": "Renegade Immortal opening"
   }
  ]
 }
