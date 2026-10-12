@@ -15,7 +15,7 @@ from zoneinfo import ZoneInfo
 import requests
 from PIL import Image
 
-from . import ai, editorial, feeds, reels, render
+from . import ai, editorial, facts, feeds, reels, render
 from .common import (MEDIA_DIR, ROOT, env, load_config, load_state, now_utc, save_state,
                      similar, strip_accents, title_key)
 
@@ -75,6 +75,12 @@ def make_entries(item, cfg, use_visual, state):
     if text is None and item.get("lang", "fr") != "fr":
         log("   article en anglais sans IA disponible → ignoré")
         return []
+    if text is None:
+        text = facts.describe(item)  # description détaillée sans IA
+        if not text["is_news"]:
+            log("   pas une vraie actu (critique, interview, dossier…) → ignorée")
+            return []
+        item["work"] = text["work"]
     if text and text.get("work"):
         item["work"] = text["work"]
         if is_duplicate(item, state, cfg):

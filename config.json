@@ -66,11 +66,6 @@
         "jeu concours",
         "concours"
       ]
-    },
-    {
-      "name": "MyAnimeList",
-      "url": "https://myanimelist.net/rss/news.xml",
-      "lang": "en"
     }
   ],
   "reels": {
