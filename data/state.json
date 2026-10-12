@@ -134,37 +134,6 @@
  },
  "queue": [
   {
-   "id": "05ebbdc46beb",
-   "headline": "Robotics;Notes fête ses 14 ans",
-   "category": "ANIME",
-   "link": "https://anilist.co/anime/13599",
-   "work": "Robotics;Notes",
-   "key": null,
-   "ts": 1791831398.748985,
-   "type": "story",
-   "files": [
-    "stories/20261012-05ebbdc46beb.jpg"
-   ],
-   "errors": 2
-  },
-  {
-   "id": "ad77aedff405-reel",
-   "type": "reel",
-   "headline": "Tensei Kizoku, Kantei Skill de Nariagaru saison 3 : l’épisode 3 est sorti",
-   "work": "Tensei Kizoku, Kantei Skill de Nariagaru saison 3",
-   "category": "ANIME",
-   "link": "https://anilist.co/anime/185756",
-   "key": null,
-   "ts": 1791834135.367225,
-   "caption": "🎬 TENSEI KIZOKU, KANTEI SKILL DE NARIAGARU SAISON 3 : L’ÉPISODE 3 EST SORTI\n\nL’épisode 3 de Tensei Kizoku, Kantei Skill de Nariagaru saison 3 a été diffusé au Japon dimanche 11 octobre à 16h30 (heure de Paris). La série est produite par GeyeG Pictures. (via AniList)\n\n📺 Épisode 3\n🎬 Studio : GeyeG Pictures\n🏷️ Genres : Aventure, Fantasy\n▶️ Streaming : Crunchyroll (catalogue variable selon les pays)\n\n💬 Tu suis Tensei Kizoku, Kantei Skill de Nariagaru saison 3 ? Ton avis sur l’épisode 3 👇\n\n📌 Œuvre : Tensei Kizoku, Kantei Skill de Nariagaru saison 3\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Tensei Kizoku, Kantei Skill de Nariagaru saison 3 et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
-   "files": [
-    "reels/20261012-ad77aedff405_auto.mp4",
-    "posts/20261012-ad77aedff405.jpg"
-   ],
-   "visual": "visuals/20261012-ad77aedff405.jpg",
-   "errors": 2
-  },
-  {
    "id": "119fb6e0236e-reel",
    "type": "reel",
    "headline": "Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu : l’épisode 2 est sorti",
@@ -179,6 +148,23 @@
     "posts/20261012-119fb6e0236e.jpg"
    ],
    "visual": "visuals/20261012-119fb6e0236e.jpg",
+   "errors": 2
+  },
+  {
+   "id": "d0c8176728d6-reel",
+   "type": "reel",
+   "headline": "Tensei Goblin Dakedo Shitsumon Aru? : l’épisode 3 est sorti",
+   "work": "Tensei Goblin Dakedo Shitsumon Aru?",
+   "category": "ANIME",
+   "link": "https://anilist.co/anime/209219",
+   "key": null,
+   "ts": 1791835960.305709,
+   "caption": "🎬 TENSEI GOBLIN DAKEDO SHITSUMON ARU? : L’ÉPISODE 3 EST SORTI\n\nL’épisode 3 de Tensei Goblin Dakedo Shitsumon Aru? a été diffusé au Japon lundi 12 octobre à 15h00 (heure de Paris). La série est produite par BAKKKA. (via AniList)\n\n📺 Épisode 3\n🎬 Studio : BAKKKA\n🏷️ Genres : Action, Aventure, Comédie\n▶️ Streaming : Crunchyroll (catalogue variable selon les pays)\n\n💬 Tu suis Tensei Goblin Dakedo Shitsumon Aru? ? Ton avis sur l’épisode 3 👇\n\n📌 Œuvre : Tensei Goblin Dakedo Shitsumon Aru?\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Tensei Goblin Dakedo Shitsumon Aru? et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
+   "files": [
+    "reels/20261012-d0c8176728d6_auto.mp4",
+    "posts/20261012-d0c8176728d6.jpg"
+   ],
+   "visual": "visuals/20261012-d0c8176728d6.jpg",
    "errors": 1
   }
  ],
@@ -1157,30 +1143,6 @@
  "last_recap": null,
  "news_count": 28,
  "manual_reels": [
-  {
-   "id": "d0c8176728d6",
-   "ts": 1791825021.222248,
-   "headline": "Tensei Goblin Dakedo Shitsumon Aru? : l’épisode 3 est sorti",
-   "work": "Tensei Goblin Dakedo Shitsumon Aru?",
-   "video": "reels/20261012-d0c8176728d6.mp4",
-   "cover": "posts/20261012-d0c8176728d6.jpg",
-   "caption": "🎬 TENSEI GOBLIN DAKEDO SHITSUMON ARU? : L’ÉPISODE 3 EST SORTI\n\nL’épisode 3 de Tensei Goblin Dakedo Shitsumon Aru? a été diffusé au Japon lundi 12 octobre à 15h00 (heure de Paris). La série est produite par BAKKKA. (via AniList)\n\n📺 Épisode 3\n🎬 Studio : BAKKKA\n🏷️ Genres : Action, Aventure, Comédie\n▶️ Streaming : Crunchyroll (catalogue variable selon les pays)\n\n💬 Tu suis Tensei Goblin Dakedo Shitsumon Aru? ? Ton avis sur l’épisode 3 👇\n\n📌 Œuvre : Tensei Goblin Dakedo Shitsumon Aru?\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Tensei Goblin Dakedo Shitsumon Aru? et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
-   "mood": "hype",
-   "category": "ANIME",
-   "link": "https://anilist.co/anime/209219",
-   "key": [
-    "aru",
-    "dakedo",
-    "episode",
-    "est",
-    "goblin",
-    "shitsumon",
-    "sorti",
-    "tensei"
-   ],
-   "visual": "visuals/20261012-d0c8176728d6.jpg",
-   "sound": "Tensei Goblin Dakedo Shitsumon Aru? opening"
-  },
   {
    "id": "5e0532a2cec9",
    "ts": 1791825937.175433,
