@@ -66,7 +66,7 @@ def similar(a, b):
 
 
 def hashtag(text):
-    t = strip_accents(text)
+    t = re.sub(r"[’'](s\b)?", "", strip_accents(text))  # « Nue's » → « Nue »
     parts = re.findall(r"[A-Za-z0-9]+", t)
     tag = "".join(p[:1].upper() + p[1:] for p in parts)
     return tag[:30] if len(tag) >= 3 else ""
