@@ -9,29 +9,73 @@
   "require_visual": true,
   "stories": true,
   "reel_per_post": false,
-  "weekly_recap": {"enabled": true, "weekday": 7, "hour": 18, "reel": true},
+  "weekly_recap": {
+    "enabled": true,
+    "weekday": 7,
+    "hour": 18,
+    "reel": true
+  },
   "media_keep_days": 9,
-  "max_posts_per_run": 2,
-  "max_posts_per_day": 20,
+  "max_posts_per_run": 3,
+  "max_posts_per_day": 30,
   "max_age_hours": 12,
   "dedupe_hours": 24,
-  "quiet_hours": [1, 7],
+  "quiet_hours": [
+    1,
+    7
+  ],
   "timezone": "Europe/Paris",
-  "hashtags_base": ["anime", "manga", "animefr", "mangafr", "actuanime", "otaku"],
+  "hashtags_base": [
+    "anime",
+    "manga",
+    "animefr",
+    "mangafr",
+    "actuanime",
+    "otaku"
+  ],
   "sources": [
     {
       "name": "Adala News",
       "url": "https://adala-news.fr/feed/",
-      "include_categories": ["anime", "manga", "manhua", "webtoon", "manhwa"],
-      "exclude_categories": ["jeu video", "drama", "cinema"],
-      "exclude_title": ["critique", "review", "planning des animes"]
+      "lang": "fr",
+      "include_categories": [
+        "anime",
+        "manga",
+        "manhua",
+        "webtoon",
+        "manhwa"
+      ],
+      "exclude_categories": [
+        "jeu video",
+        "drama",
+        "cinema"
+      ],
+      "exclude_title": [
+        "critique",
+        "review",
+        "planning des animes"
+      ]
     },
     {
-      "name": "Journal du Japon",
-      "url": "https://www.journaldujapon.com/feed/",
-      "include_categories": ["manga", "japanime", "anime", "manhua", "webtoon"],
-      "exclude_categories": ["jeux vidéo", "critiques et découvertes"],
-      "exclude_title": ["critique"]
+      "name": "Crunchyroll News",
+      "url": "https://cr-news-api-service.prd.crunchyrollsvc.com/v1/fr-FR/rss",
+      "lang": "fr",
+      "exclude_title": [
+        "quiz",
+        "sondage",
+        "jeu concours",
+        "concours"
+      ]
+    },
+    {
+      "name": "MyAnimeList",
+      "url": "https://myanimelist.net/rss/news.xml",
+      "lang": "en"
     }
-  ]
+  ],
+  "reels": {
+    "every_n_news": 3,
+    "music_dir": "assets/music",
+    "seconds": 12
+  }
 }

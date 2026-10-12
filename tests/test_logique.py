@@ -31,7 +31,9 @@ fx = ROOT / "tests" / "fixtures"
 def fake_fetch(cfg, log=print):
     out = []
     for s in cfg["sources"]:
-        out += feeds.parse_feed((fx / (s["name"].lower().replace(" ", "_") + ".xml")).read_bytes(), s)
+        f = fx / (s["name"].lower().replace(" ", "_") + ".xml")
+        if f.exists():
+            out += feeds.parse_feed(f.read_bytes(), s)
     return out
 
 
@@ -40,7 +42,7 @@ m.feeds.fetch_all = fake_fetch
 # 1er passage : historique ignoré, une seule actu → 1 post + 1 story
 m.cmd_prepare(cfg)
 st = common.load_state()
-assert [q["type"] for q in st["queue"]] == ["post", "story"], st["queue"]
+assert [q["type"] for q in st["queue"]] in (["post", "story"], ["reel", "story"]), st["queue"]
 
 # On « oublie » l'historique pour fabriquer toutes les actus d'exemple
 st["seen"] = {"x": common.now_utc().timestamp()}
@@ -48,7 +50,8 @@ common.save_state(st)
 m.cmd_prepare(cfg)
 st = common.load_state()
 types = [q["type"] for q in st["queue"]]
-assert types.count("post") >= 4 and types.count("story") == types.count("post"), types
+feed_n = types.count("post") + types.count("reel")
+assert feed_n >= 4 and types.count("story") == feed_n and types.count("reel") >= 1, types
 assert all((m.MEDIA_DIR / f).exists() for q in st["queue"] for f in q["files"])
 assert not any("Brigandine" in q["headline"] for q in st["queue"]), "le jeu vidéo aurait dû être filtré"
 
@@ -88,5 +91,5 @@ assert kinds == ["carousel", "reel"], kinds
 car = st["queue"][0]
 assert 4 <= len(car["files"]) <= 10 and "1️⃣" in car["caption"]
 assert (m.MEDIA_DIR / st["queue"][1]["files"][0]).stat().st_size > 10000
-print(f"OK — {types.count('post')} posts, {types.count('story')} stories, récap de {len(car['files'])} images + reel")
+print(f"OK — {types.count('post')} posts, {types.count('reel')} reels, {types.count('story')} stories, récap de {len(car['files'])} images + reel")
 print("Médias produits dans", m.MEDIA_DIR)

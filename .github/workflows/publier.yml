@@ -16,6 +16,7 @@ on:
 
 permissions:
   contents: write
+  models: read
   pages: write
   id-token: write
 
@@ -32,6 +33,7 @@ jobs:
     env:
       IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
       IG_USER_ID: ${{ secrets.IG_USER_ID }}
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       PUBLIC_BASE_URL: ${{ vars.PUBLIC_BASE_URL }}
       DRY_RUN: ${{ inputs.dry_run && '1' || '0' }}
       REPO_URL: https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git

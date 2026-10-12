@@ -15,9 +15,9 @@ from zoneinfo import ZoneInfo
 import requests
 from PIL import Image
 
-from . import editorial, feeds, render
+from . import ai, editorial, feeds, reels, render
 from .common import (MEDIA_DIR, ROOT, env, load_config, load_state, now_utc, save_state,
-                     similar, title_key)
+                     similar, strip_accents, title_key)
 
 FEED_TYPES = ("post", "carousel", "reel")  # ce qui compte dans le plafond quotidien du fil
 
@@ -45,7 +45,11 @@ def is_duplicate(item, state, cfg):
     key = title_key(item["title"])
     cutoff = now_utc().timestamp() - cfg["dedupe_hours"] * 3600
     recent = [p for p in state["posted"] + state["queue"] if p.get("ts", 0) >= cutoff and p.get("key")]
-    return any(similar(key, p["key"]) for p in recent)
+    if any(similar(key, p["key"]) for p in recent):
+        return True
+    # Même œuvre déjà traitée récemment (utile entre un site anglais et un site français)
+    work = strip_accents((item.get("work") or "").lower()).strip()
+    return len(work) >= 6 and any(strip_accents((p.get("work") or "").lower()).strip() == work for p in recent)
 
 
 def media_name(kind, ident, ext="jpg"):
@@ -58,39 +62,70 @@ def rel(path):
 
 # ---------------------------------------------------------------- préparation
 
-def make_entries(item, cfg, use_visual):
-    """Fabrique le post (et sa story) d'une actu. Renvoie [] si l'actu doit être ignorée."""
-    category = editorial.classify(item)
-    headline = editorial.rewrite_title(item["title"])
+def make_entries(item, cfg, use_visual, state):
+    """Fabrique le post (ou le reel) et la story d'une actu. Renvoie [] si l'actu doit être ignorée."""
+    text = ai.write(item)
+    if text is not None and text.get("is_news") is False:
+        log("   pas une vraie actu (critique, dossier…) → ignorée")
+        return []
+    if text is None and item.get("lang", "fr") != "fr":
+        log("   article en anglais sans IA disponible → ignoré")
+        return []
+    if text and text.get("work"):
+        item["work"] = text["work"]
+        if is_duplicate(item, state, cfg):
+            log(f"   même œuvre déjà publiée récemment ({item['work']}) → ignorée")
+            return []
+    category = (text or {}).get("category") or editorial.classify(item)
+    headline = (text or {}).get("headline") or editorial.rewrite_title(item["title"])
+
     visual = None
     if use_visual:
-        try:
-            url = render.find_og_image(item["link"])
-            visual = render.download_image(url) if url else None
-        except Exception as ex:
-            log(f"   visuel indisponible ({ex})")
+        for get_url in (lambda: render.find_og_image(item["link"]), lambda: item.get("image")):
+            try:
+                url = get_url()
+                visual = render.download_image(url) if url else None
+            except Exception as ex:
+                log(f"   visuel indisponible ({ex})")
+            if visual is not None:
+                break
     if visual is None and cfg.get("require_visual") and use_visual:
         log("   pas de vrai visuel → actu ignorée")
         return []
+
     brand, tz = cfg["brand"], cfg["timezone"]
     card = render.save_jpeg(render.render_post(item, category, headline, brand, visual, tz),
                             MEDIA_DIR / media_name("posts", item["id"]))
     vis_path = None
-    if visual is not None:  # petite copie du visuel, pour la couverture du récap
+    if visual is not None:  # copie du visuel, pour la couverture du récap
         vis_path = render.save_jpeg(render.cover(visual, (1080, 1350)), MEDIA_DIR / media_name("visuals", item["id"]), 80)
-    caption = editorial.build_caption(item, category, headline, brand, cfg["hashtags_base"], visual is not None)
+    caption = editorial.build_caption(item, category, headline, brand, cfg["hashtags_base"], visual is not None, text)
     base = {"id": item["id"], "headline": headline, "category": category, "link": item["link"],
-            "key": title_key(item["title"]), "ts": now_utc().timestamp()}
-    entries = [dict(base, type="post", files=[rel(card)], caption=caption, alt=f"{category} — {headline}",
-                    visual=rel(vis_path) if vis_path else None)]
+            "work": item.get("work", ""),
+            "key": title_key(item["title"] + " " + item.get("work", "")), "ts": now_utc().timestamp()}
+
+    rc = cfg.get("reels", {})
+    state["news_count"] = state.get("news_count", 0) + 1
+    as_reel = rc.get("every_n_news", 0) and state["news_count"] % rc["every_n_news"] == 0
+    entries = []
+    if as_reel:
+        try:
+            music = render.pick_music(rc.get("music_dir", "assets/music"), (text or {}).get("mood"), item["id"])
+            video, template = reels.make_reel(item, category, headline, (text or {}).get("key_facts"), brand, visual,
+                                              MEDIA_DIR / media_name("reels", item["id"], "mp4"), music,
+                                              rc.get("seconds", 12))
+            log(f"   reel « {template} » monté" + (f" avec {music.name}" if music else " (sans musique : dossier vide)"))
+            entries.append(dict(base, type="reel", files=[rel(video), rel(card)], caption=caption,
+                                visual=rel(vis_path) if vis_path else None, card=rel(card)))
+        except Exception as ex:
+            log(f"   reel impossible ({ex}) → post classique")
+    if not entries:
+        entries.append(dict(base, type="post", files=[rel(card)], caption=caption, alt=f"{category} — {headline}",
+                            visual=rel(vis_path) if vis_path else None))
     if cfg.get("stories", True):
         story = render.save_jpeg(render.render_story(item, category, headline, brand, visual, tz),
                                  MEDIA_DIR / media_name("stories", item["id"]))
         entries.append(dict(base, type="story", files=[rel(story)], key=None))
-    if cfg.get("reel_per_post", False):
-        cover_img = Image.open(card)
-        video = render.make_reel([cover_img], MEDIA_DIR / media_name("reels", item["id"], "mp4"), 6)
-        entries.append(dict(base, type="reel", files=[rel(video), rel(card)], caption=caption, key=None))
     return entries
 
 
@@ -122,7 +157,7 @@ def prepare_news(cfg, state):
             log(f"   doublon ignoré : {item['title']}")
             continue
         log(f"→ {item['title']} ({item['source']})")
-        entries = make_entries(item, cfg, use_visual)
+        entries = make_entries(item, cfg, use_visual, state)
         if entries:
             state["queue"].extend(entries)
             budget -= 1
@@ -142,7 +177,7 @@ def recap_due(cfg, state):
 def prepare_recap(cfg, state, week, force=False):
     now = paris_now(cfg)
     cutoff = now_utc().timestamp() - 7 * 86400
-    done = [p for p in state["posted"] if p.get("type") == "post" and p.get("ts", 0) >= cutoff
+    done = [p for p in state["posted"] if p.get("type") in ("post", "reel") and p.get("ts", 0) >= cutoff
             and p.get("card") and (MEDIA_DIR / p["card"]).exists()]
     if not done:
         log("Récap : aucune actu publiée ces 7 derniers jours.")
@@ -272,9 +307,9 @@ def cmd_publish(cfg):
         try:
             media_id = publish_one(ig, entry)
             log(f"✅ [{entry['type']}] {entry['headline']} (id {media_id})")
-            done = {k: entry.get(k) for k in ("id", "type", "headline", "key", "link", "visual")}
+            done = {k: entry.get(k) for k in ("id", "type", "headline", "key", "link", "visual", "work")}
             done.update(media_id=media_id, ts=now_utc().timestamp(),
-                        card=entry["files"][0] if entry["type"] == "post" else None)
+                        card=entry["files"][0] if entry["type"] == "post" else entry.get("card"))
             state["posted"].append(done)
         except TimeoutError as ex:
             log(f"⏳ {ex} — nouvel essai au prochain passage")

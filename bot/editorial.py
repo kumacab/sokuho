@@ -72,18 +72,39 @@ def _tags(item, category, base_tags, limit=12):
     return tags[:limit]
 
 
-def build_caption(item, category, headline, brand, base_tags, used_visual):
+def build_caption(item, category, headline, brand, base_tags, used_visual, ai=None):
+    """Légende détaillée. Avec l'IA : explication complète de l'actu ; sans : résumé du flux."""
     cat = CATEGORIES[category]
     qs = QUESTIONS[category]
-    question = qs[int(item["id"], 16) % len(qs)] if all(c in "0123456789abcdef" for c in item["id"]) else qs[0]
-    lines = [f"{cat['emoji']} {headline}", "", question, ""]
-    if item.get("work"):
-        lines.append(f"📌 Œuvre : {item['work']}")
+    question = (ai or {}).get("question") or (
+        qs[int(item["id"], 16) % len(qs)] if all(c in "0123456789abcdef" for c in item["id"]) else qs[0])
+    lines = [f"{cat['emoji']} {headline.upper()}", ""]
+    if ai and ai.get("body"):
+        lines += [ai["body"].strip(), ""]
+        facts = [f.strip() for f in ai.get("key_facts") or [] if f and f.strip()]
+        if facts:
+            lines += facts + [""]
+    else:
+        summary = re.sub(r"\s*(L’article|L'article).*$", "", item.get("summary", "")).strip()
+        summary = re.sub(r"(\.\.\.|…|&#8230;)$", "", summary).strip()
+        if summary:
+            if len(summary) > 400:
+                summary = summary[:400].rsplit(" ", 1)[0] + "…"
+            lines += [summary, ""]
+    lines += [f"💬 {question}", ""]
+    work = (ai or {}).get("work") or ""
+    if work:
+        lines.append(f"📌 Œuvre : {work}")
     lines.append(f"📰 Source : {item['source']}")
     if used_visual:
         lines.append("🖼️ Visuel officiel © ses ayants droit")
-    lines += ["", f"🔔 Active les notifs de {brand['handle']} pour avoir les annonces en premier", "",
-              " ".join("#" + t for t in _tags(item, category, base_tags))]
+    lines += ["", f"🔔 Abonne-toi à {brand['handle']} et active les notifs pour avoir les annonces en premier", ""]
+    tags = []
+    for t in [hashtag(work)] + list((ai or {}).get("hashtags") or []) + cat["tags"] + base_tags:
+        t = re.sub(r"[^\w]", "", str(t).lstrip("#"))
+        if t and len(t) >= 3 and t.lower() not in [x.lower() for x in tags]:
+            tags.append(t)
+    lines.append(" ".join("#" + t for t in tags[:15]))
     return "\n".join(lines)[:2150]
 
 

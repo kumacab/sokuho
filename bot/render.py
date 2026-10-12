@@ -91,6 +91,13 @@ def cover(img, size, focus_y=.3):
     return img.crop((left, top, left + w, top + h))
 
 
+def contain(img, box):
+    """Redimensionne l'image pour qu'elle tienne ENTIÈREMENT dans la boîte (aucune partie coupée)."""
+    bw, bh = box
+    s = min(bw / img.width, bh / img.height)
+    return img.resize((max(1, int(img.width * s)), max(1, int(img.height * s))), Image.LANCZOS)
+
+
 def story_backdrop(visual, size=STORY):
     """Fond 9:16 : le visuel flouté et assombri, l'image nette posée au centre."""
     bg = cover(visual, size).filter(ImageFilter.GaussianBlur(40))
@@ -249,10 +256,7 @@ def render_card(item, category, headline, brand, visual=None, tz="Europe/Paris",
     W, H = size
     color = CAT_COLORS.get(category, INK)
     if visual is not None:
-        if story:
-            img = story_backdrop(visual)
-        else:
-            img = cover(visual, size)
+        img = story_backdrop(visual, size)  # fond flouté, l'image nette est posée par-dessus plus bas
     else:
         img = generated_backdrop(item["id"], color, size)
 
@@ -262,17 +266,31 @@ def render_card(item, category, headline, brand, visual=None, tz="Europe/Paris",
 
     d = ImageDraw.Draw(img)
     words = headline_words(headline, item.get("work", ""))
-    f, fsize, lines = fit_headline(d, words, W - 2 * M - 24, 4, range(104 if story else 118, 58, -4))
+    f, fsize, lines = fit_headline(d, words, W - 2 * M - 24, 4 if story else 3, range(104 if story else 96, 54, -4))
     block_h = len(lines) * int(fsize * 1.18)
     head_y = footer_y - 36 - block_h
     tag_y = head_y - 24 - 62
     if story and visual is not None:
         # Image nette encadrée entre le logo et le texte
-        inner = cover(visual, (W - 2 * M, max(420, tag_y - 50 - 310)), focus_y=.25)
-        img.paste(inner, (M, 310))
-        ImageDraw.Draw(img).rectangle([M, 310, W - M, 310 + inner.height], outline=color, width=6)
+        box_h = max(420, tag_y - 50 - 310)
+        inner = contain(visual, (W - 2 * M, box_h))
+        x, y = (W - inner.width) // 2, 310 + (box_h - inner.height) // 2
+        img.paste(inner, (x, y))
+        ImageDraw.Draw(img).rectangle([x, y, x + inner.width - 1, y + inner.height - 1], outline=color, width=6)
 
-    grad_start = tag_y - (40 if story else 380)
+    if not story and visual is not None:
+        # Image ENTIÈRE (aucun recadrage) : elle tient dans la zone entre le logo et le titre
+        box_top, box_bottom = 140, tag_y - 28
+        inner = contain(visual, (W - 2 * M, box_bottom - box_top))
+        x = (W - inner.width) // 2
+        y = box_top + (box_bottom - box_top - inner.height) // 2
+        shadow = Image.new("L", size, 0)
+        ImageDraw.Draw(shadow).rectangle([x + 6, y + 14, x + inner.width + 6, y + inner.height + 14], fill=170)
+        img.paste(Image.new("RGB", size, (0, 0, 0)), (0, 0), shadow.filter(ImageFilter.GaussianBlur(18)))
+        img.paste(inner, (x, y))
+        ImageDraw.Draw(img).rectangle([x, y, x + inner.width - 1, y + inner.height - 1], outline=color, width=5)
+
+    grad_start = tag_y - 40
     img = darken(img, vertical_gradient(size, grad_start, footer_y - 40, 242))
     img = darken(img, _veil_mask(size, 260 if not story else 420))
     img = draw_logo(img, brand, M, 48 if not story else 200)
@@ -408,3 +426,179 @@ def save_jpeg(img, path, quality=88):
     path.parent.mkdir(parents=True, exist_ok=True)
     img.convert("RGB").save(path, "JPEG", quality=quality, optimize=True, progressive=False)
     return path
+
+
+# ---------- Reel d'actu (montage automatique 9:16) ----------
+
+def _rgba_text_layer(size):
+    return Image.new("RGBA", size, (0, 0, 0, 0))
+
+
+def _wrap_plain(draw, text, fnt, max_w):
+    words, lines, cur = text.split(), [], ""
+    for w in words:
+        t = (cur + " " + w).strip()
+        if draw.textlength(t, font=fnt) <= max_w or not cur:
+            cur = t
+        else:
+            lines.append(cur)
+            cur = w
+    if cur:
+        lines.append(cur)
+    return lines
+
+
+def pick_music(music_dir, mood, seed):
+    """Morceau libre de droits du dossier music/<ambiance>/ (ou music/ en repli). None s'il n'y en a pas."""
+    from pathlib import Path
+    root = Path(music_dir)
+    if not root.is_absolute():
+        root = FONTS.parent.parent / root
+    for folder in ([root / mood] if mood else []) + [root]:
+        tracks = sorted(p for p in folder.glob("*") if p.suffix.lower() in (".mp3", ".m4a", ".wav", ".ogg", ".aac"))
+        if tracks:
+            return tracks[int(hashlib_hex(seed), 16) % len(tracks)]
+    return None
+
+
+def hashlib_hex(s):
+    import hashlib
+    return hashlib.sha1(str(s).encode()).hexdigest()[:8]
+
+
+def make_news_reel(item, category, headline, facts, brand, visual, out_path, music=None, seconds=12, fps=30,
+                   tz="Europe/Paris"):
+    """Reel vertical : visuel animé + titre qui apparaît ligne par ligne + infos clés + carte de fin."""
+    W, H = STORY
+    color = CAT_COLORS.get(category, INK)
+    total = int(seconds * fps)
+    t_facts = int(total * .48) if facts else total
+    t_end = total - int(2.2 * fps)
+
+    base = story_backdrop(visual) if visual is not None else generated_backdrop(item["id"], color, STORY)
+    base = darken(base, vertical_gradient(STORY, 900, 1500, 235))
+    base = draw_logo(base, brand, M, 150)
+    d0 = ImageDraw.Draw(base)
+    when = datetime.fromtimestamp(item["published"], ZoneInfo(tz)).strftime("%d/%m · %Hh%M")
+    sf = font("Inter.ttf", 32, "SemiBold")
+    sb = d0.textbbox((0, 0), when, font=sf)
+    d0.text((W - M - (sb[2] - sb[0]), 168), when, font=sf, fill=INK)
+
+    box = (W - 2 * M, 640)
+    vis = contain(visual, box) if visual is not None else None
+
+    # Titre : un calque par nombre de lignes affichées
+    probe = ImageDraw.Draw(_rgba_text_layer((10, 10)))
+    words = headline_words(headline, item.get("work", ""))
+    f, fsize, lines = fit_headline(probe, words, W - 2 * M - 24, 4, range(100, 56, -4))
+    line_h = int(fsize * 1.18)
+    head_y = 1010
+    head_layers = []
+    for k in range(len(lines) + 1):
+        lay = _rgba_text_layer(STORY)
+        ld = ImageDraw.Draw(lay)
+        tw = draw_tag(ld, category, M, head_y - 90, color)
+        if k:
+            draw_headline_rgba(lay, lines[:k], f, fsize, M, head_y, YELLOW)
+        head_layers.append(lay)
+
+    # Infos clés : un calque par nombre d'infos affichées
+    # Les polices n'ont pas d'emojis : on les retire des infos affichées dans la vidéo
+    facts = [re.sub(r"[^\w\s:;,.!?'’/()&+%«»\-]", "", x).strip() for x in (facts or []) if x][:4]
+    facts = [x for x in facts if x]
+    ff = font("Inter.ttf", 44, "Bold")
+    fact_layers = []
+    for k in range(len(facts) + 1):
+        lay = _rgba_text_layer(STORY)
+        ld = ImageDraw.Draw(lay)
+        draw_tag(ld, "À RETENIR", M, 1000, YELLOW)
+        y = 1100
+        for fact in facts[:k]:
+            for i, ln in enumerate(_wrap_plain(ld, fact, ff, W - 2 * M - 60)):
+                if i == 0:
+                    ld.rounded_rectangle([M, y - 8, M + 12, y + 52], radius=4, fill=color)
+                ld.text((M + 36, y), ln, font=ff, fill=INK)
+                y += 60
+            y += 26
+        fact_layers.append(lay)
+
+    end = render_end_card(brand, STORY)
+
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    cmd = ["ffmpeg", "-y", "-loglevel", "error",
+           "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}", "-r", str(fps), "-i", "-"]
+    if music:
+        cmd += ["-stream_loop", "-1", "-i", str(music),
+                "-af", f"afade=t=in:st=0:d=0.6,afade=t=out:st={seconds - 1.2}:d=1.2,volume=0.85"]
+    else:
+        cmd += ["-f", "lavfi", "-i", "anullsrc=channel_layout=stereo:sample_rate=48000"]
+    cmd += ["-map", "0:v", "-map", "1:a", "-t", str(seconds), "-c:v", "libx264", "-profile:v", "high",
+            "-pix_fmt", "yuv420p", "-preset", "veryfast", "-crf", "21", "-g", str(fps), "-keyint_min", str(fps),
+            "-sc_threshold", "0", "-c:a", "aac", "-b:a", "128k", "-ar", "48000", "-ac", "2",
+            "-movflags", "+faststart", str(out_path)]
+    proc = subprocess.Popen(cmd, stdin=subprocess.PIPE)
+    for i in range(total):
+        if i >= t_end:
+            a = min(1, (i - t_end) / (0.35 * fps))
+            frame = Image.blend(prev, end, a) if a < 1 else end
+            proc.stdin.write(frame.tobytes())
+            continue
+        frame = base.copy()
+        if vis is not None:
+            z = 1 + .07 * i / total
+            v = vis.resize((int(vis.width * z), int(vis.height * z)), Image.BILINEAR)
+            x, y = (W - v.width) // 2, 300 + (box[1] - v.height) // 2
+            frame.paste(v, (x, y))
+            ImageDraw.Draw(frame).rectangle([x, y, x + v.width - 1, y + v.height - 1], outline=color, width=6)
+        if i < t_facts:
+            k = min(len(lines), 1 + int((i - 0.4 * fps) / (0.45 * fps))) if i >= 0.4 * fps else 0
+            layer = head_layers[max(0, k)]
+            if i < 0.4 * fps:
+                layer = head_layers[0]
+        else:
+            k = min(len(facts), 1 + int((i - t_facts) / (0.7 * fps)))
+            layer = fact_layers[k]
+        frame = Image.alpha_composite(frame.convert("RGBA"), layer).convert("RGB")
+        prev = frame
+        proc.stdin.write(frame.tobytes())
+    proc.stdin.close()
+    if proc.wait() != 0:
+        raise RuntimeError("ffmpeg a échoué")
+    return out_path
+
+
+def draw_headline_rgba(layer, lines, f, size, x0, y0, band_color):
+    """Version du titre pour un calque transparent (bandeau jaune sur le nom de l'œuvre)."""
+    d = ImageDraw.Draw(layer)
+    line_h = int(size * 1.18)
+    space = d.textlength(" ", font=f)
+    cap = d.textbbox((0, 0), "H", font=f)
+    y = y0
+    for line in lines:
+        x, runs, run = x0, [], None
+        for wd, hl in line:
+            w = d.textlength(wd, font=f)
+            core_w = d.textlength(wd.split(" ")[0], font=f)
+            if hl:
+                run = [run[0], x + core_w] if run else [x, x + core_w]
+                if core_w < w:
+                    runs.append(run)
+                    run = None
+            elif run:
+                runs.append(run)
+                run = None
+            x += w + space
+        if run:
+            runs.append(run)
+        for a, b in runs:
+            d.rectangle([a - 14, y + cap[1] - 12, b + 14, y + cap[3] + 12], fill=band_color + (255,))
+        x = x0
+        for wd, hl in line:
+            core, _, tail = wd.partition(" ")
+            if not hl:
+                d.text((x + 3, y + 5), core, font=f, fill=(0, 0, 0, 180))
+            d.text((x, y), core, font=f, fill=(on_color(band_color) if hl else INK) + (255,))
+            if tail:
+                d.text((x + d.textlength(core + " ", font=f), y), tail, font=f, fill=INK + (255,))
+            x += d.textlength(wd, font=f) + space
+        y += line_h

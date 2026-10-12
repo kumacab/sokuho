@@ -49,6 +49,20 @@ def parse_feed(raw_bytes, source):
         ts = e.get("published_parsed") or e.get("updated_parsed")
         published = datetime.fromtimestamp(timegm(ts), timezone.utc) if ts else datetime.now(timezone.utc)
         summary = re.sub(r"<[^>]+>", " ", html.unescape(e.get("summary", "")))
+        content = (e.get("content") or [{}])[0].get("value", "")
+        image = ""
+        for key in ("media_content", "media_thumbnail"):
+            for m in e.get(key, []) or []:
+                if m.get("url"):
+                    image = m["url"]
+                    break
+            if image:
+                break
+        if not image:
+            for enc in e.get("enclosures", []) or []:
+                if enc.get("type", "").startswith("image") and enc.get("href"):
+                    image = enc["href"]
+                    break
         items.append({
             "id": hashlib.sha1(link.encode()).hexdigest()[:12],
             "title": title,
@@ -57,7 +71,10 @@ def parse_feed(raw_bytes, source):
             "tags": tags,
             "work": _work_name(title, tags),
             "summary": re.sub(r"\s+", " ", summary).strip(),
+            "content": content,
+            "image": image,
             "source": source["name"],
+            "lang": source.get("lang", "fr"),
         })
     return [i for i in items if keep(i, source)]
 
