@@ -96,9 +96,129 @@
   "f1a2a3d3e081": 1791817594.660577,
   "127c55827e90": 1791817595.069217,
   "9d42b93fe859": 1791817596.839055,
-  "40fd963fd1c0": 1791817597.938462
+  "40fd963fd1c0": 1791817597.938462,
+  "8a7ee3efec41": 1791819099.189873,
+  "31752556622d": 1791819100.504142,
+  "d3e423236843": 1791819101.495523
  },
- "queue": [],
+ "queue": [
+  {
+   "id": "8a7ee3efec41",
+   "headline": "Dragon Ball Super: Beerus partage ses génériques sans crédits",
+   "category": "ACTU",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/12/dragon-ball-super-beerus-video-opening-ending-sans-credits",
+   "work": "",
+   "key": [
+    "ball",
+    "beerus",
+    "credits",
+    "dragon",
+    "generiques",
+    "partage",
+    "sans",
+    "super"
+   ],
+   "ts": 1791819100.315222,
+   "type": "post",
+   "files": [
+    "posts/20261012-8a7ee3efec41.jpg"
+   ],
+   "caption": "📰 DRAGON BALL SUPER: BEERUS PARTAGE SES GÉNÉRIQUES SANS CRÉDITS\n\nLe nouvel anime Dragon Ball Super: Beerus a mis en ligne les versions sans crédits de ses deux génériques. La vidéo de l'opening comprend la chanson ONOGAMI interprétée par MEGATERA・ZERO, tandis que la vidéo de l'ending comprend la chanson Kan Peki no Peki interprétée par VK Blanka. (via Crunchyroll News)\n\n📅 Date : automne 2026\n📺 Diffusion : Crunchyroll\n📖 Tomes : 42\n\n💬 Ça te surprend ? 👀\n\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote qui doit savoir ça et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#otaku #japon #anime #manga #animefr",
+   "alt": "ACTU — Dragon Ball Super: Beerus partage ses génériques sans crédits",
+   "visual": "visuals/20261012-8a7ee3efec41.jpg"
+  },
+  {
+   "id": "8a7ee3efec41",
+   "headline": "Dragon Ball Super: Beerus partage ses génériques sans crédits",
+   "category": "ACTU",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/12/dragon-ball-super-beerus-video-opening-ending-sans-credits",
+   "work": "",
+   "key": null,
+   "ts": 1791819100.315222,
+   "type": "story",
+   "files": [
+    "stories/20261012-8a7ee3efec41.jpg"
+   ]
+  },
+  {
+   "id": "31752556622d",
+   "headline": "Les Carnets de l'apothicaire : The Late Lady's Treasure - De nouvelles voix dans le 2e Trailer de personnages",
+   "category": "ACTU",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/12/les-carnets-de-l-apothicaire-the-late-lady-s-treasure-film-trailer-personnages-clan-bi",
+   "work": "",
+   "key": [
+    "2e",
+    "apothicaire",
+    "carnets",
+    "dans",
+    "lady",
+    "late",
+    "nouvelles",
+    "personnages",
+    "treasure",
+    "voix"
+   ],
+   "ts": 1791819101.302082,
+   "type": "post",
+   "files": [
+    "posts/20261012-31752556622d.jpg"
+   ],
+   "caption": "📰 LES CARNETS DE L'APOTHICAIRE : THE LATE LADY'S TREASURE - DE NOUVELLES VOIX DANS LE 2E TRAILER DE PERSONNAGES\n\nLe prochain film anime Les Carnets de l'apothicaire : The Late Lady’s Treasure a dévoilé une nouvelle bande-annonce consacrée aux personnages, présentant les nouveaux talents qui prêtent leur voix aux membres du clan Bi, régnant sur Binan-shu, la province du sud. (via Crunchyroll News)\n\n📅 Date : octobre 2011\n🎬 Studio : TOHO Animation STUDIO. Synopsis\n📺 Diffusion : Crunchyroll\n📚 Éditeur : Ki-oon\n🔁 Saison 3\n\n💬 Ça te surprend ? 👀\n\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote qui doit savoir ça et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#otaku #japon #anime #manga #animefr",
+   "alt": "ACTU — Les Carnets de l'apothicaire : The Late Lady's Treasure - De nouvelles voix dans le 2e Trailer de personnages",
+   "visual": "visuals/20261012-31752556622d.jpg"
+  },
+  {
+   "id": "31752556622d",
+   "headline": "Les Carnets de l'apothicaire : The Late Lady's Treasure - De nouvelles voix dans le 2e Trailer de personnages",
+   "category": "ACTU",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/12/les-carnets-de-l-apothicaire-the-late-lady-s-treasure-film-trailer-personnages-clan-bi",
+   "work": "",
+   "key": null,
+   "ts": 1791819101.302082,
+   "type": "story",
+   "files": [
+    "stories/20261012-31752556622d.jpg"
+   ]
+  },
+  {
+   "id": "d3e423236843",
+   "headline": "Nue's Exorcist : Un anime pour l'été 2027, l'équipe de production dévoilée",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/12/nues-exorcist-annonce-adaptation-ete-2027-trailer-visuel-staff-casting",
+   "work": "",
+   "key": [
+    "2027",
+    "devoilee",
+    "equipe",
+    "ete",
+    "exorcist",
+    "nue",
+    "production"
+   ],
+   "ts": 1791819102.266481,
+   "type": "reel",
+   "files": [
+    "reels/20261012-d3e423236843.mp4",
+    "posts/20261012-d3e423236843.jpg"
+   ],
+   "caption": "🎬 NUE'S EXORCIST : UN ANIME POUR L'ÉTÉ 2027, L'ÉQUIPE DE PRODUCTION DÉVOILÉE\n\nL'éditeur Shueisha a révélé aujourd'hui, lors de sa conférence Jump Press , qu'une adaptation animée du manga Nue's Exorcist de Kota Kawae était en cours de développement et devrait être diffusée à l' été 2027 . Une bande-annonce a également été dévoilée, accompagnée d'une image teaser et de cinq visuels de personnages. (via Crunchyroll News)\n\n📅 Date : été 2027\n🎬 Studio : Hibari\n📺 Diffusion : Crunchyroll\n\n💬 Tu vas le regarder ? 👀\n\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote qui doit savoir ça et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
+   "visual": "visuals/20261012-d3e423236843.jpg",
+   "card": "posts/20261012-d3e423236843.jpg"
+  },
+  {
+   "id": "d3e423236843",
+   "headline": "Nue's Exorcist : Un anime pour l'été 2027, l'équipe de production dévoilée",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/12/nues-exorcist-annonce-adaptation-ete-2027-trailer-visuel-staff-casting",
+   "work": "",
+   "key": null,
+   "ts": 1791819102.266481,
+   "type": "story",
+   "files": [
+    "stories/20261012-d3e423236843.jpg"
+   ]
+  }
+ ],
  "posted": [
   {
    "id": "5a95cf269da6",
@@ -416,5 +536,5 @@
   }
  ],
  "last_recap": null,
- "news_count": 3
+ "news_count": 6
 }
