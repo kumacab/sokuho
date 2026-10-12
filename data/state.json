@@ -128,9 +128,46 @@
   "d64a42eec5bd": 1791828661.947966,
   "1ff33acf81fe": 1791829575.164681,
   "2664b080b990": 1791829575.586424,
-  "ffcb38aa9b63": 1791829576.221594
+  "ffcb38aa9b63": 1791829576.221594,
+  "806ac8119fe4": 1791830486.843474
  },
- "queue": [],
+ "queue": [
+  {
+   "id": "806ac8119fe4",
+   "headline": "ReLIFE fête ses 13 ans",
+   "category": "MANGA",
+   "link": "https://anilist.co/manga/85849",
+   "work": "ReLIFE",
+   "key": [
+    "13",
+    "ans",
+    "fete",
+    "relife"
+   ],
+   "ts": 1791830487.187106,
+   "type": "post",
+   "files": [
+    "posts/20261012-806ac8119fe4.jpg"
+   ],
+   "caption": "📚 RELIFE FÊTE SES 13 ANS\n\nIl y a 13 ans jour pour jour, le 12 octobre 2013, le manga ReLIFE commençait sa publication. (via AniList)\n\n🎂 Sortie le 12 octobre 2013\n📖 238 chapitres\n🏷️ Genres : Comédie, Drame, Psychologique\n\n💬 Tu l’as découvert quand, ReLIFE ? 👇\n\n📌 Œuvre : ReLIFE\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de ReLIFE et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#ReLIFE #manga #mangafr #mangaka #anime",
+   "alt": "MANGA — ReLIFE fête ses 13 ans",
+   "visual": "visuals/20261012-806ac8119fe4.jpg",
+   "errors": 1
+  },
+  {
+   "id": "806ac8119fe4",
+   "headline": "ReLIFE fête ses 13 ans",
+   "category": "MANGA",
+   "link": "https://anilist.co/manga/85849",
+   "work": "ReLIFE",
+   "key": null,
+   "ts": 1791830487.187106,
+   "type": "story",
+   "files": [
+    "stories/20261012-806ac8119fe4.jpg"
+   ]
+  }
+ ],
  "posted": [
   {
    "id": "5a95cf269da6",
@@ -1104,7 +1141,7 @@
   }
  ],
  "last_recap": null,
- "news_count": 26,
+ "news_count": 27,
  "manual_reels": [
   {
    "id": "ad77aedff405",
