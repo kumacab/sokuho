@@ -130,27 +130,11 @@
   "2664b080b990": 1791829575.586424,
   "ffcb38aa9b63": 1791829576.221594,
   "806ac8119fe4": 1791830486.843474,
-  "05ebbdc46beb": 1791831398.426187
+  "05ebbdc46beb": 1791831398.426187,
+  "4da4e0eba4b3": 1791843268.55581,
+  "8f2785220fa1": 1791843268.943884
  },
- "queue": [
-  {
-   "id": "05ebbdc46beb-reel",
-   "type": "reel",
-   "headline": "Robotics;Notes fête ses 14 ans",
-   "work": "Robotics;Notes",
-   "category": "ANIME",
-   "link": "https://anilist.co/anime/13599",
-   "key": null,
-   "ts": 1791842359.743682,
-   "caption": "🎬 ROBOTICS;NOTES FÊTE SES 14 ANS\n\nIl y a 14 ans jour pour jour, le 12 octobre 2012, l’anime Robotics;Notes était diffusé pour la première fois au Japon. L’animation est signée Production I.G. (via AniList)\n\n🎂 Sortie le 12 octobre 2012\n📺 22 épisodes\n🎬 Studio : Production I.G\n🏷️ Genres : Drame, Mecha, Science-fiction\n\n💬 Tu l’as découvert quand, Robotics;Notes ? 👇\n\n📌 Œuvre : Robotics;Notes\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Robotics;Notes et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#RoboticsNotes #anime #animefr #japanime #manga",
-   "files": [
-    "reels/20261012-05ebbdc46beb_auto.mp4",
-    "posts/20261012-05ebbdc46beb.jpg"
-   ],
-   "visual": "visuals/20261012-05ebbdc46beb.jpg",
-   "errors": 1
-  }
- ],
+ "queue": [],
  "posted": [
   {
    "id": "5a95cf269da6",
@@ -1121,9 +1105,103 @@
    "media_id": "18122283857514403",
    "ts": 1791829655.617859,
    "card": null
+  },
+  {
+   "id": "05ebbdc46beb-reel",
+   "type": "reel",
+   "headline": "Robotics;Notes fête ses 14 ans",
+   "key": null,
+   "link": "https://anilist.co/anime/13599",
+   "visual": "visuals/20261012-05ebbdc46beb.jpg",
+   "work": "Robotics;Notes",
+   "media_id": "18116977094089813",
+   "ts": 1791843372.592547,
+   "card": null
+  },
+  {
+   "id": "4da4e0eba4b3",
+   "type": "post",
+   "headline": "Sword Art Online fête ses 7 ans",
+   "key": [
+    "ans",
+    "art",
+    "fete",
+    "online",
+    "sword"
+   ],
+   "link": "https://anilist.co/anime/108759",
+   "visual": "visuals/20261012-4da4e0eba4b3.jpg",
+   "work": "Sword Art Online",
+   "media_id": "18119580032066165",
+   "ts": 1791843385.096027,
+   "card": "posts/20261012-4da4e0eba4b3.jpg"
+  },
+  {
+   "id": "4da4e0eba4b3",
+   "type": "story",
+   "headline": "Sword Art Online fête ses 7 ans",
+   "key": null,
+   "link": "https://anilist.co/anime/108759",
+   "visual": null,
+   "work": "Sword Art Online",
+   "media_id": "18116275115520892",
+   "ts": 1791843395.466996,
+   "card": null
+  },
+  {
+   "id": "8f2785220fa1",
+   "type": "post",
+   "headline": "INUYASHIKI LAST HERO fête ses 9 ans",
+   "key": [
+    "ans",
+    "fete",
+    "hero",
+    "inuyashiki",
+    "last"
+   ],
+   "link": "https://anilist.co/anime/97922",
+   "visual": "visuals/20261012-8f2785220fa1.jpg",
+   "work": "INUYASHIKI LAST HERO",
+   "media_id": "18191207392404831",
+   "ts": 1791843406.239556,
+   "card": "posts/20261012-8f2785220fa1.jpg"
+  },
+  {
+   "id": "8f2785220fa1",
+   "type": "story",
+   "headline": "INUYASHIKI LAST HERO fête ses 9 ans",
+   "key": null,
+   "link": "https://anilist.co/anime/97922",
+   "visual": null,
+   "work": "INUYASHIKI LAST HERO",
+   "media_id": "18140936080617186",
+   "ts": 1791843416.143983,
+   "card": null
   }
  ],
  "last_recap": null,
- "news_count": 28,
- "manual_reels": []
+ "news_count": 30,
+ "manual_reels": [
+  {
+   "id": "8f2785220fa1",
+   "ts": 1791843280.370959,
+   "headline": "INUYASHIKI LAST HERO fête ses 9 ans",
+   "work": "INUYASHIKI LAST HERO",
+   "video": "reels/20261012-8f2785220fa1.mp4",
+   "cover": "posts/20261012-8f2785220fa1.jpg",
+   "caption": "🎬 INUYASHIKI LAST HERO FÊTE SES 9 ANS\n\nIl y a 9 ans jour pour jour, le 13 octobre 2017, l’anime INUYASHIKI LAST HERO était diffusé pour la première fois au Japon. L’animation est signée MAPPA. (via AniList)\n\n🎂 Sortie le 13 octobre 2017\n📺 11 épisodes\n🎬 Studio : MAPPA\n🏷️ Genres : Action, Drame, Psychologique\n\n💬 Tu l’as découvert quand, INUYASHIKI LAST HERO ? 👇\n\n📌 Œuvre : INUYASHIKI LAST HERO\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan d’INUYASHIKI LAST HERO et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#INUYASHIKILASTHERO #anime #animefr #japanime #manga",
+   "mood": "hype",
+   "category": "ANIME",
+   "link": "https://anilist.co/anime/97922",
+   "key": [
+    "ans",
+    "fete",
+    "hero",
+    "inuyashiki",
+    "last"
+   ],
+   "visual": "visuals/20261012-8f2785220fa1.jpg",
+   "sound": "INUYASHIKI LAST HERO opening"
+  }
+ ]
 }
