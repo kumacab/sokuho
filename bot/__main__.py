@@ -7,6 +7,7 @@
   python -m bot check          vérifie le jeton et affiche le compte connecté
 """
 import json
+import math
 import sys
 import time
 from datetime import datetime, timedelta
@@ -41,6 +42,30 @@ def feed_posts_last_24h(state):
     return sum(1 for p in state["posted"] if p.get("ts", 0) >= cutoff and p.get("type", "post") in FEED_TYPES)
 
 
+def day_window(cfg):
+    """Journée de publication : de la fin des heures calmes (7 h) au début suivant (1 h du matin)."""
+    start_h, end_h = cfg.get("quiet_hours") or [1, 7]
+    now = paris_now(cfg)
+    start = now.replace(hour=end_h, minute=0, second=0, microsecond=0)
+    if start > now:
+        start -= timedelta(days=1)
+    length = ((start_h - end_h) % 24 or 24) * 3600
+    return start.timestamp(), length
+
+
+def posts_today(cfg, state):
+    start, _ = day_window(cfg)
+    return (sum(1 for p in state["posted"] if p.get("ts", 0) >= start and p.get("type") == "post")
+            + sum(1 for q in state["queue"] if q["type"] == "post"))
+
+
+def target_so_far(cfg):
+    """Nombre de posts qu'on devrait avoir atteint à cette heure pour finir la journée pile sur l'objectif."""
+    start, length = day_window(cfg)
+    frac = min(1.0, max(0.0, (now_utc().timestamp() - start) / length))
+    return math.ceil(cfg["posts_per_day"] * frac)
+
+
 def is_duplicate(item, state, cfg):
     key = title_key(item["title"])
     cutoff = now_utc().timestamp() - cfg["dedupe_hours"] * 3600
@@ -62,9 +87,11 @@ def rel(path):
 
 # ---------------------------------------------------------------- préparation
 
-def make_entries(item, cfg, use_visual, state):
-    """Fabrique le post (ou le reel) et la story d'une actu. Renvoie [] si l'actu doit être ignorée."""
-    text = ai.write(item)
+def make_entries(item, cfg, use_visual, state, text=None):
+    """Fabrique le post (ou le reel) et la story d'une actu. Renvoie [] si l'actu doit être ignorée.
+    `text` : description déjà rédigée (contenus AniList), sinon IA ou bot/facts.py."""
+    if text is None:
+        text = ai.write(item)
     if text is not None and text.get("is_news") is False:
         log("   pas une vraie actu (critique, dossier…) → ignorée")
         return []
@@ -89,10 +116,15 @@ def make_entries(item, cfg, use_visual, state):
     category = (text or {}).get("category") or editorial.classify(item)
     rewritten = editorial.rewrite_title(item["title"])
     headline = rewritten if rewritten != item["title"].strip().rstrip(".!") else ((text or {}).get("headline") or rewritten)
+    if item.get("kind"):  # contenus AniList : titre déjà rédigé
+        headline = text["headline"]
 
     visual = None
     if use_visual:
-        for get_url in (lambda: render.find_og_image(item["link"]), lambda: item.get("image")):
+        getters = [lambda: render.find_og_image(item["link"]), lambda: item.get("image")]
+        if item.get("image_first"):
+            getters.reverse()
+        for get_url in getters:
             try:
                 url = get_url()
                 visual = render.download_image(url) if url else None
@@ -166,8 +198,8 @@ def prepare_news(cfg, state):
         fresh = fresh[-1:]
         log("Premier lancement : historique ignoré, seule l'actu la plus récente sera publiée.")
 
-    queued_feed = sum(1 for q in state["queue"] if q["type"] in FEED_TYPES)
-    budget = min(cfg["max_posts_per_run"], cfg["max_posts_per_day"] - feed_posts_last_24h(state)) - queued_feed
+    queued = sum(1 for q in state["queue"] if q["type"] == "post")
+    budget = min(cfg["max_posts_per_run"] - queued, cfg["posts_per_day"] - posts_today(cfg, state))
     use_visual = cfg.get("use_official_visuals", True) and env("USE_OFFICIAL_VISUALS", "1") != "0"
     max_age = now_utc().timestamp() - cfg["max_age_hours"] * 3600
     for item in fresh:
@@ -187,6 +219,47 @@ def prepare_news(cfg, state):
         if entries:
             state["queue"].extend(entries)
             budget -= 1
+    fill_day(cfg, state, use_visual)
+
+
+def fill_day(cfg, state, use_visual):
+    """Objectif « N posts par jour » : si les sites d'actu sont calmes, on complète avec les épisodes
+    sortis au Japon puis les anniversaires d'œuvres (AniList), répartis régulièrement sur la journée."""
+    fc = cfg.get("fillers", {})
+    if not fc.get("enabled", True):
+        return
+    missing = min(target_so_far(cfg) - posts_today(cfg, state), fc.get("max_per_run", 2))
+    if missing <= 0:
+        return
+    from . import anilist
+    pool = []
+    try:
+        pool += anilist.episodes(fc.get("episode_hours", 30), fc.get("episode_min_popularity", 2000), cfg["timezone"])
+    except Exception as ex:
+        log(f"[AniList] épisodes indisponibles ({ex})")
+    try:
+        pool += anilist.anniversaries(paris_now(cfg), fc.get("anniversary_min_popularity", 40000))
+    except Exception as ex:
+        log(f"[AniList] anniversaires indisponibles ({ex})")
+    log(f"Objectif du jour : {posts_today(cfg, state)}/{cfg['posts_per_day']} posts, "
+        f"il en faut {missing} de plus maintenant ({len(pool)} compléments possibles)")
+    for item, text in pool:
+        if missing <= 0:
+            break
+        if item["id"] in state["seen"]:
+            continue
+        state["seen"][item["id"]] = now_utc().timestamp()
+        if is_duplicate(dict(item, work=text["work"]), state, cfg):
+            continue
+        log(f"→ [complément] {text['headline']}")
+        try:
+            entries = make_entries(item, cfg, use_visual, state, text)
+        except Exception as ex:
+            log(f"   complément impossible ({ex})")
+            continue
+        if entries:
+            state["queue"].extend(entries)
+            missing -= 1
 
 
 def recap_due(cfg, state):

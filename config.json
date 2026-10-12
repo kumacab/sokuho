@@ -17,7 +17,7 @@
   },
   "media_keep_days": 9,
   "max_posts_per_run": 3,
-  "max_posts_per_day": 30,
+  "posts_per_day": 30,
   "max_age_hours": 12,
   "dedupe_hours": 24,
   "quiet_hours": [
@@ -64,6 +64,20 @@
         "jeu concours",
         "concours"
       ]
+    },
+    {
+      "name": "Animotaku",
+      "url": "https://animotaku.fr/feed/",
+      "lang": "fr",
+      "include_categories": [
+        "actualite"
+      ],
+      "exclude_title": [
+        "critique",
+        "avis",
+        "test",
+        "top "
+      ]
     }
   ],
   "reels": {
@@ -72,5 +86,12 @@
     "seconds": 12,
     "mode": "manual",
     "manual_timeout_hours": 3
+  },
+  "fillers": {
+    "enabled": true,
+    "max_per_run": 2,
+    "episode_hours": 30,
+    "episode_min_popularity": 2000,
+    "anniversary_min_popularity": 40000
   }
 }

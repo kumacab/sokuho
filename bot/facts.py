@@ -44,7 +44,7 @@ def sentences(text):
 def lead(text, max_chars=380):
     out = ""
     for s in sentences(text):
-        if re.search(r"(cookie|abonnez|newsletter|cliquez|publicit|l’article .* est apparu)", s, re.I):
+        if re.search(r"(cookie|abonnez|newsletter|cliquez|publicit|l’article .* est apparu|droits réservés|©|propriété de leurs|éditeurs respectifs)", s, re.I):
             continue
         if len(out) + len(s) > max_chars:
             break
@@ -87,7 +87,9 @@ def extract_facts(text, category=None, now_year=None):
         facts.append(f"🎬 Studio : {studio}")
     director = find(r"(?:[Rr]éalis(?:é|ée|ation) (?:par|de)|sous la direction de|[Rr]éalisateur[^:]{0,20}:)\s*"
                     r"([A-Z][\w'’-]+(?: [A-Z][\w'’-]+){1,2})", text, flags=0)
-    if director:
+    director = re.sub(r"\s+(Scénari\w*|Character|Chara\w*|Musique|Studio|Design\w*|Composit\w*|Production)$", "",
+                      director).strip()
+    if director and " " in director:
         facts.append(f"🎥 Réalisation : {director}")
     plats = [p for p in PLATFORMS if re.search(rf"(?<![\w]){re.escape(p)}(?![\w])", text)]
     if plats:

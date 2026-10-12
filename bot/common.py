@@ -69,7 +69,7 @@ def hashtag(text):
     t = re.sub(r"[’'](s\b)?", "", strip_accents(text))  # « Nue's » → « Nue »
     parts = re.findall(r"[A-Za-z0-9]+", t)
     tag = "".join(p[:1].upper() + p[1:] for p in parts)
-    return tag[:30] if len(tag) >= 3 else ""
+    return tag if 3 <= len(tag) <= 28 else ""  # un hashtag tronqué ne sert à rien : on l'abandonne
 
 
 def env(name, default=None):

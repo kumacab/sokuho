@@ -27,6 +27,7 @@ for k in ("GEMINI_API_KEY",):
 cfg = common.load_config()
 cfg["max_age_hours"] = 10 ** 6  # les actus d'exemple datent de quelques jours
 cfg["max_posts_per_run"] = 10
+cfg["fillers"]["enabled"] = False  # testé à part (réseau)
 fx = ROOT / "tests" / "fixtures"
 
 

@@ -100,7 +100,7 @@ def build_caption(item, category, headline, brand, base_tags, used_visual, ai=No
     lines.append(f"📰 Source : {item['source']}")
     if used_visual:
         lines.append("🖼️ Visuel officiel © ses ayants droit")
-    fan = re.sub(r"\bde (Les|les) ", "des ", re.sub(r"\bde (Le|le) ", "du ", f"un pote fan de {work}")) \
+    fan = re.sub(r"\bde (Les|les) ", "des ", re.sub(r"\bde (Le|le) ", "du ", ("un pote fan d’" + work if re.match(r"[AEIOUYÉÈÊaeiouyéèê]", work) else f"un pote fan de {work}"))) \
         if work else "un pote qui doit savoir ça"
     lines += ["", f"📤 Partage à {fan} et enregistre le post",
               f"🔔 Abonne-toi à {brand['handle']} pour avoir les annonces en premier", ""]
