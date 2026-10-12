@@ -134,23 +134,6 @@
  },
  "queue": [
   {
-   "id": "1b7629716d0c-reel",
-   "type": "reel",
-   "headline": "Renegade Immortal : l’épisode 162 est sorti",
-   "work": "Renegade Immortal",
-   "category": "ANIME",
-   "link": "https://anilist.co/anime/137653",
-   "key": null,
-   "ts": 1791837791.606757,
-   "caption": "🎬 RENEGADE IMMORTAL : L’ÉPISODE 162 EST SORTI\n\nL’épisode 162 de Renegade Immortal a été diffusé au Japon lundi 12 octobre à 04h00 (heure de Paris). La série est produite par Build Dream. Elle compte 180 épisodes au total : encore 18 à venir. (via AniList)\n\n📺 Épisode 162 sur 180\n🎬 Studio : Build Dream\n🏷️ Genres : Action, Aventure, Drame\n▶️ Streaming : Crunchyroll (catalogue variable selon les pays)\n\n💬 Tu suis Renegade Immortal ? Ton avis sur l’épisode 162 👇\n\n📌 Œuvre : Renegade Immortal\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Renegade Immortal et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#RenegadeImmortal #anime #animefr #japanime #manga",
-   "files": [
-    "reels/20261012-1b7629716d0c_auto.mp4",
-    "posts/20261012-1b7629716d0c.jpg"
-   ],
-   "visual": "visuals/20261012-1b7629716d0c.jpg",
-   "errors": 2
-  },
-  {
    "id": "e07e8f43e09e-reel",
    "type": "reel",
    "headline": "Uncle's Obsession with Cute Things : l’épisode 2 est sorti",
@@ -165,6 +148,23 @@
     "posts/20261012-e07e8f43e09e.jpg"
    ],
    "visual": "visuals/20261012-e07e8f43e09e.jpg",
+   "errors": 2
+  },
+  {
+   "id": "d64a42eec5bd-reel",
+   "type": "reel",
+   "headline": "My Hero Academia saison 4 fête ses 7 ans",
+   "work": "My Hero Academia saison 4",
+   "category": "ANIME",
+   "link": "https://anilist.co/anime/104276",
+   "key": null,
+   "ts": 1791839615.426972,
+   "caption": "🎬 MY HERO ACADEMIA SAISON 4 FÊTE SES 7 ANS\n\nIl y a 7 ans jour pour jour, le 12 octobre 2019, l’anime My Hero Academia saison 4 était diffusé pour la première fois au Japon. L’animation est signée bones. (via AniList)\n\n🎂 Sortie le 12 octobre 2019\n📺 25 épisodes\n🎬 Studio : bones\n🏷️ Genres : Action, Aventure, Comédie\n\n💬 Tu l’as découvert quand, My Hero Academia saison 4 ? 👇\n\n📌 Œuvre : My Hero Academia saison 4\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de My Hero Academia saison 4 et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#MyHeroAcademiaSaison4 #anime #animefr #japanime #manga",
+   "files": [
+    "reels/20261012-d64a42eec5bd_auto.mp4",
+    "posts/20261012-d64a42eec5bd.jpg"
+   ],
+   "visual": "visuals/20261012-d64a42eec5bd.jpg",
    "errors": 1
   }
  ],
@@ -1143,27 +1143,6 @@
  "last_recap": null,
  "news_count": 28,
  "manual_reels": [
-  {
-   "id": "d64a42eec5bd",
-   "ts": 1791828674.359097,
-   "headline": "My Hero Academia saison 4 fête ses 7 ans",
-   "work": "My Hero Academia saison 4",
-   "video": "reels/20261012-d64a42eec5bd.mp4",
-   "cover": "posts/20261012-d64a42eec5bd.jpg",
-   "caption": "🎬 MY HERO ACADEMIA SAISON 4 FÊTE SES 7 ANS\n\nIl y a 7 ans jour pour jour, le 12 octobre 2019, l’anime My Hero Academia saison 4 était diffusé pour la première fois au Japon. L’animation est signée bones. (via AniList)\n\n🎂 Sortie le 12 octobre 2019\n📺 25 épisodes\n🎬 Studio : bones\n🏷️ Genres : Action, Aventure, Comédie\n\n💬 Tu l’as découvert quand, My Hero Academia saison 4 ? 👇\n\n📌 Œuvre : My Hero Academia saison 4\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de My Hero Academia saison 4 et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#MyHeroAcademiaSaison4 #anime #animefr #japanime #manga",
-   "mood": "hype",
-   "category": "ANIME",
-   "link": "https://anilist.co/anime/104276",
-   "key": [
-    "academia",
-    "ans",
-    "fete",
-    "hero",
-    "my"
-   ],
-   "visual": "visuals/20261012-d64a42eec5bd.jpg",
-   "sound": "My Hero Academia saison 4 opening"
-  },
   {
    "id": "ffcb38aa9b63",
    "ts": 1791829598.521637,
