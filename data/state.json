@@ -151,7 +151,7 @@
    "files": [
     "stories/20261012-b7909294ac7b.jpg"
    ],
-   "errors": 1
+   "errors": 2
   },
   {
    "id": "b97fc9721141",
@@ -165,7 +165,7 @@
    "files": [
     "stories/20261012-b97fc9721141.jpg"
    ],
-   "errors": 1
+   "errors": 2
   },
   {
    "id": "e9d1b49160a9",
@@ -178,7 +178,8 @@
    "type": "story",
    "files": [
     "stories/20261012-e9d1b49160a9.jpg"
-   ]
+   ],
+   "errors": 1
   },
   {
    "id": "1a576619cf57",
@@ -191,7 +192,8 @@
    "type": "story",
    "files": [
     "stories/20261012-1a576619cf57.jpg"
-   ]
+   ],
+   "errors": 1
   }
  ],
  "posted": [
