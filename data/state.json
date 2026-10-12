@@ -99,7 +99,9 @@
   "40fd963fd1c0": 1791817597.938462,
   "8a7ee3efec41": 1791819307.602206,
   "31752556622d": 1791819308.748569,
-  "d3e423236843": 1791819309.735686
+  "d3e423236843": 1791819309.735686,
+  "feaaace01f31": 1791820444.058511,
+  "6e2e538e69e3": 1791820445.36761
  },
  "queue": [],
  "posted": [
@@ -516,8 +518,40 @@
    "media_id": "17908465113592524",
    "ts": 1791819639.632889,
    "card": null
+  },
+  {
+   "id": "feaaace01f31",
+   "type": "post",
+   "headline": "Les Noces des lucioles : TOOBOE partage le clip musical de l'ending",
+   "key": [
+    "clip",
+    "ending",
+    "lucioles",
+    "musical",
+    "noces",
+    "partage",
+    "tooboe"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/12/les-noces-des-lucioles-clip-video-ending-tooboe",
+   "visual": "visuals/20261012-feaaace01f31.jpg",
+   "work": "Les Noces des lucioles",
+   "media_id": "18135989905637592",
+   "ts": 1791820467.213416,
+   "card": "posts/20261012-feaaace01f31.jpg"
+  },
+  {
+   "id": "feaaace01f31",
+   "type": "story",
+   "headline": "Les Noces des lucioles : TOOBOE partage le clip musical de l'ending",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/12/les-noces-des-lucioles-clip-video-ending-tooboe",
+   "visual": null,
+   "work": "Les Noces des lucioles",
+   "media_id": "17874484518594923",
+   "ts": 1791820476.485002,
+   "card": null
   }
  ],
  "last_recap": null,
- "news_count": 9
+ "news_count": 10
 }
