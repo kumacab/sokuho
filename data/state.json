@@ -134,23 +134,6 @@
  },
  "queue": [
   {
-   "id": "5e0532a2cec9-reel",
-   "type": "reel",
-   "headline": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku : l’épisode 1 est sorti",
-   "work": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
-   "category": "ANIME",
-   "link": "https://anilist.co/anime/205896",
-   "key": null,
-   "ts": 1791836875.775141,
-   "caption": "🎬 SHINJA ZERO NO MEGAMI-SAMA TO HAJIMERU ISEKAI KOURYAKU : L’ÉPISODE 1 EST SORTI\n\nL’épisode 1 de Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku a été diffusé au Japon dimanche 11 octobre à 16h30 (heure de Paris). La série est produite par HORNETS. (via AniList)\n\n📺 Épisode 1\n🎬 Studio : HORNETS\n🏷️ Genres : Aventure, Fantasy\n▶️ Streaming : Crunchyroll (catalogue variable selon les pays)\n\n💬 Tu suis Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku ? Ton avis sur l’épisode 1 👇\n\n📌 Œuvre : Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
-   "files": [
-    "reels/20261012-5e0532a2cec9_auto.mp4",
-    "posts/20261012-5e0532a2cec9.jpg"
-   ],
-   "visual": "visuals/20261012-5e0532a2cec9.jpg",
-   "errors": 2
-  },
-  {
    "id": "1b7629716d0c-reel",
    "type": "reel",
    "headline": "Renegade Immortal : l’épisode 162 est sorti",
@@ -165,6 +148,23 @@
     "posts/20261012-1b7629716d0c.jpg"
    ],
    "visual": "visuals/20261012-1b7629716d0c.jpg",
+   "errors": 2
+  },
+  {
+   "id": "e07e8f43e09e-reel",
+   "type": "reel",
+   "headline": "Uncle's Obsession with Cute Things : l’épisode 2 est sorti",
+   "work": "Uncle's Obsession with Cute Things",
+   "category": "ANIME",
+   "link": "https://anilist.co/anime/202079",
+   "key": null,
+   "ts": 1791838702.447653,
+   "caption": "🎬 UNCLE'S OBSESSION WITH CUTE THINGS : L’ÉPISODE 2 EST SORTI\n\nL’épisode 2 d’Uncle's Obsession with Cute Things a été diffusé au Japon dimanche 11 octobre à 15h00 (heure de Paris). La série est produite par LIDENFILMS. Elle compte 12 épisodes au total : encore 10 à venir. (via AniList)\n\n📺 Épisode 2 sur 12\n🎬 Studio : LIDENFILMS\n🏷️ Genres : Comédie, Tranche de vie\n▶️ Streaming : Crunchyroll (catalogue variable selon les pays)\n\n💬 Tu suis Uncle's Obsession with Cute Things ? Ton avis sur l’épisode 2 👇\n\n📌 Œuvre : Uncle's Obsession with Cute Things\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan d’Uncle's Obsession with Cute Things et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#UncleObsessionWithCuteThings #anime #animefr #japanime #manga",
+   "files": [
+    "reels/20261012-e07e8f43e09e_auto.mp4",
+    "posts/20261012-e07e8f43e09e.jpg"
+   ],
+   "visual": "visuals/20261012-e07e8f43e09e.jpg",
    "errors": 1
   }
  ],
@@ -1143,30 +1143,6 @@
  "last_recap": null,
  "news_count": 28,
  "manual_reels": [
-  {
-   "id": "e07e8f43e09e",
-   "ts": 1791827766.041561,
-   "headline": "Uncle's Obsession with Cute Things : l’épisode 2 est sorti",
-   "work": "Uncle's Obsession with Cute Things",
-   "video": "reels/20261012-e07e8f43e09e.mp4",
-   "cover": "posts/20261012-e07e8f43e09e.jpg",
-   "caption": "🎬 UNCLE'S OBSESSION WITH CUTE THINGS : L’ÉPISODE 2 EST SORTI\n\nL’épisode 2 d’Uncle's Obsession with Cute Things a été diffusé au Japon dimanche 11 octobre à 15h00 (heure de Paris). La série est produite par LIDENFILMS. Elle compte 12 épisodes au total : encore 10 à venir. (via AniList)\n\n📺 Épisode 2 sur 12\n🎬 Studio : LIDENFILMS\n🏷️ Genres : Comédie, Tranche de vie\n▶️ Streaming : Crunchyroll (catalogue variable selon les pays)\n\n💬 Tu suis Uncle's Obsession with Cute Things ? Ton avis sur l’épisode 2 👇\n\n📌 Œuvre : Uncle's Obsession with Cute Things\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan d’Uncle's Obsession with Cute Things et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#UncleObsessionWithCuteThings #anime #animefr #japanime #manga",
-   "mood": "fun",
-   "category": "ANIME",
-   "link": "https://anilist.co/anime/202079",
-   "key": [
-    "cute",
-    "episode",
-    "est",
-    "obsession",
-    "sorti",
-    "things",
-    "uncle",
-    "with"
-   ],
-   "visual": "visuals/20261012-e07e8f43e09e.jpg",
-   "sound": "Uncle's Obsession with Cute Things opening"
-  },
   {
    "id": "d64a42eec5bd",
    "ts": 1791828674.359097,
