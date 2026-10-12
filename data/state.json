@@ -132,9 +132,83 @@
   "806ac8119fe4": 1791830486.843474,
   "05ebbdc46beb": 1791831398.426187,
   "4da4e0eba4b3": 1791843268.55581,
-  "8f2785220fa1": 1791843268.943884
+  "8f2785220fa1": 1791843268.943884,
+  "b7909294ac7b": 1791844183.479706,
+  "b97fc9721141": 1791844184.058776
  },
- "queue": [],
+ "queue": [
+  {
+   "id": "b7909294ac7b",
+   "headline": "Shangri-La Frontier saison 2 fête ses 2 ans",
+   "category": "ANIME",
+   "link": "https://anilist.co/anime/176508",
+   "work": "Shangri-La Frontier saison 2",
+   "key": [
+    "ans",
+    "fete",
+    "frontier",
+    "shangri"
+   ],
+   "ts": 1791844183.881555,
+   "type": "post",
+   "files": [
+    "posts/20261012-b7909294ac7b.jpg"
+   ],
+   "caption": "🎬 SHANGRI-LA FRONTIER SAISON 2 FÊTE SES 2 ANS\n\nIl y a 2 ans jour pour jour, le 13 octobre 2024, l’anime Shangri-La Frontier saison 2 était diffusé pour la première fois au Japon. L’animation est signée C2C. (via AniList)\n\n🎂 Sortie le 13 octobre 2024\n📺 25 épisodes\n🎬 Studio : C2C\n🏷️ Genres : Action, Aventure, Comédie\n\n💬 Tu l’as découvert quand, Shangri-La Frontier saison 2 ? 👇\n\n📌 Œuvre : Shangri-La Frontier saison 2\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Shangri-La Frontier saison 2 et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#ShangriLaFrontierSaison2 #anime #animefr #japanime #manga",
+   "alt": "ANIME — Shangri-La Frontier saison 2 fête ses 2 ans",
+   "visual": "visuals/20261012-b7909294ac7b.jpg",
+   "errors": 1
+  },
+  {
+   "id": "b7909294ac7b",
+   "headline": "Shangri-La Frontier saison 2 fête ses 2 ans",
+   "category": "ANIME",
+   "link": "https://anilist.co/anime/176508",
+   "work": "Shangri-La Frontier saison 2",
+   "key": null,
+   "ts": 1791844183.881555,
+   "type": "story",
+   "files": [
+    "stories/20261012-b7909294ac7b.jpg"
+   ]
+  },
+  {
+   "id": "b97fc9721141",
+   "headline": "Paradise Kiss fête ses 21 ans",
+   "category": "ANIME",
+   "link": "https://anilist.co/anime/322",
+   "work": "Paradise Kiss",
+   "key": [
+    "21",
+    "ans",
+    "fete",
+    "kiss",
+    "paradise"
+   ],
+   "ts": 1791844184.440132,
+   "type": "post",
+   "files": [
+    "posts/20261012-b97fc9721141.jpg"
+   ],
+   "caption": "🎬 PARADISE KISS FÊTE SES 21 ANS\n\nIl y a 21 ans jour pour jour, le 13 octobre 2005, l’anime Paradise Kiss était diffusé pour la première fois au Japon. L’animation est signée MADHOUSE. (via AniList)\n\n🎂 Sortie le 13 octobre 2005\n📺 12 épisodes\n🎬 Studio : MADHOUSE\n🏷️ Genres : Comédie, Drame, Romance\n\n💬 Tu l’as découvert quand, Paradise Kiss ? 👇\n\n📌 Œuvre : Paradise Kiss\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Paradise Kiss et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#ParadiseKiss #anime #animefr #japanime #manga",
+   "alt": "ANIME — Paradise Kiss fête ses 21 ans",
+   "visual": "visuals/20261012-b97fc9721141.jpg",
+   "errors": 1
+  },
+  {
+   "id": "b97fc9721141",
+   "headline": "Paradise Kiss fête ses 21 ans",
+   "category": "ANIME",
+   "link": "https://anilist.co/anime/322",
+   "work": "Paradise Kiss",
+   "key": null,
+   "ts": 1791844184.440132,
+   "type": "story",
+   "files": [
+    "stories/20261012-b97fc9721141.jpg"
+   ]
+  }
+ ],
  "posted": [
   {
    "id": "5a95cf269da6",
@@ -1180,7 +1254,7 @@
   }
  ],
  "last_recap": null,
- "news_count": 30,
+ "news_count": 32,
  "manual_reels": [
   {
    "id": "8f2785220fa1",
@@ -1202,6 +1276,27 @@
    ],
    "visual": "visuals/20261012-8f2785220fa1.jpg",
    "sound": "INUYASHIKI LAST HERO opening"
+  },
+  {
+   "id": "b97fc9721141",
+   "ts": 1791844200.93644,
+   "headline": "Paradise Kiss fête ses 21 ans",
+   "work": "Paradise Kiss",
+   "video": "reels/20261012-b97fc9721141.mp4",
+   "cover": "posts/20261012-b97fc9721141.jpg",
+   "caption": "🎬 PARADISE KISS FÊTE SES 21 ANS\n\nIl y a 21 ans jour pour jour, le 13 octobre 2005, l’anime Paradise Kiss était diffusé pour la première fois au Japon. L’animation est signée MADHOUSE. (via AniList)\n\n🎂 Sortie le 13 octobre 2005\n📺 12 épisodes\n🎬 Studio : MADHOUSE\n🏷️ Genres : Comédie, Drame, Romance\n\n💬 Tu l’as découvert quand, Paradise Kiss ? 👇\n\n📌 Œuvre : Paradise Kiss\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Paradise Kiss et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#ParadiseKiss #anime #animefr #japanime #manga",
+   "mood": "emotional",
+   "category": "ANIME",
+   "link": "https://anilist.co/anime/322",
+   "key": [
+    "21",
+    "ans",
+    "fete",
+    "kiss",
+    "paradise"
+   ],
+   "visual": "visuals/20261012-b97fc9721141.jpg",
+   "sound": "Paradise Kiss opening"
   }
  ]
 }
