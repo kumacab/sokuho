@@ -134,20 +134,6 @@
  },
  "queue": [
   {
-   "id": "806ac8119fe4",
-   "headline": "ReLIFE fête ses 13 ans",
-   "category": "MANGA",
-   "link": "https://anilist.co/manga/85849",
-   "work": "ReLIFE",
-   "key": null,
-   "ts": 1791830487.187106,
-   "type": "story",
-   "files": [
-    "stories/20261012-806ac8119fe4.jpg"
-   ],
-   "errors": 2
-  },
-  {
    "id": "05ebbdc46beb",
    "headline": "Robotics;Notes fête ses 14 ans",
    "category": "ANIME",
@@ -159,7 +145,7 @@
    "files": [
     "stories/20261012-05ebbdc46beb.jpg"
    ],
-   "errors": 1
+   "errors": 2
   },
   {
    "id": "ad77aedff405-reel",
@@ -176,6 +162,23 @@
     "posts/20261012-ad77aedff405.jpg"
    ],
    "visual": "visuals/20261012-ad77aedff405.jpg",
+   "errors": 2
+  },
+  {
+   "id": "119fb6e0236e-reel",
+   "type": "reel",
+   "headline": "Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu : l’épisode 2 est sorti",
+   "work": "Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu",
+   "category": "ANIME",
+   "link": "https://anilist.co/anime/207191",
+   "key": null,
+   "ts": 1791835044.518552,
+   "caption": "🎬 DOUMO, SUKI NA HITO NI HOREGUSURI WO IRAI SARETA MAJO DESU : L’ÉPISODE 2 EST SORTI\n\nL’épisode 2 de Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu a été diffusé au Japon lundi 12 octobre à 14h30 (heure de Paris). La série est produite par diomedéa. Elle compte 12 épisodes au total : encore 10 à venir. (via AniList)\n\n📺 Épisode 2 sur 12\n🎬 Studio : diomedéa\n🏷️ Genres : Fantasy, Romance\n▶️ Streaming : Crunchyroll (catalogue variable selon les pays)\n\n💬 Tu suis Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu ? Ton avis sur l’épisode 2 👇\n\n📌 Œuvre : Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
+   "files": [
+    "reels/20261012-119fb6e0236e_auto.mp4",
+    "posts/20261012-119fb6e0236e.jpg"
+   ],
+   "visual": "visuals/20261012-119fb6e0236e.jpg",
    "errors": 1
   }
  ],
@@ -1154,36 +1157,6 @@
  "last_recap": null,
  "news_count": 28,
  "manual_reels": [
-  {
-   "id": "119fb6e0236e",
-   "ts": 1791824110.588066,
-   "headline": "Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu : l’épisode 2 est sorti",
-   "work": "Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu",
-   "video": "reels/20261012-119fb6e0236e.mp4",
-   "cover": "posts/20261012-119fb6e0236e.jpg",
-   "caption": "🎬 DOUMO, SUKI NA HITO NI HOREGUSURI WO IRAI SARETA MAJO DESU : L’ÉPISODE 2 EST SORTI\n\nL’épisode 2 de Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu a été diffusé au Japon lundi 12 octobre à 14h30 (heure de Paris). La série est produite par diomedéa. Elle compte 12 épisodes au total : encore 10 à venir. (via AniList)\n\n📺 Épisode 2 sur 12\n🎬 Studio : diomedéa\n🏷️ Genres : Fantasy, Romance\n▶️ Streaming : Crunchyroll (catalogue variable selon les pays)\n\n💬 Tu suis Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu ? Ton avis sur l’épisode 2 👇\n\n📌 Œuvre : Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
-   "mood": "epic",
-   "category": "ANIME",
-   "link": "https://anilist.co/anime/207191",
-   "key": [
-    "desu",
-    "doumo",
-    "episode",
-    "est",
-    "hito",
-    "horegusuri",
-    "irai",
-    "majo",
-    "na",
-    "ni",
-    "sareta",
-    "sorti",
-    "suki",
-    "wo"
-   ],
-   "visual": "visuals/20261012-119fb6e0236e.jpg",
-   "sound": "Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu opening"
-  },
   {
    "id": "d0c8176728d6",
    "ts": 1791825021.222248,
