@@ -134,7 +134,9 @@
   "4da4e0eba4b3": 1791843268.55581,
   "8f2785220fa1": 1791843268.943884,
   "b7909294ac7b": 1791844183.479706,
-  "b97fc9721141": 1791844184.058776
+  "b97fc9721141": 1791844184.058776,
+  "e9d1b49160a9": 1791845090.060174,
+  "1a576619cf57": 1791845090.651173
  },
  "queue": [
   {
@@ -157,7 +159,7 @@
    "caption": "🎬 SHANGRI-LA FRONTIER SAISON 2 FÊTE SES 2 ANS\n\nIl y a 2 ans jour pour jour, le 13 octobre 2024, l’anime Shangri-La Frontier saison 2 était diffusé pour la première fois au Japon. L’animation est signée C2C. (via AniList)\n\n🎂 Sortie le 13 octobre 2024\n📺 25 épisodes\n🎬 Studio : C2C\n🏷️ Genres : Action, Aventure, Comédie\n\n💬 Tu l’as découvert quand, Shangri-La Frontier saison 2 ? 👇\n\n📌 Œuvre : Shangri-La Frontier saison 2\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Shangri-La Frontier saison 2 et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#ShangriLaFrontierSaison2 #anime #animefr #japanime #manga",
    "alt": "ANIME — Shangri-La Frontier saison 2 fête ses 2 ans",
    "visual": "visuals/20261012-b7909294ac7b.jpg",
-   "errors": 1
+   "errors": 2
   },
   {
    "id": "b7909294ac7b",
@@ -193,7 +195,7 @@
    "caption": "🎬 PARADISE KISS FÊTE SES 21 ANS\n\nIl y a 21 ans jour pour jour, le 13 octobre 2005, l’anime Paradise Kiss était diffusé pour la première fois au Japon. L’animation est signée MADHOUSE. (via AniList)\n\n🎂 Sortie le 13 octobre 2005\n📺 12 épisodes\n🎬 Studio : MADHOUSE\n🏷️ Genres : Comédie, Drame, Romance\n\n💬 Tu l’as découvert quand, Paradise Kiss ? 👇\n\n📌 Œuvre : Paradise Kiss\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Paradise Kiss et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#ParadiseKiss #anime #animefr #japanime #manga",
    "alt": "ANIME — Paradise Kiss fête ses 21 ans",
    "visual": "visuals/20261012-b97fc9721141.jpg",
-   "errors": 1
+   "errors": 2
   },
   {
    "id": "b97fc9721141",
@@ -206,6 +208,82 @@
    "type": "story",
    "files": [
     "stories/20261012-b97fc9721141.jpg"
+   ]
+  },
+  {
+   "id": "e9d1b49160a9",
+   "headline": "DEMON LORD 2099 fête ses 2 ans",
+   "category": "ANIME",
+   "link": "https://anilist.co/anime/163135",
+   "work": "DEMON LORD 2099",
+   "key": [
+    "2099",
+    "ans",
+    "demon",
+    "fete",
+    "lord"
+   ],
+   "ts": 1791845090.404974,
+   "type": "post",
+   "files": [
+    "posts/20261012-e9d1b49160a9.jpg"
+   ],
+   "caption": "🎬 DEMON LORD 2099 FÊTE SES 2 ANS\n\nIl y a 2 ans jour pour jour, le 13 octobre 2024, l’anime DEMON LORD 2099 était diffusé pour la première fois au Japon. L’animation est signée J.C.STAFF. (via AniList)\n\n🎂 Sortie le 13 octobre 2024\n📺 12 épisodes\n🎬 Studio : J.C.STAFF\n🏷️ Genres : Action, Comédie, Drame\n\n💬 Tu l’as découvert quand, DEMON LORD 2099 ? 👇\n\n📌 Œuvre : DEMON LORD 2099\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de DEMON LORD 2099 et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#DEMONLORD2099 #anime #animefr #japanime #manga",
+   "alt": "ANIME — DEMON LORD 2099 fête ses 2 ans",
+   "visual": "visuals/20261012-e9d1b49160a9.jpg",
+   "errors": 1
+  },
+  {
+   "id": "e9d1b49160a9",
+   "headline": "DEMON LORD 2099 fête ses 2 ans",
+   "category": "ANIME",
+   "link": "https://anilist.co/anime/163135",
+   "work": "DEMON LORD 2099",
+   "key": null,
+   "ts": 1791845090.404974,
+   "type": "story",
+   "files": [
+    "stories/20261012-e9d1b49160a9.jpg"
+   ]
+  },
+  {
+   "id": "1a576619cf57",
+   "headline": "Puella Magi Madoka Magica the Movie Part 2 fête ses 14 ans",
+   "category": "ANIME",
+   "link": "https://anilist.co/anime/11979",
+   "work": "Puella Magi Madoka Magica the Movie Part 2",
+   "key": [
+    "14",
+    "ans",
+    "fete",
+    "madoka",
+    "magi",
+    "magica",
+    "movie",
+    "part",
+    "puella"
+   ],
+   "ts": 1791845090.970851,
+   "type": "post",
+   "files": [
+    "posts/20261012-1a576619cf57.jpg"
+   ],
+   "caption": "🎬 PUELLA MAGI MADOKA MAGICA THE MOVIE PART 2 FÊTE SES 14 ANS\n\nIl y a 14 ans jour pour jour, le 13 octobre 2012, l’anime Puella Magi Madoka Magica the Movie Part 2 était diffusé pour la première fois au Japon. L’animation est signée Shaft. (via AniList)\n\n🎂 Sortie le 13 octobre 2012\n📺 1 épisodes\n🎬 Studio : Shaft\n🏷️ Genres : Action, Drame, Fantasy\n\n💬 Tu l’as découvert quand, Puella Magi Madoka Magica the Movie Part 2 ? 👇\n\n📌 Œuvre : Puella Magi Madoka Magica the Movie Part 2\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Puella Magi Madoka Magica the Movie Part 2 et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
+   "alt": "ANIME — Puella Magi Madoka Magica the Movie Part 2 fête ses 14 ans",
+   "visual": "visuals/20261012-1a576619cf57.jpg",
+   "errors": 1
+  },
+  {
+   "id": "1a576619cf57",
+   "headline": "Puella Magi Madoka Magica the Movie Part 2 fête ses 14 ans",
+   "category": "ANIME",
+   "link": "https://anilist.co/anime/11979",
+   "work": "Puella Magi Madoka Magica the Movie Part 2",
+   "key": null,
+   "ts": 1791845090.970851,
+   "type": "story",
+   "files": [
+    "stories/20261012-1a576619cf57.jpg"
    ]
   }
  ],
@@ -1254,7 +1332,7 @@
   }
  ],
  "last_recap": null,
- "news_count": 32,
+ "news_count": 34,
  "manual_reels": [
   {
    "id": "8f2785220fa1",
@@ -1297,6 +1375,31 @@
    ],
    "visual": "visuals/20261012-b97fc9721141.jpg",
    "sound": "Paradise Kiss opening"
+  },
+  {
+   "id": "1a576619cf57",
+   "ts": 1791845106.420399,
+   "headline": "Puella Magi Madoka Magica the Movie Part 2 fête ses 14 ans",
+   "work": "Puella Magi Madoka Magica the Movie Part 2",
+   "video": "reels/20261012-1a576619cf57.mp4",
+   "cover": "posts/20261012-1a576619cf57.jpg",
+   "caption": "🎬 PUELLA MAGI MADOKA MAGICA THE MOVIE PART 2 FÊTE SES 14 ANS\n\nIl y a 14 ans jour pour jour, le 13 octobre 2012, l’anime Puella Magi Madoka Magica the Movie Part 2 était diffusé pour la première fois au Japon. L’animation est signée Shaft. (via AniList)\n\n🎂 Sortie le 13 octobre 2012\n📺 1 épisodes\n🎬 Studio : Shaft\n🏷️ Genres : Action, Drame, Fantasy\n\n💬 Tu l’as découvert quand, Puella Magi Madoka Magica the Movie Part 2 ? 👇\n\n📌 Œuvre : Puella Magi Madoka Magica the Movie Part 2\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Puella Magi Madoka Magica the Movie Part 2 et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
+   "mood": "emotional",
+   "category": "ANIME",
+   "link": "https://anilist.co/anime/11979",
+   "key": [
+    "14",
+    "ans",
+    "fete",
+    "madoka",
+    "magi",
+    "magica",
+    "movie",
+    "part",
+    "puella"
+   ],
+   "visual": "visuals/20261012-1a576619cf57.jpg",
+   "sound": "Puella Magi Madoka Magica the Movie Part 2 opening"
   }
  ]
 }
