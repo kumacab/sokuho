@@ -84,8 +84,10 @@ class Instagram:
         self._wait(c)
         return self._publish(c)
 
-    def publish_reel(self, video_url, caption, cover_url=None):
+    def publish_reel(self, video_url, caption, cover_url=None, audio_name=None):
         params = {"media_type": "REELS", "video_url": video_url, "caption": caption, "share_to_feed": "true"}
+        if audio_name:
+            params["audio_name"] = audio_name[:80]  # nom du son original affiché sous le reel
         if cover_url:
             params["cover_url"] = cover_url
         c = self._container(**params)

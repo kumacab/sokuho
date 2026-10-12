@@ -287,7 +287,8 @@ def publish_one(ig, entry):
     if t == "carousel":
         return ig.publish_carousel(urls, entry["caption"])
     if t == "reel":
-        return ig.publish_reel(urls[0], entry["caption"], urls[1] if len(urls) > 1 else None)
+        name = f"SOKUHŌ 速報 · {entry['work']}" if entry.get("work") else "SOKUHŌ 速報 · Flash info"
+        return ig.publish_reel(urls[0], entry["caption"], urls[1] if len(urls) > 1 else None, name)
     raise ValueError(f"type inconnu : {t}")
 
 
