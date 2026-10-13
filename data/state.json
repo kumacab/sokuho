@@ -138,36 +138,7 @@
   "e9d1b49160a9": 1791845090.060174,
   "1a576619cf57": 1791845090.651173
  },
- "queue": [
-  {
-   "id": "e9d1b49160a9",
-   "headline": "DEMON LORD 2099 fête ses 2 ans",
-   "category": "ANIME",
-   "link": "https://anilist.co/anime/163135",
-   "work": "DEMON LORD 2099",
-   "key": null,
-   "ts": 1791845090.404974,
-   "type": "story",
-   "files": [
-    "stories/20261012-e9d1b49160a9.jpg"
-   ],
-   "errors": 2
-  },
-  {
-   "id": "1a576619cf57",
-   "headline": "Puella Magi Madoka Magica the Movie Part 2 fête ses 14 ans",
-   "category": "ANIME",
-   "link": "https://anilist.co/anime/11979",
-   "work": "Puella Magi Madoka Magica the Movie Part 2",
-   "key": null,
-   "ts": 1791845090.970851,
-   "type": "story",
-   "files": [
-    "stories/20261012-1a576619cf57.jpg"
-   ],
-   "errors": 2
-  }
- ],
+ "queue": [],
  "posted": [
   {
    "id": "5a95cf269da6",
