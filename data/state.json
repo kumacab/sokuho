@@ -140,23 +140,10 @@
   "c3587b5301e0": 1791894361.722264,
   "c22861da5f7e": 1791897517.608161,
   "82a10a22054e": 1791900260.881009,
-  "779c43a26a1a": 1791900261.556116
+  "779c43a26a1a": 1791900261.556116,
+  "cc19015b427d": 1791901174.648986
  },
  "queue": [
-  {
-   "id": "c22861da5f7e",
-   "headline": "The Cold Sato-san is Only Sweet to Me : l’épisode 2 est sorti",
-   "category": "ANIME",
-   "link": "https://anilist.co/anime/209502",
-   "work": "The Cold Sato-san is Only Sweet to Me",
-   "key": null,
-   "ts": 1791897517.948001,
-   "type": "story",
-   "files": [
-    "stories/20261013-c22861da5f7e.jpg"
-   ],
-   "errors": 1
-  },
   {
    "id": "82a10a22054e",
    "headline": "Chitose Is in the Ramune Bottle 2nd Cour : l’épisode 1 est sorti",
@@ -186,19 +173,6 @@
    "errors": 1
   },
   {
-   "id": "82a10a22054e",
-   "headline": "Chitose Is in the Ramune Bottle 2nd Cour : l’épisode 1 est sorti",
-   "category": "ANIME",
-   "link": "https://anilist.co/anime/198727",
-   "work": "Chitose Is in the Ramune Bottle 2nd Cour",
-   "key": null,
-   "ts": 1791900261.366438,
-   "type": "story",
-   "files": [
-    "stories/20261013-82a10a22054e.jpg"
-   ]
-  },
-  {
    "id": "779c43a26a1a",
    "headline": "Super Psychic Policeman Chojo : l’épisode 2 est sorti",
    "category": "ANIME",
@@ -224,6 +198,45 @@
    "errors": 1
   },
   {
+   "id": "cc19015b427d",
+   "headline": "Battle Spirits [Re] Zekkai No Ku : l’épisode 2 est sorti",
+   "category": "ANIME",
+   "link": "https://anilist.co/anime/187990",
+   "work": "Battle Spirits [Re] Zekkai No Ku",
+   "key": [
+    "battle",
+    "episode",
+    "est",
+    "ku",
+    "no",
+    "re",
+    "sorti",
+    "spirits",
+    "zekkai"
+   ],
+   "ts": 1791901175.080003,
+   "type": "post",
+   "files": [
+    "posts/20261013-cc19015b427d.jpg"
+   ],
+   "caption": "🎬 BATTLE SPIRITS [RE] ZEKKAI NO KU : L’ÉPISODE 2 EST SORTI\n\nL’épisode 2 de Battle Spirits [Re] Zekkai No Ku a été diffusé au Japon mardi 13 octobre à 16h00 (heure de Paris). La série est produite par Bandai Namco Pictures. (via AniList)\n\n📺 Épisode 2\n🎬 Studio : Bandai Namco Pictures\n🏷️ Genres : Action, Fantasy\n▶️ Streaming : Crunchyroll (catalogue variable selon les pays)\n\n💬 Tu suis Battle Spirits [Re] Zekkai No Ku ? Ton avis sur l’épisode 2 👇\n\n📌 Œuvre : Battle Spirits [Re] Zekkai No Ku\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Battle Spirits [Re] Zekkai No Ku et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#BattleSpiritsReZekkaiNoKu #anime #animefr #japanime #manga",
+   "alt": "ANIME — Battle Spirits [Re] Zekkai No Ku : l’épisode 2 est sorti",
+   "visual": "visuals/20261013-cc19015b427d.jpg"
+  },
+  {
+   "id": "82a10a22054e",
+   "headline": "Chitose Is in the Ramune Bottle 2nd Cour : l’épisode 1 est sorti",
+   "category": "ANIME",
+   "link": "https://anilist.co/anime/198727",
+   "work": "Chitose Is in the Ramune Bottle 2nd Cour",
+   "key": null,
+   "ts": 1791900261.366438,
+   "type": "story",
+   "files": [
+    "stories/20261013-82a10a22054e.jpg"
+   ]
+  },
+  {
    "id": "779c43a26a1a",
    "headline": "Super Psychic Policeman Chojo : l’épisode 2 est sorti",
    "category": "ANIME",
@@ -234,6 +247,19 @@
    "type": "story",
    "files": [
     "stories/20261013-779c43a26a1a.jpg"
+   ]
+  },
+  {
+   "id": "cc19015b427d",
+   "headline": "Battle Spirits [Re] Zekkai No Ku : l’épisode 2 est sorti",
+   "category": "ANIME",
+   "link": "https://anilist.co/anime/187990",
+   "work": "Battle Spirits [Re] Zekkai No Ku",
+   "key": null,
+   "ts": 1791901175.080003,
+   "type": "story",
+   "files": [
+    "stories/20261013-cc19015b427d.jpg"
    ]
   }
  ],
@@ -1282,7 +1308,7 @@
   }
  ],
  "last_recap": null,
- "news_count": 38,
+ "news_count": 39,
  "manual_reels": [
   {
    "id": "c22861da5f7e",
