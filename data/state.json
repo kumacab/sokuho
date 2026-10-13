@@ -138,7 +138,9 @@
   "e9d1b49160a9": 1791845090.060174,
   "1a576619cf57": 1791845090.651173,
   "c3587b5301e0": 1791894361.722264,
-  "c22861da5f7e": 1791897517.608161
+  "c22861da5f7e": 1791897517.608161,
+  "82a10a22054e": 1791900260.881009,
+  "779c43a26a1a": 1791900261.556116
  },
  "queue": [
   {
@@ -152,6 +154,86 @@
    "type": "story",
    "files": [
     "stories/20261013-c22861da5f7e.jpg"
+   ],
+   "errors": 1
+  },
+  {
+   "id": "82a10a22054e",
+   "headline": "Chitose Is in the Ramune Bottle 2nd Cour : l’épisode 1 est sorti",
+   "category": "ANIME",
+   "link": "https://anilist.co/anime/198727",
+   "work": "Chitose Is in the Ramune Bottle 2nd Cour",
+   "key": [
+    "2nd",
+    "bottle",
+    "chitose",
+    "cour",
+    "episode",
+    "est",
+    "in",
+    "is",
+    "ramune",
+    "sorti"
+   ],
+   "ts": 1791900261.366438,
+   "type": "post",
+   "files": [
+    "posts/20261013-82a10a22054e.jpg"
+   ],
+   "caption": "🎬 CHITOSE IS IN THE RAMUNE BOTTLE 2ND COUR : L’ÉPISODE 1 EST SORTI\n\nL’épisode 1 de Chitose Is in the Ramune Bottle 2nd Cour a été diffusé au Japon mardi 13 octobre à 16h00 (heure de Paris). La série est produite par feel.. Elle compte 11 épisodes au total : encore 10 à venir. (via AniList)\n\n📺 Épisode 1 sur 11\n🎬 Studio : feel.\n🏷️ Genres : Comédie, Romance\n▶️ Streaming : Crunchyroll (catalogue variable selon les pays)\n\n💬 Tu suis Chitose Is in the Ramune Bottle 2nd Cour ? Ton avis sur l’épisode 1 👇\n\n📌 Œuvre : Chitose Is in the Ramune Bottle 2nd Cour\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Chitose Is in the Ramune Bottle 2nd Cour et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
+   "alt": "ANIME — Chitose Is in the Ramune Bottle 2nd Cour : l’épisode 1 est sorti",
+   "visual": "visuals/20261013-82a10a22054e.jpg",
+   "errors": 1
+  },
+  {
+   "id": "82a10a22054e",
+   "headline": "Chitose Is in the Ramune Bottle 2nd Cour : l’épisode 1 est sorti",
+   "category": "ANIME",
+   "link": "https://anilist.co/anime/198727",
+   "work": "Chitose Is in the Ramune Bottle 2nd Cour",
+   "key": null,
+   "ts": 1791900261.366438,
+   "type": "story",
+   "files": [
+    "stories/20261013-82a10a22054e.jpg"
+   ]
+  },
+  {
+   "id": "779c43a26a1a",
+   "headline": "Super Psychic Policeman Chojo : l’épisode 2 est sorti",
+   "category": "ANIME",
+   "link": "https://anilist.co/anime/200294",
+   "work": "Super Psychic Policeman Chojo",
+   "key": [
+    "chojo",
+    "episode",
+    "est",
+    "policeman",
+    "psychic",
+    "sorti",
+    "super"
+   ],
+   "ts": 1791900261.974924,
+   "type": "post",
+   "files": [
+    "posts/20261013-779c43a26a1a.jpg"
+   ],
+   "caption": "🎬 SUPER PSYCHIC POLICEMAN CHOJO : L’ÉPISODE 2 EST SORTI\n\nL’épisode 2 de Super Psychic Policeman Chojo a été diffusé au Japon mardi 13 octobre à 16h00 (heure de Paris). La série est produite par Arvo Animation. (via AniList)\n\n📺 Épisode 2\n🎬 Studio : Arvo Animation\n🏷️ Genres : Comédie, Tranche de vie\n▶️ Streaming : Crunchyroll (catalogue variable selon les pays)\n\n💬 Tu suis Super Psychic Policeman Chojo ? Ton avis sur l’épisode 2 👇\n\n📌 Œuvre : Super Psychic Policeman Chojo\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Super Psychic Policeman Chojo et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#SuperPsychicPolicemanChojo #anime #animefr #japanime #manga",
+   "alt": "ANIME — Super Psychic Policeman Chojo : l’épisode 2 est sorti",
+   "visual": "visuals/20261013-779c43a26a1a.jpg",
+   "errors": 1
+  },
+  {
+   "id": "779c43a26a1a",
+   "headline": "Super Psychic Policeman Chojo : l’épisode 2 est sorti",
+   "category": "ANIME",
+   "link": "https://anilist.co/anime/200294",
+   "work": "Super Psychic Policeman Chojo",
+   "key": null,
+   "ts": 1791900261.974924,
+   "type": "story",
+   "files": [
+    "stories/20261013-779c43a26a1a.jpg"
    ]
   }
  ],
@@ -1200,7 +1282,7 @@
   }
  ],
  "last_recap": null,
- "news_count": 36,
+ "news_count": 38,
  "manual_reels": [
   {
    "id": "c22861da5f7e",
@@ -1228,6 +1310,29 @@
    ],
    "visual": "visuals/20261013-c22861da5f7e.jpg",
    "sound": "The Cold Sato-san is Only Sweet to Me opening"
+  },
+  {
+   "id": "779c43a26a1a",
+   "ts": 1791900276.501913,
+   "headline": "Super Psychic Policeman Chojo : l’épisode 2 est sorti",
+   "work": "Super Psychic Policeman Chojo",
+   "video": "reels/20261013-779c43a26a1a.mp4",
+   "cover": "posts/20261013-779c43a26a1a.jpg",
+   "caption": "🎬 SUPER PSYCHIC POLICEMAN CHOJO : L’ÉPISODE 2 EST SORTI\n\nL’épisode 2 de Super Psychic Policeman Chojo a été diffusé au Japon mardi 13 octobre à 16h00 (heure de Paris). La série est produite par Arvo Animation. (via AniList)\n\n📺 Épisode 2\n🎬 Studio : Arvo Animation\n🏷️ Genres : Comédie, Tranche de vie\n▶️ Streaming : Crunchyroll (catalogue variable selon les pays)\n\n💬 Tu suis Super Psychic Policeman Chojo ? Ton avis sur l’épisode 2 👇\n\n📌 Œuvre : Super Psychic Policeman Chojo\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Super Psychic Policeman Chojo et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#SuperPsychicPolicemanChojo #anime #animefr #japanime #manga",
+   "mood": "fun",
+   "category": "ANIME",
+   "link": "https://anilist.co/anime/200294",
+   "key": [
+    "chojo",
+    "episode",
+    "est",
+    "policeman",
+    "psychic",
+    "sorti",
+    "super"
+   ],
+   "visual": "visuals/20261013-779c43a26a1a.jpg",
+   "sound": "Super Psychic Policeman Chojo opening"
   }
  ]
 }
