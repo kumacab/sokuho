@@ -489,15 +489,31 @@ def cmd_publish(cfg):
     if in_quiet_hours(cfg):
         log("Heures calmes : rien n'est publié avant le matin.")
         return
-    ig = Instagram()
+    ig = Instagram(user_id=env("IG_USER_ID") or state.get("ig_user_id"))
+    state["ig_user_id"] = ig.user_id  # évite un appel « me » à chaque passage
     cap = cfg.get("api_daily_limit", 45)
     used = api_used_24h(state)
-    try:  # compteur officiel d'Instagram, s'il répond
-        q = ig.quota()
-        used = max(used, int(q.get("quota_usage", 0)))
-        log(f"Quota Instagram : {used} publication(s) sur 24 h glissantes (plafond du robot : {cap})")
+    # Anti-doublon : Instagram renvoie parfois une erreur alors que la publication est bien partie.
+    # On relit donc les dernières publications du compte et on retire de la file ce qui y est déjà.
+    try:
+        online = {first_line(m.get("caption")) for m in ig.recent_media()}
     except Exception as ex:
-        log(f"Quota Instagram illisible ({ex}), compteur interne : {used}")
+        log(f"Lecture des dernières publications impossible ({ex}) → on ne publie rien ce passage (sécurité anti-doublon)")
+        state["ig_pause_until"] = time.time() + 1800
+        save_state(state)
+        return
+    keep = []
+    for e in state["queue"]:
+        if e["type"] != "story" and first_line(e.get("caption")) in online:
+            log(f"   déjà en ligne, retiré de la file : {e['headline']}")
+            state["posted"].append({k: e.get(k) for k in ("id", "type", "headline", "key", "link", "visual", "work")}
+                                   | {"ts": now_utc().timestamp(), "media_id": "?",
+                                      "card": e["files"][0] if e["type"] == "post" else e.get("card")})
+            continue
+        if e["type"] == "story" and e.get("errors"):
+            continue  # story déjà tentée : peut-être partie malgré l'erreur, on ne risque pas de doublon
+        keep.append(e)
+    state["queue"] = keep
     # Il faut garder de la place pour les posts encore attendus aujourd'hui : les stories passent après.
     reserve = max(0, cfg["posts_per_day"] - posts_today(cfg, state))
     order = {"post": 0, "carousel": 0, "reel": 1, "story": 2}
@@ -537,8 +553,9 @@ def cmd_publish(cfg):
             msg = str(ex).lower()
             if any(k in msg for k in ("too many actions", "2207042", "rate limit", "request limit", "limit reached")):
                 # Instagram freine : on ne gaspille pas d'essais, on met tout en pause une heure.
-                state["ig_pause_until"] = time.time() + 3600
-                log(f"⏸️ Instagram freine ({ex}) → pause d'une heure, rien n'est perdu")
+                state["ig_pause_until"] = time.time() + 2 * 3600
+                entry["errors"] = entry.get("errors", 0) + 1  # vérifié au prochain passage (anti-doublon)
+                log(f"⏸️ Instagram freine ({ex}) → pause de 2 h ; au retour, le robot vérifie d'abord si c'est parti")
                 remaining += [e for e in queue[n:] if e not in remaining]
                 break
             entry["errors"] = entry.get("errors", 0) + 1
@@ -548,6 +565,10 @@ def cmd_publish(cfg):
                 remaining.append(entry)
     state["queue"] = remaining
     save_state(state)
+
+
+def first_line(caption):
+    return (caption or "").strip().split("\n")[0].strip()
 
 
 def api_used_24h(state):

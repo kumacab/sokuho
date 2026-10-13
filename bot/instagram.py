@@ -37,6 +37,11 @@ class Instagram:
     def me(self):
         return self._call("GET", "me", fields="user_id,username")
 
+    def recent_media(self, limit=25):
+        """Dernières publications du compte (pour ne jamais publier deux fois la même chose)."""
+        data = self._call("GET", f"{self.user_id}/media", fields="caption,timestamp,media_product_type", limit=limit)
+        return data.get("data", [])
+
     def quota(self):
         data = self._call("GET", f"{self.user_id}/content_publishing_limit", fields="quota_usage,config")
         return (data.get("data") or [{}])[0]
@@ -48,7 +53,7 @@ class Instagram:
 
     def _wait(self, container, video=False):
         # Meta conseille de vérifier l'état au plus une fois par minute, pendant 5 minutes maximum.
-        delays = [5, 15, 40, 60, 60, 60, 60] if video else [3, 10, 60, 60, 60, 60]
+        delays = [20, 40, 60, 60, 60, 60] if video else [8, 30, 60, 60]  # peu d'appels : le quota d'appels est petit
         for delay in delays:
             time.sleep(delay)
             status = self._call("GET", container, fields="status_code").get("status_code")
