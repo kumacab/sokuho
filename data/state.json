@@ -140,23 +140,6 @@
  },
  "queue": [
   {
-   "id": "b97fc9721141-reel",
-   "type": "reel",
-   "headline": "Paradise Kiss fête ses 21 ans",
-   "work": "Paradise Kiss",
-   "category": "ANIME",
-   "link": "https://anilist.co/anime/322",
-   "key": null,
-   "ts": 1791855127.296798,
-   "caption": "🎬 PARADISE KISS FÊTE SES 21 ANS\n\nIl y a 21 ans jour pour jour, le 13 octobre 2005, l’anime Paradise Kiss était diffusé pour la première fois au Japon. L’animation est signée MADHOUSE. (via AniList)\n\n🎂 Sortie le 13 octobre 2005\n📺 12 épisodes\n🎬 Studio : MADHOUSE\n🏷️ Genres : Comédie, Drame, Romance\n\n💬 Tu l’as découvert quand, Paradise Kiss ? 👇\n\n📌 Œuvre : Paradise Kiss\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Paradise Kiss et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#ParadiseKiss #anime #animefr #japanime #manga",
-   "files": [
-    "reels/20261012-b97fc9721141_auto.mp4",
-    "posts/20261012-b97fc9721141.jpg"
-   ],
-   "visual": "visuals/20261012-b97fc9721141.jpg",
-   "errors": 2
-  },
-  {
    "id": "1a576619cf57-reel",
    "type": "reel",
    "headline": "Puella Magi Madoka Magica the Movie Part 2 fête ses 14 ans",
@@ -171,7 +154,7 @@
     "posts/20261012-1a576619cf57.jpg"
    ],
    "visual": "visuals/20261012-1a576619cf57.jpg",
-   "errors": 1
+   "errors": 2
   }
  ],
  "posted": [
