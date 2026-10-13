@@ -136,9 +136,49 @@
   "b7909294ac7b": 1791844183.479706,
   "b97fc9721141": 1791844184.058776,
   "e9d1b49160a9": 1791845090.060174,
-  "1a576619cf57": 1791845090.651173
+  "1a576619cf57": 1791845090.651173,
+  "c3587b5301e0": 1791894361.722264
  },
- "queue": [],
+ "queue": [
+  {
+   "id": "c3587b5301e0",
+   "headline": "Nia Liston: The Merciless Maiden : l’épisode 2 est sorti",
+   "category": "ANIME",
+   "link": "https://anilist.co/anime/206949",
+   "work": "Nia Liston: The Merciless Maiden",
+   "key": [
+    "episode",
+    "est",
+    "liston",
+    "maiden",
+    "merciless",
+    "nia",
+    "sorti"
+   ],
+   "ts": 1791894362.120261,
+   "type": "post",
+   "files": [
+    "posts/20261013-c3587b5301e0.jpg"
+   ],
+   "caption": "🎬 NIA LISTON: THE MERCILESS MAIDEN : L’ÉPISODE 2 EST SORTI\n\nL’épisode 2 de Nia Liston: The Merciless Maiden a été diffusé au Japon mardi 13 octobre à 14h26 (heure de Paris). La série est produite par KONAMI animation. Elle compte 25 épisodes au total : encore 23 à venir. (via AniList)\n\n📺 Épisode 2 sur 25\n🎬 Studio : KONAMI animation\n🏷️ Genres : Action, Fantasy\n▶️ Streaming : HIDIVE (catalogue variable selon les pays)\n\n💬 Tu suis Nia Liston: The Merciless Maiden ? Ton avis sur l’épisode 2 👇\n\n📌 Œuvre : Nia Liston: The Merciless Maiden\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Nia Liston: The Merciless Maiden et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#NiaListonTheMercilessMaiden #anime #animefr #japanime #manga",
+   "alt": "ANIME — Nia Liston: The Merciless Maiden : l’épisode 2 est sorti",
+   "visual": "visuals/20261013-c3587b5301e0.jpg",
+   "errors": 1
+  },
+  {
+   "id": "c3587b5301e0",
+   "headline": "Nia Liston: The Merciless Maiden : l’épisode 2 est sorti",
+   "category": "ANIME",
+   "link": "https://anilist.co/anime/206949",
+   "work": "Nia Liston: The Merciless Maiden",
+   "key": null,
+   "ts": 1791894362.120261,
+   "type": "story",
+   "files": [
+    "stories/20261013-c3587b5301e0.jpg"
+   ]
+  }
+ ],
  "posted": [
   {
    "id": "5a95cf269da6",
@@ -1184,6 +1224,6 @@
   }
  ],
  "last_recap": null,
- "news_count": 34,
+ "news_count": 35,
  "manual_reels": []
 }
