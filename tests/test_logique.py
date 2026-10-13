@@ -28,6 +28,7 @@ cfg = common.load_config()
 cfg["max_age_hours"] = 10 ** 6  # les actus d'exemple datent de quelques jours
 cfg["max_posts_per_run"] = 10
 cfg["fillers"]["enabled"] = False  # testé à part (réseau)
+cfg["reels"]["mode"] = "manual"  # couvre aussi la page « Reels à publier » et la publication auto après 3 h
 fx = ROOT / "tests" / "fixtures"
 
 

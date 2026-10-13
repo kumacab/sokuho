@@ -81,10 +81,11 @@
     }
   ],
   "reels": {
-    "every_n_news": 2,
+    "mode": "auto",
+    "sound": "ambient",
+    "max_per_day": 4,
     "music_dir": "assets/music",
     "seconds": 12,
-    "mode": "manual",
     "manual_timeout_hours": 3
   },
   "fillers": {

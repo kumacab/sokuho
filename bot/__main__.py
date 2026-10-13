@@ -8,6 +8,7 @@
 """
 import json
 import math
+import re
 import sys
 import time
 from datetime import datetime, timedelta
@@ -64,6 +65,22 @@ def target_so_far(cfg):
     start, length = day_window(cfg)
     frac = min(1.0, max(0.0, (now_utc().timestamp() - start) / length))
     return math.ceil(cfg["posts_per_day"] * frac)
+
+
+BIG_NEWS = re.compile(r"(saison \d|season \d|film|movie|adapt|nouvel anime|nouveau projet|annonc|date de sortie|"
+                      r"trailer|bande[- ]annonce|teaser|key visual|visuel|suite|retour|revient|fin du manga|dernier "
+                      r"chapitre|derni[eè]re saison|record|millions|en production|reporté|report|pause)", re.I)
+
+
+def is_big_news(item, headline):
+    return bool(BIG_NEWS.search(strip_accents(item["title"] + " " + headline)))
+
+
+def reels_today(cfg, state):
+    start, _ = day_window(cfg)
+    return (sum(1 for p in state["posted"] if p.get("ts", 0) >= start and p.get("type") == "reel")
+            + sum(1 for q in state["queue"] if q["type"] == "reel")
+            + sum(1 for r in state.get("manual_reels", []) if r["ts"] >= start))
 
 
 def is_duplicate(item, state, cfg):
@@ -148,13 +165,14 @@ def make_entries(item, cfg, use_visual, state, text=None):
             "key": title_key(item["title"] + " " + item.get("work", "")), "ts": now_utc().timestamp()}
 
     rc = cfg.get("reels", {})
-    state["news_count"] = state.get("news_count", 0) + 1
-    as_reel = rc.get("every_n_news", 0) and state["news_count"] % rc["every_n_news"] == 0
+    as_reel = is_big_news(item, headline) and reels_today(cfg, state) < rc.get("max_per_day", 4) \
+        and not item.get("kind")  # reel uniquement pour les grosses annonces, jamais pour les compléments
     entries = []
     if as_reel:
         try:
-            music = None if rc.get("mode") == "manual" else \
-                render.pick_music(rc.get("music_dir", "assets/music"), (text or {}).get("mood"), item["id"])
+            music = None if rc.get("mode") == "manual" or rc.get("sound") == "none" else \
+                render.pick_music(rc.get("music_dir", "assets/music"),
+                                  rc.get("sound") or (text or {}).get("mood"), item["id"])
             video, template = reels.make_reel(item, category, headline, (text or {}).get("key_facts"), brand, visual,
                                               MEDIA_DIR / media_name("reels", item["id"], "mp4"), music,
                                               rc.get("seconds", 12))
