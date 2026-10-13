@@ -131,7 +131,7 @@ Si ce n'est pas fait au bout de 3 h (`reels.manual_timeout_hours`), le robot le 
 **À faire de ton côté :** le secret `GH_PAT` (étape 6) avant début décembre, sinon le jeton Instagram expire vers le 9 décembre.
 
 ### 30 posts par jour (mise à jour du 12/10, soir)
-`posts_per_day` : 30, répartis régulièrement de 7 h à 1 h (environ un toutes les 36 min). Les vraies actus passent toujours en premier (Adala News, Crunchyroll News, Animotaku). Quand elles ne suffisent pas, le robot complète avec, dans l'ordre :
+`posts_per_day` : 15 (abaissé le 13/10 : à 30, le quota Instagram saturait et le compte ressemblait à un agrégateur), répartis de 7 h à 1 h. Compléments réservés aux œuvres très suivies, sans story. Plafond : 45 publications sur 24 h, pause d'1 h si Instagram freine. Les vraies actus passent toujours en premier (Adala News, Crunchyroll News, Animotaku). Quand elles ne suffisent pas, le robot complète avec, dans l'ordre :
 1. **Épisode sorti** : les nouveaux épisodes des séries de la saison, juste après leur diffusion au Japon (studio, nombre d'épisodes, plateforme) ;
 2. **Anniversaire** : « Chainsaw Man fête ses 4 ans », pour les œuvres populaires sorties un jour comme aujourd'hui.
 Ces deux formats viennent de l'API publique et gratuite d'AniList (`bot/anilist.py`, réglages dans `fillers`).

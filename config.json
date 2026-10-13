@@ -17,7 +17,7 @@
   },
   "media_keep_days": 9,
   "max_posts_per_run": 2,
-  "posts_per_day": 30,
+  "posts_per_day": 15,
   "max_age_hours": 12,
   "dedupe_hours": 24,
   "quiet_hours": [
@@ -91,9 +91,10 @@
     "enabled": true,
     "max_per_run": 1,
     "episode_hours": 30,
-    "episode_min_popularity": 1000,
-    "anniversary_min_popularity": 15000
+    "episode_min_popularity": 15000,
+    "anniversary_min_popularity": 100000
   },
   "max_publish_per_run": 2,
-  "api_daily_limit": 45
+  "api_daily_limit": 45,
+  "stories_for_fillers": false
 }

@@ -177,7 +177,7 @@ def make_entries(item, cfg, use_visual, state, text=None):
     if not entries:
         entries.append(dict(base, type="post", files=[rel(card)], caption=caption, alt=f"{category} — {headline}",
                             visual=rel(vis_path) if vis_path else None))
-    if cfg.get("stories", True):
+    if cfg.get("stories", True) and (not item.get("kind") or cfg.get("stories_for_fillers", False)):
         story = render.save_jpeg(render.render_story(item, category, headline, brand, visual, tz),
                                  MEDIA_DIR / media_name("stories", item["id"]))
         entries.append(dict(base, type="story", files=[rel(story)], key=None))

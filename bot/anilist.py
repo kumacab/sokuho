@@ -29,7 +29,7 @@ NO_GENRES = ["Ecchi", "Hentai"]
 
 MEDIA_FIELDS = """id type format countryOfOrigin popularity isAdult episodes chapters genres siteUrl
   title{romaji english} coverImage{extraLarge} startDate{year month day}
-  studios(isMain:true){nodes{name}} externalLinks{site type}"""
+  studios(isMain:true){nodes{name}} externalLinks{site type} relations{edges{relationType}}"""
 
 
 def _query(query, variables, tries=3):
@@ -53,7 +53,11 @@ def _id(*parts):
 def _title(m):
     """Titre le plus court entre l'anglais et le romaji ; « Season 2 » devient « saison 2 »."""
     names = [t.strip() for t in (m["title"].get("english"), m["title"]["romaji"]) if t]
-    names = [re.split(r"\s*:\s+", t)[0] if len(t) > 45 else t for t in names]  # titres de light novel à rallonge
+    sequel = any(e["relationType"] == "PREQUEL" for e in (m.get("relations") or {}).get("edges", []))
+    if not sequel:  # titres de light novel à rallonge ; jamais pour une suite (on perdrait « Alicization », « Part 2 »…)
+        names = [re.split(r"\s*:\s+", t)[0] if len(t) > 45 else t for t in names]
+    elif min(len(t) for t in names) > 60:
+        return ""  # suite au titre trop long pour un visuel lisible : on passe
     t = names[0] if len(names[0]) <= 45 else min(names, key=len)  # l'anglais d'abord, plus parlant en France
     t = re.sub(r"\s*(?:Season|Saison)\s*(\d+)", r" saison \1", t)
     t = re.sub(r"\s*(\d+)(?:st|nd|rd|th) Season", r" saison \1", t)
@@ -125,6 +129,8 @@ def episodes(hours=30, min_pop=2000, tz="Europe/Paris"):
         if not _ok(m, min_pop) or m["format"] not in ("TV", "TV_SHORT", "ONA"):
             continue
         work = _title(m)
+        if not work:
+            continue
         when = datetime.fromtimestamp(s["airingAt"], ZoneInfo(tz))
         total = m.get("episodes")
         last = total and ep == total
@@ -164,6 +170,8 @@ def anniversaries(day=None, min_pop=40000, min_years=2, n=40, tz="Europe/Paris")
         if not _ok(m, min_pop) or years < min_years:
             continue
         work = _title(m)
+        if not work:
+            continue
         cat = _category(m)
         anime = m["type"] == "ANIME"
         facts, studio = _common_facts(m)
