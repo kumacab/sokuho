@@ -271,6 +271,22 @@
    "visual": "visuals/20261013-c22861da5f7e.jpg"
   },
   {
+   "id": "779c43a26a1a-reel",
+   "type": "reel",
+   "headline": "Super Psychic Policeman Chojo : l’épisode 2 est sorti",
+   "work": "Super Psychic Policeman Chojo",
+   "category": "ANIME",
+   "link": "https://anilist.co/anime/200294",
+   "key": null,
+   "ts": 1791911219.945089,
+   "caption": "🎬 SUPER PSYCHIC POLICEMAN CHOJO : L’ÉPISODE 2 EST SORTI\n\nL’épisode 2 de Super Psychic Policeman Chojo a été diffusé au Japon mardi 13 octobre à 16h00 (heure de Paris). La série est produite par Arvo Animation. (via AniList)\n\n📺 Épisode 2\n🎬 Studio : Arvo Animation\n🏷️ Genres : Comédie, Tranche de vie\n▶️ Streaming : Crunchyroll (catalogue variable selon les pays)\n\n💬 Tu suis Super Psychic Policeman Chojo ? Ton avis sur l’épisode 2 👇\n\n📌 Œuvre : Super Psychic Policeman Chojo\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Super Psychic Policeman Chojo et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#SuperPsychicPolicemanChojo #anime #animefr #japanime #manga",
+   "files": [
+    "reels/20261013-779c43a26a1a_auto.mp4",
+    "posts/20261013-779c43a26a1a.jpg"
+   ],
+   "visual": "visuals/20261013-779c43a26a1a.jpg"
+  },
+  {
    "id": "82a10a22054e",
    "headline": "Chitose Is in the Ramune Bottle 2nd Cour : l’épisode 1 est sorti",
    "category": "ANIME",
@@ -308,22 +324,6 @@
    "files": [
     "stories/20261013-cc19015b427d.jpg"
    ]
-  },
-  {
-   "id": "779c43a26a1a-reel",
-   "type": "reel",
-   "headline": "Super Psychic Policeman Chojo : l’épisode 2 est sorti",
-   "work": "Super Psychic Policeman Chojo",
-   "category": "ANIME",
-   "link": "https://anilist.co/anime/200294",
-   "key": null,
-   "ts": 1791911219.945089,
-   "caption": "🎬 SUPER PSYCHIC POLICEMAN CHOJO : L’ÉPISODE 2 EST SORTI\n\nL’épisode 2 de Super Psychic Policeman Chojo a été diffusé au Japon mardi 13 octobre à 16h00 (heure de Paris). La série est produite par Arvo Animation. (via AniList)\n\n📺 Épisode 2\n🎬 Studio : Arvo Animation\n🏷️ Genres : Comédie, Tranche de vie\n▶️ Streaming : Crunchyroll (catalogue variable selon les pays)\n\n💬 Tu suis Super Psychic Policeman Chojo ? Ton avis sur l’épisode 2 👇\n\n📌 Œuvre : Super Psychic Policeman Chojo\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Super Psychic Policeman Chojo et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#SuperPsychicPolicemanChojo #anime #animefr #japanime #manga",
-   "files": [
-    "reels/20261013-779c43a26a1a_auto.mp4",
-    "posts/20261013-779c43a26a1a.jpg"
-   ],
-   "visual": "visuals/20261013-779c43a26a1a.jpg"
   }
  ],
  "posted": [
@@ -1373,5 +1373,5 @@
  "last_recap": null,
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1791913920.3170068
+ "ig_pause_until": 1791917572.7368543
 }
