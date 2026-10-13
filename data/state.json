@@ -140,23 +140,6 @@
  },
  "queue": [
   {
-   "id": "8f2785220fa1-reel",
-   "type": "reel",
-   "headline": "INUYASHIKI LAST HERO fête ses 9 ans",
-   "work": "INUYASHIKI LAST HERO",
-   "category": "ANIME",
-   "link": "https://anilist.co/anime/97922",
-   "key": null,
-   "ts": 1791854210.458749,
-   "caption": "🎬 INUYASHIKI LAST HERO FÊTE SES 9 ANS\n\nIl y a 9 ans jour pour jour, le 13 octobre 2017, l’anime INUYASHIKI LAST HERO était diffusé pour la première fois au Japon. L’animation est signée MAPPA. (via AniList)\n\n🎂 Sortie le 13 octobre 2017\n📺 11 épisodes\n🎬 Studio : MAPPA\n🏷️ Genres : Action, Drame, Psychologique\n\n💬 Tu l’as découvert quand, INUYASHIKI LAST HERO ? 👇\n\n📌 Œuvre : INUYASHIKI LAST HERO\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan d’INUYASHIKI LAST HERO et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#INUYASHIKILASTHERO #anime #animefr #japanime #manga",
-   "files": [
-    "reels/20261012-8f2785220fa1_auto.mp4",
-    "posts/20261012-8f2785220fa1.jpg"
-   ],
-   "visual": "visuals/20261012-8f2785220fa1.jpg",
-   "errors": 2
-  },
-  {
    "id": "b97fc9721141-reel",
    "type": "reel",
    "headline": "Paradise Kiss fête ses 21 ans",
@@ -171,6 +154,23 @@
     "posts/20261012-b97fc9721141.jpg"
    ],
    "visual": "visuals/20261012-b97fc9721141.jpg",
+   "errors": 2
+  },
+  {
+   "id": "1a576619cf57-reel",
+   "type": "reel",
+   "headline": "Puella Magi Madoka Magica the Movie Part 2 fête ses 14 ans",
+   "work": "Puella Magi Madoka Magica the Movie Part 2",
+   "category": "ANIME",
+   "link": "https://anilist.co/anime/11979",
+   "key": null,
+   "ts": 1791856034.635915,
+   "caption": "🎬 PUELLA MAGI MADOKA MAGICA THE MOVIE PART 2 FÊTE SES 14 ANS\n\nIl y a 14 ans jour pour jour, le 13 octobre 2012, l’anime Puella Magi Madoka Magica the Movie Part 2 était diffusé pour la première fois au Japon. L’animation est signée Shaft. (via AniList)\n\n🎂 Sortie le 13 octobre 2012\n📺 1 épisodes\n🎬 Studio : Shaft\n🏷️ Genres : Action, Drame, Fantasy\n\n💬 Tu l’as découvert quand, Puella Magi Madoka Magica the Movie Part 2 ? 👇\n\n📌 Œuvre : Puella Magi Madoka Magica the Movie Part 2\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Puella Magi Madoka Magica the Movie Part 2 et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
+   "files": [
+    "reels/20261012-1a576619cf57_auto.mp4",
+    "posts/20261012-1a576619cf57.jpg"
+   ],
+   "visual": "visuals/20261012-1a576619cf57.jpg",
    "errors": 1
   }
  ],
@@ -1220,31 +1220,5 @@
  ],
  "last_recap": null,
  "news_count": 34,
- "manual_reels": [
-  {
-   "id": "1a576619cf57",
-   "ts": 1791845106.420399,
-   "headline": "Puella Magi Madoka Magica the Movie Part 2 fête ses 14 ans",
-   "work": "Puella Magi Madoka Magica the Movie Part 2",
-   "video": "reels/20261012-1a576619cf57.mp4",
-   "cover": "posts/20261012-1a576619cf57.jpg",
-   "caption": "🎬 PUELLA MAGI MADOKA MAGICA THE MOVIE PART 2 FÊTE SES 14 ANS\n\nIl y a 14 ans jour pour jour, le 13 octobre 2012, l’anime Puella Magi Madoka Magica the Movie Part 2 était diffusé pour la première fois au Japon. L’animation est signée Shaft. (via AniList)\n\n🎂 Sortie le 13 octobre 2012\n📺 1 épisodes\n🎬 Studio : Shaft\n🏷️ Genres : Action, Drame, Fantasy\n\n💬 Tu l’as découvert quand, Puella Magi Madoka Magica the Movie Part 2 ? 👇\n\n📌 Œuvre : Puella Magi Madoka Magica the Movie Part 2\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Puella Magi Madoka Magica the Movie Part 2 et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
-   "mood": "emotional",
-   "category": "ANIME",
-   "link": "https://anilist.co/anime/11979",
-   "key": [
-    "14",
-    "ans",
-    "fete",
-    "madoka",
-    "magi",
-    "magica",
-    "movie",
-    "part",
-    "puella"
-   ],
-   "visual": "visuals/20261012-1a576619cf57.jpg",
-   "sound": "Puella Magi Madoka Magica the Movie Part 2 opening"
-  }
- ]
+ "manual_reels": []
 }
