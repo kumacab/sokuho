@@ -152,7 +152,7 @@ def episodes(hours=30, min_pop=2000, tz="Europe/Paris"):
     return out
 
 
-def anniversaries(day=None, min_pop=40000, min_years=2, n=20, tz="Europe/Paris"):
+def anniversaries(day=None, min_pop=40000, min_years=2, n=40, tz="Europe/Paris"):
     """Œuvres populaires sorties un jour comme aujourd'hui (anime ou manga)."""
     day = day or datetime.now(ZoneInfo(tz))
     q = """query($d:String,$no:[String]){Page(perPage:%d){

@@ -465,31 +465,76 @@ def cmd_publish(cfg):
         for q in state["queue"]:
             log(f"   [{q['type']}] {q['headline']} → {', '.join(q['files'])}")
         return
+    if time.time() < state.get("ig_pause_until", 0):
+        log("⏸️ Instagram a demandé de ralentir : pause, on reprend au prochain créneau.")
+        return
+    if in_quiet_hours(cfg):
+        log("Heures calmes : rien n'est publié avant le matin.")
+        return
     ig = Instagram()
-    remaining, failed_posts = [], set()
-    for entry in state["queue"]:
-        if entry["type"] == "story" and entry["id"] in failed_posts:
+    cap = cfg.get("api_daily_limit", 45)
+    used = api_used_24h(state)
+    try:  # compteur officiel d'Instagram, s'il répond
+        q = ig.quota()
+        used = max(used, int(q.get("quota_usage", 0)))
+        log(f"Quota Instagram : {used} publication(s) sur 24 h glissantes (plafond du robot : {cap})")
+    except Exception as ex:
+        log(f"Quota Instagram illisible ({ex}), compteur interne : {used}")
+    # Il faut garder de la place pour les posts encore attendus aujourd'hui : les stories passent après.
+    reserve = max(0, cfg["posts_per_day"] - posts_today(cfg, state))
+    order = {"post": 0, "carousel": 0, "reel": 1, "story": 2}
+    queue = sorted(state["queue"], key=lambda e: order.get(e["type"], 3))
+    remaining, failed_posts, feed_done = [], set(), 0
+    max_feed = cfg.get("max_publish_per_run", 2)
+    for n, entry in enumerate(queue):
+        t = entry["type"]
+        if t == "story" and (entry["id"] in failed_posts or any(q["id"] == entry["id"] and q["type"] != "story"
+                                                                  for q in remaining)):
             remaining.append(entry)  # la story attend que son post soit passé
+            continue
+        if t in ("post", "carousel", "reel") and feed_done >= max_feed:
+            remaining.append(entry)  # on étale : pas de rafale de posts
+            continue
+        if used >= cap or (t == "story" and used >= cap - reserve):
+            if t == "story":
+                log(f"   story abandonnée pour garder le quota aux posts : {entry['headline']}")
+            else:
+                remaining.append(entry)
             continue
         try:
             media_id = publish_one(ig, entry)
-            log(f"✅ [{entry['type']}] {entry['headline']} (id {media_id})")
+            used += 1
+            if t != "story":
+                feed_done += 1
+            log(f"✅ [{t}] {entry['headline']} (id {media_id})")
             done = {k: entry.get(k) for k in ("id", "type", "headline", "key", "link", "visual", "work")}
             done.update(media_id=media_id, ts=now_utc().timestamp(),
-                        card=entry["files"][0] if entry["type"] == "post" else entry.get("card"))
+                        card=entry["files"][0] if t == "post" else entry.get("card"))
             state["posted"].append(done)
         except TimeoutError as ex:
             log(f"⏳ {ex} — nouvel essai au prochain passage")
             remaining.append(entry)
             failed_posts.add(entry["id"])
         except (InstagramError, requests.RequestException) as ex:
+            msg = str(ex).lower()
+            if any(k in msg for k in ("too many actions", "2207042", "rate limit", "request limit", "limit reached")):
+                # Instagram freine : on ne gaspille pas d'essais, on met tout en pause une heure.
+                state["ig_pause_until"] = time.time() + 3600
+                log(f"⏸️ Instagram freine ({ex}) → pause d'une heure, rien n'est perdu")
+                remaining += [e for e in queue[n:] if e not in remaining]
+                break
             entry["errors"] = entry.get("errors", 0) + 1
-            log(f"❌ [{entry['type']}] échec {entry['errors']}/3 : {entry['headline']} — {ex}")
+            log(f"❌ [{t}] échec {entry['errors']}/3 : {entry['headline']} — {ex}")
             failed_posts.add(entry["id"])
             if entry["errors"] < 3:
                 remaining.append(entry)
     state["queue"] = remaining
     save_state(state)
+
+
+def api_used_24h(state):
+    cutoff = now_utc().timestamp() - 86400
+    return sum(1 for p in state["posted"] if p.get("ts", 0) >= cutoff)
 
 
 # ---------------------------------------------------------------- outils
