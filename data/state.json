@@ -138,7 +138,25 @@
   "e9d1b49160a9": 1791845090.060174,
   "1a576619cf57": 1791845090.651173
  },
- "queue": [],
+ "queue": [
+  {
+   "id": "8f2785220fa1-reel",
+   "type": "reel",
+   "headline": "INUYASHIKI LAST HERO fête ses 9 ans",
+   "work": "INUYASHIKI LAST HERO",
+   "category": "ANIME",
+   "link": "https://anilist.co/anime/97922",
+   "key": null,
+   "ts": 1791854210.458749,
+   "caption": "🎬 INUYASHIKI LAST HERO FÊTE SES 9 ANS\n\nIl y a 9 ans jour pour jour, le 13 octobre 2017, l’anime INUYASHIKI LAST HERO était diffusé pour la première fois au Japon. L’animation est signée MAPPA. (via AniList)\n\n🎂 Sortie le 13 octobre 2017\n📺 11 épisodes\n🎬 Studio : MAPPA\n🏷️ Genres : Action, Drame, Psychologique\n\n💬 Tu l’as découvert quand, INUYASHIKI LAST HERO ? 👇\n\n📌 Œuvre : INUYASHIKI LAST HERO\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan d’INUYASHIKI LAST HERO et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#INUYASHIKILASTHERO #anime #animefr #japanime #manga",
+   "files": [
+    "reels/20261012-8f2785220fa1_auto.mp4",
+    "posts/20261012-8f2785220fa1.jpg"
+   ],
+   "visual": "visuals/20261012-8f2785220fa1.jpg",
+   "errors": 1
+  }
+ ],
  "posted": [
   {
    "id": "5a95cf269da6",
@@ -1186,27 +1204,6 @@
  "last_recap": null,
  "news_count": 34,
  "manual_reels": [
-  {
-   "id": "8f2785220fa1",
-   "ts": 1791843280.370959,
-   "headline": "INUYASHIKI LAST HERO fête ses 9 ans",
-   "work": "INUYASHIKI LAST HERO",
-   "video": "reels/20261012-8f2785220fa1.mp4",
-   "cover": "posts/20261012-8f2785220fa1.jpg",
-   "caption": "🎬 INUYASHIKI LAST HERO FÊTE SES 9 ANS\n\nIl y a 9 ans jour pour jour, le 13 octobre 2017, l’anime INUYASHIKI LAST HERO était diffusé pour la première fois au Japon. L’animation est signée MAPPA. (via AniList)\n\n🎂 Sortie le 13 octobre 2017\n📺 11 épisodes\n🎬 Studio : MAPPA\n🏷️ Genres : Action, Drame, Psychologique\n\n💬 Tu l’as découvert quand, INUYASHIKI LAST HERO ? 👇\n\n📌 Œuvre : INUYASHIKI LAST HERO\n📰 Source : AniList\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan d’INUYASHIKI LAST HERO et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#INUYASHIKILASTHERO #anime #animefr #japanime #manga",
-   "mood": "hype",
-   "category": "ANIME",
-   "link": "https://anilist.co/anime/97922",
-   "key": [
-    "ans",
-    "fete",
-    "hero",
-    "inuyashiki",
-    "last"
-   ],
-   "visual": "visuals/20261012-8f2785220fa1.jpg",
-   "sound": "INUYASHIKI LAST HERO opening"
-  },
   {
    "id": "b97fc9721141",
    "ts": 1791844200.93644,
