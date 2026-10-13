@@ -332,7 +332,17 @@ def render_card(item, category, headline, brand, visual=None, tz="Europe/Paris",
 
 
 def render_post(item, category, headline, brand, visual=None, tz="Europe/Paris"):
-    return render_card(item, category, headline, brand, visual, tz, story=False)
+    """Post d'actu au style des carrousels (pastille œuvre + titre en capitales)."""
+    from datetime import datetime
+    from zoneinfo import ZoneInfo
+    from .carousels import news_card
+    work = (item.get("work") or "").strip()
+    head = headline
+    if work and head.lower().startswith(work.lower()):  # pas de doublon « Œuvre : Œuvre … »
+        head = head[len(work):].lstrip(" :–-") or head
+    when = datetime.fromtimestamp(item["published"], ZoneInfo(tz))
+    return news_card(head, work if len(work) <= 40 else "", category, item["source"], brand, visual,
+                     f"{when:%d/%m} · {when:%Hh%M}")
 
 
 def render_story(item, category, headline, brand, visual=None, tz="Europe/Paris"):

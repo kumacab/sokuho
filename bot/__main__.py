@@ -324,6 +324,35 @@ def prepare_recap(cfg, state, week, force=False):
         + (" + reel" if cfg.get("weekly_recap", {}).get("reel", True) else ""))
 
 
+def prepare_carousels(cfg, state, force=None):
+    """Carrousels « utiles » à jour et heure fixes (planning, attendus, films, décompte)."""
+    from . import carousels
+    now = paris_now(cfg)
+    week = now.strftime("%G-W%V")
+    done = state.setdefault("carousels_done", {})
+    for plan in cfg.get("carousels", []):
+        kind = plan["kind"]
+        if force and kind != force:
+            continue
+        if not force and (now.isoweekday() != plan["weekday"] or now.hour < plan["hour"] or done.get(kind) == week):
+            continue
+        done[kind] = week  # une seule tentative par semaine, même en cas d'échec
+        try:
+            slides, caption = carousels.BUILDERS[kind](cfg["brand"])
+        except Exception as ex:
+            log(f"Carrousel « {kind} » impossible ({ex})")
+            continue
+        if not slides or len(slides) < 3:
+            log(f"Carrousel « {kind} » : pas assez de contenu cette semaine")
+            continue
+        files = []
+        for k, sl in enumerate(slides[:10]):
+            files.append(rel(render.save_jpeg(sl, MEDIA_DIR / media_name("carousels", f"{week}-{kind}-{k}"))))
+        state["queue"].append({"id": f"car-{kind}-{week}", "type": "carousel", "headline": caption.split("\n")[0],
+                               "key": None, "ts": now_utc().timestamp(), "caption": caption, "files": files})
+        log(f"Carrousel « {kind} » : {len(files)} slides en file")
+
+
 def prune_media(cfg):
     keep = cfg.get("media_keep_days", 9)
     limit = (now_utc() - timedelta(days=keep)).strftime("%Y%m%d")
@@ -411,6 +440,7 @@ def cmd_prepare(cfg):
         week = recap_due(cfg, state)
         if week:
             prepare_recap(cfg, state, week)
+        prepare_carousels(cfg, state)
     prune_media(cfg)
     if env("DRY_RUN") != "1":
         promote_manual_reels(cfg, state)
@@ -602,6 +632,14 @@ def cmd_recap_now(cfg):
     save_state(state)
 
 
+def cmd_carousel_now(cfg):
+    """python -m bot carousel-now week|upcoming|movies|countdown"""
+    state = load_state()
+    MEDIA_DIR.mkdir(exist_ok=True)
+    prepare_carousels(cfg, state, force=sys.argv[2] if len(sys.argv) > 2 else "week")
+    save_state(state)
+
+
 def cmd_refresh_token(cfg):
     from .instagram import refresh_token
     token, expires = refresh_token(env("IG_ACCESS_TOKEN"))
@@ -623,6 +661,7 @@ def main():
     cmd = sys.argv[1] if len(sys.argv) > 1 else "help"
     cfg = load_config()
     commands = {"prepare": cmd_prepare, "publish": cmd_publish, "preview": cmd_preview, "recap-now": cmd_recap_now,
+                "carousel-now": cmd_carousel_now,
                 "refresh-token": cmd_refresh_token, "check": cmd_check}
     if cmd not in commands:
         print(__doc__)

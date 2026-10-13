@@ -17,7 +17,7 @@
   },
   "media_keep_days": 9,
   "max_posts_per_run": 2,
-  "posts_per_day": 15,
+  "posts_per_day": 6,
   "max_age_hours": 12,
   "dedupe_hours": 24,
   "quiet_hours": [
@@ -89,7 +89,7 @@
     "manual_timeout_hours": 3
   },
   "fillers": {
-    "enabled": true,
+    "enabled": false,
     "max_per_run": 1,
     "episode_hours": 30,
     "episode_min_popularity": 15000,
@@ -97,5 +97,27 @@
   },
   "max_publish_per_run": 2,
   "api_daily_limit": 45,
-  "stories_for_fillers": false
+  "stories_for_fillers": false,
+  "carousels": [
+    {
+      "kind": "week",
+      "weekday": 1,
+      "hour": 9
+    },
+    {
+      "kind": "upcoming",
+      "weekday": 3,
+      "hour": 18
+    },
+    {
+      "kind": "movies",
+      "weekday": 5,
+      "hour": 18
+    },
+    {
+      "kind": "countdown",
+      "weekday": 6,
+      "hour": 12
+    }
+  ]
 }

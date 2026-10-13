@@ -135,3 +135,33 @@ Si ce n'est pas fait au bout de 3 h (`reels.manual_timeout_hours`), le robot le 
 1. **Épisode sorti** : les nouveaux épisodes des séries de la saison, juste après leur diffusion au Japon (studio, nombre d'épisodes, plateforme) ;
 2. **Anniversaire** : « Chainsaw Man fête ses 4 ans », pour les œuvres populaires sorties un jour comme aujourd'hui.
 Ces deux formats viennent de l'API publique et gratuite d'AniList (`bot/anilist.py`, réglages dans `fillers`).
+# Analyse d'inku_fr et nouvelle ligne éditoriale (13/10/2026)
+
+Basée sur 20 captures de 7 publications d'inku_fr (26 août → 6 octobre 2026).
+
+## Ce qui marche chez eux
+| Publication | Date | J'aime | Partages |
+|---|---|---|---|
+| Le décompte des animes de cet automne 2026 (J-8, J-1…) | 24 sept. | 2 438 | 827 |
+| Le calendrier ultime des animes d'automne 2026 (un slide par jour) | 2 oct. | 2 413 | 534 |
+| Les animes fous qui sortent en 2027 (3 bandeaux par slide) | 6 oct. | 1 576 | 292 |
+| Les prochains films d'animation fous annoncés | 26 août | 1 450 | 291 |
+| Quel est l'anime de l'été pour vous ? (sondage) | 22 sept. | 962 | 63 |
+
+- Leurs gros succès sont des **carrousels d'infos utiles** (calendrier, décompte, à venir) : beaucoup de partages et d'enregistrements.
+- **Rythme** : un gros carrousel tous les 3 à 5 jours environ, pas des dizaines de posts par jour.
+- **Mise en page constante** : logo dans un coin, énorme titre blanc en capitales avec un mot surligné dans une pastille de couleur, flèche → sur la couverture ; un slide par œuvre avec pastille titre + date.
+- **Légendes** : une accroche en capitales + emoji (« ON VA PAS S'ENNUYER EN 2027 ! 🔥 »), une question.
+- **Musique** tendance sur les carrousels : impossible via l'API Instagram (seulement depuis l'appli).
+
+## Ce que fait maintenant SOKUHŌ (en rouge/noir/jaune, pas en violet)
+| Quand | Carrousel |
+|---|---|
+| Lundi 9 h | Le planning anime de la semaine (un slide par jour, heure, épisode, plateforme) |
+| Mercredi 18 h | Les animes attendus la saison prochaine (3 bandeaux par slide) |
+| Vendredi 18 h | Les prochains films d'animation annoncés |
+| Samedi 12 h | Le décompte des animes qui démarrent dans les 3 semaines (si au moins 4) |
+| Dimanche 18 h | Le récap de la semaine |
+
+En plus : 6 actus par jour maximum, au nouveau style (pastille œuvre + titre en capitales) ; reels seulement pour les grosses annonces. Plus de posts « épisode X est sorti » ni « anniversaire ».
+Données des carrousels : API publique et gratuite d'AniList.
