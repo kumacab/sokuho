@@ -142,7 +142,9 @@
   "82a10a22054e": 1791900260.881009,
   "779c43a26a1a": 1791900261.556116,
   "cc19015b427d": 1791901174.648986,
-  "51c75780ef61": 1791903915.760819
+  "51c75780ef61": 1791903915.760819,
+  "92593e969eab": 1791928136.056194,
+  "0ab8bd626309": 1791928153.542509
  },
  "queue": [],
  "posted": [
@@ -1187,10 +1189,74 @@
    "media_id": "18140936080617186",
    "ts": 1791843416.143983,
    "card": null
+  },
+  {
+   "id": "92593e969eab",
+   "type": "reel",
+   "headline": "Black Clover Saison 2 Épisode 3 : Date et Heure de Sortie",
+   "key": [
+    "black",
+    "clover",
+    "episode",
+    "heure",
+    "images",
+    "premieres",
+    "resume"
+   ],
+   "link": "https://animotaku.fr/actualite/anime-black-clover-saison-2-episode-3-date-heure-sortie/",
+   "visual": "visuals/20261013-92593e969eab.jpg",
+   "work": "Black Clover Saison 2 Épisode 3",
+   "media_id": "18114030665114154",
+   "ts": 1791928269.545127,
+   "card": "posts/20261013-92593e969eab.jpg"
+  },
+  {
+   "id": "0ab8bd626309",
+   "type": "reel",
+   "headline": "L’anime THE FABLE Saison 2 sortira le 9 janvier 2027 sur Disney+",
+   "key": [
+    "2027",
+    "disney",
+    "fable",
+    "janvier",
+    "sortira"
+   ],
+   "link": "https://animotaku.fr/actualite/anime-the-fable-saison-2-date-sortie/",
+   "visual": "visuals/20261013-0ab8bd626309.jpg",
+   "work": "The Fable",
+   "media_id": "18093283589412256",
+   "ts": 1791928338.986287,
+   "card": "posts/20261013-0ab8bd626309.jpg"
+  },
+  {
+   "id": "92593e969eab",
+   "type": "story",
+   "headline": "Black Clover Saison 2 Épisode 3 : Date et Heure de Sortie",
+   "key": null,
+   "link": "https://animotaku.fr/actualite/anime-black-clover-saison-2-episode-3-date-heure-sortie/",
+   "visual": null,
+   "work": "Black Clover Saison 2 Épisode 3",
+   "media_id": "18117223574094942",
+   "ts": 1791928353.173906,
+   "card": null
+  },
+  {
+   "id": "0ab8bd626309",
+   "type": "story",
+   "headline": "L’anime THE FABLE Saison 2 sortira le 9 janvier 2027 sur Disney+",
+   "key": null,
+   "link": "https://animotaku.fr/actualite/anime-the-fable-saison-2-date-sortie/",
+   "visual": null,
+   "work": "The Fable",
+   "media_id": "17923058832440795",
+   "ts": 1791928366.983079,
+   "card": null
   }
  ],
  "last_recap": null,
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 0
+ "ig_pause_until": 0,
+ "carousels_done": {},
+ "ig_user_id": "17841459944087335"
 }
