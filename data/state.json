@@ -148,7 +148,8 @@
   "578de4b44201": 1791929047.381159,
   "362b69a7e8d4": 1791965531.25662,
   "87b678de7f02": 1791968273.865979,
-  "af798af9dede": 1791968274.793884
+  "af798af9dede": 1791968274.793884,
+  "b4a0d7879aef": 1791971916.231279
  },
  "queue": [
   {
@@ -185,6 +186,43 @@
    "type": "story",
    "files": [
     "stories/20261014-87b678de7f02.jpg"
+   ]
+  },
+  {
+   "id": "b4a0d7879aef",
+   "headline": "Expelled from Paradise: Resonance of the Heart",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/14/expelled-from-paradise-resonance-of-the-heart-film-trailer-visuel-chanson",
+   "work": "Expelled from Paradise",
+   "key": [
+    "expelled",
+    "from",
+    "heart",
+    "nouvelles",
+    "paradise",
+    "resonance"
+   ],
+   "ts": 1791971917.115536,
+   "type": "reel",
+   "files": [
+    "reels/20261014-b4a0d7879aef.mp4",
+    "posts/20261014-b4a0d7879aef.jpg"
+   ],
+   "caption": "🎬 EXPELLED FROM PARADISE: RESONANCE OF THE HEART\n\nLe film anime Expelled from Paradise: Resonance of the Heart a dévoilé une nouvelle bande-annonce, une affiche et des informations concernant la chanson du film. La bande-annonce présente un extrait de la chanson intitulée Beyond the Night, interprétée par Teddyloid en featuring avec Ayane Sakura (dans le rôle de Gabriel) et Nagi Inoue (du groupe Nogizaka46). (via Crunchyroll News)\n\n💬 Ton avis sur le studio ? 🎬\n\n📌 Œuvre : Expelled from Paradise\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan d’Expelled from Paradise et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#ExpelledFromParadise #anime #animefr #japanime #manga",
+   "visual": "visuals/20261014-b4a0d7879aef.jpg",
+   "card": "posts/20261014-b4a0d7879aef.jpg"
+  },
+  {
+   "id": "b4a0d7879aef",
+   "headline": "Expelled from Paradise: Resonance of the Heart",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/14/expelled-from-paradise-resonance-of-the-heart-film-trailer-visuel-chanson",
+   "work": "Expelled from Paradise",
+   "key": null,
+   "ts": 1791971917.115536,
+   "type": "story",
+   "files": [
+    "stories/20261014-b4a0d7879aef.jpg"
    ]
   }
  ],
