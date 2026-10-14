@@ -152,96 +152,7 @@
   "b4a0d7879aef": 1791971916.231279,
   "63904fdf6cf5": 1791976475.124319
  },
- "queue": [
-  {
-   "id": "63904fdf6cf5",
-   "headline": "Décès de la créatrice de mangas Masako Watanabe à 97 ans",
-   "category": "ANIME",
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/14/deces-masako-watanabe-manga",
-   "work": "",
-   "key": [
-    "97",
-    "ans",
-    "creatrice",
-    "deces",
-    "mangas",
-    "masako",
-    "watanabe"
-   ],
-   "ts": 1791976475.981911,
-   "type": "post",
-   "files": [
-    "posts/20261014-63904fdf6cf5.jpg"
-   ],
-   "caption": "🎬 DÉCÈS DE LA CRÉATRICE DE MANGAS MASAKO WATANABE À 97 ANS\n\nImage via le compte X de Masako Watanabe Le compte officiel X de la créatrice de mangas Masako Watanabe a annoncé ce lundi qu'elle était décédée le 3 octobre. Le communiqué de la direction précise : « Elle a mené ses 97 années de vie aux côtés du manga, et à la fin, elle s'est éteinte paisiblement, presque comme si elle s'était endormie. (via Crunchyroll News)\n\n💬 Ton avis sur le studio ? 🎬\n\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote qui doit savoir ça et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
-   "alt": "ANIME — Décès de la créatrice de mangas Masako Watanabe à 97 ans",
-   "visual": "visuals/20261014-63904fdf6cf5.jpg",
-   "errors": 1
-  },
-  {
-   "id": "b4a0d7879aef",
-   "headline": "Expelled from Paradise: Resonance of the Heart",
-   "category": "ANIME",
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/14/expelled-from-paradise-resonance-of-the-heart-film-trailer-visuel-chanson",
-   "work": "Expelled from Paradise",
-   "key": [
-    "expelled",
-    "from",
-    "heart",
-    "nouvelles",
-    "paradise",
-    "resonance"
-   ],
-   "ts": 1791971917.115536,
-   "type": "reel",
-   "files": [
-    "reels/20261014-b4a0d7879aef.mp4",
-    "posts/20261014-b4a0d7879aef.jpg"
-   ],
-   "caption": "🎬 EXPELLED FROM PARADISE: RESONANCE OF THE HEART\n\nLe film anime Expelled from Paradise: Resonance of the Heart a dévoilé une nouvelle bande-annonce, une affiche et des informations concernant la chanson du film. La bande-annonce présente un extrait de la chanson intitulée Beyond the Night, interprétée par Teddyloid en featuring avec Ayane Sakura (dans le rôle de Gabriel) et Nagi Inoue (du groupe Nogizaka46). (via Crunchyroll News)\n\n💬 Ton avis sur le studio ? 🎬\n\n📌 Œuvre : Expelled from Paradise\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan d’Expelled from Paradise et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#ExpelledFromParadise #anime #animefr #japanime #manga",
-   "visual": "visuals/20261014-b4a0d7879aef.jpg",
-   "card": "posts/20261014-b4a0d7879aef.jpg"
-  },
-  {
-   "id": "87b678de7f02",
-   "headline": "Hirayasumi dévoile 5 nouvelles voix de son casting",
-   "category": "ANIME",
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/14/hirayasumi-casting",
-   "work": "",
-   "key": null,
-   "ts": 1791968274.471566,
-   "type": "story",
-   "files": [
-    "stories/20261014-87b678de7f02.jpg"
-   ]
-  },
-  {
-   "id": "b4a0d7879aef",
-   "headline": "Expelled from Paradise: Resonance of the Heart",
-   "category": "ANIME",
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/14/expelled-from-paradise-resonance-of-the-heart-film-trailer-visuel-chanson",
-   "work": "Expelled from Paradise",
-   "key": null,
-   "ts": 1791971917.115536,
-   "type": "story",
-   "files": [
-    "stories/20261014-b4a0d7879aef.jpg"
-   ]
-  },
-  {
-   "id": "63904fdf6cf5",
-   "headline": "Décès de la créatrice de mangas Masako Watanabe à 97 ans",
-   "category": "ANIME",
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/14/deces-masako-watanabe-manga",
-   "work": "",
-   "key": null,
-   "ts": 1791976475.981911,
-   "type": "story",
-   "files": [
-    "stories/20261014-63904fdf6cf5.jpg"
-   ]
-  }
- ],
+ "queue": [],
  "posted": [
   {
    "id": "5a95cf269da6",
@@ -1429,6 +1340,81 @@
    "ts": 1791976585.132219,
    "media_id": "?",
    "card": "posts/20261014-87b678de7f02.jpg"
+  },
+  {
+   "id": "63904fdf6cf5",
+   "type": "post",
+   "headline": "Décès de la créatrice de mangas Masako Watanabe à 97 ans",
+   "key": [
+    "97",
+    "ans",
+    "creatrice",
+    "deces",
+    "mangas",
+    "masako",
+    "watanabe"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/14/deces-masako-watanabe-manga",
+   "visual": "visuals/20261014-63904fdf6cf5.jpg",
+   "work": "",
+   "ts": 1791984702.737097,
+   "media_id": "?",
+   "card": "posts/20261014-63904fdf6cf5.jpg"
+  },
+  {
+   "id": "b4a0d7879aef",
+   "type": "reel",
+   "headline": "Expelled from Paradise: Resonance of the Heart",
+   "key": [
+    "expelled",
+    "from",
+    "heart",
+    "nouvelles",
+    "paradise",
+    "resonance"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/14/expelled-from-paradise-resonance-of-the-heart-film-trailer-visuel-chanson",
+   "visual": "visuals/20261014-b4a0d7879aef.jpg",
+   "work": "Expelled from Paradise",
+   "media_id": "17965327085979558",
+   "ts": 1791984773.647463,
+   "card": "posts/20261014-b4a0d7879aef.jpg"
+  },
+  {
+   "id": "87b678de7f02",
+   "type": "story",
+   "headline": "Hirayasumi dévoile 5 nouvelles voix de son casting",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/14/hirayasumi-casting",
+   "visual": null,
+   "work": "",
+   "media_id": "18104322065360717",
+   "ts": 1791984787.077523,
+   "card": null
+  },
+  {
+   "id": "b4a0d7879aef",
+   "type": "story",
+   "headline": "Expelled from Paradise: Resonance of the Heart",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/14/expelled-from-paradise-resonance-of-the-heart-film-trailer-visuel-chanson",
+   "visual": null,
+   "work": "Expelled from Paradise",
+   "media_id": "17976983298135625",
+   "ts": 1791984800.495557,
+   "card": null
+  },
+  {
+   "id": "63904fdf6cf5",
+   "type": "story",
+   "headline": "Décès de la créatrice de mangas Masako Watanabe à 97 ans",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/14/deces-masako-watanabe-manga",
+   "visual": null,
+   "work": "",
+   "media_id": "17938379190382522",
+   "ts": 1791984813.489991,
+   "card": null
   }
  ],
  "last_recap": null,
