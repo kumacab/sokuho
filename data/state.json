@@ -151,7 +151,8 @@
   "af798af9dede": 1791968274.793884,
   "b4a0d7879aef": 1791971916.231279,
   "63904fdf6cf5": 1791976475.124319,
-  "ffe2589f2e4f": 1791987449.297861
+  "ffe2589f2e4f": 1791987449.297861,
+  "d976c0c2c87e": 1791990186.994862
  },
  "queue": [
   {
@@ -197,6 +198,40 @@
    "type": "story",
    "files": [
     "stories/20261014-ffe2589f2e4f.jpg"
+   ]
+  },
+  {
+   "id": "d976c0c2c87e",
+   "headline": "Dreamland : Une exposition pour les 20 ans du manga",
+   "category": "MANGA",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/14/dreamland-exposition-20-ans",
+   "work": "Dreamland",
+   "key": [
+    "20",
+    "ans",
+    "dreamland",
+    "exposition"
+   ],
+   "ts": 1791990188.191909,
+   "type": "post",
+   "files": [
+    "posts/20261014-d976c0c2c87e.jpg"
+   ],
+   "caption": "📚 DREAMLAND : UNE EXPOSITION POUR LES 20 ANS DU MANGA\n\nAvec 800 000 exemplaires vendus au total et une publication au Japon depuis septembre 2024, la série française Dreamland a su se faire une place de choix dans le milieu du manga, au point d'avoir droit à son adaptation animée qui sera diffusée cet automne. (via Crunchyroll News)\n\n📅 Date : automne 2026\n📺 Diffusion : Crunchyroll\n📚 Éditeur : Pika\n\n💬 Tu vas le prendre en VF ?\n\n📌 Œuvre : Dreamland\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Dreamland et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#Dreamland #manga #mangafr #mangaka #anime",
+   "alt": "MANGA — Dreamland : Une exposition pour les 20 ans du manga",
+   "visual": "visuals/20261014-d976c0c2c87e.jpg"
+  },
+  {
+   "id": "d976c0c2c87e",
+   "headline": "Dreamland : Une exposition pour les 20 ans du manga",
+   "category": "MANGA",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/14/dreamland-exposition-20-ans",
+   "work": "Dreamland",
+   "key": null,
+   "ts": 1791990188.191909,
+   "type": "story",
+   "files": [
+    "stories/20261014-d976c0c2c87e.jpg"
    ]
   }
  ],
