@@ -147,47 +147,7 @@
   "0ab8bd626309": 1791928153.542509,
   "578de4b44201": 1791929047.381159
  },
- "queue": [
-  {
-   "id": "578de4b44201",
-   "headline": "Rakuen Tsuihou – Expelled from Paradise Kokoro no Resonance : toutes les nouvelles infos",
-   "category": "ANIME",
-   "link": "https://adala-news.fr/2026/10/toutes-les-infos-sur-lanime-rakuen-tsuihou-expelled-from-paradise-kokoro-no-resonance/",
-   "work": "Toutes les infos sur l’anime Rakuen Tsuihou",
-   "key": [
-    "expelled",
-    "from",
-    "kokoro",
-    "no",
-    "paradise",
-    "rakuen",
-    "resonance",
-    "tsuihou"
-   ],
-   "ts": 1791929049.659205,
-   "type": "post",
-   "files": [
-    "posts/20261013-578de4b44201.jpg"
-   ],
-   "caption": "🎬 RAKUEN TSUIHOU – EXPELLED FROM PARADISE KOKORO NO RESONANCE : TOUTES LES NOUVELLES INFOS\n\nLe film d’animation Rakuen Tsuihou -Expelled from Paradise- Kokoro no Resonance ( Expelled from Paradise: Heart’s Resonance ) du réalisateur Seiji Mizushima ( Expelled from Paradise, Beatless, Concrete Revolutio ), se dévoile plus en détail à travers un deuxième trailer centré sur la périlleuse mission de l’agente Gabriel. (via Adala News)\n\n📅 Date : 13 Novembre 2026\n🎥 Réalisation : Seiji Mizushima\n\n💬 Ton avis sur le studio ? 🎬\n\n📌 Œuvre : Toutes les infos sur l’anime Rakuen Tsuihou\n📰 Source : Adala News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Toutes les infos sur l’anime Rakuen Tsuihou et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
-   "alt": "ANIME — Rakuen Tsuihou – Expelled from Paradise Kokoro no Resonance : toutes les nouvelles infos",
-   "visual": "visuals/20261013-578de4b44201.jpg",
-   "errors": 1
-  },
-  {
-   "id": "578de4b44201",
-   "headline": "Rakuen Tsuihou – Expelled from Paradise Kokoro no Resonance : toutes les nouvelles infos",
-   "category": "ANIME",
-   "link": "https://adala-news.fr/2026/10/toutes-les-infos-sur-lanime-rakuen-tsuihou-expelled-from-paradise-kokoro-no-resonance/",
-   "work": "Toutes les infos sur l’anime Rakuen Tsuihou",
-   "key": null,
-   "ts": 1791929049.659205,
-   "type": "story",
-   "files": [
-    "stories/20261013-578de4b44201.jpg"
-   ]
-  }
- ],
+ "queue": [],
  "posted": [
   {
    "id": "5a95cf269da6",
@@ -1291,6 +1251,39 @@
    "work": "The Fable",
    "media_id": "17923058832440795",
    "ts": 1791928366.983079,
+   "card": null
+  },
+  {
+   "id": "578de4b44201",
+   "type": "post",
+   "headline": "Rakuen Tsuihou – Expelled from Paradise Kokoro no Resonance : toutes les nouvelles infos",
+   "key": [
+    "expelled",
+    "from",
+    "kokoro",
+    "no",
+    "paradise",
+    "rakuen",
+    "resonance",
+    "tsuihou"
+   ],
+   "link": "https://adala-news.fr/2026/10/toutes-les-infos-sur-lanime-rakuen-tsuihou-expelled-from-paradise-kokoro-no-resonance/",
+   "visual": "visuals/20261013-578de4b44201.jpg",
+   "work": "Toutes les infos sur l’anime Rakuen Tsuihou",
+   "ts": 1791954582.402577,
+   "media_id": "?",
+   "card": "posts/20261013-578de4b44201.jpg"
+  },
+  {
+   "id": "578de4b44201",
+   "type": "story",
+   "headline": "Rakuen Tsuihou – Expelled from Paradise Kokoro no Resonance : toutes les nouvelles infos",
+   "key": null,
+   "link": "https://adala-news.fr/2026/10/toutes-les-infos-sur-lanime-rakuen-tsuihou-expelled-from-paradise-kokoro-no-resonance/",
+   "visual": null,
+   "work": "Toutes les infos sur l’anime Rakuen Tsuihou",
+   "media_id": "18131558023682505",
+   "ts": 1791954595.451406,
    "card": null
   }
  ],
