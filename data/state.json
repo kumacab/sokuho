@@ -145,7 +145,8 @@
   "51c75780ef61": 1791903915.760819,
   "92593e969eab": 1791928136.056194,
   "0ab8bd626309": 1791928153.542509,
-  "578de4b44201": 1791929047.381159
+  "578de4b44201": 1791929047.381159,
+  "362b69a7e8d4": 1791965531.25662
  },
  "queue": [],
  "posted": [
@@ -1284,6 +1285,38 @@
    "work": "Toutes les infos sur l’anime Rakuen Tsuihou",
    "media_id": "18131558023682505",
    "ts": 1791954595.451406,
+   "card": null
+  },
+  {
+   "id": "362b69a7e8d4",
+   "type": "reel",
+   "headline": "Les Carnets de l'apothicaire : Le 3e Trailer de personnages présente le…",
+   "key": [
+    "3e",
+    "apothicaire",
+    "carnets",
+    "dan",
+    "kaja",
+    "personnages",
+    "presente"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/14/les-carnets-de-l-apothicaire-the-late-lady-s-treasure-film-trailer-personnages-kaja-dan",
+   "visual": "visuals/20261014-362b69a7e8d4.jpg",
+   "work": "Les Carnets de l'apothicaire",
+   "media_id": "18023461430722557",
+   "ts": 1791965747.538113,
+   "card": "posts/20261014-362b69a7e8d4.jpg"
+  },
+  {
+   "id": "362b69a7e8d4",
+   "type": "story",
+   "headline": "Les Carnets de l'apothicaire : Le 3e Trailer de personnages présente le…",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/14/les-carnets-de-l-apothicaire-the-late-lady-s-treasure-film-trailer-personnages-kaja-dan",
+   "visual": null,
+   "work": "Les Carnets de l'apothicaire",
+   "media_id": "17915193510467132",
+   "ts": 1791965760.326379,
    "card": null
   }
  ],
