@@ -154,52 +154,7 @@
   "ffe2589f2e4f": 1791987449.297861,
   "d976c0c2c87e": 1791990186.994862
  },
- "queue": [
-  {
-   "id": "car-upcoming-2026-W42",
-   "type": "carousel",
-   "headline": "🔥 ON VA PAS S'ENNUYER CET HIVER 2027 !",
-   "key": null,
-   "ts": 1791993838.038065,
-   "caption": "🔥 ON VA PAS S'ENNUYER CET HIVER 2027 !\n\nLes animes les plus attendus de la saison prochaine : MASHLE, Shangri-La Frontier, Ki ni Natteru Hito ga Otoko…, Sekai Saikou no Ansatsusha, SAKAMOTO DAYS, Sekiro: No Defeat… et d'autres à découvrir dans le carrousel.\n\n📌 Enregistre pour ne rien oublier\n💬 Lequel tu attends le plus ?\n\nDonnées : AniList · Visuels © leurs ayants droit\n\n#animehiver2027 #animefr #animes #manga #otaku",
-   "files": [
-    "carousels/20261014-2026-W42-upcoming-0.jpg",
-    "carousels/20261014-2026-W42-upcoming-1.jpg",
-    "carousels/20261014-2026-W42-upcoming-2.jpg",
-    "carousels/20261014-2026-W42-upcoming-3.jpg",
-    "carousels/20261014-2026-W42-upcoming-4.jpg",
-    "carousels/20261014-2026-W42-upcoming-5.jpg",
-    "carousels/20261014-2026-W42-upcoming-6.jpg"
-   ],
-   "errors": 1
-  },
-  {
-   "id": "ffe2589f2e4f",
-   "headline": "Qui est Beerus ? Tout ce qu'il faut savoir sur le personnage central de…",
-   "category": "ANIME",
-   "link": "https://crunchyroll.com/fr/news/guides/2026/10/14/dragon-ball-super-beerus-personnage-wiki",
-   "work": "",
-   "key": null,
-   "ts": 1791987450.551692,
-   "type": "story",
-   "files": [
-    "stories/20261014-ffe2589f2e4f.jpg"
-   ]
-  },
-  {
-   "id": "d976c0c2c87e",
-   "headline": "Dreamland : Une exposition pour les 20 ans du manga",
-   "category": "MANGA",
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/14/dreamland-exposition-20-ans",
-   "work": "Dreamland",
-   "key": null,
-   "ts": 1791990188.191909,
-   "type": "story",
-   "files": [
-    "stories/20261014-d976c0c2c87e.jpg"
-   ]
-  }
- ],
+ "queue": [],
  "posted": [
   {
    "id": "5a95cf269da6",
@@ -1506,6 +1461,42 @@
    "ts": 1792002051.569316,
    "media_id": "?",
    "card": "posts/20261014-d976c0c2c87e.jpg"
+  },
+  {
+   "id": "car-upcoming-2026-W42",
+   "type": "carousel",
+   "headline": "🔥 ON VA PAS S'ENNUYER CET HIVER 2027 !",
+   "key": null,
+   "link": null,
+   "visual": null,
+   "work": null,
+   "ts": 1792009367.958738,
+   "media_id": "?",
+   "card": null
+  },
+  {
+   "id": "ffe2589f2e4f",
+   "type": "story",
+   "headline": "Qui est Beerus ? Tout ce qu'il faut savoir sur le personnage central de…",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/guides/2026/10/14/dragon-ball-super-beerus-personnage-wiki",
+   "visual": null,
+   "work": "",
+   "media_id": "18098187617439369",
+   "ts": 1792009382.487806,
+   "card": null
+  },
+  {
+   "id": "d976c0c2c87e",
+   "type": "story",
+   "headline": "Dreamland : Une exposition pour les 20 ans du manga",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/14/dreamland-exposition-20-ans",
+   "visual": null,
+   "work": "Dreamland",
+   "media_id": "18096662975406403",
+   "ts": 1792009396.214201,
+   "card": null
   }
  ],
  "last_recap": null,
