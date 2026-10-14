@@ -233,6 +233,23 @@
    "files": [
     "stories/20261014-d976c0c2c87e.jpg"
    ]
+  },
+  {
+   "id": "car-upcoming-2026-W42",
+   "type": "carousel",
+   "headline": "🔥 ON VA PAS S'ENNUYER CET HIVER 2027 !",
+   "key": null,
+   "ts": 1791993838.038065,
+   "caption": "🔥 ON VA PAS S'ENNUYER CET HIVER 2027 !\n\nLes animes les plus attendus de la saison prochaine : MASHLE, Shangri-La Frontier, Ki ni Natteru Hito ga Otoko…, Sekai Saikou no Ansatsusha, SAKAMOTO DAYS, Sekiro: No Defeat… et d'autres à découvrir dans le carrousel.\n\n📌 Enregistre pour ne rien oublier\n💬 Lequel tu attends le plus ?\n\nDonnées : AniList · Visuels © leurs ayants droit\n\n#animehiver2027 #animefr #animes #manga #otaku",
+   "files": [
+    "carousels/20261014-2026-W42-upcoming-0.jpg",
+    "carousels/20261014-2026-W42-upcoming-1.jpg",
+    "carousels/20261014-2026-W42-upcoming-2.jpg",
+    "carousels/20261014-2026-W42-upcoming-3.jpg",
+    "carousels/20261014-2026-W42-upcoming-4.jpg",
+    "carousels/20261014-2026-W42-upcoming-5.jpg",
+    "carousels/20261014-2026-W42-upcoming-6.jpg"
+   ]
   }
  ],
  "posted": [
@@ -1503,6 +1520,8 @@
  "news_count": 39,
  "manual_reels": [],
  "ig_pause_until": 1791994698.4377725,
- "carousels_done": {},
+ "carousels_done": {
+  "upcoming": "2026-W42"
+ },
  "ig_user_id": "17841459944087335"
 }
