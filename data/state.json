@@ -146,9 +146,48 @@
   "92593e969eab": 1791928136.056194,
   "0ab8bd626309": 1791928153.542509,
   "578de4b44201": 1791929047.381159,
-  "362b69a7e8d4": 1791965531.25662
+  "362b69a7e8d4": 1791965531.25662,
+  "87b678de7f02": 1791968273.865979,
+  "af798af9dede": 1791968274.793884
  },
- "queue": [],
+ "queue": [
+  {
+   "id": "87b678de7f02",
+   "headline": "Hirayasumi dévoile 5 nouvelles voix de son casting",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/14/hirayasumi-casting",
+   "work": "",
+   "key": [
+    "casting",
+    "devoile",
+    "hirayasumi",
+    "nouvelles",
+    "voix"
+   ],
+   "ts": 1791968274.471566,
+   "type": "post",
+   "files": [
+    "posts/20261014-87b678de7f02.jpg"
+   ],
+   "caption": "🎬 HIRAYASUMI DÉVOILE 5 NOUVELLES VOIX DE SON CASTING\n\nL'anime Hirayasumi à venir a dévoilé les noms de cinq nouveaux membres du casting vocal (ci-dessus). En France, le manga est publié aux éditions Le Lézard Noir. Le manga a été nommé pour le prix culturel d'Osamu Tezuka du Manga Grand Prize 2023, et a remporté en 2024 le prix de la meilleure série en publication au festival Lucca Comics & Games. (via Crunchyroll News)\n\n📅 Date : janvier 2027\n🔢 Épisodes : 20\n\n💬 Ton avis sur le studio ? 🎬\n\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote qui doit savoir ça et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
+   "alt": "ANIME — Hirayasumi dévoile 5 nouvelles voix de son casting",
+   "visual": "visuals/20261014-87b678de7f02.jpg",
+   "errors": 1
+  },
+  {
+   "id": "87b678de7f02",
+   "headline": "Hirayasumi dévoile 5 nouvelles voix de son casting",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/14/hirayasumi-casting",
+   "work": "",
+   "key": null,
+   "ts": 1791968274.471566,
+   "type": "story",
+   "files": [
+    "stories/20261014-87b678de7f02.jpg"
+   ]
+  }
+ ],
  "posted": [
   {
    "id": "5a95cf269da6",
@@ -1323,7 +1362,7 @@
  "last_recap": null,
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1791936292.8411314,
+ "ig_pause_until": 1791975621.1908903,
  "carousels_done": {},
  "ig_user_id": "17841459944087335"
 }
