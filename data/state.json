@@ -149,44 +149,34 @@
   "362b69a7e8d4": 1791965531.25662,
   "87b678de7f02": 1791968273.865979,
   "af798af9dede": 1791968274.793884,
-  "b4a0d7879aef": 1791971916.231279
+  "b4a0d7879aef": 1791971916.231279,
+  "63904fdf6cf5": 1791976475.124319
  },
  "queue": [
   {
-   "id": "87b678de7f02",
-   "headline": "Hirayasumi dévoile 5 nouvelles voix de son casting",
+   "id": "63904fdf6cf5",
+   "headline": "Décès de la créatrice de mangas Masako Watanabe à 97 ans",
    "category": "ANIME",
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/14/hirayasumi-casting",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/14/deces-masako-watanabe-manga",
    "work": "",
    "key": [
-    "casting",
-    "devoile",
-    "hirayasumi",
-    "nouvelles",
-    "voix"
+    "97",
+    "ans",
+    "creatrice",
+    "deces",
+    "mangas",
+    "masako",
+    "watanabe"
    ],
-   "ts": 1791968274.471566,
+   "ts": 1791976475.981911,
    "type": "post",
    "files": [
-    "posts/20261014-87b678de7f02.jpg"
+    "posts/20261014-63904fdf6cf5.jpg"
    ],
-   "caption": "🎬 HIRAYASUMI DÉVOILE 5 NOUVELLES VOIX DE SON CASTING\n\nL'anime Hirayasumi à venir a dévoilé les noms de cinq nouveaux membres du casting vocal (ci-dessus). En France, le manga est publié aux éditions Le Lézard Noir. Le manga a été nommé pour le prix culturel d'Osamu Tezuka du Manga Grand Prize 2023, et a remporté en 2024 le prix de la meilleure série en publication au festival Lucca Comics & Games. (via Crunchyroll News)\n\n📅 Date : janvier 2027\n🔢 Épisodes : 20\n\n💬 Ton avis sur le studio ? 🎬\n\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote qui doit savoir ça et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
-   "alt": "ANIME — Hirayasumi dévoile 5 nouvelles voix de son casting",
-   "visual": "visuals/20261014-87b678de7f02.jpg",
+   "caption": "🎬 DÉCÈS DE LA CRÉATRICE DE MANGAS MASAKO WATANABE À 97 ANS\n\nImage via le compte X de Masako Watanabe Le compte officiel X de la créatrice de mangas Masako Watanabe a annoncé ce lundi qu'elle était décédée le 3 octobre. Le communiqué de la direction précise : « Elle a mené ses 97 années de vie aux côtés du manga, et à la fin, elle s'est éteinte paisiblement, presque comme si elle s'était endormie. (via Crunchyroll News)\n\n💬 Ton avis sur le studio ? 🎬\n\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote qui doit savoir ça et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
+   "alt": "ANIME — Décès de la créatrice de mangas Masako Watanabe à 97 ans",
+   "visual": "visuals/20261014-63904fdf6cf5.jpg",
    "errors": 1
-  },
-  {
-   "id": "87b678de7f02",
-   "headline": "Hirayasumi dévoile 5 nouvelles voix de son casting",
-   "category": "ANIME",
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/14/hirayasumi-casting",
-   "work": "",
-   "key": null,
-   "ts": 1791968274.471566,
-   "type": "story",
-   "files": [
-    "stories/20261014-87b678de7f02.jpg"
-   ]
   },
   {
    "id": "b4a0d7879aef",
@@ -213,6 +203,19 @@
    "card": "posts/20261014-b4a0d7879aef.jpg"
   },
   {
+   "id": "87b678de7f02",
+   "headline": "Hirayasumi dévoile 5 nouvelles voix de son casting",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/14/hirayasumi-casting",
+   "work": "",
+   "key": null,
+   "ts": 1791968274.471566,
+   "type": "story",
+   "files": [
+    "stories/20261014-87b678de7f02.jpg"
+   ]
+  },
+  {
    "id": "b4a0d7879aef",
    "headline": "Expelled from Paradise: Resonance of the Heart",
    "category": "ANIME",
@@ -223,6 +226,19 @@
    "type": "story",
    "files": [
     "stories/20261014-b4a0d7879aef.jpg"
+   ]
+  },
+  {
+   "id": "63904fdf6cf5",
+   "headline": "Décès de la créatrice de mangas Masako Watanabe à 97 ans",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/14/deces-masako-watanabe-manga",
+   "work": "",
+   "key": null,
+   "ts": 1791976475.981911,
+   "type": "story",
+   "files": [
+    "stories/20261014-63904fdf6cf5.jpg"
    ]
   }
  ],
@@ -1395,12 +1411,30 @@
    "media_id": "17915193510467132",
    "ts": 1791965760.326379,
    "card": null
+  },
+  {
+   "id": "87b678de7f02",
+   "type": "post",
+   "headline": "Hirayasumi dévoile 5 nouvelles voix de son casting",
+   "key": [
+    "casting",
+    "devoile",
+    "hirayasumi",
+    "nouvelles",
+    "voix"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/14/hirayasumi-casting",
+   "visual": "visuals/20261014-87b678de7f02.jpg",
+   "work": "",
+   "ts": 1791976585.132219,
+   "media_id": "?",
+   "card": "posts/20261014-87b678de7f02.jpg"
   }
  ],
  "last_recap": null,
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1791975621.1908903,
+ "ig_pause_until": 1791983800.6884475,
  "carousels_done": {},
  "ig_user_id": "17841459944087335"
 }
