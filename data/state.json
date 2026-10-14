@@ -156,28 +156,6 @@
  },
  "queue": [
   {
-   "id": "d976c0c2c87e",
-   "headline": "Dreamland : Une exposition pour les 20 ans du manga",
-   "category": "MANGA",
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/14/dreamland-exposition-20-ans",
-   "work": "Dreamland",
-   "key": [
-    "20",
-    "ans",
-    "dreamland",
-    "exposition"
-   ],
-   "ts": 1791990188.191909,
-   "type": "post",
-   "files": [
-    "posts/20261014-d976c0c2c87e.jpg"
-   ],
-   "caption": "📚 DREAMLAND : UNE EXPOSITION POUR LES 20 ANS DU MANGA\n\nAvec 800 000 exemplaires vendus au total et une publication au Japon depuis septembre 2024, la série française Dreamland a su se faire une place de choix dans le milieu du manga, au point d'avoir droit à son adaptation animée qui sera diffusée cet automne. (via Crunchyroll News)\n\n📅 Date : automne 2026\n📺 Diffusion : Crunchyroll\n📚 Éditeur : Pika\n\n💬 Tu vas le prendre en VF ?\n\n📌 Œuvre : Dreamland\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Dreamland et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#Dreamland #manga #mangafr #mangaka #anime",
-   "alt": "MANGA — Dreamland : Une exposition pour les 20 ans du manga",
-   "visual": "visuals/20261014-d976c0c2c87e.jpg",
-   "errors": 1
-  },
-  {
    "id": "car-upcoming-2026-W42",
    "type": "carousel",
    "headline": "🔥 ON VA PAS S'ENNUYER CET HIVER 2027 !",
@@ -192,7 +170,8 @@
     "carousels/20261014-2026-W42-upcoming-4.jpg",
     "carousels/20261014-2026-W42-upcoming-5.jpg",
     "carousels/20261014-2026-W42-upcoming-6.jpg"
-   ]
+   ],
+   "errors": 1
   },
   {
    "id": "ffe2589f2e4f",
@@ -1510,12 +1489,29 @@
    "ts": 1791994745.469294,
    "media_id": "?",
    "card": "posts/20261014-ffe2589f2e4f.jpg"
+  },
+  {
+   "id": "d976c0c2c87e",
+   "type": "post",
+   "headline": "Dreamland : Une exposition pour les 20 ans du manga",
+   "key": [
+    "20",
+    "ans",
+    "dreamland",
+    "exposition"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/14/dreamland-exposition-20-ans",
+   "visual": "visuals/20261014-d976c0c2c87e.jpg",
+   "work": "Dreamland",
+   "ts": 1792002051.569316,
+   "media_id": "?",
+   "card": "posts/20261014-d976c0c2c87e.jpg"
   }
  ],
  "last_recap": null,
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1792001960.8216784,
+ "ig_pause_until": 1792009344.859543,
  "carousels_done": {
   "upcoming": "2026-W42"
  },
