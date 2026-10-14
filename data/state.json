@@ -150,9 +150,56 @@
   "87b678de7f02": 1791968273.865979,
   "af798af9dede": 1791968274.793884,
   "b4a0d7879aef": 1791971916.231279,
-  "63904fdf6cf5": 1791976475.124319
+  "63904fdf6cf5": 1791976475.124319,
+  "ffe2589f2e4f": 1791987449.297861
  },
- "queue": [],
+ "queue": [
+  {
+   "id": "ffe2589f2e4f",
+   "headline": "Qui est Beerus ? Tout ce qu'il faut savoir sur le personnage central de…",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/guides/2026/10/14/dragon-ball-super-beerus-personnage-wiki",
+   "work": "",
+   "key": [
+    "ball",
+    "beerus",
+    "ce",
+    "central",
+    "dragon",
+    "est",
+    "faut",
+    "il",
+    "personnage",
+    "qu",
+    "qui",
+    "savoir",
+    "super",
+    "tout"
+   ],
+   "ts": 1791987450.551692,
+   "type": "post",
+   "files": [
+    "posts/20261014-ffe2589f2e4f.jpg"
+   ],
+   "caption": "🎬 QUI EST BEERUS ? TOUT CE QU'IL FAUT SAVOIR SUR LE PERSONNAGE CENTRAL DE…\n\nCet automne, Dragon Ball Super: Beerus fait ses débuts sur Crunchyroll et invite les spectateur-ices à (re)découvrir l’une des aventures les plus célèbres de Goku. Il y a de fortes chances que tu saches qui est Goku : un gars musclé, peu discret, sympathique, qui maîtrise le Kamehameha, aime bien manger… (via Crunchyroll News)\n\n📅 Date : automne 2026\n📺 Diffusion : Crunchyroll\n\n💬 Ton avis sur le studio ? 🎬\n\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote qui doit savoir ça et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
+   "alt": "ANIME — Qui est Beerus ? Tout ce qu'il faut savoir sur le personnage central de…",
+   "visual": "visuals/20261014-ffe2589f2e4f.jpg",
+   "errors": 1
+  },
+  {
+   "id": "ffe2589f2e4f",
+   "headline": "Qui est Beerus ? Tout ce qu'il faut savoir sur le personnage central de…",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/guides/2026/10/14/dragon-ball-super-beerus-personnage-wiki",
+   "work": "",
+   "key": null,
+   "ts": 1791987450.551692,
+   "type": "story",
+   "files": [
+    "stories/20261014-ffe2589f2e4f.jpg"
+   ]
+  }
+ ],
  "posted": [
   {
    "id": "5a95cf269da6",
@@ -1420,7 +1467,7 @@
  "last_recap": null,
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1791983800.6884475,
+ "ig_pause_until": 1791994698.4377725,
  "carousels_done": {},
  "ig_user_id": "17841459944087335"
 }
