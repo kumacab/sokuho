@@ -158,9 +158,48 @@
   "8f9376f8a1cb": 1792053148.295998,
   "d3a131e39e2b": 1792060458.159836,
   "057384673cab": 1792061369.689853,
-  "f2a810b8eee5": 1792071404.609587
+  "f2a810b8eee5": 1792071404.609587,
+  "c26004766b62": 1792073235.337351
  },
- "queue": [],
+ "queue": [
+  {
+   "id": "c26004766b62",
+   "headline": "The Legend of Zelda: Ocarina of Time",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/legend-of-zelda-ocarina-of-time-remake-trailer-presentation",
+   "work": "The Legend of Zelda: Ocarina of Time",
+   "key": [
+    "legend",
+    "ocarina",
+    "presentation",
+    "remake",
+    "time",
+    "zelda"
+   ],
+   "ts": 1792073236.183061,
+   "type": "post",
+   "files": [
+    "posts/20261015-c26004766b62.jpg"
+   ],
+   "caption": "🎬 THE LEGEND OF ZELDA: OCARINA OF TIME\n\nAussi incroyable que cela puisse paraître, la sortie du nouveau remake de Nintendo, The Legend of Zelda: Ocarina of Time, approche à grands pas. Ce titre emblématique de la série, initialement sorti sur Nintendo 64 en 1998, fait son grand retour avec un nouveau look et des fonctionnalités supplémentaires. (via Crunchyroll News)\n\n📅 Date : 5 novembre 2026\n📺 Diffusion : YouTube\n\n💬 Tu attendais cette annonce ?\n\n📌 Œuvre : The Legend of Zelda: Ocarina of Time\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de The Legend of Zelda: Ocarina of Time et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
+   "alt": "ANIME — The Legend of Zelda: Ocarina of Time",
+   "visual": "visuals/20261015-c26004766b62.jpg",
+   "errors": 1
+  },
+  {
+   "id": "c26004766b62",
+   "headline": "The Legend of Zelda: Ocarina of Time",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/legend-of-zelda-ocarina-of-time-remake-trailer-presentation",
+   "work": "The Legend of Zelda: Ocarina of Time",
+   "key": null,
+   "ts": 1792073236.183061,
+   "type": "story",
+   "files": [
+    "stories/20261015-c26004766b62.jpg"
+   ]
+  }
+ ],
  "posted": [
   {
    "id": "5a95cf269da6",
@@ -1710,7 +1749,7 @@
  "last_recap": null,
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1792066759.9590092,
+ "ig_pause_until": 1792080563.8490236,
  "carousels_done": {
   "upcoming": "2026-W42"
  },
