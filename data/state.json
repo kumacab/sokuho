@@ -154,7 +154,8 @@
   "ffe2589f2e4f": 1791987449.297861,
   "d976c0c2c87e": 1791990186.994862,
   "23136a6c8f1c": 1792046766.035363,
-  "33b17165ad2a": 1792052240.03439
+  "33b17165ad2a": 1792052240.03439,
+  "8f9376f8a1cb": 1792053148.295998
  },
  "queue": [
   {
@@ -195,6 +196,40 @@
    "type": "story",
    "files": [
     "stories/20261015-33b17165ad2a.jpg"
+   ]
+  },
+  {
+   "id": "8f9376f8a1cb",
+   "headline": "GROTESQQQUE : Un clip vidéo pour la nouvelle chanson « TERASE »",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/grotesqqque-film-clip-video-chanson-terase",
+   "work": "GROTESQQQUE",
+   "key": [
+    "chanson",
+    "clip",
+    "grotesqqque",
+    "terase"
+   ],
+   "ts": 1792053149.18749,
+   "type": "post",
+   "files": [
+    "posts/20261015-8f9376f8a1cb.jpg"
+   ],
+   "caption": "🎬 GROTESQQQUE : UN CLIP VIDÉO POUR LA NOUVELLE CHANSON « TERASE »\n\nLe film anime anthologique en trois parties GROTESQQQUE sortira le 6 novembre au Japon, proposant trois histoires originales. La première d'entre elles, intitulée Aliens, vient de dévoiler le clip d'une chanson récemment annoncée : TERASE, interprétée par Mika Ichinose. (via Crunchyroll News)\n\n🎥 Réalisation : Atsushi Nishigori\n\n💬 Tu vas le regarder ? 👀\n\n📌 Œuvre : GROTESQQQUE\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de GROTESQQQUE et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#GROTESQQQUE #anime #animefr #japanime #manga",
+   "alt": "ANIME — GROTESQQQUE : Un clip vidéo pour la nouvelle chanson « TERASE »",
+   "visual": "visuals/20261015-8f9376f8a1cb.jpg"
+  },
+  {
+   "id": "8f9376f8a1cb",
+   "headline": "GROTESQQQUE : Un clip vidéo pour la nouvelle chanson « TERASE »",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/grotesqqque-film-clip-video-chanson-terase",
+   "work": "GROTESQQQUE",
+   "key": null,
+   "ts": 1792053149.18749,
+   "type": "story",
+   "files": [
+    "stories/20261015-8f9376f8a1cb.jpg"
    ]
   }
  ],
