@@ -159,46 +159,6 @@
  },
  "queue": [
   {
-   "id": "33b17165ad2a",
-   "headline": "Tom Cruise et Alejandro G. Iñárritu en visite à l'exposition des 15 ans…",
-   "category": "ANIME",
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/mappa-expo-15th-anniversary-visite-tom-cruise-alejandro-g-inarritu",
-   "work": "",
-   "key": [
-    "15",
-    "alejandro",
-    "ans",
-    "cruise",
-    "exposition",
-    "inarritu",
-    "mappa",
-    "tom",
-    "visite"
-   ],
-   "ts": 1792052241.028284,
-   "type": "post",
-   "files": [
-    "posts/20261015-33b17165ad2a.jpg"
-   ],
-   "caption": "🎬 TOM CRUISE ET ALEJANDRO G. IÑÁRRITU EN VISITE À L'EXPOSITION DES 15 ANS…\n\nTom Cruise, surtout connu actuellement pour son rôle principal dans DIGGER, était au Japon pour promouvoir le film aux côtés du réalisateur Alejandro G. Fidèles au style de Cruise, ils ont tous deux visité l'exposition MAPPA EXPO 15th Anniversary, guidés par Tadashi Hiramatsu, le character designer de JUJUTSU KAISEN et Yuri!!! on ICE. (via Crunchyroll News)\n\n📺 Diffusion : YouTube\n\n💬 Tu attendais cette annonce ?\n\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote qui doit savoir ça et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
-   "alt": "ANIME — Tom Cruise et Alejandro G. Iñárritu en visite à l'exposition des 15 ans…",
-   "visual": "visuals/20261015-33b17165ad2a.jpg",
-   "errors": 1
-  },
-  {
-   "id": "33b17165ad2a",
-   "headline": "Tom Cruise et Alejandro G. Iñárritu en visite à l'exposition des 15 ans…",
-   "category": "ANIME",
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/mappa-expo-15th-anniversary-visite-tom-cruise-alejandro-g-inarritu",
-   "work": "",
-   "key": null,
-   "ts": 1792052241.028284,
-   "type": "story",
-   "files": [
-    "stories/20261015-33b17165ad2a.jpg"
-   ]
-  },
-  {
    "id": "8f9376f8a1cb",
    "headline": "GROTESQQQUE : Un clip vidéo pour la nouvelle chanson « TERASE »",
    "category": "ANIME",
@@ -217,7 +177,21 @@
    ],
    "caption": "🎬 GROTESQQQUE : UN CLIP VIDÉO POUR LA NOUVELLE CHANSON « TERASE »\n\nLe film anime anthologique en trois parties GROTESQQQUE sortira le 6 novembre au Japon, proposant trois histoires originales. La première d'entre elles, intitulée Aliens, vient de dévoiler le clip d'une chanson récemment annoncée : TERASE, interprétée par Mika Ichinose. (via Crunchyroll News)\n\n🎥 Réalisation : Atsushi Nishigori\n\n💬 Tu vas le regarder ? 👀\n\n📌 Œuvre : GROTESQQQUE\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de GROTESQQQUE et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#GROTESQQQUE #anime #animefr #japanime #manga",
    "alt": "ANIME — GROTESQQQUE : Un clip vidéo pour la nouvelle chanson « TERASE »",
-   "visual": "visuals/20261015-8f9376f8a1cb.jpg"
+   "visual": "visuals/20261015-8f9376f8a1cb.jpg",
+   "errors": 1
+  },
+  {
+   "id": "33b17165ad2a",
+   "headline": "Tom Cruise et Alejandro G. Iñárritu en visite à l'exposition des 15 ans…",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/mappa-expo-15th-anniversary-visite-tom-cruise-alejandro-g-inarritu",
+   "work": "",
+   "key": null,
+   "ts": 1792052241.028284,
+   "type": "story",
+   "files": [
+    "stories/20261015-33b17165ad2a.jpg"
+   ]
   },
   {
    "id": "8f9376f8a1cb",
@@ -1602,12 +1576,34 @@
    "media_id": "18122357369287537",
    "ts": 1792046917.38908,
    "card": null
+  },
+  {
+   "id": "33b17165ad2a",
+   "type": "post",
+   "headline": "Tom Cruise et Alejandro G. Iñárritu en visite à l'exposition des 15 ans…",
+   "key": [
+    "15",
+    "alejandro",
+    "ans",
+    "cruise",
+    "exposition",
+    "inarritu",
+    "mappa",
+    "tom",
+    "visite"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/mappa-expo-15th-anniversary-visite-tom-cruise-alejandro-g-inarritu",
+   "visual": "visuals/20261015-33b17165ad2a.jpg",
+   "work": "",
+   "ts": 1792059544.879087,
+   "media_id": "?",
+   "card": "posts/20261015-33b17165ad2a.jpg"
   }
  ],
  "last_recap": null,
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1792059487.876315,
+ "ig_pause_until": 1792066759.9590092,
  "carousels_done": {
   "upcoming": "2026-W42"
  },
