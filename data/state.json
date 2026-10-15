@@ -165,29 +165,26 @@
  },
  "queue": [
   {
-   "id": "cfe26f84749d",
-   "headline": "Le festival Voix d'Étoiles fête ses 20 ans avec une édition d'exception",
+   "id": "13512ed26919",
+   "headline": "Bless : Akiharu Nakano est la vedette du nouveau Trailer",
    "category": "ANIME",
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/festival-voix-d-etoiles-edition-20-ans-doublage",
-   "work": "",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/bless-trailer-personnage-casting-akiharu-nakano",
+   "work": "Bless",
    "key": [
-    "20",
-    "ans",
-    "edition",
-    "etoiles",
-    "exception",
-    "festival",
-    "fete",
-    "voix"
+    "akiharu",
+    "bless",
+    "est",
+    "nakano",
+    "vedette"
    ],
-   "ts": 1792076884.107322,
+   "ts": 1792082362.878077,
    "type": "post",
    "files": [
-    "posts/20261015-cfe26f84749d.jpg"
+    "posts/20261015-13512ed26919.jpg"
    ],
-   "caption": "🎬 LE FESTIVAL VOIX D'ÉTOILES FÊTE SES 20 ANS AVEC UNE ÉDITION D'EXCEPTION\n\nLe festival Voix d’Étoiles, qui récompense les voix et les musiques du cinéma et de la série d’animation internationaux, se déroule chaque année à Port Leucate, aux abords de Perpignan. En 2026, il fête son 20e anniversaire et a décidé pour l'occasion de ne pas lésiner sur son programme ! (via Crunchyroll News)\n\n📅 Date : 24 octobre 2026\n\n💬 Note ta hype sur 10 👇\n\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote qui doit savoir ça et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
-   "alt": "ANIME — Le festival Voix d'Étoiles fête ses 20 ans avec une édition d'exception",
-   "visual": "visuals/20261015-cfe26f84749d.jpg",
+   "caption": "🎬 BLESS : AKIHARU NAKANO EST LA VEDETTE DU NOUVEAU TRAILER\n\nL'anime Bless a publié aujourd’hui une bande-annonce présentant un nouveau personnage. Dans la série, le talent Koki Uchiyama incarne Akiharu Nakano, un autre élève de la Mirror Academy dont la personnalité discrète cache une passion et des talents exceptionnels. (via Crunchyroll News)\n\n📅 Date : janvier 2027\n\n💬 Hype ou pas hype ? 🔥\n\n📌 Œuvre : Bless\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Bless et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#Bless #anime #animefr #japanime #manga",
+   "alt": "ANIME — Bless : Akiharu Nakano est la vedette du nouveau Trailer",
+   "visual": "visuals/20261015-13512ed26919.jpg",
    "errors": 1
   },
   {
@@ -215,28 +212,6 @@
    "files": [
     "stories/20261015-cfe26f84749d.jpg"
    ]
-  },
-  {
-   "id": "13512ed26919",
-   "headline": "Bless : Akiharu Nakano est la vedette du nouveau Trailer",
-   "category": "ANIME",
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/bless-trailer-personnage-casting-akiharu-nakano",
-   "work": "Bless",
-   "key": [
-    "akiharu",
-    "bless",
-    "est",
-    "nakano",
-    "vedette"
-   ],
-   "ts": 1792082362.878077,
-   "type": "post",
-   "files": [
-    "posts/20261015-13512ed26919.jpg"
-   ],
-   "caption": "🎬 BLESS : AKIHARU NAKANO EST LA VEDETTE DU NOUVEAU TRAILER\n\nL'anime Bless a publié aujourd’hui une bande-annonce présentant un nouveau personnage. Dans la série, le talent Koki Uchiyama incarne Akiharu Nakano, un autre élève de la Mirror Academy dont la personnalité discrète cache une passion et des talents exceptionnels. (via Crunchyroll News)\n\n📅 Date : janvier 2027\n\n💬 Hype ou pas hype ? 🔥\n\n📌 Œuvre : Bless\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Bless et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#Bless #anime #animefr #japanime #manga",
-   "alt": "ANIME — Bless : Akiharu Nakano est la vedette du nouveau Trailer",
-   "visual": "visuals/20261015-13512ed26919.jpg"
   },
   {
    "id": "13512ed26919",
@@ -1815,12 +1790,33 @@
    "ts": 1792081451.371416,
    "media_id": "?",
    "card": "posts/20261015-c26004766b62.jpg"
+  },
+  {
+   "id": "cfe26f84749d",
+   "type": "post",
+   "headline": "Le festival Voix d'Étoiles fête ses 20 ans avec une édition d'exception",
+   "key": [
+    "20",
+    "ans",
+    "edition",
+    "etoiles",
+    "exception",
+    "festival",
+    "fete",
+    "voix"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/festival-voix-d-etoiles-edition-20-ans-doublage",
+   "visual": "visuals/20261015-cfe26f84749d.jpg",
+   "work": "",
+   "ts": 1792088747.560996,
+   "media_id": "?",
+   "card": "posts/20261015-cfe26f84749d.jpg"
   }
  ],
  "last_recap": null,
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1792088663.7217593,
+ "ig_pause_until": 1792095961.5963006,
  "carousels_done": {
   "upcoming": "2026-W42"
  },
