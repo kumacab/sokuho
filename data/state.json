@@ -164,86 +164,7 @@
   "13512ed26919": 1792082362.093571,
   "68f452a4a68f": 1792089664.108533
  },
- "queue": [
-  {
-   "id": "68f452a4a68f",
-   "headline": "Are You a Landmine, Chihara-san? débutera sa diffusion le 7 janvier",
-   "category": "ANIME",
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/are-you-a-landmine-chihara-san-date-diffusion",
-   "work": "",
-   "key": [
-    "are",
-    "chihara",
-    "debutera",
-    "diffusion",
-    "janvier",
-    "landmine",
-    "san",
-    "you"
-   ],
-   "ts": 1792089664.758875,
-   "type": "post",
-   "files": [
-    "posts/20261015-68f452a4a68f.jpg"
-   ],
-   "caption": "🎬 ARE YOU A LANDMINE, CHIHARA-SAN? DÉBUTERA SA DIFFUSION LE 7 JANVIER\n\nL'anime Are You a Landmine, Chihara-san?, prévu prochainement, a dévoilé de nouveaux détails concernant sa diffusion au Japon. La série sortira tous les jeudis dans le cadre du bloc de programmation « Super Anime Time TURBO » des chaînes Mainichi Broadcasting System et Tokyo Broadcasting System, à partir du 7 janvier 2027. (via Crunchyroll News)\n\n📅 Date : 7 janvier 2027\n\n💬 Ton avis sur le studio ? 🎬\n\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote qui doit savoir ça et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
-   "alt": "ANIME — Are You a Landmine, Chihara-san? débutera sa diffusion le 7 janvier",
-   "visual": "visuals/20261015-68f452a4a68f.jpg",
-   "errors": 1
-  },
-  {
-   "id": "c26004766b62",
-   "headline": "The Legend of Zelda: Ocarina of Time",
-   "category": "ANIME",
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/legend-of-zelda-ocarina-of-time-remake-trailer-presentation",
-   "work": "The Legend of Zelda: Ocarina of Time",
-   "key": null,
-   "ts": 1792073236.183061,
-   "type": "story",
-   "files": [
-    "stories/20261015-c26004766b62.jpg"
-   ]
-  },
-  {
-   "id": "cfe26f84749d",
-   "headline": "Le festival Voix d'Étoiles fête ses 20 ans avec une édition d'exception",
-   "category": "ANIME",
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/festival-voix-d-etoiles-edition-20-ans-doublage",
-   "work": "",
-   "key": null,
-   "ts": 1792076884.107322,
-   "type": "story",
-   "files": [
-    "stories/20261015-cfe26f84749d.jpg"
-   ]
-  },
-  {
-   "id": "13512ed26919",
-   "headline": "Bless : Akiharu Nakano est la vedette du nouveau Trailer",
-   "category": "ANIME",
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/bless-trailer-personnage-casting-akiharu-nakano",
-   "work": "Bless",
-   "key": null,
-   "ts": 1792082362.878077,
-   "type": "story",
-   "files": [
-    "stories/20261015-13512ed26919.jpg"
-   ]
-  },
-  {
-   "id": "68f452a4a68f",
-   "headline": "Are You a Landmine, Chihara-san? débutera sa diffusion le 7 janvier",
-   "category": "ANIME",
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/are-you-a-landmine-chihara-san-date-diffusion",
-   "work": "",
-   "key": null,
-   "ts": 1792089664.758875,
-   "type": "story",
-   "files": [
-    "stories/20261015-68f452a4a68f.jpg"
-   ]
-  }
- ],
+ "queue": [],
  "posted": [
   {
    "id": "5a95cf269da6",
@@ -1846,6 +1767,75 @@
    "ts": 1792096062.349908,
    "media_id": "?",
    "card": "posts/20261015-13512ed26919.jpg"
+  },
+  {
+   "id": "68f452a4a68f",
+   "type": "post",
+   "headline": "Are You a Landmine, Chihara-san? débutera sa diffusion le 7 janvier",
+   "key": [
+    "are",
+    "chihara",
+    "debutera",
+    "diffusion",
+    "janvier",
+    "landmine",
+    "san",
+    "you"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/are-you-a-landmine-chihara-san-date-diffusion",
+   "visual": "visuals/20261015-68f452a4a68f.jpg",
+   "work": "",
+   "ts": 1792103355.827608,
+   "media_id": "?",
+   "card": "posts/20261015-68f452a4a68f.jpg"
+  },
+  {
+   "id": "c26004766b62",
+   "type": "story",
+   "headline": "The Legend of Zelda: Ocarina of Time",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/legend-of-zelda-ocarina-of-time-remake-trailer-presentation",
+   "visual": null,
+   "work": "The Legend of Zelda: Ocarina of Time",
+   "media_id": "18076497578721838",
+   "ts": 1792103370.356335,
+   "card": null
+  },
+  {
+   "id": "cfe26f84749d",
+   "type": "story",
+   "headline": "Le festival Voix d'Étoiles fête ses 20 ans avec une édition d'exception",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/festival-voix-d-etoiles-edition-20-ans-doublage",
+   "visual": null,
+   "work": "",
+   "media_id": "18114120926167621",
+   "ts": 1792103385.546754,
+   "card": null
+  },
+  {
+   "id": "13512ed26919",
+   "type": "story",
+   "headline": "Bless : Akiharu Nakano est la vedette du nouveau Trailer",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/bless-trailer-personnage-casting-akiharu-nakano",
+   "visual": null,
+   "work": "Bless",
+   "media_id": "18106728317254157",
+   "ts": 1792103400.070295,
+   "card": null
+  },
+  {
+   "id": "68f452a4a68f",
+   "type": "story",
+   "headline": "Are You a Landmine, Chihara-san? débutera sa diffusion le 7 janvier",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/are-you-a-landmine-chihara-san-date-diffusion",
+   "visual": null,
+   "work": "",
+   "media_id": "18093637247173272",
+   "ts": 1792103414.213838,
+   "card": null
   }
  ],
  "last_recap": null,
