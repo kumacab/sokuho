@@ -164,43 +164,6 @@
  },
  "queue": [
   {
-   "id": "c26004766b62",
-   "headline": "The Legend of Zelda: Ocarina of Time",
-   "category": "ANIME",
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/legend-of-zelda-ocarina-of-time-remake-trailer-presentation",
-   "work": "The Legend of Zelda: Ocarina of Time",
-   "key": [
-    "legend",
-    "ocarina",
-    "presentation",
-    "remake",
-    "time",
-    "zelda"
-   ],
-   "ts": 1792073236.183061,
-   "type": "post",
-   "files": [
-    "posts/20261015-c26004766b62.jpg"
-   ],
-   "caption": "🎬 THE LEGEND OF ZELDA: OCARINA OF TIME\n\nAussi incroyable que cela puisse paraître, la sortie du nouveau remake de Nintendo, The Legend of Zelda: Ocarina of Time, approche à grands pas. Ce titre emblématique de la série, initialement sorti sur Nintendo 64 en 1998, fait son grand retour avec un nouveau look et des fonctionnalités supplémentaires. (via Crunchyroll News)\n\n📅 Date : 5 novembre 2026\n📺 Diffusion : YouTube\n\n💬 Tu attendais cette annonce ?\n\n📌 Œuvre : The Legend of Zelda: Ocarina of Time\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de The Legend of Zelda: Ocarina of Time et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
-   "alt": "ANIME — The Legend of Zelda: Ocarina of Time",
-   "visual": "visuals/20261015-c26004766b62.jpg",
-   "errors": 1
-  },
-  {
-   "id": "c26004766b62",
-   "headline": "The Legend of Zelda: Ocarina of Time",
-   "category": "ANIME",
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/legend-of-zelda-ocarina-of-time-remake-trailer-presentation",
-   "work": "The Legend of Zelda: Ocarina of Time",
-   "key": null,
-   "ts": 1792073236.183061,
-   "type": "story",
-   "files": [
-    "stories/20261015-c26004766b62.jpg"
-   ]
-  },
-  {
    "id": "cfe26f84749d",
    "headline": "Le festival Voix d'Étoiles fête ses 20 ans avec une édition d'exception",
    "category": "ANIME",
@@ -223,7 +186,21 @@
    ],
    "caption": "🎬 LE FESTIVAL VOIX D'ÉTOILES FÊTE SES 20 ANS AVEC UNE ÉDITION D'EXCEPTION\n\nLe festival Voix d’Étoiles, qui récompense les voix et les musiques du cinéma et de la série d’animation internationaux, se déroule chaque année à Port Leucate, aux abords de Perpignan. En 2026, il fête son 20e anniversaire et a décidé pour l'occasion de ne pas lésiner sur son programme ! (via Crunchyroll News)\n\n📅 Date : 24 octobre 2026\n\n💬 Note ta hype sur 10 👇\n\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote qui doit savoir ça et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
    "alt": "ANIME — Le festival Voix d'Étoiles fête ses 20 ans avec une édition d'exception",
-   "visual": "visuals/20261015-cfe26f84749d.jpg"
+   "visual": "visuals/20261015-cfe26f84749d.jpg",
+   "errors": 1
+  },
+  {
+   "id": "c26004766b62",
+   "headline": "The Legend of Zelda: Ocarina of Time",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/legend-of-zelda-ocarina-of-time-remake-trailer-presentation",
+   "work": "The Legend of Zelda: Ocarina of Time",
+   "key": null,
+   "ts": 1792073236.183061,
+   "type": "story",
+   "files": [
+    "stories/20261015-c26004766b62.jpg"
+   ]
   },
   {
    "id": "cfe26f84749d",
@@ -1783,12 +1760,31 @@
    "media_id": "18460779886142427",
    "ts": 1792071565.858214,
    "card": null
+  },
+  {
+   "id": "c26004766b62",
+   "type": "post",
+   "headline": "The Legend of Zelda: Ocarina of Time",
+   "key": [
+    "legend",
+    "ocarina",
+    "presentation",
+    "remake",
+    "time",
+    "zelda"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/legend-of-zelda-ocarina-of-time-remake-trailer-presentation",
+   "visual": "visuals/20261015-c26004766b62.jpg",
+   "work": "The Legend of Zelda: Ocarina of Time",
+   "ts": 1792081451.371416,
+   "media_id": "?",
+   "card": "posts/20261015-c26004766b62.jpg"
   }
  ],
  "last_recap": null,
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1792080563.8490236,
+ "ig_pause_until": 1792088663.7217593,
  "carousels_done": {
   "upcoming": "2026-W42"
  },
