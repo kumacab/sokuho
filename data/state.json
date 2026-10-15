@@ -159,7 +159,8 @@
   "d3a131e39e2b": 1792060458.159836,
   "057384673cab": 1792061369.689853,
   "f2a810b8eee5": 1792071404.609587,
-  "c26004766b62": 1792073235.337351
+  "c26004766b62": 1792073235.337351,
+  "cfe26f84749d": 1792076883.135046
  },
  "queue": [
   {
@@ -197,6 +198,44 @@
    "type": "story",
    "files": [
     "stories/20261015-c26004766b62.jpg"
+   ]
+  },
+  {
+   "id": "cfe26f84749d",
+   "headline": "Le festival Voix d'Étoiles fête ses 20 ans avec une édition d'exception",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/festival-voix-d-etoiles-edition-20-ans-doublage",
+   "work": "",
+   "key": [
+    "20",
+    "ans",
+    "edition",
+    "etoiles",
+    "exception",
+    "festival",
+    "fete",
+    "voix"
+   ],
+   "ts": 1792076884.107322,
+   "type": "post",
+   "files": [
+    "posts/20261015-cfe26f84749d.jpg"
+   ],
+   "caption": "🎬 LE FESTIVAL VOIX D'ÉTOILES FÊTE SES 20 ANS AVEC UNE ÉDITION D'EXCEPTION\n\nLe festival Voix d’Étoiles, qui récompense les voix et les musiques du cinéma et de la série d’animation internationaux, se déroule chaque année à Port Leucate, aux abords de Perpignan. En 2026, il fête son 20e anniversaire et a décidé pour l'occasion de ne pas lésiner sur son programme ! (via Crunchyroll News)\n\n📅 Date : 24 octobre 2026\n\n💬 Note ta hype sur 10 👇\n\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote qui doit savoir ça et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
+   "alt": "ANIME — Le festival Voix d'Étoiles fête ses 20 ans avec une édition d'exception",
+   "visual": "visuals/20261015-cfe26f84749d.jpg"
+  },
+  {
+   "id": "cfe26f84749d",
+   "headline": "Le festival Voix d'Étoiles fête ses 20 ans avec une édition d'exception",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/festival-voix-d-etoiles-edition-20-ans-doublage",
+   "work": "",
+   "key": null,
+   "ts": 1792076884.107322,
+   "type": "story",
+   "files": [
+    "stories/20261015-cfe26f84749d.jpg"
    ]
   }
  ],
