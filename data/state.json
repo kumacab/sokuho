@@ -156,7 +156,8 @@
   "23136a6c8f1c": 1792046766.035363,
   "33b17165ad2a": 1792052240.03439,
   "8f9376f8a1cb": 1792053148.295998,
-  "d3a131e39e2b": 1792060458.159836
+  "d3a131e39e2b": 1792060458.159836,
+  "057384673cab": 1792061369.689853
  },
  "queue": [
   {
@@ -247,6 +248,54 @@
    "type": "story",
    "files": [
     "stories/20261015-d3a131e39e2b.jpg"
+   ]
+  },
+  {
+   "id": "057384673cab",
+   "headline": "I Lost My Adventurer's License",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/i-lost-my-adventurers-license-but-its-fine-because-i-have-an-adorable-daughter-now-janvier-2027-trailer-visuel-staff-casting",
+   "work": "",
+   "key": [
+    "2027",
+    "adorable",
+    "adventurer",
+    "an",
+    "because",
+    "but",
+    "daughter",
+    "diffusion",
+    "fine",
+    "have",
+    "it",
+    "janvier",
+    "license",
+    "lost",
+    "my",
+    "now",
+    "visuel"
+   ],
+   "ts": 1792061370.561412,
+   "type": "reel",
+   "files": [
+    "reels/20261015-057384673cab.mp4",
+    "posts/20261015-057384673cab.jpg"
+   ],
+   "caption": "🎬 I LOST MY ADVENTURER'S LICENSE\n\nLe site web de l'anime I Lost My Adventurer's License, but It's Fine Because I Have an Adorable Daughter Now a annoncé que la série serait diffusée au Japon dès janvier 2027, tout en dévoilant une bande-annonce et un visuel. (via Crunchyroll News)\n\n📅 Date : janvier 2027\n🎬 Studio : Palette Character\n\n💬 Hype ou pas hype ? 🔥\n\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote qui doit savoir ça et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
+   "visual": "visuals/20261015-057384673cab.jpg",
+   "card": "posts/20261015-057384673cab.jpg"
+  },
+  {
+   "id": "057384673cab",
+   "headline": "I Lost My Adventurer's License",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/i-lost-my-adventurers-license-but-its-fine-because-i-have-an-adorable-daughter-now-janvier-2027-trailer-visuel-staff-casting",
+   "work": "",
+   "key": null,
+   "ts": 1792061370.561412,
+   "type": "story",
+   "files": [
+    "stories/20261015-057384673cab.jpg"
    ]
   }
  ],
