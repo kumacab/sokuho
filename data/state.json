@@ -166,26 +166,29 @@
  },
  "queue": [
   {
-   "id": "13512ed26919",
-   "headline": "Bless : Akiharu Nakano est la vedette du nouveau Trailer",
+   "id": "68f452a4a68f",
+   "headline": "Are You a Landmine, Chihara-san? débutera sa diffusion le 7 janvier",
    "category": "ANIME",
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/bless-trailer-personnage-casting-akiharu-nakano",
-   "work": "Bless",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/are-you-a-landmine-chihara-san-date-diffusion",
+   "work": "",
    "key": [
-    "akiharu",
-    "bless",
-    "est",
-    "nakano",
-    "vedette"
+    "are",
+    "chihara",
+    "debutera",
+    "diffusion",
+    "janvier",
+    "landmine",
+    "san",
+    "you"
    ],
-   "ts": 1792082362.878077,
+   "ts": 1792089664.758875,
    "type": "post",
    "files": [
-    "posts/20261015-13512ed26919.jpg"
+    "posts/20261015-68f452a4a68f.jpg"
    ],
-   "caption": "🎬 BLESS : AKIHARU NAKANO EST LA VEDETTE DU NOUVEAU TRAILER\n\nL'anime Bless a publié aujourd’hui une bande-annonce présentant un nouveau personnage. Dans la série, le talent Koki Uchiyama incarne Akiharu Nakano, un autre élève de la Mirror Academy dont la personnalité discrète cache une passion et des talents exceptionnels. (via Crunchyroll News)\n\n📅 Date : janvier 2027\n\n💬 Hype ou pas hype ? 🔥\n\n📌 Œuvre : Bless\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Bless et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#Bless #anime #animefr #japanime #manga",
-   "alt": "ANIME — Bless : Akiharu Nakano est la vedette du nouveau Trailer",
-   "visual": "visuals/20261015-13512ed26919.jpg",
+   "caption": "🎬 ARE YOU A LANDMINE, CHIHARA-SAN? DÉBUTERA SA DIFFUSION LE 7 JANVIER\n\nL'anime Are You a Landmine, Chihara-san?, prévu prochainement, a dévoilé de nouveaux détails concernant sa diffusion au Japon. La série sortira tous les jeudis dans le cadre du bloc de programmation « Super Anime Time TURBO » des chaînes Mainichi Broadcasting System et Tokyo Broadcasting System, à partir du 7 janvier 2027. (via Crunchyroll News)\n\n📅 Date : 7 janvier 2027\n\n💬 Ton avis sur le studio ? 🎬\n\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote qui doit savoir ça et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
+   "alt": "ANIME — Are You a Landmine, Chihara-san? débutera sa diffusion le 7 janvier",
+   "visual": "visuals/20261015-68f452a4a68f.jpg",
    "errors": 1
   },
   {
@@ -226,31 +229,6 @@
    "files": [
     "stories/20261015-13512ed26919.jpg"
    ]
-  },
-  {
-   "id": "68f452a4a68f",
-   "headline": "Are You a Landmine, Chihara-san? débutera sa diffusion le 7 janvier",
-   "category": "ANIME",
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/are-you-a-landmine-chihara-san-date-diffusion",
-   "work": "",
-   "key": [
-    "are",
-    "chihara",
-    "debutera",
-    "diffusion",
-    "janvier",
-    "landmine",
-    "san",
-    "you"
-   ],
-   "ts": 1792089664.758875,
-   "type": "post",
-   "files": [
-    "posts/20261015-68f452a4a68f.jpg"
-   ],
-   "caption": "🎬 ARE YOU A LANDMINE, CHIHARA-SAN? DÉBUTERA SA DIFFUSION LE 7 JANVIER\n\nL'anime Are You a Landmine, Chihara-san?, prévu prochainement, a dévoilé de nouveaux détails concernant sa diffusion au Japon. La série sortira tous les jeudis dans le cadre du bloc de programmation « Super Anime Time TURBO » des chaînes Mainichi Broadcasting System et Tokyo Broadcasting System, à partir du 7 janvier 2027. (via Crunchyroll News)\n\n📅 Date : 7 janvier 2027\n\n💬 Ton avis sur le studio ? 🎬\n\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote qui doit savoir ça et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
-   "alt": "ANIME — Are You a Landmine, Chihara-san? débutera sa diffusion le 7 janvier",
-   "visual": "visuals/20261015-68f452a4a68f.jpg"
   },
   {
    "id": "68f452a4a68f",
@@ -1850,12 +1828,30 @@
    "ts": 1792088747.560996,
    "media_id": "?",
    "card": "posts/20261015-cfe26f84749d.jpg"
+  },
+  {
+   "id": "13512ed26919",
+   "type": "post",
+   "headline": "Bless : Akiharu Nakano est la vedette du nouveau Trailer",
+   "key": [
+    "akiharu",
+    "bless",
+    "est",
+    "nakano",
+    "vedette"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/bless-trailer-personnage-casting-akiharu-nakano",
+   "visual": "visuals/20261015-13512ed26919.jpg",
+   "work": "Bless",
+   "ts": 1792096062.349908,
+   "media_id": "?",
+   "card": "posts/20261015-13512ed26919.jpg"
   }
  ],
  "last_recap": null,
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1792095961.5963006,
+ "ig_pause_until": 1792103278.1968772,
  "carousels_done": {
   "upcoming": "2026-W42"
  },
