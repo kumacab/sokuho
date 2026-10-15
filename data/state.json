@@ -155,7 +155,8 @@
   "d976c0c2c87e": 1791990186.994862,
   "23136a6c8f1c": 1792046766.035363,
   "33b17165ad2a": 1792052240.03439,
-  "8f9376f8a1cb": 1792053148.295998
+  "8f9376f8a1cb": 1792053148.295998,
+  "d3a131e39e2b": 1792060458.159836
  },
  "queue": [
   {
@@ -204,6 +205,48 @@
    "type": "story",
    "files": [
     "stories/20261015-8f9376f8a1cb.jpg"
+   ]
+  },
+  {
+   "id": "d3a131e39e2b",
+   "headline": "Witch on the Holy Night s'associe à Puella Magi Madoka Magica Le Film…",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/witch-on-the-holy-night-puella-magi-madoka-magica-film-visuel-collaboration",
+   "work": "",
+   "key": [
+    "associe",
+    "collaboration",
+    "holy",
+    "madoka",
+    "magi",
+    "magica",
+    "night",
+    "on",
+    "puella",
+    "visuel",
+    "witch"
+   ],
+   "ts": 1792060460.498333,
+   "type": "reel",
+   "files": [
+    "reels/20261015-d3a131e39e2b.mp4",
+    "posts/20261015-d3a131e39e2b.jpg"
+   ],
+   "caption": "🎬 WITCH ON THE HOLY NIGHT S'ASSOCIE À PUELLA MAGI MADOKA MAGICA LE FILM…\n\nLe prochain film anime Witch on the Holy Night s'est associé à Puella Magi Madoka Magica Le Film - La Nuit de Walpurgis : Ressuscitée -, actuellement à l'affiche au Japon, à travers une illustration spéciale de collaboration (ci-dessous), réalisée par les studios Shaft et ufotable. (via Crunchyroll News)\n\n📅 Date : janvier 2027\n🎬 Studio : Shaft\n\n💬 Note ta hype sur 10 👇\n\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote qui doit savoir ça et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
+   "visual": "visuals/20261015-d3a131e39e2b.jpg",
+   "card": "posts/20261015-d3a131e39e2b.jpg"
+  },
+  {
+   "id": "d3a131e39e2b",
+   "headline": "Witch on the Holy Night s'associe à Puella Magi Madoka Magica Le Film…",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/witch-on-the-holy-night-puella-magi-madoka-magica-film-visuel-collaboration",
+   "work": "",
+   "key": null,
+   "ts": 1792060460.498333,
+   "type": "story",
+   "files": [
+    "stories/20261015-d3a131e39e2b.jpg"
    ]
   }
  ],
