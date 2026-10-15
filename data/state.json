@@ -159,146 +159,7 @@
   "d3a131e39e2b": 1792060458.159836,
   "057384673cab": 1792061369.689853
  },
- "queue": [
-  {
-   "id": "8f9376f8a1cb",
-   "headline": "GROTESQQQUE : Un clip vidéo pour la nouvelle chanson « TERASE »",
-   "category": "ANIME",
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/grotesqqque-film-clip-video-chanson-terase",
-   "work": "GROTESQQQUE",
-   "key": [
-    "chanson",
-    "clip",
-    "grotesqqque",
-    "terase"
-   ],
-   "ts": 1792053149.18749,
-   "type": "post",
-   "files": [
-    "posts/20261015-8f9376f8a1cb.jpg"
-   ],
-   "caption": "🎬 GROTESQQQUE : UN CLIP VIDÉO POUR LA NOUVELLE CHANSON « TERASE »\n\nLe film anime anthologique en trois parties GROTESQQQUE sortira le 6 novembre au Japon, proposant trois histoires originales. La première d'entre elles, intitulée Aliens, vient de dévoiler le clip d'une chanson récemment annoncée : TERASE, interprétée par Mika Ichinose. (via Crunchyroll News)\n\n🎥 Réalisation : Atsushi Nishigori\n\n💬 Tu vas le regarder ? 👀\n\n📌 Œuvre : GROTESQQQUE\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de GROTESQQQUE et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#GROTESQQQUE #anime #animefr #japanime #manga",
-   "alt": "ANIME — GROTESQQQUE : Un clip vidéo pour la nouvelle chanson « TERASE »",
-   "visual": "visuals/20261015-8f9376f8a1cb.jpg",
-   "errors": 1
-  },
-  {
-   "id": "33b17165ad2a",
-   "headline": "Tom Cruise et Alejandro G. Iñárritu en visite à l'exposition des 15 ans…",
-   "category": "ANIME",
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/mappa-expo-15th-anniversary-visite-tom-cruise-alejandro-g-inarritu",
-   "work": "",
-   "key": null,
-   "ts": 1792052241.028284,
-   "type": "story",
-   "files": [
-    "stories/20261015-33b17165ad2a.jpg"
-   ]
-  },
-  {
-   "id": "8f9376f8a1cb",
-   "headline": "GROTESQQQUE : Un clip vidéo pour la nouvelle chanson « TERASE »",
-   "category": "ANIME",
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/grotesqqque-film-clip-video-chanson-terase",
-   "work": "GROTESQQQUE",
-   "key": null,
-   "ts": 1792053149.18749,
-   "type": "story",
-   "files": [
-    "stories/20261015-8f9376f8a1cb.jpg"
-   ]
-  },
-  {
-   "id": "d3a131e39e2b",
-   "headline": "Witch on the Holy Night s'associe à Puella Magi Madoka Magica Le Film…",
-   "category": "ANIME",
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/witch-on-the-holy-night-puella-magi-madoka-magica-film-visuel-collaboration",
-   "work": "",
-   "key": [
-    "associe",
-    "collaboration",
-    "holy",
-    "madoka",
-    "magi",
-    "magica",
-    "night",
-    "on",
-    "puella",
-    "visuel",
-    "witch"
-   ],
-   "ts": 1792060460.498333,
-   "type": "reel",
-   "files": [
-    "reels/20261015-d3a131e39e2b.mp4",
-    "posts/20261015-d3a131e39e2b.jpg"
-   ],
-   "caption": "🎬 WITCH ON THE HOLY NIGHT S'ASSOCIE À PUELLA MAGI MADOKA MAGICA LE FILM…\n\nLe prochain film anime Witch on the Holy Night s'est associé à Puella Magi Madoka Magica Le Film - La Nuit de Walpurgis : Ressuscitée -, actuellement à l'affiche au Japon, à travers une illustration spéciale de collaboration (ci-dessous), réalisée par les studios Shaft et ufotable. (via Crunchyroll News)\n\n📅 Date : janvier 2027\n🎬 Studio : Shaft\n\n💬 Note ta hype sur 10 👇\n\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote qui doit savoir ça et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
-   "visual": "visuals/20261015-d3a131e39e2b.jpg",
-   "card": "posts/20261015-d3a131e39e2b.jpg"
-  },
-  {
-   "id": "d3a131e39e2b",
-   "headline": "Witch on the Holy Night s'associe à Puella Magi Madoka Magica Le Film…",
-   "category": "ANIME",
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/witch-on-the-holy-night-puella-magi-madoka-magica-film-visuel-collaboration",
-   "work": "",
-   "key": null,
-   "ts": 1792060460.498333,
-   "type": "story",
-   "files": [
-    "stories/20261015-d3a131e39e2b.jpg"
-   ]
-  },
-  {
-   "id": "057384673cab",
-   "headline": "I Lost My Adventurer's License",
-   "category": "ANIME",
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/i-lost-my-adventurers-license-but-its-fine-because-i-have-an-adorable-daughter-now-janvier-2027-trailer-visuel-staff-casting",
-   "work": "",
-   "key": [
-    "2027",
-    "adorable",
-    "adventurer",
-    "an",
-    "because",
-    "but",
-    "daughter",
-    "diffusion",
-    "fine",
-    "have",
-    "it",
-    "janvier",
-    "license",
-    "lost",
-    "my",
-    "now",
-    "visuel"
-   ],
-   "ts": 1792061370.561412,
-   "type": "reel",
-   "files": [
-    "reels/20261015-057384673cab.mp4",
-    "posts/20261015-057384673cab.jpg"
-   ],
-   "caption": "🎬 I LOST MY ADVENTURER'S LICENSE\n\nLe site web de l'anime I Lost My Adventurer's License, but It's Fine Because I Have an Adorable Daughter Now a annoncé que la série serait diffusée au Japon dès janvier 2027, tout en dévoilant une bande-annonce et un visuel. (via Crunchyroll News)\n\n📅 Date : janvier 2027\n🎬 Studio : Palette Character\n\n💬 Hype ou pas hype ? 🔥\n\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote qui doit savoir ça et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
-   "visual": "visuals/20261015-057384673cab.jpg",
-   "card": "posts/20261015-057384673cab.jpg"
-  },
-  {
-   "id": "057384673cab",
-   "headline": "I Lost My Adventurer's License",
-   "category": "ANIME",
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/i-lost-my-adventurers-license-but-its-fine-because-i-have-an-adorable-daughter-now-janvier-2027-trailer-visuel-staff-casting",
-   "work": "",
-   "key": null,
-   "ts": 1792061370.561412,
-   "type": "story",
-   "files": [
-    "stories/20261015-057384673cab.jpg"
-   ]
-  }
- ],
+ "queue": [],
  "posted": [
   {
    "id": "5a95cf269da6",
@@ -1690,6 +1551,125 @@
    "ts": 1792059544.879087,
    "media_id": "?",
    "card": "posts/20261015-33b17165ad2a.jpg"
+  },
+  {
+   "id": "8f9376f8a1cb",
+   "type": "post",
+   "headline": "GROTESQQQUE : Un clip vidéo pour la nouvelle chanson « TERASE »",
+   "key": [
+    "chanson",
+    "clip",
+    "grotesqqque",
+    "terase"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/grotesqqque-film-clip-video-chanson-terase",
+   "visual": "visuals/20261015-8f9376f8a1cb.jpg",
+   "work": "GROTESQQQUE",
+   "ts": 1792066837.844312,
+   "media_id": "?",
+   "card": "posts/20261015-8f9376f8a1cb.jpg"
+  },
+  {
+   "id": "d3a131e39e2b",
+   "type": "reel",
+   "headline": "Witch on the Holy Night s'associe à Puella Magi Madoka Magica Le Film…",
+   "key": [
+    "associe",
+    "collaboration",
+    "holy",
+    "madoka",
+    "magi",
+    "magica",
+    "night",
+    "on",
+    "puella",
+    "visuel",
+    "witch"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/witch-on-the-holy-night-puella-magi-madoka-magica-film-visuel-collaboration",
+   "visual": "visuals/20261015-d3a131e39e2b.jpg",
+   "work": "",
+   "media_id": "18117408890080020",
+   "ts": 1792066966.663897,
+   "card": "posts/20261015-d3a131e39e2b.jpg"
+  },
+  {
+   "id": "057384673cab",
+   "type": "reel",
+   "headline": "I Lost My Adventurer's License",
+   "key": [
+    "2027",
+    "adorable",
+    "adventurer",
+    "an",
+    "because",
+    "but",
+    "daughter",
+    "diffusion",
+    "fine",
+    "have",
+    "it",
+    "janvier",
+    "license",
+    "lost",
+    "my",
+    "now",
+    "visuel"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/i-lost-my-adventurers-license-but-its-fine-because-i-have-an-adorable-daughter-now-janvier-2027-trailer-visuel-staff-casting",
+   "visual": "visuals/20261015-057384673cab.jpg",
+   "work": "",
+   "media_id": "18122553158318776",
+   "ts": 1792066994.462476,
+   "card": "posts/20261015-057384673cab.jpg"
+  },
+  {
+   "id": "33b17165ad2a",
+   "type": "story",
+   "headline": "Tom Cruise et Alejandro G. Iñárritu en visite à l'exposition des 15 ans…",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/mappa-expo-15th-anniversary-visite-tom-cruise-alejandro-g-inarritu",
+   "visual": null,
+   "work": "",
+   "media_id": "18133833757662153",
+   "ts": 1792067007.817668,
+   "card": null
+  },
+  {
+   "id": "8f9376f8a1cb",
+   "type": "story",
+   "headline": "GROTESQQQUE : Un clip vidéo pour la nouvelle chanson « TERASE »",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/grotesqqque-film-clip-video-chanson-terase",
+   "visual": null,
+   "work": "GROTESQQQUE",
+   "media_id": "18067993271786200",
+   "ts": 1792067023.09689,
+   "card": null
+  },
+  {
+   "id": "d3a131e39e2b",
+   "type": "story",
+   "headline": "Witch on the Holy Night s'associe à Puella Magi Madoka Magica Le Film…",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/witch-on-the-holy-night-puella-magi-madoka-magica-film-visuel-collaboration",
+   "visual": null,
+   "work": "",
+   "media_id": "18108605404920695",
+   "ts": 1792067036.930233,
+   "card": null
+  },
+  {
+   "id": "057384673cab",
+   "type": "story",
+   "headline": "I Lost My Adventurer's License",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/i-lost-my-adventurers-license-but-its-fine-because-i-have-an-adorable-daughter-now-janvier-2027-trailer-visuel-staff-casting",
+   "visual": null,
+   "work": "",
+   "media_id": "18082266554395381",
+   "ts": 1792067050.417104,
+   "card": null
   }
  ],
  "last_recap": null,
