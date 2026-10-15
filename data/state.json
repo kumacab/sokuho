@@ -157,7 +157,8 @@
   "33b17165ad2a": 1792052240.03439,
   "8f9376f8a1cb": 1792053148.295998,
   "d3a131e39e2b": 1792060458.159836,
-  "057384673cab": 1792061369.689853
+  "057384673cab": 1792061369.689853,
+  "f2a810b8eee5": 1792071404.609587
  },
  "queue": [],
  "posted": [
@@ -1669,6 +1670,40 @@
    "work": "",
    "media_id": "18082266554395381",
    "ts": 1792067050.417104,
+   "card": null
+  },
+  {
+   "id": "f2a810b8eee5",
+   "type": "reel",
+   "headline": "L’anime Cheat Skill Level Up Saison 2 sortira en janvier 2027",
+   "key": [
+    "2027",
+    "cheat",
+    "janvier",
+    "level",
+    "premier",
+    "skill",
+    "sortira",
+    "up",
+    "visuel"
+   ],
+   "link": "https://animotaku.fr/actualite/anime-cheat-skill-level-up-saison-2-janvier-2027/",
+   "visual": "visuals/20261015-f2a810b8eee5.jpg",
+   "work": "anime Cheat Skill Level Up Saison 2",
+   "media_id": "18104226140341824",
+   "ts": 1792071552.447202,
+   "card": "posts/20261015-f2a810b8eee5.jpg"
+  },
+  {
+   "id": "f2a810b8eee5",
+   "type": "story",
+   "headline": "L’anime Cheat Skill Level Up Saison 2 sortira en janvier 2027",
+   "key": null,
+   "link": "https://animotaku.fr/actualite/anime-cheat-skill-level-up-saison-2-janvier-2027/",
+   "visual": null,
+   "work": "anime Cheat Skill Level Up Saison 2",
+   "media_id": "18460779886142427",
+   "ts": 1792071565.858214,
    "card": null
   }
  ],
