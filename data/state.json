@@ -152,7 +152,8 @@
   "b4a0d7879aef": 1791971916.231279,
   "63904fdf6cf5": 1791976475.124319,
   "ffe2589f2e4f": 1791987449.297861,
-  "d976c0c2c87e": 1791990186.994862
+  "d976c0c2c87e": 1791990186.994862,
+  "23136a6c8f1c": 1792046766.035363
  },
  "queue": [],
  "posted": [
@@ -1496,6 +1497,33 @@
    "work": "Dreamland",
    "media_id": "18096662975406403",
    "ts": 1792009396.214201,
+   "card": null
+  },
+  {
+   "id": "23136a6c8f1c",
+   "type": "reel",
+   "headline": "Yumene Connect dévoile un teaser vidéo",
+   "key": [
+    "connect",
+    "yumene"
+   ],
+   "link": "https://adala-news.fr/2026/10/lanime-yumene-connect-en-teaser-video/",
+   "visual": "visuals/20261015-23136a6c8f1c.jpg",
+   "work": "Yumene Connect",
+   "media_id": "18132230977771997",
+   "ts": 1792046905.234151,
+   "card": "posts/20261015-23136a6c8f1c.jpg"
+  },
+  {
+   "id": "23136a6c8f1c",
+   "type": "story",
+   "headline": "Yumene Connect dévoile un teaser vidéo",
+   "key": null,
+   "link": "https://adala-news.fr/2026/10/lanime-yumene-connect-en-teaser-video/",
+   "visual": null,
+   "work": "Yumene Connect",
+   "media_id": "18122357369287537",
+   "ts": 1792046917.38908,
    "card": null
   }
  ],
