@@ -160,7 +160,8 @@
   "057384673cab": 1792061369.689853,
   "f2a810b8eee5": 1792071404.609587,
   "c26004766b62": 1792073235.337351,
-  "cfe26f84749d": 1792076883.135046
+  "cfe26f84749d": 1792076883.135046,
+  "13512ed26919": 1792082362.093571
  },
  "queue": [
   {
@@ -213,6 +214,41 @@
    "type": "story",
    "files": [
     "stories/20261015-cfe26f84749d.jpg"
+   ]
+  },
+  {
+   "id": "13512ed26919",
+   "headline": "Bless : Akiharu Nakano est la vedette du nouveau Trailer",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/bless-trailer-personnage-casting-akiharu-nakano",
+   "work": "Bless",
+   "key": [
+    "akiharu",
+    "bless",
+    "est",
+    "nakano",
+    "vedette"
+   ],
+   "ts": 1792082362.878077,
+   "type": "post",
+   "files": [
+    "posts/20261015-13512ed26919.jpg"
+   ],
+   "caption": "🎬 BLESS : AKIHARU NAKANO EST LA VEDETTE DU NOUVEAU TRAILER\n\nL'anime Bless a publié aujourd’hui une bande-annonce présentant un nouveau personnage. Dans la série, le talent Koki Uchiyama incarne Akiharu Nakano, un autre élève de la Mirror Academy dont la personnalité discrète cache une passion et des talents exceptionnels. (via Crunchyroll News)\n\n📅 Date : janvier 2027\n\n💬 Hype ou pas hype ? 🔥\n\n📌 Œuvre : Bless\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Bless et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#Bless #anime #animefr #japanime #manga",
+   "alt": "ANIME — Bless : Akiharu Nakano est la vedette du nouveau Trailer",
+   "visual": "visuals/20261015-13512ed26919.jpg"
+  },
+  {
+   "id": "13512ed26919",
+   "headline": "Bless : Akiharu Nakano est la vedette du nouveau Trailer",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/bless-trailer-personnage-casting-akiharu-nakano",
+   "work": "Bless",
+   "key": null,
+   "ts": 1792082362.878077,
+   "type": "story",
+   "files": [
+    "stories/20261015-13512ed26919.jpg"
    ]
   }
  ],
