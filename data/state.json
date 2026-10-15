@@ -161,7 +161,8 @@
   "f2a810b8eee5": 1792071404.609587,
   "c26004766b62": 1792073235.337351,
   "cfe26f84749d": 1792076883.135046,
-  "13512ed26919": 1792082362.093571
+  "13512ed26919": 1792082362.093571,
+  "68f452a4a68f": 1792089664.108533
  },
  "queue": [
   {
@@ -224,6 +225,44 @@
    "type": "story",
    "files": [
     "stories/20261015-13512ed26919.jpg"
+   ]
+  },
+  {
+   "id": "68f452a4a68f",
+   "headline": "Are You a Landmine, Chihara-san? débutera sa diffusion le 7 janvier",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/are-you-a-landmine-chihara-san-date-diffusion",
+   "work": "",
+   "key": [
+    "are",
+    "chihara",
+    "debutera",
+    "diffusion",
+    "janvier",
+    "landmine",
+    "san",
+    "you"
+   ],
+   "ts": 1792089664.758875,
+   "type": "post",
+   "files": [
+    "posts/20261015-68f452a4a68f.jpg"
+   ],
+   "caption": "🎬 ARE YOU A LANDMINE, CHIHARA-SAN? DÉBUTERA SA DIFFUSION LE 7 JANVIER\n\nL'anime Are You a Landmine, Chihara-san?, prévu prochainement, a dévoilé de nouveaux détails concernant sa diffusion au Japon. La série sortira tous les jeudis dans le cadre du bloc de programmation « Super Anime Time TURBO » des chaînes Mainichi Broadcasting System et Tokyo Broadcasting System, à partir du 7 janvier 2027. (via Crunchyroll News)\n\n📅 Date : 7 janvier 2027\n\n💬 Ton avis sur le studio ? 🎬\n\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote qui doit savoir ça et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
+   "alt": "ANIME — Are You a Landmine, Chihara-san? débutera sa diffusion le 7 janvier",
+   "visual": "visuals/20261015-68f452a4a68f.jpg"
+  },
+  {
+   "id": "68f452a4a68f",
+   "headline": "Are You a Landmine, Chihara-san? débutera sa diffusion le 7 janvier",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/are-you-a-landmine-chihara-san-date-diffusion",
+   "work": "",
+   "key": null,
+   "ts": 1792089664.758875,
+   "type": "story",
+   "files": [
+    "stories/20261015-68f452a4a68f.jpg"
    ]
   }
  ],
