@@ -169,7 +169,8 @@
   "53bf26bffd93": 1792127074.010133,
   "ba16519b4911": 1792128892.426268,
   "3dc8b8c7c348": 1792136197.915909,
-  "3ca0d385d6d6": 1792137112.795596
+  "3ca0d385d6d6": 1792137112.795596,
+  "b09c6abafcc4": 1792140758.349383
  },
  "queue": [
   {
@@ -245,6 +246,45 @@
    "type": "story",
    "files": [
     "stories/20261016-3ca0d385d6d6.jpg"
+   ]
+  },
+  {
+   "id": "b09c6abafcc4",
+   "headline": "Star Detective Precure! : Crossover avec Magical Doremi dans l'épisode…",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/16/star-detective-precure-crossover-episode-39-magical-doremi",
+   "work": "Star Detective Precure!",
+   "key": [
+    "39",
+    "crossover",
+    "dans",
+    "detective",
+    "doremi",
+    "episode",
+    "magical",
+    "precure",
+    "star"
+   ],
+   "ts": 1792140759.112862,
+   "type": "post",
+   "files": [
+    "posts/20261016-b09c6abafcc4.jpg"
+   ],
+   "caption": "🎬 STAR DETECTIVE PRECURE! : CROSSOVER AVEC MAGICAL DOREMI DANS L'ÉPISODE…\n\nLe site web de l'anime Star Detective Precure! a annoncé aujourd’hui que son 39e épisode, intitulé Ojamajo na Halloween♪ et dont la diffusion est prévue au Japon le 25 octobre, comportera un crossover spécial avec la série Magical Doremi. (via Crunchyroll News)\n\n📅 Date : février 2026\n📺 Diffusion : Crunchyroll\n\n💬 Tu attendais cette annonce ?\n\n📌 Œuvre : Star Detective Precure!\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Star Detective Precure! et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#StarDetectivePrecure #anime #animefr #japanime #manga",
+   "alt": "ANIME — Star Detective Precure! : Crossover avec Magical Doremi dans l'épisode…",
+   "visual": "visuals/20261016-b09c6abafcc4.jpg"
+  },
+  {
+   "id": "b09c6abafcc4",
+   "headline": "Star Detective Precure! : Crossover avec Magical Doremi dans l'épisode…",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/16/star-detective-precure-crossover-episode-39-magical-doremi",
+   "work": "Star Detective Precure!",
+   "key": null,
+   "ts": 1792140759.112862,
+   "type": "story",
+   "files": [
+    "stories/20261016-b09c6abafcc4.jpg"
    ]
   }
  ],
