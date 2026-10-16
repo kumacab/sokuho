@@ -181,38 +181,6 @@
  },
  "queue": [
   {
-   "id": "b042d30cebe0",
-   "headline": "Expelled from Paradise: Resonance of the Heart collabore avec Rascal…",
-   "category": "ANIME",
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/16/expelled-from-paradise-resonance-of-the-heart-rascal-does-not-dream-of-a-dear-friend-visuel-collab",
-   "work": "Expelled from Paradise",
-   "key": [
-    "collabore",
-    "dans",
-    "dear",
-    "does",
-    "dream",
-    "expelled",
-    "friend",
-    "from",
-    "heart",
-    "not",
-    "paradise",
-    "rascal",
-    "resonance",
-    "visuel"
-   ],
-   "ts": 1792166312.617199,
-   "type": "post",
-   "files": [
-    "posts/20261016-b042d30cebe0.jpg"
-   ],
-   "caption": "🎬 EXPELLED FROM PARADISE: RESONANCE OF THE HEART COLLABORE AVEC RASCAL…\n\nLe prochain film anime Expelled from Paradise: Resonance of the Heart s'associe à Rascal Does Not Dream of a Dear Friend, actuellement à l'affiche, dans une illustration collaborative qui réinterprète le visuel principal de la série animée de 2018 Rascal Does Not Dream of a Bunny Girl Senpai, mettant ainsi Gabriel et son équipe au premier plan. (via Crunchyroll News)\n\n💬 Note ta hype sur 10 👇\n\n📌 Œuvre : Expelled from Paradise\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan d’Expelled from Paradise et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#ExpelledFromParadise #anime #animefr #japanime #manga",
-   "alt": "ANIME — Expelled from Paradise: Resonance of the Heart collabore avec Rascal…",
-   "visual": "visuals/20261016-b042d30cebe0.jpg",
-   "errors": 1
-  },
-  {
    "id": "car-movies-2026-W42",
    "type": "carousel",
    "headline": "🎬 LES PROCHAINS FILMS D'ANIMATION À NE PAS RATER !",
@@ -230,7 +198,8 @@
     "carousels/20261016-2026-W42-movies-7.jpg",
     "carousels/20261016-2026-W42-movies-8.jpg",
     "carousels/20261016-2026-W42-movies-9.jpg"
-   ]
+   ],
+   "errors": 1
   },
   {
    "id": "3ca0d385d6d6",
@@ -301,19 +270,6 @@
    "caption": "🎬 WOUND & BANDAGE : DATE DE DIFFUSION, TRAILER, VISUEL ET CASTING VOCAL\n\nUne bande-annonce et un visuel de l'anime à venir Kizuguchi to Hotai ( Wound & Bandage ) ont été dévoilés aujourd’hui, révélant la date de lancement à la télévision japonaise, fixée au 9 janvier, ainsi que les principaux membres du casting vocal. (via Crunchyroll News)\n\n💬 Hype ou pas hype ? 🔥\n\n📌 Œuvre : Wound & Bandage\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Wound & Bandage et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#WoundBandage #anime #animefr #japanime #manga",
    "visual": "visuals/20261016-7b912f8e9578.jpg",
    "card": "posts/20261016-7b912f8e9578.jpg"
-  },
-  {
-   "id": "3dc8b8c7c348",
-   "headline": "The Marshal King : Le manga de Boichi se termine avec 34 chapitres",
-   "category": "MANGA",
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/16/boichi-the-marshal-king-manga-fin",
-   "work": "The Marshal King",
-   "key": null,
-   "ts": 1792136198.706062,
-   "type": "story",
-   "files": [
-    "stories/20261016-3dc8b8c7c348.jpg"
-   ]
   },
   {
    "id": "3ca0d385d6d6",
@@ -2224,12 +2180,39 @@
    "ts": 1792172711.800422,
    "media_id": "?",
    "card": "posts/20261016-e50e5a7e5198.jpg"
+  },
+  {
+   "id": "b042d30cebe0",
+   "type": "post",
+   "headline": "Expelled from Paradise: Resonance of the Heart collabore avec Rascal…",
+   "key": [
+    "collabore",
+    "dans",
+    "dear",
+    "does",
+    "dream",
+    "expelled",
+    "friend",
+    "from",
+    "heart",
+    "not",
+    "paradise",
+    "rascal",
+    "resonance",
+    "visuel"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/16/expelled-from-paradise-resonance-of-the-heart-rascal-does-not-dream-of-a-dear-friend-visuel-collab",
+   "visual": "visuals/20261016-b042d30cebe0.jpg",
+   "work": "Expelled from Paradise",
+   "ts": 1792180020.936756,
+   "media_id": "?",
+   "card": "posts/20261016-b042d30cebe0.jpg"
   }
  ],
  "last_recap": null,
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1792179925.973214,
+ "ig_pause_until": 1792187394.2893388,
  "carousels_done": {
   "upcoming": "2026-W42",
   "movies": "2026-W42"
