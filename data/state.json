@@ -179,45 +179,7 @@
   "e50e5a7e5198": 1792159009.935336,
   "b042d30cebe0": 1792166311.938668
  },
- "queue": [
-  {
-   "id": "7b912f8e9578",
-   "headline": "Wound & Bandage : Date de diffusion, Trailer, Visuel et casting vocal",
-   "category": "ANIME",
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/16/wound-and-bandage-date-diffusion-trailer-visuel-casting",
-   "work": "Wound & Bandage",
-   "key": [
-    "bandage",
-    "casting",
-    "diffusion",
-    "visuel",
-    "vocal",
-    "wound"
-   ],
-   "ts": 1792151708.787756,
-   "type": "reel",
-   "files": [
-    "reels/20261016-7b912f8e9578.mp4",
-    "posts/20261016-7b912f8e9578.jpg"
-   ],
-   "caption": "🎬 WOUND & BANDAGE : DATE DE DIFFUSION, TRAILER, VISUEL ET CASTING VOCAL\n\nUne bande-annonce et un visuel de l'anime à venir Kizuguchi to Hotai ( Wound & Bandage ) ont été dévoilés aujourd’hui, révélant la date de lancement à la télévision japonaise, fixée au 9 janvier, ainsi que les principaux membres du casting vocal. (via Crunchyroll News)\n\n💬 Hype ou pas hype ? 🔥\n\n📌 Œuvre : Wound & Bandage\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Wound & Bandage et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#WoundBandage #anime #animefr #japanime #manga",
-   "visual": "visuals/20261016-7b912f8e9578.jpg",
-   "card": "posts/20261016-7b912f8e9578.jpg"
-  },
-  {
-   "id": "7b912f8e9578",
-   "headline": "Wound & Bandage : Date de diffusion, Trailer, Visuel et casting vocal",
-   "category": "ANIME",
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/16/wound-and-bandage-date-diffusion-trailer-visuel-casting",
-   "work": "Wound & Bandage",
-   "key": null,
-   "ts": 1792151708.787756,
-   "type": "story",
-   "files": [
-    "stories/20261016-7b912f8e9578.jpg"
-   ]
-  }
- ],
+ "queue": [],
  "posted": [
   {
    "id": "5a95cf269da6",
@@ -2156,6 +2118,37 @@
    "work": "Expelled from Paradise",
    "media_id": "18117920339054630",
    "ts": 1792188393.234617,
+   "card": null
+  },
+  {
+   "id": "7b912f8e9578",
+   "type": "reel",
+   "headline": "Wound & Bandage : Date de diffusion, Trailer, Visuel et casting vocal",
+   "key": [
+    "bandage",
+    "casting",
+    "diffusion",
+    "visuel",
+    "vocal",
+    "wound"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/16/wound-and-bandage-date-diffusion-trailer-visuel-casting",
+   "visual": "visuals/20261016-7b912f8e9578.jpg",
+   "work": "Wound & Bandage",
+   "media_id": "18100554584639368",
+   "ts": 1792189209.668858,
+   "card": "posts/20261016-7b912f8e9578.jpg"
+  },
+  {
+   "id": "7b912f8e9578",
+   "type": "story",
+   "headline": "Wound & Bandage : Date de diffusion, Trailer, Visuel et casting vocal",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/16/wound-and-bandage-date-diffusion-trailer-visuel-casting",
+   "visual": null,
+   "work": "Wound & Bandage",
+   "media_id": "18020302124930208",
+   "ts": 1792189223.375063,
    "card": null
   }
  ],
