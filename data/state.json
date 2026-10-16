@@ -180,29 +180,28 @@
  },
  "queue": [
   {
-   "id": "7bbffddb6396",
-   "headline": "BLEACH Thousand-Year Blood War : un ultime trailer pour les épisodes…",
+   "id": "e50e5a7e5198",
+   "headline": "BanG Dream! Ave Mujica prima aurora dévoile un nouveau Trailer",
    "category": "ANIME",
-   "link": "https://animotaku.fr/actualite/anime-bleach-thousand-year-blood-war-nouveau-trailer/",
-   "work": "BLEACH Thousand-Year Blood War",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/16/bang-dream-ave-mujica-prima-aurora-film-trailer",
+   "work": "",
    "key": [
-    "bleach",
-    "blood",
-    "episodes",
-    "finaux",
-    "thousand",
-    "ultime",
-    "war",
-    "year"
+    "aurora",
+    "ave",
+    "bang",
+    "devoile",
+    "dream",
+    "mujica",
+    "prima"
    ],
-   "ts": 1792157190.617314,
+   "ts": 1792159010.775422,
    "type": "post",
    "files": [
-    "posts/20261016-7bbffddb6396.jpg"
+    "posts/20261016-e50e5a7e5198.jpg"
    ],
-   "caption": "🎬 BLEACH THOUSAND-YEAR BLOOD WAR : UN ULTIME TRAILER POUR LES ÉPISODES…\n\nLa bande-annonce revient sur la confrontation finale à venir entre Ichigo et Yhwach, attendue les lundis 19 et 26 octobre prochains. Comme annoncé début septembre, les épisodes 49 et 50 de BLEACH : Thousand-Year Blood War, qui seront aussi les épisodes finaux de la série, sortiront respectivement les 19 et 26 octobre 2026 sur Disney+. (via Animotaku)\n\n📅 Date : 26 octobre 2026\n📺 Diffusion : Disney+\n\n💬 Tu vas le regarder ? 👀\n\n📌 Œuvre : BLEACH Thousand-Year Blood War\n📰 Source : Animotaku\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de BLEACH Thousand-Year Blood War et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#BLEACHThousandYearBloodWar #anime #animefr #japanime #manga",
-   "alt": "ANIME — BLEACH Thousand-Year Blood War : un ultime trailer pour les épisodes…",
-   "visual": "visuals/20261016-7bbffddb6396.jpg",
+   "caption": "🎬 BANG DREAM! AVE MUJICA PRIMA AURORA DÉVOILE UN NOUVEAU TRAILER\n\nC'est aujourd'hui que sort le film anime BanG Dream! Ave Mujica prima aurora, le dernier opus en date de la franchise multimédia. Pour fêter cela, une deuxième bande-annonce a été dévoilée, comprenant des images inédites ainsi qu'un nouvel extrait de la chanson A Song of Romance. (via Crunchyroll News)\n\n📅 Date : janvier 2027\n📺 Diffusion : Crunchyroll, YouTube\n🔢 Épisodes : 13\n\n💬 Tu attendais cette annonce ?\n\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote qui doit savoir ça et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
+   "alt": "ANIME — BanG Dream! Ave Mujica prima aurora dévoile un nouveau Trailer",
+   "visual": "visuals/20261016-e50e5a7e5198.jpg",
    "errors": 1
   },
   {
@@ -365,30 +364,6 @@
    "files": [
     "stories/20261016-7bbffddb6396.jpg"
    ]
-  },
-  {
-   "id": "e50e5a7e5198",
-   "headline": "BanG Dream! Ave Mujica prima aurora dévoile un nouveau Trailer",
-   "category": "ANIME",
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/16/bang-dream-ave-mujica-prima-aurora-film-trailer",
-   "work": "",
-   "key": [
-    "aurora",
-    "ave",
-    "bang",
-    "devoile",
-    "dream",
-    "mujica",
-    "prima"
-   ],
-   "ts": 1792159010.775422,
-   "type": "post",
-   "files": [
-    "posts/20261016-e50e5a7e5198.jpg"
-   ],
-   "caption": "🎬 BANG DREAM! AVE MUJICA PRIMA AURORA DÉVOILE UN NOUVEAU TRAILER\n\nC'est aujourd'hui que sort le film anime BanG Dream! Ave Mujica prima aurora, le dernier opus en date de la franchise multimédia. Pour fêter cela, une deuxième bande-annonce a été dévoilée, comprenant des images inédites ainsi qu'un nouvel extrait de la chanson A Song of Romance. (via Crunchyroll News)\n\n📅 Date : janvier 2027\n📺 Diffusion : Crunchyroll, YouTube\n🔢 Épisodes : 13\n\n💬 Tu attendais cette annonce ?\n\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote qui doit savoir ça et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
-   "alt": "ANIME — BanG Dream! Ave Mujica prima aurora dévoile un nouveau Trailer",
-   "visual": "visuals/20261016-e50e5a7e5198.jpg"
   },
   {
    "id": "e50e5a7e5198",
@@ -2167,12 +2142,33 @@
    "ts": 1792158094.277829,
    "media_id": "?",
    "card": "posts/20261016-08e19782070c.jpg"
+  },
+  {
+   "id": "7bbffddb6396",
+   "type": "post",
+   "headline": "BLEACH Thousand-Year Blood War : un ultime trailer pour les épisodes…",
+   "key": [
+    "bleach",
+    "blood",
+    "episodes",
+    "finaux",
+    "thousand",
+    "ultime",
+    "war",
+    "year"
+   ],
+   "link": "https://animotaku.fr/actualite/anime-bleach-thousand-year-blood-war-nouveau-trailer/",
+   "visual": "visuals/20261016-7bbffddb6396.jpg",
+   "work": "BLEACH Thousand-Year Blood War",
+   "ts": 1792165396.61821,
+   "media_id": "?",
+   "card": "posts/20261016-7bbffddb6396.jpg"
   }
  ],
  "last_recap": null,
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1792165307.4816415,
+ "ig_pause_until": 1792172610.2794716,
  "carousels_done": {
   "upcoming": "2026-W42"
  },
