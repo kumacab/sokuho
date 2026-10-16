@@ -173,7 +173,8 @@
   "b09c6abafcc4": 1792140758.349383,
   "5b7cd0a6a639": 1792145327.063055,
   "c68034f58b38": 1792146236.751607,
-  "08e19782070c": 1792148966.662013
+  "08e19782070c": 1792148966.662013,
+  "7b912f8e9578": 1792151708.023232
  },
  "queue": [
   {
@@ -308,6 +309,43 @@
    "type": "story",
    "files": [
     "stories/20261016-08e19782070c.jpg"
+   ]
+  },
+  {
+   "id": "7b912f8e9578",
+   "headline": "Wound & Bandage : Date de diffusion, Trailer, Visuel et casting vocal",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/16/wound-and-bandage-date-diffusion-trailer-visuel-casting",
+   "work": "Wound & Bandage",
+   "key": [
+    "bandage",
+    "casting",
+    "diffusion",
+    "visuel",
+    "vocal",
+    "wound"
+   ],
+   "ts": 1792151708.787756,
+   "type": "reel",
+   "files": [
+    "reels/20261016-7b912f8e9578.mp4",
+    "posts/20261016-7b912f8e9578.jpg"
+   ],
+   "caption": "🎬 WOUND & BANDAGE : DATE DE DIFFUSION, TRAILER, VISUEL ET CASTING VOCAL\n\nUne bande-annonce et un visuel de l'anime à venir Kizuguchi to Hotai ( Wound & Bandage ) ont été dévoilés aujourd’hui, révélant la date de lancement à la télévision japonaise, fixée au 9 janvier, ainsi que les principaux membres du casting vocal. (via Crunchyroll News)\n\n💬 Hype ou pas hype ? 🔥\n\n📌 Œuvre : Wound & Bandage\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Wound & Bandage et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#WoundBandage #anime #animefr #japanime #manga",
+   "visual": "visuals/20261016-7b912f8e9578.jpg",
+   "card": "posts/20261016-7b912f8e9578.jpg"
+  },
+  {
+   "id": "7b912f8e9578",
+   "headline": "Wound & Bandage : Date de diffusion, Trailer, Visuel et casting vocal",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/16/wound-and-bandage-date-diffusion-trailer-visuel-casting",
+   "work": "Wound & Bandage",
+   "key": null,
+   "ts": 1792151708.787756,
+   "type": "story",
+   "files": [
+    "stories/20261016-7b912f8e9578.jpg"
    ]
   }
  ],
