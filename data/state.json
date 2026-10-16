@@ -172,7 +172,8 @@
   "3ca0d385d6d6": 1792137112.795596,
   "b09c6abafcc4": 1792140758.349383,
   "5b7cd0a6a639": 1792145327.063055,
-  "c68034f58b38": 1792146236.751607
+  "c68034f58b38": 1792146236.751607,
+  "08e19782070c": 1792148966.662013
  },
  "queue": [
   {
@@ -298,6 +299,41 @@
    "type": "story",
    "files": [
     "stories/20261016-c68034f58b38.jpg"
+   ]
+  },
+  {
+   "id": "08e19782070c",
+   "headline": "L’anime Wound & Bandage sortira le 9 janvier 2027",
+   "category": "ANIME",
+   "link": "https://animotaku.fr/actualite/anime-wound-bandage-date-sortie/",
+   "work": "",
+   "key": [
+    "2027",
+    "bandage",
+    "janvier",
+    "sortira",
+    "wound"
+   ],
+   "ts": 1792148968.93655,
+   "type": "post",
+   "files": [
+    "posts/20261016-08e19782070c.jpg"
+   ],
+   "caption": "🎬 L’ANIME WOUND & BANDAGE SORTIRA LE 9 JANVIER 2027\n\nSur le site web officiel du projet, une bande-annonce et une nouvelle affiche promotionnelle ont été dévoilées. Comme annoncé précédemment, c’est le studio J.C. STAFF qui produit l’animation. Comme annoncé sur le site web officiel du projet, l’anime Wound & Bandage (Kizuguchi to Houtai) sortira le samedi 9 janvier 2027 parmi les nouveautés de l’hiver. (via Animotaku)\n\n📅 Date : 9 janvier 2027\n\n💬 Ton avis sur le studio ? 🎬\n\n📰 Source : Animotaku\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote qui doit savoir ça et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
+   "alt": "ANIME — L’anime Wound & Bandage sortira le 9 janvier 2027",
+   "visual": "visuals/20261016-08e19782070c.jpg"
+  },
+  {
+   "id": "08e19782070c",
+   "headline": "L’anime Wound & Bandage sortira le 9 janvier 2027",
+   "category": "ANIME",
+   "link": "https://animotaku.fr/actualite/anime-wound-bandage-date-sortie/",
+   "work": "",
+   "key": null,
+   "ts": 1792148968.93655,
+   "type": "story",
+   "files": [
+    "stories/20261016-08e19782070c.jpg"
    ]
   }
  ],
