@@ -174,7 +174,8 @@
   "5b7cd0a6a639": 1792145327.063055,
   "c68034f58b38": 1792146236.751607,
   "08e19782070c": 1792148966.662013,
-  "7b912f8e9578": 1792151708.023232
+  "7b912f8e9578": 1792151708.023232,
+  "7bbffddb6396": 1792157187.764791
  },
  "queue": [
   {
@@ -346,6 +347,44 @@
    "type": "story",
    "files": [
     "stories/20261016-7b912f8e9578.jpg"
+   ]
+  },
+  {
+   "id": "7bbffddb6396",
+   "headline": "BLEACH Thousand-Year Blood War : un ultime trailer pour les épisodes…",
+   "category": "ANIME",
+   "link": "https://animotaku.fr/actualite/anime-bleach-thousand-year-blood-war-nouveau-trailer/",
+   "work": "BLEACH Thousand-Year Blood War",
+   "key": [
+    "bleach",
+    "blood",
+    "episodes",
+    "finaux",
+    "thousand",
+    "ultime",
+    "war",
+    "year"
+   ],
+   "ts": 1792157190.617314,
+   "type": "post",
+   "files": [
+    "posts/20261016-7bbffddb6396.jpg"
+   ],
+   "caption": "🎬 BLEACH THOUSAND-YEAR BLOOD WAR : UN ULTIME TRAILER POUR LES ÉPISODES…\n\nLa bande-annonce revient sur la confrontation finale à venir entre Ichigo et Yhwach, attendue les lundis 19 et 26 octobre prochains. Comme annoncé début septembre, les épisodes 49 et 50 de BLEACH : Thousand-Year Blood War, qui seront aussi les épisodes finaux de la série, sortiront respectivement les 19 et 26 octobre 2026 sur Disney+. (via Animotaku)\n\n📅 Date : 26 octobre 2026\n📺 Diffusion : Disney+\n\n💬 Tu vas le regarder ? 👀\n\n📌 Œuvre : BLEACH Thousand-Year Blood War\n📰 Source : Animotaku\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de BLEACH Thousand-Year Blood War et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#BLEACHThousandYearBloodWar #anime #animefr #japanime #manga",
+   "alt": "ANIME — BLEACH Thousand-Year Blood War : un ultime trailer pour les épisodes…",
+   "visual": "visuals/20261016-7bbffddb6396.jpg"
+  },
+  {
+   "id": "7bbffddb6396",
+   "headline": "BLEACH Thousand-Year Blood War : un ultime trailer pour les épisodes…",
+   "category": "ANIME",
+   "link": "https://animotaku.fr/actualite/anime-bleach-thousand-year-blood-war-nouveau-trailer/",
+   "work": "BLEACH Thousand-Year Blood War",
+   "key": null,
+   "ts": 1792157190.617314,
+   "type": "story",
+   "files": [
+    "stories/20261016-7bbffddb6396.jpg"
    ]
   }
  ],
