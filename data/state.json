@@ -171,7 +171,8 @@
   "3dc8b8c7c348": 1792136197.915909,
   "3ca0d385d6d6": 1792137112.795596,
   "b09c6abafcc4": 1792140758.349383,
-  "5b7cd0a6a639": 1792145327.063055
+  "5b7cd0a6a639": 1792145327.063055,
+  "c68034f58b38": 1792146236.751607
  },
  "queue": [
   {
@@ -262,6 +263,41 @@
    "type": "story",
    "files": [
     "stories/20261016-b09c6abafcc4.jpg"
+   ]
+  },
+  {
+   "id": "c68034f58b38",
+   "headline": "I Lost My Adventurer’s License dévoile un teaser vidéo",
+   "category": "ANIME",
+   "link": "https://adala-news.fr/2026/10/lanime-i-lost-my-adventurers-license-en-teaser-video/",
+   "work": "I Lost My Adventurer's License",
+   "key": [
+    "adventurer",
+    "license",
+    "lost",
+    "my"
+   ],
+   "ts": 1792146239.519307,
+   "type": "reel",
+   "files": [
+    "reels/20261016-c68034f58b38.mp4",
+    "posts/20261016-c68034f58b38.jpg"
+   ],
+   "caption": "🎬 I LOST MY ADVENTURER’S LICENSE DÉVOILE UN TEASER VIDÉO\n\nL’anime I Lost My Adventurer’s License, but It’s Fine Because I Have an Adorable Daughter Now ( Bokensha License o Hakudatsusareta Ossan Dakedo Manamusume ga Dekita node Nonbiri Jinsei o Okasuru ) dévoile son premier teaser vidéo et son affiche officielle, promettant une aventure chaleureuse entre un ancien héros déchu et sa fille adoptive. (via Adala News)\n\n📅 Date : janvier 2027\n\n💬 Ton avis sur le studio ? 🎬\n\n📌 Œuvre : I Lost My Adventurer's License\n📰 Source : Adala News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan d’I Lost My Adventurer's License et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#ILostMyAdventurerLicense #anime #animefr #japanime #manga",
+   "visual": "visuals/20261016-c68034f58b38.jpg",
+   "card": "posts/20261016-c68034f58b38.jpg"
+  },
+  {
+   "id": "c68034f58b38",
+   "headline": "I Lost My Adventurer’s License dévoile un teaser vidéo",
+   "category": "ANIME",
+   "link": "https://adala-news.fr/2026/10/lanime-i-lost-my-adventurers-license-en-teaser-video/",
+   "work": "I Lost My Adventurer's License",
+   "key": null,
+   "ts": 1792146239.519307,
+   "type": "story",
+   "files": [
+    "stories/20261016-c68034f58b38.jpg"
    ]
   }
  ],
