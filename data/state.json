@@ -174,42 +174,31 @@
  },
  "queue": [
   {
-   "id": "3dc8b8c7c348",
-   "headline": "The Marshal King : Le manga de Boichi se termine avec 34 chapitres",
-   "category": "MANGA",
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/16/boichi-the-marshal-king-manga-fin",
-   "work": "The Marshal King",
+   "id": "b09c6abafcc4",
+   "headline": "Star Detective Precure! : Crossover avec Magical Doremi dans l'épisode…",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/16/star-detective-precure-crossover-episode-39-magical-doremi",
+   "work": "Star Detective Precure!",
    "key": [
-    "34",
-    "boichi",
-    "chapitres",
-    "king",
-    "marshal",
-    "se",
-    "termine"
+    "39",
+    "crossover",
+    "dans",
+    "detective",
+    "doremi",
+    "episode",
+    "magical",
+    "precure",
+    "star"
    ],
-   "ts": 1792136198.706062,
+   "ts": 1792140759.112862,
    "type": "post",
    "files": [
-    "posts/20261016-3dc8b8c7c348.jpg"
+    "posts/20261016-b09c6abafcc4.jpg"
    ],
-   "caption": "📚 THE MARSHAL KING : LE MANGA DE BOICHI SE TERMINE AVEC 34 CHAPITRES\n\nL'auteur Boichi a lancé le manga The Marshal King sur Shonen Jump+ en février 2025, et la série vient désormais officiellement de s'achever. Le 34e et dernier chapitre est sorti au Japon aujourd'hui et est disponible en anglais via le service MANGA Plus de Shueisha. (via Crunchyroll News)\n\n📅 Date : octobre 2026\n📚 Éditeur : Doki-Doki\n\n💬 Tu lis ce manga ? 📖\n\n📌 Œuvre : The Marshal King\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de The Marshal King et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#TheMarshalKing #manga #mangafr #mangaka #anime",
-   "alt": "MANGA — The Marshal King : Le manga de Boichi se termine avec 34 chapitres",
-   "visual": "visuals/20261016-3dc8b8c7c348.jpg",
+   "caption": "🎬 STAR DETECTIVE PRECURE! : CROSSOVER AVEC MAGICAL DOREMI DANS L'ÉPISODE…\n\nLe site web de l'anime Star Detective Precure! a annoncé aujourd’hui que son 39e épisode, intitulé Ojamajo na Halloween♪ et dont la diffusion est prévue au Japon le 25 octobre, comportera un crossover spécial avec la série Magical Doremi. (via Crunchyroll News)\n\n📅 Date : février 2026\n📺 Diffusion : Crunchyroll\n\n💬 Tu attendais cette annonce ?\n\n📌 Œuvre : Star Detective Precure!\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Star Detective Precure! et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#StarDetectivePrecure #anime #animefr #japanime #manga",
+   "alt": "ANIME — Star Detective Precure! : Crossover avec Magical Doremi dans l'épisode…",
+   "visual": "visuals/20261016-b09c6abafcc4.jpg",
    "errors": 1
-  },
-  {
-   "id": "3dc8b8c7c348",
-   "headline": "The Marshal King : Le manga de Boichi se termine avec 34 chapitres",
-   "category": "MANGA",
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/16/boichi-the-marshal-king-manga-fin",
-   "work": "The Marshal King",
-   "key": null,
-   "ts": 1792136198.706062,
-   "type": "story",
-   "files": [
-    "stories/20261016-3dc8b8c7c348.jpg"
-   ]
   },
   {
    "id": "3ca0d385d6d6",
@@ -236,6 +225,19 @@
    "card": "posts/20261016-3ca0d385d6d6.jpg"
   },
   {
+   "id": "3dc8b8c7c348",
+   "headline": "The Marshal King : Le manga de Boichi se termine avec 34 chapitres",
+   "category": "MANGA",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/16/boichi-the-marshal-king-manga-fin",
+   "work": "The Marshal King",
+   "key": null,
+   "ts": 1792136198.706062,
+   "type": "story",
+   "files": [
+    "stories/20261016-3dc8b8c7c348.jpg"
+   ]
+  },
+  {
    "id": "3ca0d385d6d6",
    "headline": "Les Carnets de l'apothicaire Saison 3 : Yorushika dévoile le clip de…",
    "category": "ANIME",
@@ -247,32 +249,6 @@
    "files": [
     "stories/20261016-3ca0d385d6d6.jpg"
    ]
-  },
-  {
-   "id": "b09c6abafcc4",
-   "headline": "Star Detective Precure! : Crossover avec Magical Doremi dans l'épisode…",
-   "category": "ANIME",
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/16/star-detective-precure-crossover-episode-39-magical-doremi",
-   "work": "Star Detective Precure!",
-   "key": [
-    "39",
-    "crossover",
-    "dans",
-    "detective",
-    "doremi",
-    "episode",
-    "magical",
-    "precure",
-    "star"
-   ],
-   "ts": 1792140759.112862,
-   "type": "post",
-   "files": [
-    "posts/20261016-b09c6abafcc4.jpg"
-   ],
-   "caption": "🎬 STAR DETECTIVE PRECURE! : CROSSOVER AVEC MAGICAL DOREMI DANS L'ÉPISODE…\n\nLe site web de l'anime Star Detective Precure! a annoncé aujourd’hui que son 39e épisode, intitulé Ojamajo na Halloween♪ et dont la diffusion est prévue au Japon le 25 octobre, comportera un crossover spécial avec la série Magical Doremi. (via Crunchyroll News)\n\n📅 Date : février 2026\n📺 Diffusion : Crunchyroll\n\n💬 Tu attendais cette annonce ?\n\n📌 Œuvre : Star Detective Precure!\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Star Detective Precure! et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#StarDetectivePrecure #anime #animefr #japanime #manga",
-   "alt": "ANIME — Star Detective Precure! : Crossover avec Magical Doremi dans l'épisode…",
-   "visual": "visuals/20261016-b09c6abafcc4.jpg"
   },
   {
    "id": "b09c6abafcc4",
@@ -1991,12 +1967,32 @@
    "media_id": "18123564985930220",
    "ts": 1792129020.909844,
    "card": null
+  },
+  {
+   "id": "3dc8b8c7c348",
+   "type": "post",
+   "headline": "The Marshal King : Le manga de Boichi se termine avec 34 chapitres",
+   "key": [
+    "34",
+    "boichi",
+    "chapitres",
+    "king",
+    "marshal",
+    "se",
+    "termine"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/16/boichi-the-marshal-king-manga-fin",
+   "visual": "visuals/20261016-3dc8b8c7c348.jpg",
+   "work": "The Marshal King",
+   "ts": 1792143495.861264,
+   "media_id": "?",
+   "card": "posts/20261016-3dc8b8c7c348.jpg"
   }
  ],
  "last_recap": null,
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1792143437.2870958,
+ "ig_pause_until": 1792150710.1263258,
  "carousels_done": {
   "upcoming": "2026-W42"
  },
