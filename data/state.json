@@ -175,7 +175,8 @@
   "c68034f58b38": 1792146236.751607,
   "08e19782070c": 1792148966.662013,
   "7b912f8e9578": 1792151708.023232,
-  "7bbffddb6396": 1792157187.764791
+  "7bbffddb6396": 1792157187.764791,
+  "e50e5a7e5198": 1792159009.935336
  },
  "queue": [
   {
@@ -363,6 +364,43 @@
    "type": "story",
    "files": [
     "stories/20261016-7bbffddb6396.jpg"
+   ]
+  },
+  {
+   "id": "e50e5a7e5198",
+   "headline": "BanG Dream! Ave Mujica prima aurora dévoile un nouveau Trailer",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/16/bang-dream-ave-mujica-prima-aurora-film-trailer",
+   "work": "",
+   "key": [
+    "aurora",
+    "ave",
+    "bang",
+    "devoile",
+    "dream",
+    "mujica",
+    "prima"
+   ],
+   "ts": 1792159010.775422,
+   "type": "post",
+   "files": [
+    "posts/20261016-e50e5a7e5198.jpg"
+   ],
+   "caption": "🎬 BANG DREAM! AVE MUJICA PRIMA AURORA DÉVOILE UN NOUVEAU TRAILER\n\nC'est aujourd'hui que sort le film anime BanG Dream! Ave Mujica prima aurora, le dernier opus en date de la franchise multimédia. Pour fêter cela, une deuxième bande-annonce a été dévoilée, comprenant des images inédites ainsi qu'un nouvel extrait de la chanson A Song of Romance. (via Crunchyroll News)\n\n📅 Date : janvier 2027\n📺 Diffusion : Crunchyroll, YouTube\n🔢 Épisodes : 13\n\n💬 Tu attendais cette annonce ?\n\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote qui doit savoir ça et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
+   "alt": "ANIME — BanG Dream! Ave Mujica prima aurora dévoile un nouveau Trailer",
+   "visual": "visuals/20261016-e50e5a7e5198.jpg"
+  },
+  {
+   "id": "e50e5a7e5198",
+   "headline": "BanG Dream! Ave Mujica prima aurora dévoile un nouveau Trailer",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/16/bang-dream-ave-mujica-prima-aurora-film-trailer",
+   "work": "",
+   "key": null,
+   "ts": 1792159010.775422,
+   "type": "story",
+   "files": [
+    "stories/20261016-e50e5a7e5198.jpg"
    ]
   }
  ],
