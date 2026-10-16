@@ -167,9 +167,49 @@
   "ddd379a17c0b": 1792127074.010131,
   "d4758d0cd6b9": 1792127074.010132,
   "53bf26bffd93": 1792127074.010133,
-  "ba16519b4911": 1792128892.426268
+  "ba16519b4911": 1792128892.426268,
+  "3dc8b8c7c348": 1792136197.915909
  },
- "queue": [],
+ "queue": [
+  {
+   "id": "3dc8b8c7c348",
+   "headline": "The Marshal King : Le manga de Boichi se termine avec 34 chapitres",
+   "category": "MANGA",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/16/boichi-the-marshal-king-manga-fin",
+   "work": "The Marshal King",
+   "key": [
+    "34",
+    "boichi",
+    "chapitres",
+    "king",
+    "marshal",
+    "se",
+    "termine"
+   ],
+   "ts": 1792136198.706062,
+   "type": "post",
+   "files": [
+    "posts/20261016-3dc8b8c7c348.jpg"
+   ],
+   "caption": "📚 THE MARSHAL KING : LE MANGA DE BOICHI SE TERMINE AVEC 34 CHAPITRES\n\nL'auteur Boichi a lancé le manga The Marshal King sur Shonen Jump+ en février 2025, et la série vient désormais officiellement de s'achever. Le 34e et dernier chapitre est sorti au Japon aujourd'hui et est disponible en anglais via le service MANGA Plus de Shueisha. (via Crunchyroll News)\n\n📅 Date : octobre 2026\n📚 Éditeur : Doki-Doki\n\n💬 Tu lis ce manga ? 📖\n\n📌 Œuvre : The Marshal King\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de The Marshal King et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#TheMarshalKing #manga #mangafr #mangaka #anime",
+   "alt": "MANGA — The Marshal King : Le manga de Boichi se termine avec 34 chapitres",
+   "visual": "visuals/20261016-3dc8b8c7c348.jpg",
+   "errors": 1
+  },
+  {
+   "id": "3dc8b8c7c348",
+   "headline": "The Marshal King : Le manga de Boichi se termine avec 34 chapitres",
+   "category": "MANGA",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/16/boichi-the-marshal-king-manga-fin",
+   "work": "The Marshal King",
+   "key": null,
+   "ts": 1792136198.706062,
+   "type": "story",
+   "files": [
+    "stories/20261016-3dc8b8c7c348.jpg"
+   ]
+  }
+ ],
  "posted": [
   {
    "id": "5a95cf269da6",
@@ -1878,7 +1918,7 @@
  "last_recap": null,
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1792103278.1968772,
+ "ig_pause_until": 1792143437.2870958,
  "carousels_done": {
   "upcoming": "2026-W42"
  },
