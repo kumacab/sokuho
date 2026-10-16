@@ -422,6 +422,26 @@
    "files": [
     "stories/20261016-b042d30cebe0.jpg"
    ]
+  },
+  {
+   "id": "car-movies-2026-W42",
+   "type": "carousel",
+   "headline": "🎬 LES PROCHAINS FILMS D'ANIMATION À NE PAS RATER !",
+   "key": null,
+   "ts": 1792167228.597477,
+   "caption": "🎬 LES PROCHAINS FILMS D'ANIMATION À NE PAS RATER !\n\nLes films d'animation japonais les plus attendus, avec leur date de sortie au Japon. Les sorties françaises sont annoncées plus tard : on vous tient au courant.\n\n📌 Enregistre le post\n💬 Tu vas voir lequel au cinéma ?\n\nDonnées : AniList · Visuels © leurs ayants droit\n\n#filmanime #animefr #anime #cinema #manga",
+   "files": [
+    "carousels/20261016-2026-W42-movies-0.jpg",
+    "carousels/20261016-2026-W42-movies-1.jpg",
+    "carousels/20261016-2026-W42-movies-2.jpg",
+    "carousels/20261016-2026-W42-movies-3.jpg",
+    "carousels/20261016-2026-W42-movies-4.jpg",
+    "carousels/20261016-2026-W42-movies-5.jpg",
+    "carousels/20261016-2026-W42-movies-6.jpg",
+    "carousels/20261016-2026-W42-movies-7.jpg",
+    "carousels/20261016-2026-W42-movies-8.jpg",
+    "carousels/20261016-2026-W42-movies-9.jpg"
+   ]
   }
  ],
  "posted": [
@@ -2215,7 +2235,8 @@
  "manual_reels": [],
  "ig_pause_until": 1792172610.2794716,
  "carousels_done": {
-  "upcoming": "2026-W42"
+  "upcoming": "2026-W42",
+  "movies": "2026-W42"
  },
  "ig_user_id": "17841459944087335"
 }
