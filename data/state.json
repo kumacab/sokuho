@@ -182,7 +182,8 @@
   "9c5bff9b3328": 1792231087.106908,
   "c2d8e9a0d41c": 1792237462.670262,
   "fe2545ca0260": 1792246580.09159,
-  "6d4e6d63fe60": 1792247497.246804
+  "6d4e6d63fe60": 1792247497.246804,
+  "c5a55224f27c": 1792248404.543627
  },
  "queue": [],
  "posted": [
@@ -2271,6 +2272,35 @@
    "work": "Nanatsuya Shinobu no Housekibako",
    "media_id": "17913156219552295",
    "ts": 1792247654.752176,
+   "card": null
+  },
+  {
+   "id": "c5a55224f27c",
+   "type": "post",
+   "headline": "L’anime Full Clearing Another World, en Trailer 2",
+   "key": [
+    "another",
+    "clearing",
+    "full",
+    "world"
+   ],
+   "link": "https://adala-news.fr/2026/10/lanime-full-clearing-another-world-en-trailer-2/",
+   "visual": "visuals/20261017-c5a55224f27c.jpg",
+   "work": "",
+   "media_id": "18116669225321295",
+   "ts": 1792248453.351985,
+   "card": "posts/20261017-c5a55224f27c.jpg"
+  },
+  {
+   "id": "c5a55224f27c",
+   "type": "story",
+   "headline": "L’anime Full Clearing Another World, en Trailer 2",
+   "key": null,
+   "link": "https://adala-news.fr/2026/10/lanime-full-clearing-another-world-en-trailer-2/",
+   "visual": null,
+   "work": "",
+   "media_id": "18104198459015376",
+   "ts": 1792248467.756871,
    "card": null
   }
  ],
