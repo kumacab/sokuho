@@ -180,7 +180,8 @@
   "b042d30cebe0": 1792166311.938668,
   "f0d33ad9cff0": 1792213754.064257,
   "9c5bff9b3328": 1792231087.106908,
-  "c2d8e9a0d41c": 1792237462.670262
+  "c2d8e9a0d41c": 1792237462.670262,
+  "fe2545ca0260": 1792246580.09159
  },
  "queue": [],
  "posted": [
@@ -2213,6 +2214,33 @@
    "work": "Bleach",
    "media_id": "18077451173753976",
    "ts": 1792237592.444948,
+   "card": null
+  },
+  {
+   "id": "fe2545ca0260",
+   "type": "reel",
+   "headline": "À crocs à toi adapté en anime",
+   "key": [
+    "crocs",
+    "toi"
+   ],
+   "link": "https://adala-news.fr/2026/10/le-manga-a-crocs-a-toi-adapte-en-anime/",
+   "visual": "visuals/20261017-fe2545ca0260.jpg",
+   "work": "À crocs à toi",
+   "media_id": "18015333821960500",
+   "ts": 1792246771.379948,
+   "card": "posts/20261017-fe2545ca0260.jpg"
+  },
+  {
+   "id": "fe2545ca0260",
+   "type": "story",
+   "headline": "À crocs à toi adapté en anime",
+   "key": null,
+   "link": "https://adala-news.fr/2026/10/le-manga-a-crocs-a-toi-adapte-en-anime/",
+   "visual": null,
+   "work": "À crocs à toi",
+   "media_id": "18393037657204271",
+   "ts": 1792246785.554844,
    "card": null
   }
  ],
