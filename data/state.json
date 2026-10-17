@@ -181,7 +181,8 @@
   "f0d33ad9cff0": 1792213754.064257,
   "9c5bff9b3328": 1792231087.106908,
   "c2d8e9a0d41c": 1792237462.670262,
-  "fe2545ca0260": 1792246580.09159
+  "fe2545ca0260": 1792246580.09159,
+  "6d4e6d63fe60": 1792247497.246804
  },
  "queue": [],
  "posted": [
@@ -2241,6 +2242,35 @@
    "work": "À crocs à toi",
    "media_id": "18393037657204271",
    "ts": 1792246785.554844,
+   "card": null
+  },
+  {
+   "id": "6d4e6d63fe60",
+   "type": "reel",
+   "headline": "Nanatsuya Shinobu no Housekibako adapté en anime",
+   "key": [
+    "housekibako",
+    "nanatsuya",
+    "no",
+    "shinobu"
+   ],
+   "link": "https://adala-news.fr/2026/10/le-manga-nanatsuya-shinobu-no-housekibako-adapte-en-anime/",
+   "visual": "visuals/20261017-6d4e6d63fe60.jpg",
+   "work": "Nanatsuya Shinobu no Housekibako",
+   "media_id": "17983934202095373",
+   "ts": 1792247641.904627,
+   "card": "posts/20261017-6d4e6d63fe60.jpg"
+  },
+  {
+   "id": "6d4e6d63fe60",
+   "type": "story",
+   "headline": "Nanatsuya Shinobu no Housekibako adapté en anime",
+   "key": null,
+   "link": "https://adala-news.fr/2026/10/le-manga-nanatsuya-shinobu-no-housekibako-adapte-en-anime/",
+   "visual": null,
+   "work": "Nanatsuya Shinobu no Housekibako",
+   "media_id": "17913156219552295",
+   "ts": 1792247654.752176,
    "card": null
   }
  ],
