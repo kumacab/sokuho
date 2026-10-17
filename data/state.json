@@ -183,7 +183,8 @@
   "c2d8e9a0d41c": 1792237462.670262,
   "fe2545ca0260": 1792246580.09159,
   "6d4e6d63fe60": 1792247497.246804,
-  "c5a55224f27c": 1792248404.543627
+  "c5a55224f27c": 1792248404.543627,
+  "04a455f33f75": 1792249315.43607
  },
  "queue": [],
  "posted": [
@@ -2301,6 +2302,35 @@
    "work": "",
    "media_id": "18104198459015376",
    "ts": 1792248467.756871,
+   "card": null
+  },
+  {
+   "id": "04a455f33f75",
+   "type": "post",
+   "headline": "L’anime A Certain Dark Item, en Opening Vidéo",
+   "key": [
+    "certain",
+    "dark",
+    "item",
+    "opening"
+   ],
+   "link": "https://adala-news.fr/2026/10/lanime-a-certain-dark-item-en-opening-video/",
+   "visual": "visuals/20261017-04a455f33f75.jpg",
+   "work": "A Certain Dark Item",
+   "media_id": "18071588216589621",
+   "ts": 1792249406.08671,
+   "card": "posts/20261017-04a455f33f75.jpg"
+  },
+  {
+   "id": "04a455f33f75",
+   "type": "story",
+   "headline": "L’anime A Certain Dark Item, en Opening Vidéo",
+   "key": null,
+   "link": "https://adala-news.fr/2026/10/lanime-a-certain-dark-item-en-opening-video/",
+   "visual": null,
+   "work": "A Certain Dark Item",
+   "media_id": "18078671174389623",
+   "ts": 1792249419.540302,
    "card": null
   }
  ],
