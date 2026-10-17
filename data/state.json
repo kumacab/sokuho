@@ -179,7 +179,8 @@
   "e50e5a7e5198": 1792159009.935336,
   "b042d30cebe0": 1792166311.938668,
   "f0d33ad9cff0": 1792213754.064257,
-  "9c5bff9b3328": 1792231087.106908
+  "9c5bff9b3328": 1792231087.106908,
+  "c2d8e9a0d41c": 1792237462.670262
  },
  "queue": [],
  "posted": [
@@ -2184,6 +2185,34 @@
    "work": "",
    "media_id": "18068745179603828",
    "ts": 1792213886.607518,
+   "card": null
+  },
+  {
+   "id": "c2d8e9a0d41c",
+   "type": "reel",
+   "headline": "L’anime Bleach – The Calamity, en Trailer Final",
+   "key": [
+    "bleach",
+    "calamity",
+    "final"
+   ],
+   "link": "https://adala-news.fr/2026/10/lanime-bleach-the-calamity-en-trailer-final/",
+   "visual": "visuals/20261017-c2d8e9a0d41c.jpg",
+   "work": "Bleach",
+   "media_id": "18105241490528230",
+   "ts": 1792237579.350303,
+   "card": "posts/20261017-c2d8e9a0d41c.jpg"
+  },
+  {
+   "id": "c2d8e9a0d41c",
+   "type": "story",
+   "headline": "L’anime Bleach – The Calamity, en Trailer Final",
+   "key": null,
+   "link": "https://adala-news.fr/2026/10/lanime-bleach-the-calamity-en-trailer-final/",
+   "visual": null,
+   "work": "Bleach",
+   "media_id": "18077451173753976",
+   "ts": 1792237592.444948,
    "card": null
   }
  ],
