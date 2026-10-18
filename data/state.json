@@ -184,7 +184,8 @@
   "fe2545ca0260": 1792246580.09159,
   "6d4e6d63fe60": 1792247497.246804,
   "c5a55224f27c": 1792248404.543627,
-  "04a455f33f75": 1792249315.43607
+  "04a455f33f75": 1792249315.43607,
+  "842f2e93ceff": 1792314033.683035
  },
  "queue": [],
  "posted": [
@@ -2331,6 +2332,33 @@
    "work": "A Certain Dark Item",
    "media_id": "18078671174389623",
    "ts": 1792249419.540302,
+   "card": null
+  },
+  {
+   "id": "842f2e93ceff",
+   "type": "reel",
+   "headline": "Le film anime Kaiju Decode, en Teaser Vidéo",
+   "key": [
+    "decode",
+    "kaiju"
+   ],
+   "link": "https://adala-news.fr/2026/10/le-film-anime-kaiju-decode-en-teaser-video/",
+   "visual": "visuals/20261018-842f2e93ceff.jpg",
+   "work": "",
+   "media_id": "18445870546135141",
+   "ts": 1792314132.88121,
+   "card": "posts/20261018-842f2e93ceff.jpg"
+  },
+  {
+   "id": "842f2e93ceff",
+   "type": "story",
+   "headline": "Le film anime Kaiju Decode, en Teaser Vidéo",
+   "key": null,
+   "link": "https://adala-news.fr/2026/10/le-film-anime-kaiju-decode-en-teaser-video/",
+   "visual": null,
+   "work": "",
+   "media_id": "18133191490762647",
+   "ts": 1792314145.515051,
    "card": null
   }
  ],
