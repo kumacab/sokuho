@@ -2390,9 +2390,33 @@
    "media_id": "18032309210888691",
    "ts": 1792333326.700914,
    "card": null
+  },
+  {
+   "id": "recap-2026-W42",
+   "type": "carousel",
+   "headline": "Récap 12 → 18 OCT.",
+   "key": null,
+   "link": null,
+   "visual": null,
+   "work": null,
+   "media_id": "18116236718020594",
+   "ts": 1792339758.468983,
+   "card": null
+  },
+  {
+   "id": "recap-2026-W42",
+   "type": "reel",
+   "headline": "Récap 12 → 18 OCT.",
+   "key": null,
+   "link": null,
+   "visual": null,
+   "work": null,
+   "media_id": "18424547041152241",
+   "ts": 1792339826.065722,
+   "card": null
   }
  ],
- "last_recap": null,
+ "last_recap": "2026-W42",
  "news_count": 39,
  "manual_reels": [],
  "ig_pause_until": 1792187394.2893388,
