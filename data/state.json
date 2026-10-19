@@ -2414,6 +2414,18 @@
    "media_id": "18424547041152241",
    "ts": 1792339826.065722,
    "card": null
+  },
+  {
+   "id": "car-week-2026-W43",
+   "type": "carousel",
+   "headline": "🗓️ LE PLANNING DE LA SEMAINE EST LÀ ! (19/10 → 25/10)",
+   "key": null,
+   "link": null,
+   "visual": null,
+   "work": null,
+   "media_id": "18362539423247413",
+   "ts": 1792393508.687106,
+   "card": null
   }
  ],
  "last_recap": "2026-W42",
@@ -2423,7 +2435,8 @@
  "carousels_done": {
   "upcoming": "2026-W42",
   "movies": "2026-W42",
-  "countdown": "2026-W42"
+  "countdown": "2026-W42",
+  "week": "2026-W43"
  },
  "ig_user_id": "17841459944087335"
 }
