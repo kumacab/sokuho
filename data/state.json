@@ -187,7 +187,8 @@
   "04a455f33f75": 1792249315.43607,
   "842f2e93ceff": 1792314033.683035,
   "0c647f290ae4": 1792333184.030059,
-  "f22089a38709": 1792427458.922731
+  "f22089a38709": 1792427458.922731,
+  "fe45db4374c8": 1792436599.054776
  },
  "queue": [],
  "posted": [
@@ -2460,6 +2461,39 @@
    "work": "anime Welsh & Shedar",
    "media_id": "18109969658082055",
    "ts": 1792427528.406203,
+   "card": null
+  },
+  {
+   "id": "fe45db4374c8",
+   "type": "post",
+   "headline": "Les clips de Tsugai, Haikyu!! et bien plus sont disponibles sur…",
+   "key": [
+    "bien",
+    "clips",
+    "crunchyroll",
+    "disponibles",
+    "haikyu",
+    "plus",
+    "sont",
+    "tsugai"
+   ],
+   "link": "https://crunchyroll.com/fr/news/announcements/2026/10/19/tsugai-daemons-of-the-shadow-realm-haikyu-clips-musique-crunchyroll",
+   "visual": "visuals/20261019-fe45db4374c8.jpg",
+   "work": "",
+   "media_id": "18161529514504379",
+   "ts": 1792436702.725278,
+   "card": "posts/20261019-fe45db4374c8.jpg"
+  },
+  {
+   "id": "fe45db4374c8",
+   "type": "story",
+   "headline": "Les clips de Tsugai, Haikyu!! et bien plus sont disponibles sur…",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/announcements/2026/10/19/tsugai-daemons-of-the-shadow-realm-haikyu-clips-musique-crunchyroll",
+   "visual": null,
+   "work": "",
+   "media_id": "18108196342947238",
+   "ts": 1792436717.484349,
    "card": null
   }
  ],
