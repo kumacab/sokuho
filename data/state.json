@@ -186,7 +186,8 @@
   "c5a55224f27c": 1792248404.543627,
   "04a455f33f75": 1792249315.43607,
   "842f2e93ceff": 1792314033.683035,
-  "0c647f290ae4": 1792333184.030059
+  "0c647f290ae4": 1792333184.030059,
+  "f22089a38709": 1792427458.922731
  },
  "queue": [],
  "posted": [
@@ -2425,6 +2426,40 @@
    "work": null,
    "media_id": "18362539423247413",
    "ts": 1792393508.687106,
+   "card": null
+  },
+  {
+   "id": "f22089a38709",
+   "type": "post",
+   "headline": "L’anime Welsh & Shedar d’Ankama sortira le 5 novembre 2026 en France",
+   "key": [
+    "2026",
+    "ankama",
+    "france",
+    "gratuitement",
+    "novembre",
+    "shedar",
+    "sortira",
+    "welsh",
+    "youtube"
+   ],
+   "link": "https://animotaku.fr/actualite/anime-welsh-shedar-date-sortie-france-trailer/",
+   "visual": "visuals/20261019-f22089a38709.jpg",
+   "work": "anime Welsh & Shedar",
+   "media_id": "17953377090292734",
+   "ts": 1792427515.362944,
+   "card": "posts/20261019-f22089a38709.jpg"
+  },
+  {
+   "id": "f22089a38709",
+   "type": "story",
+   "headline": "L’anime Welsh & Shedar d’Ankama sortira le 5 novembre 2026 en France",
+   "key": null,
+   "link": "https://animotaku.fr/actualite/anime-welsh-shedar-date-sortie-france-trailer/",
+   "visual": null,
+   "work": "anime Welsh & Shedar",
+   "media_id": "18109969658082055",
+   "ts": 1792427528.406203,
    "card": null
   }
  ],
