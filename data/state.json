@@ -192,7 +192,8 @@
   "54ea804738f8": 1792480373.248261,
   "c1b77b7aab53": 1792505024.788896,
   "f4a8504e207a": 1792523351.915518,
-  "2d668669856c": 1792568938.633896
+  "2d668669856c": 1792568938.633896,
+  "00486ae4eca3": 1792573496.734411
  },
  "queue": [],
  "posted": [
@@ -2613,6 +2614,39 @@
    "work": "À l'image de Mona Lisa",
    "media_id": "18099650717405255",
    "ts": 1792569071.565196,
+   "card": null
+  },
+  {
+   "id": "00486ae4eca3",
+   "type": "reel",
+   "headline": "L’anime Just Like Mona Lisa sortira en 2027, Trailer Officiel et Visuel",
+   "key": [
+    "2027",
+    "just",
+    "like",
+    "lisa",
+    "mona",
+    "officiel",
+    "sortira",
+    "visuel"
+   ],
+   "link": "https://animotaku.fr/actualite/anime-just-like-mona-lisa-2027-trailer/",
+   "visual": "visuals/20261021-00486ae4eca3.jpg",
+   "work": "",
+   "media_id": "18098301452392330",
+   "ts": 1792573627.249698,
+   "card": "posts/20261021-00486ae4eca3.jpg"
+  },
+  {
+   "id": "00486ae4eca3",
+   "type": "story",
+   "headline": "L’anime Just Like Mona Lisa sortira en 2027, Trailer Officiel et Visuel",
+   "key": null,
+   "link": "https://animotaku.fr/actualite/anime-just-like-mona-lisa-2027-trailer/",
+   "visual": null,
+   "work": "",
+   "media_id": "18063987317794545",
+   "ts": 1792573640.324533,
    "card": null
   }
  ],
