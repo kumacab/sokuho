@@ -193,7 +193,8 @@
   "c1b77b7aab53": 1792505024.788896,
   "f4a8504e207a": 1792523351.915518,
   "2d668669856c": 1792568938.633896,
-  "00486ae4eca3": 1792573496.734411
+  "00486ae4eca3": 1792573496.734411,
+  "415f225051e4": 1792578969.222754
  },
  "queue": [],
  "posted": [
@@ -2647,6 +2648,37 @@
    "work": "",
    "media_id": "18063987317794545",
    "ts": 1792573640.324533,
+   "card": null
+  },
+  {
+   "id": "415f225051e4",
+   "type": "post",
+   "headline": "L’anime ELECEED sortira en avril 2027 sur ADN et Crunchyroll",
+   "key": [
+    "2027",
+    "adn",
+    "avril",
+    "crunchyroll",
+    "eleceed",
+    "sortira"
+   ],
+   "link": "https://animotaku.fr/actualite/anime-eleceed-avril-2027/",
+   "visual": "visuals/20261021-415f225051e4.jpg",
+   "work": "anime ELECEED",
+   "media_id": "18082818635338541",
+   "ts": 1792579025.118254,
+   "card": "posts/20261021-415f225051e4.jpg"
+  },
+  {
+   "id": "415f225051e4",
+   "type": "story",
+   "headline": "L’anime ELECEED sortira en avril 2027 sur ADN et Crunchyroll",
+   "key": null,
+   "link": "https://animotaku.fr/actualite/anime-eleceed-avril-2027/",
+   "visual": null,
+   "work": "anime ELECEED",
+   "media_id": "18152443498540818",
+   "ts": 1792579037.753406,
    "card": null
   }
  ],
