@@ -197,7 +197,8 @@
   "415f225051e4": 1792578969.222754,
   "a2c2d8698a38": 1792663266.717344,
   "862ab957654e": 1792664174.623576,
-  "3a8b6da440ab": 1792672381.728152
+  "3a8b6da440ab": 1792672381.728152,
+  "cdcee59da597": 1792674208.780959
  },
  "queue": [],
  "posted": [
@@ -2780,6 +2781,39 @@
    "work": "Film Les Carnets de l'Apothicaire",
    "media_id": "18122893904318141",
    "ts": 1792672526.511333,
+   "card": null
+  },
+  {
+   "id": "cdcee59da597",
+   "type": "reel",
+   "headline": "Le jeu The Apothecary Diaries: The False Imperial Brother dévoile sa…",
+   "key": [
+    "apothecary",
+    "brother",
+    "dans",
+    "devoile",
+    "diaries",
+    "false",
+    "imperial",
+    "jeu"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/22/the-apothecary-diaries-the-false-imperial-brother-jeu-video-date-sortie-trailer-gameplay",
+   "visual": "visuals/20261022-cdcee59da597.jpg",
+   "work": "Le jeu The Apothecary Diaries",
+   "media_id": "18339503338272527",
+   "ts": 1792674356.094282,
+   "card": "posts/20261022-cdcee59da597.jpg"
+  },
+  {
+   "id": "cdcee59da597",
+   "type": "story",
+   "headline": "Le jeu The Apothecary Diaries: The False Imperial Brother dévoile sa…",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/22/the-apothecary-diaries-the-false-imperial-brother-jeu-video-date-sortie-trailer-gameplay",
+   "visual": null,
+   "work": "Le jeu The Apothecary Diaries",
+   "media_id": "18172483291460179",
+   "ts": 1792674369.366674,
    "card": null
   }
  ],
