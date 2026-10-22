@@ -198,7 +198,8 @@
   "a2c2d8698a38": 1792663266.717344,
   "862ab957654e": 1792664174.623576,
   "3a8b6da440ab": 1792672381.728152,
-  "cdcee59da597": 1792674208.780959
+  "cdcee59da597": 1792674208.780959,
+  "b5ba3c3bbd46": 1792675121.082484
  },
  "queue": [],
  "posted": [
@@ -2814,6 +2815,40 @@
    "work": "Le jeu The Apothecary Diaries",
    "media_id": "18172483291460179",
    "ts": 1792674369.366674,
+   "card": null
+  },
+  {
+   "id": "b5ba3c3bbd46",
+   "type": "reel",
+   "headline": "BLEACH THE STORIES : Un dernier Visuel pour l'arc Thousand-Year Blood…",
+   "key": [
+    "arc",
+    "bleach",
+    "blood",
+    "dernier",
+    "stories",
+    "thousand",
+    "visuel",
+    "war",
+    "year"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/22/bleach-the-stories-visuel-thousand-year-blood-war-the-calamity-trailer",
+   "visual": "visuals/20261022-b5ba3c3bbd46.jpg",
+   "work": "BLEACH THE STORIES",
+   "media_id": "17905418469353664",
+   "ts": 1792675233.404576,
+   "card": "posts/20261022-b5ba3c3bbd46.jpg"
+  },
+  {
+   "id": "b5ba3c3bbd46",
+   "type": "story",
+   "headline": "BLEACH THE STORIES : Un dernier Visuel pour l'arc Thousand-Year Blood…",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/22/bleach-the-stories-visuel-thousand-year-blood-war-the-calamity-trailer",
+   "visual": null,
+   "work": "BLEACH THE STORIES",
+   "media_id": "18123746728923192",
+   "ts": 1792675247.81667,
    "card": null
   }
  ],
