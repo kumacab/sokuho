@@ -194,7 +194,8 @@
   "f4a8504e207a": 1792523351.915518,
   "2d668669856c": 1792568938.633896,
   "00486ae4eca3": 1792573496.734411,
-  "415f225051e4": 1792578969.222754
+  "415f225051e4": 1792578969.222754,
+  "a2c2d8698a38": 1792663266.717344
  },
  "queue": [],
  "posted": [
@@ -2679,6 +2680,37 @@
    "work": "anime ELECEED",
    "media_id": "18152443498540818",
    "ts": 1792579037.753406,
+   "card": null
+  },
+  {
+   "id": "a2c2d8698a38",
+   "type": "post",
+   "headline": "BLESS sera disponible sur Crunchyroll dès janvier 2027",
+   "key": [
+    "2027",
+    "bless",
+    "crunchyroll",
+    "disponible",
+    "janvier",
+    "sera"
+   ],
+   "link": "https://crunchyroll.com/fr/news/announcements/2026/10/22/bless-janvier-2027-streaming-crunchyroll",
+   "visual": "visuals/20261022-a2c2d8698a38.jpg",
+   "work": "",
+   "media_id": "18132321250776715",
+   "ts": 1792663339.641887,
+   "card": "posts/20261022-a2c2d8698a38.jpg"
+  },
+  {
+   "id": "a2c2d8698a38",
+   "type": "story",
+   "headline": "BLESS sera disponible sur Crunchyroll dès janvier 2027",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/announcements/2026/10/22/bless-janvier-2027-streaming-crunchyroll",
+   "visual": null,
+   "work": "",
+   "media_id": "17908936992586844",
+   "ts": 1792663352.915437,
    "card": null
   }
  ],
