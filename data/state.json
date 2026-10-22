@@ -199,7 +199,8 @@
   "862ab957654e": 1792664174.623576,
   "3a8b6da440ab": 1792672381.728152,
   "cdcee59da597": 1792674208.780959,
-  "b5ba3c3bbd46": 1792675121.082484
+  "b5ba3c3bbd46": 1792675121.082484,
+  "8183a532d23b": 1792676051.910922
  },
  "queue": [],
  "posted": [
@@ -2849,6 +2850,40 @@
    "work": "BLEACH THE STORIES",
    "media_id": "18123746728923192",
    "ts": 1792675247.81667,
+   "card": null
+  },
+  {
+   "id": "8183a532d23b",
+   "type": "reel",
+   "headline": "Les Carnets de l'apothicaire : The Late Lady's Treasure",
+   "key": [
+    "apothicaire",
+    "carnets",
+    "chanson",
+    "kenshi",
+    "lady",
+    "late",
+    "treasure",
+    "visuel",
+    "yonezu"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/22/les-carnets-de-l-apothicaire-the-late-ladys-treasure-film-trailer-visuel-chanson",
+   "visual": "visuals/20261022-8183a532d23b.jpg",
+   "work": "Les Carnets de l'apothicaire",
+   "media_id": "18150324934612598",
+   "ts": 1792676171.169205,
+   "card": "posts/20261022-8183a532d23b.jpg"
+  },
+  {
+   "id": "8183a532d23b",
+   "type": "story",
+   "headline": "Les Carnets de l'apothicaire : The Late Lady's Treasure",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/22/les-carnets-de-l-apothicaire-the-late-ladys-treasure-film-trailer-visuel-chanson",
+   "visual": null,
+   "work": "Les Carnets de l'apothicaire",
+   "media_id": "18397338364162912",
+   "ts": 1792676186.454571,
    "card": null
   }
  ],
