@@ -200,7 +200,9 @@
   "3a8b6da440ab": 1792672381.728152,
   "cdcee59da597": 1792674208.780959,
   "b5ba3c3bbd46": 1792675121.082484,
-  "8183a532d23b": 1792676051.910922
+  "8183a532d23b": 1792676051.910922,
+  "49e0cc39630b": 1792677952.70217,
+  "a35fe00036f2": 1792677953.914698
  },
  "queue": [],
  "posted": [
@@ -2884,6 +2886,67 @@
    "work": "Les Carnets de l'apothicaire",
    "media_id": "18397338364162912",
    "ts": 1792676186.454571,
+   "card": null
+  },
+  {
+   "id": "49e0cc39630b",
+   "type": "post",
+   "headline": "Classroom of the Elite 5th Season dévoile un Visuel Ultra teaser",
+   "key": [
+    "5th",
+    "classroom",
+    "devoile",
+    "elite",
+    "ultra",
+    "visuel"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/22/classroom-of-the-elite-saison-5-visuel-ultra-teaser",
+   "visual": "visuals/20261022-49e0cc39630b.jpg",
+   "work": "",
+   "media_id": "18101592920541857",
+   "ts": 1792678004.00806,
+   "card": "posts/20261022-49e0cc39630b.jpg"
+  },
+  {
+   "id": "a35fe00036f2",
+   "type": "post",
+   "headline": "ELECEED débutera sa diffusion en avril 2027",
+   "key": [
+    "2027",
+    "avril",
+    "debutera",
+    "diffusion",
+    "eleceed"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/22/eleceed-diffusion-avril-2027",
+   "visual": "visuals/20261022-a35fe00036f2.jpg",
+   "work": "",
+   "media_id": "18098520548103841",
+   "ts": 1792678020.911364,
+   "card": "posts/20261022-a35fe00036f2.jpg"
+  },
+  {
+   "id": "49e0cc39630b",
+   "type": "story",
+   "headline": "Classroom of the Elite 5th Season dévoile un Visuel Ultra teaser",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/22/classroom-of-the-elite-saison-5-visuel-ultra-teaser",
+   "visual": null,
+   "work": "",
+   "media_id": "18119330626756997",
+   "ts": 1792678035.259755,
+   "card": null
+  },
+  {
+   "id": "a35fe00036f2",
+   "type": "story",
+   "headline": "ELECEED débutera sa diffusion en avril 2027",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/22/eleceed-diffusion-avril-2027",
+   "visual": null,
+   "work": "",
+   "media_id": "18072191810770783",
+   "ts": 1792678050.526622,
    "card": null
   }
  ],
