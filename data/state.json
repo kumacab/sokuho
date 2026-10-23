@@ -213,7 +213,9 @@
   "deb46be2252c": 1792750426.590199,
   "a3d6ef1efd80": 1792750436.089761,
   "27fe6edcd50a": 1792759571.401882,
-  "1bfdbefe9eec": 1792760478.640327
+  "1bfdbefe9eec": 1792760478.640327,
+  "5cbd7d4eba97": 1792764148.848236,
+  "bcc7dee5b3c9": 1792764150.328255
  },
  "queue": [],
  "posted": [
@@ -3268,6 +3270,75 @@
    "work": "Takopi's Original Sin",
    "media_id": "18098666564109855",
    "ts": 1792760544.519859,
+   "card": null
+  },
+  {
+   "id": "5cbd7d4eba97",
+   "type": "post",
+   "headline": "Made in Abyss : le deuxième opus de la nouvelle série de films est en…",
+   "key": [
+    "abyss",
+    "deuxieme",
+    "est",
+    "films",
+    "in",
+    "made",
+    "opus",
+    "production",
+    "serie"
+   ],
+   "link": "https://animotaku.fr/actualite/made-in-abyss-serie-films-partie-2-annonce/",
+   "visual": "visuals/20261023-5cbd7d4eba97.jpg",
+   "work": "Made in Abyss",
+   "media_id": "18122648029731000",
+   "ts": 1792764228.11489,
+   "card": "posts/20261023-5cbd7d4eba97.jpg"
+  },
+  {
+   "id": "bcc7dee5b3c9",
+   "type": "post",
+   "headline": "The Irregular at Magic High School LE FILM -La Succession des Yotsuba-…",
+   "key": [
+    "at",
+    "billetterie",
+    "est",
+    "high",
+    "irregular",
+    "magic",
+    "ouverte",
+    "school",
+    "succession",
+    "yotsuba"
+   ],
+   "link": "https://crunchyroll.com/fr/news/announcements/2026/10/23/the-irregular-at-magic-high-school-le-film-la-succession-des-yotsuba-billetterie",
+   "visual": "visuals/20261023-bcc7dee5b3c9.jpg",
+   "work": "",
+   "media_id": "17973651045157959",
+   "ts": 1792764243.888048,
+   "card": "posts/20261023-bcc7dee5b3c9.jpg"
+  },
+  {
+   "id": "5cbd7d4eba97",
+   "type": "story",
+   "headline": "Made in Abyss : le deuxième opus de la nouvelle série de films est en…",
+   "key": null,
+   "link": "https://animotaku.fr/actualite/made-in-abyss-serie-films-partie-2-annonce/",
+   "visual": null,
+   "work": "Made in Abyss",
+   "media_id": "18414014110083663",
+   "ts": 1792764257.726972,
+   "card": null
+  },
+  {
+   "id": "bcc7dee5b3c9",
+   "type": "story",
+   "headline": "The Irregular at Magic High School LE FILM -La Succession des Yotsuba-…",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/announcements/2026/10/23/the-irregular-at-magic-high-school-le-film-la-succession-des-yotsuba-billetterie",
+   "visual": null,
+   "work": "",
+   "media_id": "18114163969864004",
+   "ts": 1792764271.280656,
    "card": null
   }
  ],
