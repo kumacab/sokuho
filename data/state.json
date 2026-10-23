@@ -212,7 +212,8 @@
   "1361f5e50122": 1792748609.091073,
   "deb46be2252c": 1792750426.590199,
   "a3d6ef1efd80": 1792750436.089761,
-  "27fe6edcd50a": 1792759571.401882
+  "27fe6edcd50a": 1792759571.401882,
+  "1bfdbefe9eec": 1792760478.640327
  },
  "queue": [],
  "posted": [
@@ -3238,6 +3239,35 @@
    "work": "",
    "media_id": "18110548175059926",
    "ts": 1792759661.219833,
+   "card": null
+  },
+  {
+   "id": "1bfdbefe9eec",
+   "type": "post",
+   "headline": "Takopi's Original Sin : Nouveau Trailer et Visuel pour le film",
+   "key": [
+    "original",
+    "sin",
+    "takopi",
+    "visuel"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/23/takopis-original-sin-film-compilation-trailer-visuel-chanson",
+   "visual": "visuals/20261023-1bfdbefe9eec.jpg",
+   "work": "Takopi's Original Sin",
+   "media_id": "17953214379278184",
+   "ts": 1792760529.31015,
+   "card": "posts/20261023-1bfdbefe9eec.jpg"
+  },
+  {
+   "id": "1bfdbefe9eec",
+   "type": "story",
+   "headline": "Takopi's Original Sin : Nouveau Trailer et Visuel pour le film",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/23/takopis-original-sin-film-compilation-trailer-visuel-chanson",
+   "visual": null,
+   "work": "Takopi's Original Sin",
+   "media_id": "18098666564109855",
+   "ts": 1792760544.519859,
    "card": null
   }
  ],
