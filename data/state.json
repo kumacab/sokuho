@@ -207,7 +207,8 @@
   "8e2cbd016dab": 1792696546.919644,
   "38d913b5350c": 1792732122.030429,
   "3530a05eeefb": 1792734850.453589,
-  "056bb07f4cca": 1792744949.108574
+  "056bb07f4cca": 1792744949.108574,
+  "72a9bd5650a9": 1792746779.06603
  },
  "queue": [],
  "posted": [
@@ -3081,6 +3082,37 @@
    "work": "EXCLUSIF",
    "media_id": "18115098200126488",
    "ts": 1792745151.86895,
+   "card": null
+  },
+  {
+   "id": "72a9bd5650a9",
+   "type": "post",
+   "headline": "BLESS : Tarusuke Shingaki incarne Hikaru Oya",
+   "key": [
+    "bless",
+    "hikaru",
+    "incarne",
+    "oya",
+    "shingaki",
+    "tarusuke"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/23/bless-trailer-personnage-casting-hikaru-oya",
+   "visual": "visuals/20261023-72a9bd5650a9.jpg",
+   "work": "BLESS",
+   "media_id": "17912475297481601",
+   "ts": 1792746833.743986,
+   "card": "posts/20261023-72a9bd5650a9.jpg"
+  },
+  {
+   "id": "72a9bd5650a9",
+   "type": "story",
+   "headline": "BLESS : Tarusuke Shingaki incarne Hikaru Oya",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/23/bless-trailer-personnage-casting-hikaru-oya",
+   "visual": null,
+   "work": "BLESS",
+   "media_id": "17984516424096081",
+   "ts": 1792746848.231449,
    "card": null
   }
  ],
