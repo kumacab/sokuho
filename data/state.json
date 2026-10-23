@@ -211,7 +211,8 @@
   "72a9bd5650a9": 1792746779.06603,
   "1361f5e50122": 1792748609.091073,
   "deb46be2252c": 1792750426.590199,
-  "a3d6ef1efd80": 1792750436.089761
+  "a3d6ef1efd80": 1792750436.089761,
+  "27fe6edcd50a": 1792759571.401882
  },
  "queue": [],
  "posted": [
@@ -3207,6 +3208,36 @@
    "work": "Yona, Princesse de l'Aube",
    "media_id": "18013490648994120",
    "ts": 1792750651.512792,
+   "card": null
+  },
+  {
+   "id": "27fe6edcd50a",
+   "type": "post",
+   "headline": "DanMachi annonce le jeu Frontier Zero pour 2027",
+   "key": [
+    "2027",
+    "danmachi",
+    "frontier",
+    "jeu",
+    "zero"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/23/danmachi-annonce-jeu-frontier-zero-2027",
+   "visual": "visuals/20261023-27fe6edcd50a.jpg",
+   "work": "",
+   "media_id": "18573674080073242",
+   "ts": 1792759645.668797,
+   "card": "posts/20261023-27fe6edcd50a.jpg"
+  },
+  {
+   "id": "27fe6edcd50a",
+   "type": "story",
+   "headline": "DanMachi annonce le jeu Frontier Zero pour 2027",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/23/danmachi-annonce-jeu-frontier-zero-2027",
+   "visual": null,
+   "work": "",
+   "media_id": "18110548175059926",
+   "ts": 1792759661.219833,
    "card": null
   }
  ],
