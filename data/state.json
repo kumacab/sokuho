@@ -204,7 +204,8 @@
   "49e0cc39630b": 1792677952.70217,
   "a35fe00036f2": 1792677953.914698,
   "74e1d5de05f0": 1792682241.731161,
-  "8e2cbd016dab": 1792696546.919644
+  "8e2cbd016dab": 1792696546.919644,
+  "38d913b5350c": 1792732122.030429
  },
  "queue": [],
  "posted": [
@@ -3021,6 +3022,33 @@
    "work": "",
    "media_id": "17985809688120530",
    "ts": 1792696652.706853,
+   "card": null
+  },
+  {
+   "id": "38d913b5350c",
+   "type": "reel",
+   "headline": "Le film anime Les Carnets de l’Apothicaire, en Trailer et infos",
+   "key": [
+    "apothicaire",
+    "carnets"
+   ],
+   "link": "https://adala-news.fr/2026/10/le-film-anime-les-carnets-de-lapothicaire-en-trailer-et-infos/",
+   "visual": "visuals/20261023-38d913b5350c.jpg",
+   "work": "",
+   "media_id": "18006913196792557",
+   "ts": 1792732236.618771,
+   "card": "posts/20261023-38d913b5350c.jpg"
+  },
+  {
+   "id": "38d913b5350c",
+   "type": "story",
+   "headline": "Le film anime Les Carnets de l’Apothicaire, en Trailer et infos",
+   "key": null,
+   "link": "https://adala-news.fr/2026/10/le-film-anime-les-carnets-de-lapothicaire-en-trailer-et-infos/",
+   "visual": null,
+   "work": "",
+   "media_id": "17926221147201963",
+   "ts": 1792732250.654365,
    "card": null
   }
  ],
