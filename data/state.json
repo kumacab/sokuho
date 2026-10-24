@@ -222,7 +222,8 @@
   "72375a74cc83": 1792818868.340958,
   "c5d13066c3c5": 1792818868.340959,
   "dea7f23c85ee": 1792818868.34096,
-  "dd40544226eb": 1792818879.476587
+  "dd40544226eb": 1792818879.476587,
+  "484df282e113": 1792833450.566645
  },
  "queue": [],
  "posted": [
@@ -3421,6 +3422,38 @@
    "work": "Armored Trooper Votoms: Die Garue Hexe",
    "media_id": "18097360466130640",
    "ts": 1792819012.774269,
+   "card": null
+  },
+  {
+   "id": "484df282e113",
+   "type": "reel",
+   "headline": "Le film Kaiju No. 8 : The Final Mission annoncé pour 2027 avec un…",
+   "key": [
+    "2027",
+    "final",
+    "kaiju",
+    "mission",
+    "no",
+    "premier",
+    "visuel"
+   ],
+   "link": "https://animotaku.fr/actualite/film-kaiju-no-8-the-final-mission-annonce-2027/",
+   "visual": "visuals/20261024-484df282e113.jpg",
+   "work": "Kaiju No. 8",
+   "media_id": "18127661876488719",
+   "ts": 1792833563.217796,
+   "card": "posts/20261024-484df282e113.jpg"
+  },
+  {
+   "id": "484df282e113",
+   "type": "story",
+   "headline": "Le film Kaiju No. 8 : The Final Mission annoncé pour 2027 avec un…",
+   "key": null,
+   "link": "https://animotaku.fr/actualite/film-kaiju-no-8-the-final-mission-annonce-2027/",
+   "visual": null,
+   "work": "Kaiju No. 8",
+   "media_id": "18121505107979633",
+   "ts": 1792833577.572786,
    "card": null
   }
  ],
