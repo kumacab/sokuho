@@ -225,7 +225,8 @@
   "dd40544226eb": 1792818879.476587,
   "484df282e113": 1792833450.566645,
   "962b736c2103": 1792922793.49306,
-  "16083e8fc8a9": 1792923707.905124
+  "16083e8fc8a9": 1792923707.905124,
+  "758abdc7742c": 1792928261.433504
  },
  "queue": [],
  "posted": [
@@ -3511,6 +3512,40 @@
    "work": "Welsh & Shedar",
    "media_id": "17923737642221987",
    "ts": 1792923768.997718,
+   "card": null
+  },
+  {
+   "id": "758abdc7742c",
+   "type": "post",
+   "headline": "L’anime DATE A LIVE F Last Date sortira le 26 mars 2027 dans les…",
+   "key": [
+    "2027",
+    "26",
+    "cinemas",
+    "dans",
+    "japonais",
+    "last",
+    "live",
+    "mars",
+    "sortira"
+   ],
+   "link": "https://animotaku.fr/actualite/anime-date-a-live-f-last-date-date-sortie/",
+   "visual": "visuals/20261025-758abdc7742c.jpg",
+   "work": "anime DATE A LIVE F Last Date",
+   "media_id": "17899760823398629",
+   "ts": 1792928302.272986,
+   "card": "posts/20261025-758abdc7742c.jpg"
+  },
+  {
+   "id": "758abdc7742c",
+   "type": "story",
+   "headline": "L’anime DATE A LIVE F Last Date sortira le 26 mars 2027 dans les…",
+   "key": null,
+   "link": "https://animotaku.fr/actualite/anime-date-a-live-f-last-date-date-sortie/",
+   "visual": null,
+   "work": "anime DATE A LIVE F Last Date",
+   "media_id": "17909744820569444",
+   "ts": 1792928315.185005,
    "card": null
   }
  ],
