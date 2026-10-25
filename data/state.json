@@ -226,7 +226,8 @@
   "484df282e113": 1792833450.566645,
   "962b736c2103": 1792922793.49306,
   "16083e8fc8a9": 1792923707.905124,
-  "758abdc7742c": 1792928261.433504
+  "758abdc7742c": 1792928261.433504,
+  "c025df633ca4": 1792933737.398624
  },
  "queue": [],
  "posted": [
@@ -3546,6 +3547,40 @@
    "work": "anime DATE A LIVE F Last Date",
    "media_id": "17909744820569444",
    "ts": 1792928315.185005,
+   "card": null
+  },
+  {
+   "id": "c025df633ca4",
+   "type": "reel",
+   "headline": "L’anime Our Last Crusade or the Rise of a New World Saison 3",
+   "key": [
+    "crusade",
+    "last",
+    "new",
+    "officiellement",
+    "or",
+    "our",
+    "production",
+    "rise",
+    "world"
+   ],
+   "link": "https://animotaku.fr/actualite/anime-our-last-crusade-or-the-rise-of-a-new-world-saison-3-annonce/",
+   "visual": "visuals/20261025-c025df633ca4.jpg",
+   "work": "Our last crusade or the rise of a new world saison 3",
+   "media_id": "18034533146898392",
+   "ts": 1792933844.624736,
+   "card": "posts/20261025-c025df633ca4.jpg"
+  },
+  {
+   "id": "c025df633ca4",
+   "type": "story",
+   "headline": "L’anime Our Last Crusade or the Rise of a New World Saison 3",
+   "key": null,
+   "link": "https://animotaku.fr/actualite/anime-our-last-crusade-or-the-rise-of-a-new-world-saison-3-annonce/",
+   "visual": null,
+   "work": "Our last crusade or the rise of a new world saison 3",
+   "media_id": "17996340828043409",
+   "ts": 1792933858.836184,
    "card": null
   }
  ],
