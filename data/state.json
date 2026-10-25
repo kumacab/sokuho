@@ -223,7 +223,8 @@
   "c5d13066c3c5": 1792818868.340959,
   "dea7f23c85ee": 1792818868.34096,
   "dd40544226eb": 1792818879.476587,
-  "484df282e113": 1792833450.566645
+  "484df282e113": 1792833450.566645,
+  "962b736c2103": 1792922793.49306
  },
  "queue": [],
  "posted": [
@@ -3454,6 +3455,33 @@
    "work": "Kaiju No. 8",
    "media_id": "18121505107979633",
    "ts": 1792833577.572786,
+   "card": null
+  },
+  {
+   "id": "962b736c2103",
+   "type": "reel",
+   "headline": "Akane-banashi Saison 2 dévoile un teaser vidéo",
+   "key": [
+    "akane",
+    "banashi"
+   ],
+   "link": "https://adala-news.fr/2026/10/lanime-akane-banashi-saison-2-en-teaser-video/",
+   "visual": "visuals/20261025-962b736c2103.jpg",
+   "work": "Akane-banashi Saison 2",
+   "media_id": "18088875908288154",
+   "ts": 1792922899.218061,
+   "card": "posts/20261025-962b736c2103.jpg"
+  },
+  {
+   "id": "962b736c2103",
+   "type": "story",
+   "headline": "Akane-banashi Saison 2 dévoile un teaser vidéo",
+   "key": null,
+   "link": "https://adala-news.fr/2026/10/lanime-akane-banashi-saison-2-en-teaser-video/",
+   "visual": null,
+   "work": "Akane-banashi Saison 2",
+   "media_id": "18336623443274610",
+   "ts": 1792922912.655958,
    "card": null
   }
  ],
