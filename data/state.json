@@ -228,7 +228,8 @@
   "16083e8fc8a9": 1792923707.905124,
   "758abdc7742c": 1792928261.433504,
   "c025df633ca4": 1792933737.398624,
-  "346d9cb83b9d": 1792936470.652215
+  "346d9cb83b9d": 1792936470.652215,
+  "0b7981219309": 1792937379.304917
  },
  "queue": [],
  "posted": [
@@ -3582,6 +3583,33 @@
    "work": "Our last crusade or the rise of a new world saison 3",
    "media_id": "17996340828043409",
    "ts": 1792933858.836184,
+   "card": null
+  },
+  {
+   "id": "0b7981219309",
+   "type": "reel",
+   "headline": "Le film anime Date A Live F Last Date, en Teaser Vidéo",
+   "key": [
+    "last",
+    "live"
+   ],
+   "link": "https://adala-news.fr/2026/10/le-film-anime-date-a-live-f-last-date-en-teaser-video/",
+   "visual": "visuals/20261025-0b7981219309.jpg",
+   "work": "Date A Live F Last Date",
+   "media_id": "18054960815804868",
+   "ts": 1792937493.439782,
+   "card": "posts/20261025-0b7981219309.jpg"
+  },
+  {
+   "id": "0b7981219309",
+   "type": "story",
+   "headline": "Le film anime Date A Live F Last Date, en Teaser Vidéo",
+   "key": null,
+   "link": "https://adala-news.fr/2026/10/le-film-anime-date-a-live-f-last-date-en-teaser-video/",
+   "visual": null,
+   "work": "Date A Live F Last Date",
+   "media_id": "18509760196101640",
+   "ts": 1792937507.04055,
    "card": null
   }
  ],
