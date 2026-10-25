@@ -224,7 +224,8 @@
   "dea7f23c85ee": 1792818868.34096,
   "dd40544226eb": 1792818879.476587,
   "484df282e113": 1792833450.566645,
-  "962b736c2103": 1792922793.49306
+  "962b736c2103": 1792922793.49306,
+  "16083e8fc8a9": 1792923707.905124
  },
  "queue": [],
  "posted": [
@@ -3482,6 +3483,34 @@
    "work": "Akane-banashi Saison 2",
    "media_id": "18336623443274610",
    "ts": 1792922912.655958,
+   "card": null
+  },
+  {
+   "id": "16083e8fc8a9",
+   "type": "post",
+   "headline": "L’anime Welsh & Shedar, en Opening Vidéo",
+   "key": [
+    "opening",
+    "shedar",
+    "welsh"
+   ],
+   "link": "https://adala-news.fr/2026/10/lanime-welsh-shedar-en-opening-video/",
+   "visual": "visuals/20261025-16083e8fc8a9.jpg",
+   "work": "Welsh & Shedar",
+   "media_id": "18110529583922974",
+   "ts": 1792923754.318743,
+   "card": "posts/20261025-16083e8fc8a9.jpg"
+  },
+  {
+   "id": "16083e8fc8a9",
+   "type": "story",
+   "headline": "L’anime Welsh & Shedar, en Opening Vidéo",
+   "key": null,
+   "link": "https://adala-news.fr/2026/10/lanime-welsh-shedar-en-opening-video/",
+   "visual": null,
+   "work": "Welsh & Shedar",
+   "media_id": "17923737642221987",
+   "ts": 1792923768.997718,
    "card": null
   }
  ],
