@@ -3611,9 +3611,33 @@
    "media_id": "18509760196101640",
    "ts": 1792937507.04055,
    "card": null
+  },
+  {
+   "id": "recap-2026-W43",
+   "type": "carousel",
+   "headline": "Récap 19 → 25 OCT.",
+   "key": null,
+   "link": null,
+   "visual": null,
+   "work": null,
+   "media_id": "18357443233172979",
+   "ts": 1792948510.649087,
+   "card": null
+  },
+  {
+   "id": "recap-2026-W43",
+   "type": "reel",
+   "headline": "Récap 19 → 25 OCT.",
+   "key": null,
+   "link": null,
+   "visual": null,
+   "work": null,
+   "media_id": "18098549465105937",
+   "ts": 1792948581.391838,
+   "card": null
   }
  ],
- "last_recap": "2026-W42",
+ "last_recap": "2026-W43",
  "news_count": 39,
  "manual_reels": [],
  "ig_pause_until": 1792187394.2893388,
