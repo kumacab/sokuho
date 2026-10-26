@@ -237,7 +237,8 @@
   "453b1c421ff6": 1793012143.332561,
   "d208d487324b": 1793024981.091935,
   "1aaa15382399": 1793026810.583428,
-  "d73578f2b56f": 1793028632.694815
+  "d73578f2b56f": 1793028632.694815,
+  "802fa356ab49": 1793031380.703181
  },
  "queue": [],
  "posted": [
@@ -3772,6 +3773,34 @@
    "work": "Regarde Ao Ashi",
    "media_id": "17965037433218793",
    "ts": 1793027008.602584,
+   "card": null
+  },
+  {
+   "id": "802fa356ab49",
+   "type": "post",
+   "headline": "L’anime As a Reincarnated Aristocrat Saison 3, en Trailer 3",
+   "key": [
+    "aristocrat",
+    "as",
+    "reincarnated"
+   ],
+   "link": "https://adala-news.fr/2026/10/lanime-as-a-reincarnated-aristocrat-saison-3-en-trailer-3/",
+   "visual": "visuals/20261026-802fa356ab49.jpg",
+   "work": "As a Reincarnated Aristocrat Saison 3",
+   "media_id": "18117085046107272",
+   "ts": 1793031442.010159,
+   "card": "posts/20261026-802fa356ab49.jpg"
+  },
+  {
+   "id": "802fa356ab49",
+   "type": "story",
+   "headline": "L’anime As a Reincarnated Aristocrat Saison 3, en Trailer 3",
+   "key": null,
+   "link": "https://adala-news.fr/2026/10/lanime-as-a-reincarnated-aristocrat-saison-3-en-trailer-3/",
+   "visual": null,
+   "work": "As a Reincarnated Aristocrat Saison 3",
+   "media_id": "18118443167045870",
+   "ts": 1793031456.862738,
    "card": null
   }
  ],
