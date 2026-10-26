@@ -230,7 +230,8 @@
   "c025df633ca4": 1792933737.398624,
   "346d9cb83b9d": 1792936470.652215,
   "0b7981219309": 1792937379.304917,
-  "199aae0402bd": 1793003030.182185
+  "199aae0402bd": 1793003030.182185,
+  "32adfc67c46b": 1793008500.374828
  },
  "queue": [],
  "posted": [
@@ -3677,6 +3678,34 @@
    "work": "",
    "media_id": "17890163979622716",
    "ts": 1793003169.892743,
+   "card": null
+  },
+  {
+   "id": "32adfc67c46b",
+   "type": "reel",
+   "headline": "Kaiju No. 8 : Un film anime annoncé pour 2027",
+   "key": [
+    "2027",
+    "kaiju",
+    "no"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/26/kaiju-no-8-the-final-mission-annonce-film-2027",
+   "visual": "visuals/20261026-32adfc67c46b.jpg",
+   "work": "Kaiju No. 8",
+   "media_id": "17913710115500177",
+   "ts": 1793008615.020392,
+   "card": "posts/20261026-32adfc67c46b.jpg"
+  },
+  {
+   "id": "32adfc67c46b",
+   "type": "story",
+   "headline": "Kaiju No. 8 : Un film anime annoncé pour 2027",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/26/kaiju-no-8-the-final-mission-annonce-film-2027",
+   "visual": null,
+   "work": "Kaiju No. 8",
+   "media_id": "18104887274329594",
+   "ts": 1793008627.500082,
    "card": null
   }
  ],
