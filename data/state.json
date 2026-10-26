@@ -229,7 +229,8 @@
   "758abdc7742c": 1792928261.433504,
   "c025df633ca4": 1792933737.398624,
   "346d9cb83b9d": 1792936470.652215,
-  "0b7981219309": 1792937379.304917
+  "0b7981219309": 1792937379.304917,
+  "199aae0402bd": 1793003030.182185
  },
  "queue": [],
  "posted": [
@@ -3646,6 +3647,36 @@
    "work": null,
    "media_id": "18119412475777884",
    "ts": 1793002273.105581,
+   "card": null
+  },
+  {
+   "id": "199aae0402bd",
+   "type": "reel",
+   "headline": "Regarde Black Clover Saison 2 en VF sur Crunchyroll",
+   "key": [
+    "black",
+    "clover",
+    "crunchyroll",
+    "regarde",
+    "vf"
+   ],
+   "link": "https://crunchyroll.com/fr/news/announcements/2026/10/26/regarder-black-clover-saison-2-vf-crunchyroll",
+   "visual": "visuals/20261026-199aae0402bd.jpg",
+   "work": "",
+   "media_id": "18034659854887259",
+   "ts": 1793003156.716477,
+   "card": "posts/20261026-199aae0402bd.jpg"
+  },
+  {
+   "id": "199aae0402bd",
+   "type": "story",
+   "headline": "Regarde Black Clover Saison 2 en VF sur Crunchyroll",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/announcements/2026/10/26/regarder-black-clover-saison-2-vf-crunchyroll",
+   "visual": null,
+   "work": "",
+   "media_id": "17890163979622716",
+   "ts": 1793003169.892743,
    "card": null
   }
  ],
