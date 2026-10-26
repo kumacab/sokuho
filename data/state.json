@@ -235,7 +235,8 @@
   "b4871187c8c9": 1793009407.840091,
   "296d60848f68": 1793010319.889048,
   "453b1c421ff6": 1793012143.332561,
-  "d208d487324b": 1793024981.091935
+  "d208d487324b": 1793024981.091935,
+  "1aaa15382399": 1793026810.583428
  },
  "queue": [],
  "posted": [
@@ -3739,6 +3740,37 @@
    "work": "Akane-banashi",
    "media_id": "18244020541318157",
    "ts": 1793009521.495672,
+   "card": null
+  },
+  {
+   "id": "1aaa15382399",
+   "type": "reel",
+   "headline": "Regarde Ao Ashi - Playmaker Saison 2 en VF sur Crunchyroll",
+   "key": [
+    "ao",
+    "ashi",
+    "crunchyroll",
+    "playmaker",
+    "regarde",
+    "vf"
+   ],
+   "link": "https://crunchyroll.com/fr/news/announcements/2026/10/26/regarder-ao-ashi-playmaker-saison-2-vf-crunchyroll",
+   "visual": "visuals/20261026-1aaa15382399.jpg",
+   "work": "Regarde Ao Ashi",
+   "media_id": "17903164749373826",
+   "ts": 1793026995.471769,
+   "card": "posts/20261026-1aaa15382399.jpg"
+  },
+  {
+   "id": "1aaa15382399",
+   "type": "story",
+   "headline": "Regarde Ao Ashi - Playmaker Saison 2 en VF sur Crunchyroll",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/announcements/2026/10/26/regarder-ao-ashi-playmaker-saison-2-vf-crunchyroll",
+   "visual": null,
+   "work": "Regarde Ao Ashi",
+   "media_id": "17965037433218793",
+   "ts": 1793027008.602584,
    "card": null
   }
  ],
