@@ -231,7 +231,8 @@
   "346d9cb83b9d": 1792936470.652215,
   "0b7981219309": 1792937379.304917,
   "199aae0402bd": 1793003030.182185,
-  "32adfc67c46b": 1793008500.374828
+  "32adfc67c46b": 1793008500.374828,
+  "b4871187c8c9": 1793009407.840091
  },
  "queue": [],
  "posted": [
@@ -3706,6 +3707,35 @@
    "work": "Kaiju No. 8",
    "media_id": "18104887274329594",
    "ts": 1793008627.500082,
+   "card": null
+  },
+  {
+   "id": "b4871187c8c9",
+   "type": "reel",
+   "headline": "Akane-banashi : La Saison 2 dévoile un nouveau Trailer et un Visuel",
+   "key": [
+    "akane",
+    "banashi",
+    "devoile",
+    "visuel"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/26/akane-banashi-saison-2-trailer-visuel-casting",
+   "visual": "visuals/20261026-b4871187c8c9.jpg",
+   "work": "Akane-banashi",
+   "media_id": "18187062373417427",
+   "ts": 1793009507.486263,
+   "card": "posts/20261026-b4871187c8c9.jpg"
+  },
+  {
+   "id": "b4871187c8c9",
+   "type": "story",
+   "headline": "Akane-banashi : La Saison 2 dévoile un nouveau Trailer et un Visuel",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/26/akane-banashi-saison-2-trailer-visuel-casting",
+   "visual": null,
+   "work": "Akane-banashi",
+   "media_id": "18244020541318157",
+   "ts": 1793009521.495672,
    "card": null
   }
  ],
