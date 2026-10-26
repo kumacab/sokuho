@@ -239,7 +239,8 @@
   "1aaa15382399": 1793026810.583428,
   "d73578f2b56f": 1793028632.694815,
   "802fa356ab49": 1793031380.703181,
-  "f9d633bd0e10": 1793034121.448492
+  "f9d633bd0e10": 1793034121.448492,
+  "970f81ffdb4f": 1793036853.007847
  },
  "queue": [],
  "posted": [
@@ -3837,6 +3838,38 @@
    "work": "Bleach",
    "media_id": "18132177706842915",
    "ts": 1793034239.615569,
+   "card": null
+  },
+  {
+   "id": "970f81ffdb4f",
+   "type": "post",
+   "headline": "Black Clover Saison 2 Épisode 5 : Date et Heure de Sortie",
+   "key": [
+    "black",
+    "clover",
+    "episode",
+    "heure",
+    "images",
+    "premieres",
+    "resume"
+   ],
+   "link": "https://animotaku.fr/actualite/anime-black-clover-saison-2-episode-5-date-heure-sortie/",
+   "visual": "visuals/20261026-970f81ffdb4f.jpg",
+   "work": "Black Clover Saison 2 Épisode 5",
+   "media_id": "18131682073811115",
+   "ts": 1793036901.946728,
+   "card": "posts/20261026-970f81ffdb4f.jpg"
+  },
+  {
+   "id": "970f81ffdb4f",
+   "type": "story",
+   "headline": "Black Clover Saison 2 Épisode 5 : Date et Heure de Sortie",
+   "key": null,
+   "link": "https://animotaku.fr/actualite/anime-black-clover-saison-2-episode-5-date-heure-sortie/",
+   "visual": null,
+   "work": "Black Clover Saison 2 Épisode 5",
+   "media_id": "18170951542481356",
+   "ts": 1793036914.88178,
    "card": null
   }
  ],
