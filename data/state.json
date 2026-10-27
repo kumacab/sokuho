@@ -246,7 +246,8 @@
   "9fe10d1df77f": 1793094320.08905,
   "d0f0a1af8606": 1793100695.21912,
   "a5d8c0397c0a": 1793106185.858618,
-  "a5f4a60ade6c": 1793107087.199726
+  "a5f4a60ade6c": 1793107087.199726,
+  "4b6077d7cb45": 1793108105.737927
  },
  "queue": [],
  "posted": [
@@ -4017,6 +4018,38 @@
    "work": "",
    "media_id": "18084388778708148",
    "ts": 1793106263.33881,
+   "card": null
+  },
+  {
+   "id": "4b6077d7cb45",
+   "type": "post",
+   "headline": "Tank Chair et Fool Night dévoilent une illustration collaborative",
+   "key": [
+    "chair",
+    "collaborative",
+    "devoilent",
+    "fool",
+    "illustration",
+    "night",
+    "tank"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/27/tank-chair-fool-night-manga-visuel-collab",
+   "visual": "visuals/20261027-4b6077d7cb45.jpg",
+   "work": "",
+   "media_id": "18176379556451022",
+   "ts": 1793108165.247187,
+   "card": "posts/20261027-4b6077d7cb45.jpg"
+  },
+  {
+   "id": "4b6077d7cb45",
+   "type": "story",
+   "headline": "Tank Chair et Fool Night dévoilent une illustration collaborative",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/27/tank-chair-fool-night-manga-visuel-collab",
+   "visual": null,
+   "work": "",
+   "media_id": "17988474285116012",
+   "ts": 1793108179.123205,
    "card": null
   }
  ],
