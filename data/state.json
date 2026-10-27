@@ -241,7 +241,9 @@
   "802fa356ab49": 1793031380.703181,
   "f9d633bd0e10": 1793034121.448492,
   "970f81ffdb4f": 1793036853.007847,
-  "e43b094cc3de": 1793093406.73642
+  "e43b094cc3de": 1793093406.73642,
+  "ea39e8b487c8": 1793094317.66525,
+  "9fe10d1df77f": 1793094320.08905
  },
  "queue": [],
  "posted": [
@@ -3902,6 +3904,45 @@
    "work": "Dragon Ball Xenoverse 2",
    "media_id": "17900948859607916",
    "ts": 1793093522.284015,
+   "card": null
+  },
+  {
+   "id": "ea39e8b487c8",
+   "type": "post",
+   "headline": "Mort de Tetsuya Chiba : le dessinateur d’Ashita no Joe",
+   "key": [
+    "87",
+    "age",
+    "ans",
+    "ashita",
+    "chiba",
+    "dessinateur",
+    "figure",
+    "joe",
+    "majeure",
+    "mort",
+    "no",
+    "nous",
+    "quittes",
+    "tetsuya"
+   ],
+   "link": "https://animotaku.fr/actualite/mort-tetsuya-chiba-87-ans/",
+   "visual": "visuals/20261027-ea39e8b487c8.jpg",
+   "work": "Tetsuya Chiba",
+   "media_id": "18077021246572536",
+   "ts": 1793094368.765498,
+   "card": "posts/20261027-ea39e8b487c8.jpg"
+  },
+  {
+   "id": "ea39e8b487c8",
+   "type": "story",
+   "headline": "Mort de Tetsuya Chiba : le dessinateur d’Ashita no Joe",
+   "key": null,
+   "link": "https://animotaku.fr/actualite/mort-tetsuya-chiba-87-ans/",
+   "visual": null,
+   "work": "Tetsuya Chiba",
+   "media_id": "18345351502262304",
+   "ts": 1793094383.638706,
    "card": null
   }
  ],
