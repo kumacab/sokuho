@@ -240,7 +240,8 @@
   "d73578f2b56f": 1793028632.694815,
   "802fa356ab49": 1793031380.703181,
   "f9d633bd0e10": 1793034121.448492,
-  "970f81ffdb4f": 1793036853.007847
+  "970f81ffdb4f": 1793036853.007847,
+  "e43b094cc3de": 1793093406.73642
  },
  "queue": [],
  "posted": [
@@ -3870,6 +3871,37 @@
    "work": "Black Clover Saison 2 Épisode 5",
    "media_id": "18170951542481356",
    "ts": 1793036914.88178,
+   "card": null
+  },
+  {
+   "id": "e43b094cc3de",
+   "type": "reel",
+   "headline": "Dragon Ball Xenoverse 2 : Un Trailer pour les 10 ans du jeu",
+   "key": [
+    "10",
+    "ans",
+    "ball",
+    "dragon",
+    "jeu",
+    "xenoverse"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/27/dragon-ball-xenoverse-2-10-ans-trailer-mise-a-jour",
+   "visual": "visuals/20261027-e43b094cc3de.jpg",
+   "work": "Dragon Ball Xenoverse 2",
+   "media_id": "17974853103156143",
+   "ts": 1793093508.226857,
+   "card": "posts/20261027-e43b094cc3de.jpg"
+  },
+  {
+   "id": "e43b094cc3de",
+   "type": "story",
+   "headline": "Dragon Ball Xenoverse 2 : Un Trailer pour les 10 ans du jeu",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/27/dragon-ball-xenoverse-2-10-ans-trailer-mise-a-jour",
+   "visual": null,
+   "work": "Dragon Ball Xenoverse 2",
+   "media_id": "17900948859607916",
+   "ts": 1793093522.284015,
    "card": null
   }
  ],
