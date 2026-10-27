@@ -244,7 +244,8 @@
   "e43b094cc3de": 1793093406.73642,
   "ea39e8b487c8": 1793094317.66525,
   "9fe10d1df77f": 1793094320.08905,
-  "d0f0a1af8606": 1793100695.21912
+  "d0f0a1af8606": 1793100695.21912,
+  "a5d8c0397c0a": 1793106185.858618
  },
  "queue": [],
  "posted": [
@@ -3983,6 +3984,38 @@
    "work": "anime Welcome to Demon School! Iruma-kun",
    "media_id": "17999012594826853",
    "ts": 1793100808.844488,
+   "card": null
+  },
+  {
+   "id": "a5d8c0397c0a",
+   "type": "post",
+   "headline": "Décès du créateur de mangas Tetsuya Chiba à 87 ans",
+   "key": [
+    "87",
+    "ans",
+    "chiba",
+    "createur",
+    "deces",
+    "mangas",
+    "tetsuya"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/27/deces-tetsuya-chiba-manga",
+   "visual": "visuals/20261027-a5d8c0397c0a.jpg",
+   "work": "",
+   "media_id": "18249759280312408",
+   "ts": 1793106248.742605,
+   "card": "posts/20261027-a5d8c0397c0a.jpg"
+  },
+  {
+   "id": "a5d8c0397c0a",
+   "type": "story",
+   "headline": "Décès du créateur de mangas Tetsuya Chiba à 87 ans",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/27/deces-tetsuya-chiba-manga",
+   "visual": null,
+   "work": "",
+   "media_id": "18084388778708148",
+   "ts": 1793106263.33881,
    "card": null
   }
  ],
