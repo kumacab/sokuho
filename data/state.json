@@ -248,7 +248,8 @@
   "a5d8c0397c0a": 1793106185.858618,
   "a5f4a60ade6c": 1793107087.199726,
   "4b6077d7cb45": 1793108105.737927,
-  "6461409cb888": 1793110105.831885
+  "6461409cb888": 1793110105.831885,
+  "94efb5a3028a": 1793120157.9383
  },
  "queue": [],
  "posted": [
@@ -4081,6 +4082,40 @@
    "work": "",
    "media_id": "18106559567205416",
    "ts": 1793110265.250035,
+   "card": null
+  },
+  {
+   "id": "94efb5a3028a",
+   "type": "reel",
+   "headline": "Blue Box Saison 2 : l’épisode 5 sortira le 8 novembre 2026 après une…",
+   "key": [
+    "2026",
+    "apres",
+    "blue",
+    "box",
+    "episode",
+    "novembre",
+    "pause",
+    "semaine",
+    "sortira"
+   ],
+   "link": "https://animotaku.fr/actualite/anime-blue-box-saison-2-episode-5-date-sortie/",
+   "visual": "visuals/20261027-94efb5a3028a.jpg",
+   "work": "Blue Box",
+   "media_id": "18345967360282075",
+   "ts": 1793120453.573507,
+   "card": "posts/20261027-94efb5a3028a.jpg"
+  },
+  {
+   "id": "94efb5a3028a",
+   "type": "story",
+   "headline": "Blue Box Saison 2 : l’épisode 5 sortira le 8 novembre 2026 après une…",
+   "key": null,
+   "link": "https://animotaku.fr/actualite/anime-blue-box-saison-2-episode-5-date-sortie/",
+   "visual": null,
+   "work": "Blue Box",
+   "media_id": "18025072433945359",
+   "ts": 1793120464.966793,
    "card": null
   }
  ],
