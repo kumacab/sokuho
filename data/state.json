@@ -243,7 +243,8 @@
   "970f81ffdb4f": 1793036853.007847,
   "e43b094cc3de": 1793093406.73642,
   "ea39e8b487c8": 1793094317.66525,
-  "9fe10d1df77f": 1793094320.08905
+  "9fe10d1df77f": 1793094320.08905,
+  "d0f0a1af8606": 1793100695.21912
  },
  "queue": [],
  "posted": [
@@ -3943,6 +3944,45 @@
    "work": "Tetsuya Chiba",
    "media_id": "18345351502262304",
    "ts": 1793094383.638706,
+   "card": null
+  },
+  {
+   "id": "d0f0a1af8606",
+   "type": "post",
+   "headline": "L’anime Welcome to Demon School! Iruma-kun : IruMafia Edition sortira…",
+   "key": [
+    "12",
+    "2027",
+    "aura",
+    "demon",
+    "edition",
+    "episodes",
+    "iruma",
+    "irumafia",
+    "janvier",
+    "kun",
+    "school",
+    "sortira",
+    "to",
+    "welcome"
+   ],
+   "link": "https://animotaku.fr/actualite/anime-welcome-to-demon-school-iruma-kun-irumafia-edition-date-sortie/",
+   "visual": "visuals/20261027-d0f0a1af8606.jpg",
+   "work": "anime Welcome to Demon School! Iruma-kun",
+   "media_id": "18129349642760185",
+   "ts": 1793100795.642926,
+   "card": "posts/20261027-d0f0a1af8606.jpg"
+  },
+  {
+   "id": "d0f0a1af8606",
+   "type": "story",
+   "headline": "L’anime Welcome to Demon School! Iruma-kun : IruMafia Edition sortira…",
+   "key": null,
+   "link": "https://animotaku.fr/actualite/anime-welcome-to-demon-school-iruma-kun-irumafia-edition-date-sortie/",
+   "visual": null,
+   "work": "anime Welcome to Demon School! Iruma-kun",
+   "media_id": "17999012594826853",
+   "ts": 1793100808.844488,
    "card": null
   }
  ],
