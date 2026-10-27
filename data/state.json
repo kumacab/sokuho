@@ -249,7 +249,8 @@
   "a5f4a60ade6c": 1793107087.199726,
   "4b6077d7cb45": 1793108105.737927,
   "6461409cb888": 1793110105.831885,
-  "94efb5a3028a": 1793120157.9383
+  "94efb5a3028a": 1793120157.9383,
+  "ba72df83c441": 1793129286.056659
  },
  "queue": [],
  "posted": [
@@ -4116,6 +4117,43 @@
    "work": "Blue Box",
    "media_id": "18025072433945359",
    "ts": 1793120464.966793,
+   "card": null
+  },
+  {
+   "id": "ba72df83c441",
+   "type": "reel",
+   "headline": "Les animes à voir en novembre 2026 sur ADN : Major Saison 6",
+   "key": [
+    "2026",
+    "adn",
+    "animes",
+    "encore",
+    "magi",
+    "major",
+    "novembre",
+    "one",
+    "piece",
+    "plus",
+    "vf",
+    "voir"
+   ],
+   "link": "https://animotaku.fr/actualite/animes-novembre-2026-adn/",
+   "visual": "visuals/20261027-ba72df83c441.jpg",
+   "work": "Les animes à voir en novembre 2026 sur ADN",
+   "media_id": "18479922406112634",
+   "ts": 1793129511.973692,
+   "card": "posts/20261027-ba72df83c441.jpg"
+  },
+  {
+   "id": "ba72df83c441",
+   "type": "story",
+   "headline": "Les animes à voir en novembre 2026 sur ADN : Major Saison 6",
+   "key": null,
+   "link": "https://animotaku.fr/actualite/animes-novembre-2026-adn/",
+   "visual": null,
+   "work": "Les animes à voir en novembre 2026 sur ADN",
+   "media_id": "18157740979520966",
+   "ts": 1793129524.799724,
    "card": null
   }
  ],
