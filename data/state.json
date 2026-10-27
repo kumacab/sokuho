@@ -247,7 +247,8 @@
   "d0f0a1af8606": 1793100695.21912,
   "a5d8c0397c0a": 1793106185.858618,
   "a5f4a60ade6c": 1793107087.199726,
-  "4b6077d7cb45": 1793108105.737927
+  "4b6077d7cb45": 1793108105.737927,
+  "6461409cb888": 1793110105.831885
  },
  "queue": [],
  "posted": [
@@ -4050,6 +4051,36 @@
    "work": "",
    "media_id": "17988474285116012",
    "ts": 1793108179.123205,
+   "card": null
+  },
+  {
+   "id": "6461409cb888",
+   "type": "reel",
+   "headline": "Maebashi Witches publie le clip vidéo de la chanson du film",
+   "key": [
+    "chanson",
+    "clip",
+    "maebashi",
+    "publie",
+    "witches"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/27/maebashi-witches-film-compilation-clip-amehare-make-up",
+   "visual": "visuals/20261027-6461409cb888.jpg",
+   "work": "",
+   "media_id": "17965053549231577",
+   "ts": 1793110252.300122,
+   "card": "posts/20261027-6461409cb888.jpg"
+  },
+  {
+   "id": "6461409cb888",
+   "type": "story",
+   "headline": "Maebashi Witches publie le clip vidéo de la chanson du film",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/27/maebashi-witches-film-compilation-clip-amehare-make-up",
+   "visual": null,
+   "work": "",
+   "media_id": "18106559567205416",
+   "ts": 1793110265.250035,
    "card": null
   }
  ],
