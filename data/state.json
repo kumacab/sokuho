@@ -250,7 +250,8 @@
   "4b6077d7cb45": 1793108105.737927,
   "6461409cb888": 1793110105.831885,
   "94efb5a3028a": 1793120157.9383,
-  "ba72df83c441": 1793129286.056659
+  "ba72df83c441": 1793129286.056659,
+  "a58749adffb6": 1793174927.267846
  },
  "queue": [],
  "posted": [
@@ -4154,6 +4155,37 @@
    "work": "Les animes à voir en novembre 2026 sur ADN",
    "media_id": "18157740979520966",
    "ts": 1793129524.799724,
+   "card": null
+  },
+  {
+   "id": "a58749adffb6",
+   "type": "reel",
+   "headline": "MASHLE Saison 3 sera disponible sur Crunchyroll dès janvier 2027",
+   "key": [
+    "2027",
+    "crunchyroll",
+    "disponible",
+    "janvier",
+    "mashle",
+    "sera"
+   ],
+   "link": "https://crunchyroll.com/fr/news/announcements/2026/10/28/mashle-magic-and-muscles-saison-3-janvier-2027-streaming-crunchyroll",
+   "visual": "visuals/20261028-a58749adffb6.jpg",
+   "work": "",
+   "media_id": "17962798470251238",
+   "ts": 1793175102.787343,
+   "card": "posts/20261028-a58749adffb6.jpg"
+  },
+  {
+   "id": "a58749adffb6",
+   "type": "story",
+   "headline": "MASHLE Saison 3 sera disponible sur Crunchyroll dès janvier 2027",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/announcements/2026/10/28/mashle-magic-and-muscles-saison-3-janvier-2027-streaming-crunchyroll",
+   "visual": null,
+   "work": "",
+   "media_id": "18033697049890603",
+   "ts": 1793175116.420052,
    "card": null
   }
  ],
