@@ -4476,6 +4476,18 @@
    "media_id": "17990121018099733",
    "ts": 1793206424.655922,
    "card": null
+  },
+  {
+   "id": "car-upcoming-2026-W44",
+   "type": "carousel",
+   "headline": "🔥 ON VA PAS S'ENNUYER CET HIVER 2027 !",
+   "key": null,
+   "link": null,
+   "visual": null,
+   "work": null,
+   "ts": 1793207786.383713,
+   "media_id": "?",
+   "card": null
   }
  ],
  "last_recap": "2026-W43",
@@ -4483,7 +4495,7 @@
  "manual_reels": [],
  "ig_pause_until": 1792187394.2893388,
  "carousels_done": {
-  "upcoming": "2026-W43",
+  "upcoming": "2026-W44",
   "movies": "2026-W43",
   "countdown": "2026-W43",
   "week": "2026-W44"
