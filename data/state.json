@@ -257,7 +257,8 @@
   "8f502733fdba": 1793181301.109896,
   "453850eae128": 1793182219.860301,
   "89f9f47ce2e9": 1793183134.698469,
-  "68046d2fd4f3": 1793196819.077347
+  "68046d2fd4f3": 1793196819.077347,
+  "167be2bf9fee": 1793198645.737179
  },
  "queue": [],
  "posted": [
@@ -4345,6 +4346,36 @@
    "work": "",
    "media_id": "18233214655319649",
    "ts": 1793196955.386297,
+   "card": null
+  },
+  {
+   "id": "167be2bf9fee",
+   "type": "reel",
+   "headline": "Cowboy Bebop, le film tease son Remaster 4K avec un Trailer",
+   "key": [
+    "4k",
+    "bebop",
+    "cowboy",
+    "remaster",
+    "tease"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/28/cowboy-bebop-le-film-remaster-4k-trailer",
+   "visual": "visuals/20261028-167be2bf9fee.jpg",
+   "work": "",
+   "media_id": "17909669700592035",
+   "ts": 1793198789.578108,
+   "card": "posts/20261028-167be2bf9fee.jpg"
+  },
+  {
+   "id": "167be2bf9fee",
+   "type": "story",
+   "headline": "Cowboy Bebop, le film tease son Remaster 4K avec un Trailer",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/28/cowboy-bebop-le-film-remaster-4k-trailer",
+   "visual": null,
+   "work": "",
+   "media_id": "18202637632375761",
+   "ts": 1793198803.232693,
    "card": null
   }
  ],
