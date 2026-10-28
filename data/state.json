@@ -255,7 +255,8 @@
   "fffd981a2e53": 1793175823.873034,
   "52e6cf8b185c": 1793177643.63213,
   "8f502733fdba": 1793181301.109896,
-  "453850eae128": 1793182219.860301
+  "453850eae128": 1793182219.860301,
+  "89f9f47ce2e9": 1793183134.698469
  },
  "queue": [],
  "posted": [
@@ -4282,6 +4283,35 @@
    "work": "BLEACH Mirrors High",
    "media_id": "17901583632386777",
    "ts": 1793182277.630019,
+   "card": null
+  },
+  {
+   "id": "89f9f47ce2e9",
+   "type": "reel",
+   "headline": "Fortnite annonce une collaboration avec ONE PIECE",
+   "key": [
+    "collaboration",
+    "fortnite",
+    "one",
+    "piece"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/28/fortnite-one-piece-collaboration-treasure-hunters-trailer",
+   "visual": "visuals/20261028-89f9f47ce2e9.jpg",
+   "work": "",
+   "media_id": "18228825433333880",
+   "ts": 1793183254.357426,
+   "card": "posts/20261028-89f9f47ce2e9.jpg"
+  },
+  {
+   "id": "89f9f47ce2e9",
+   "type": "story",
+   "headline": "Fortnite annonce une collaboration avec ONE PIECE",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/28/fortnite-one-piece-collaboration-treasure-hunters-trailer",
+   "visual": null,
+   "work": "",
+   "media_id": "17867325855680073",
+   "ts": 1793183269.051086,
    "card": null
   }
  ],
