@@ -258,7 +258,8 @@
   "453850eae128": 1793182219.860301,
   "89f9f47ce2e9": 1793183134.698469,
   "68046d2fd4f3": 1793196819.077347,
-  "167be2bf9fee": 1793198645.737179
+  "167be2bf9fee": 1793198645.737179,
+  "2b9173a24f23": 1793199560.249177
  },
  "queue": [],
  "posted": [
@@ -4376,6 +4377,39 @@
    "work": "",
    "media_id": "18202637632375761",
    "ts": 1793198803.232693,
+   "card": null
+  },
+  {
+   "id": "2b9173a24f23",
+   "type": "post",
+   "headline": "Rascal Does Not Dream of a Dear Friend partage un extrait vidéo du film",
+   "key": [
+    "dear",
+    "does",
+    "dream",
+    "extrait",
+    "friend",
+    "not",
+    "partage",
+    "rascal"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/28/rascal-does-not-dream-of-a-dear-friend-film-extrait-video",
+   "visual": "visuals/20261028-2b9173a24f23.jpg",
+   "work": "",
+   "media_id": "18012768362967448",
+   "ts": 1793199611.744109,
+   "card": "posts/20261028-2b9173a24f23.jpg"
+  },
+  {
+   "id": "2b9173a24f23",
+   "type": "story",
+   "headline": "Rascal Does Not Dream of a Dear Friend partage un extrait vidéo du film",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/28/rascal-does-not-dream-of-a-dear-friend-film-extrait-video",
+   "visual": null,
+   "work": "",
+   "media_id": "18165590149517274",
+   "ts": 1793199625.043675,
    "card": null
   }
  ],
