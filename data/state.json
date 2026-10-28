@@ -254,7 +254,8 @@
   "a58749adffb6": 1793174927.267846,
   "fffd981a2e53": 1793175823.873034,
   "52e6cf8b185c": 1793177643.63213,
-  "8f502733fdba": 1793181301.109896
+  "8f502733fdba": 1793181301.109896,
+  "453850eae128": 1793182219.860301
  },
  "queue": [],
  "posted": [
@@ -4251,6 +4252,36 @@
    "work": "MECHA SAMURAI",
    "media_id": "18131166145837069",
    "ts": 1793181362.206867,
+   "card": null
+  },
+  {
+   "id": "453850eae128",
+   "type": "post",
+   "headline": "BLEACH Mirrors High : Date de lancement et vidéo d'ouverture",
+   "key": [
+    "bleach",
+    "high",
+    "lancement",
+    "mirrors",
+    "ouverture"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/28/bleach-mirrors-high-jeu-mobile-date-lancement-opening",
+   "visual": "visuals/20261028-453850eae128.jpg",
+   "work": "BLEACH Mirrors High",
+   "media_id": "18194869846402411",
+   "ts": 1793182263.947822,
+   "card": "posts/20261028-453850eae128.jpg"
+  },
+  {
+   "id": "453850eae128",
+   "type": "story",
+   "headline": "BLEACH Mirrors High : Date de lancement et vidéo d'ouverture",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/28/bleach-mirrors-high-jeu-mobile-date-lancement-opening",
+   "visual": null,
+   "work": "BLEACH Mirrors High",
+   "media_id": "17901583632386777",
+   "ts": 1793182277.630019,
    "card": null
   }
  ],
