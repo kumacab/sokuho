@@ -256,7 +256,8 @@
   "52e6cf8b185c": 1793177643.63213,
   "8f502733fdba": 1793181301.109896,
   "453850eae128": 1793182219.860301,
-  "89f9f47ce2e9": 1793183134.698469
+  "89f9f47ce2e9": 1793183134.698469,
+  "68046d2fd4f3": 1793196819.077347
  },
  "queue": [],
  "posted": [
@@ -4312,6 +4313,38 @@
    "work": "",
    "media_id": "17867325855680073",
    "ts": 1793183269.051086,
+   "card": null
+  },
+  {
+   "id": "68046d2fd4f3",
+   "type": "reel",
+   "headline": "Phantom Busters dévoile un Visuel, son casting vocal et son staff",
+   "key": [
+    "busters",
+    "casting",
+    "devoile",
+    "phantom",
+    "staff",
+    "visuel",
+    "vocal"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/28/phantom-busters-visuel-casting-staff",
+   "visual": "visuals/20261028-68046d2fd4f3.jpg",
+   "work": "",
+   "media_id": "17986569759093052",
+   "ts": 1793196942.001402,
+   "card": "posts/20261028-68046d2fd4f3.jpg"
+  },
+  {
+   "id": "68046d2fd4f3",
+   "type": "story",
+   "headline": "Phantom Busters dévoile un Visuel, son casting vocal et son staff",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/28/phantom-busters-visuel-casting-staff",
+   "visual": null,
+   "work": "",
+   "media_id": "18233214655319649",
+   "ts": 1793196955.386297,
    "card": null
   }
  ],
