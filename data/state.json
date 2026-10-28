@@ -253,7 +253,8 @@
   "ba72df83c441": 1793129286.056659,
   "a58749adffb6": 1793174927.267846,
   "fffd981a2e53": 1793175823.873034,
-  "52e6cf8b185c": 1793177643.63213
+  "52e6cf8b185c": 1793177643.63213,
+  "8f502733fdba": 1793181301.109896
  },
  "queue": [],
  "posted": [
@@ -4220,6 +4221,36 @@
    "work": "",
    "media_id": "18089827133261771",
    "ts": 1793177701.534997,
+   "card": null
+  },
+  {
+   "id": "8f502733fdba",
+   "type": "post",
+   "headline": "MECHA SAMURAI : Le web anime débutera en novembre",
+   "key": [
+    "debutera",
+    "mecha",
+    "novembre",
+    "samurai",
+    "web"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/28/mecha-samurai-novembre-2026-trailer-staff-casting",
+   "visual": "visuals/20261028-8f502733fdba.jpg",
+   "work": "MECHA SAMURAI",
+   "media_id": "18052288373607828",
+   "ts": 1793181348.601087,
+   "card": "posts/20261028-8f502733fdba.jpg"
+  },
+  {
+   "id": "8f502733fdba",
+   "type": "story",
+   "headline": "MECHA SAMURAI : Le web anime débutera en novembre",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/28/mecha-samurai-novembre-2026-trailer-staff-casting",
+   "visual": null,
+   "work": "MECHA SAMURAI",
+   "media_id": "18131166145837069",
+   "ts": 1793181362.206867,
    "card": null
   }
  ],
