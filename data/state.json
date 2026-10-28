@@ -260,7 +260,8 @@
   "68046d2fd4f3": 1793196819.077347,
   "167be2bf9fee": 1793198645.737179,
   "2b9173a24f23": 1793199560.249177,
-  "e4c8fa2bd0fe": 1793200472.172316
+  "e4c8fa2bd0fe": 1793200472.172316,
+  "1978226407bb": 1793205963.969446
  },
  "queue": [],
  "posted": [
@@ -4443,6 +4444,37 @@
    "work": "",
    "media_id": "18092017049215250",
    "ts": 1793200537.509867,
+   "card": null
+  },
+  {
+   "id": "1978226407bb",
+   "type": "post",
+   "headline": "Regarde Magic Knight Rayearth en VF sur Crunchyroll",
+   "key": [
+    "crunchyroll",
+    "knight",
+    "magic",
+    "rayearth",
+    "regarde",
+    "vf"
+   ],
+   "link": "https://crunchyroll.com/fr/news/announcements/2026/10/28/regarder-magic-knight-rayearth-vf-crunchyroll",
+   "visual": "visuals/20261028-1978226407bb.jpg",
+   "work": "",
+   "media_id": "18187599055410806",
+   "ts": 1793206411.47261,
+   "card": "posts/20261028-1978226407bb.jpg"
+  },
+  {
+   "id": "1978226407bb",
+   "type": "story",
+   "headline": "Regarde Magic Knight Rayearth en VF sur Crunchyroll",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/announcements/2026/10/28/regarder-magic-knight-rayearth-vf-crunchyroll",
+   "visual": null,
+   "work": "",
+   "media_id": "17990121018099733",
+   "ts": 1793206424.655922,
    "card": null
   }
  ],
