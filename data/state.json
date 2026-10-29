@@ -267,7 +267,8 @@
   "39fd60f3fab1": 1793279901.803332,
   "e1cc572263f8": 1793281725.661568,
   "e9917dccdf54": 1793282640.928877,
-  "247b79c72058": 1793289039.295502
+  "247b79c72058": 1793289039.295502,
+  "a0e9f5993f9b": 1793291792.579132
  },
  "queue": [],
  "posted": [
@@ -4684,6 +4685,38 @@
    "work": "Witch on the Holy Night",
    "media_id": "18125333311927139",
    "ts": 1793289097.992673,
+   "card": null
+  },
+  {
+   "id": "a0e9f5993f9b",
+   "type": "reel",
+   "headline": "Les Carnets de l’Apothicaire Saison 3 Épisode 5 : Date et Heure de…",
+   "key": [
+    "apothicaire",
+    "carnets",
+    "episode",
+    "heure",
+    "images",
+    "premieres",
+    "resume"
+   ],
+   "link": "https://animotaku.fr/actualite/anime-carnets-apothicaire-saison-3-episode-5-date-heure-sortie/",
+   "visual": "visuals/20261029-a0e9f5993f9b.jpg",
+   "work": "Les carnets de l'apothicaire",
+   "media_id": "18064525277527025",
+   "ts": 1793292025.860458,
+   "card": "posts/20261029-a0e9f5993f9b.jpg"
+  },
+  {
+   "id": "a0e9f5993f9b",
+   "type": "story",
+   "headline": "Les Carnets de l’Apothicaire Saison 3 Épisode 5 : Date et Heure de…",
+   "key": null,
+   "link": "https://animotaku.fr/actualite/anime-carnets-apothicaire-saison-3-episode-5-date-heure-sortie/",
+   "visual": null,
+   "work": "Les carnets de l'apothicaire",
+   "media_id": "18101989241381962",
+   "ts": 1793292038.215775,
    "card": null
   }
  ],
