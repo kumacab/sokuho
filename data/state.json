@@ -262,7 +262,8 @@
   "2b9173a24f23": 1793199560.249177,
   "e4c8fa2bd0fe": 1793200472.172316,
   "1978226407bb": 1793205963.969446,
-  "92412ea85d93": 1793254359.226603
+  "92412ea85d93": 1793254359.226603,
+  "3d80d8c642a0": 1793268959.785795
  },
  "queue": [],
  "posted": [
@@ -4517,6 +4518,38 @@
    "work": "Sono Mono Nochi ni",
    "media_id": "18102460862165804",
    "ts": 1793254497.236733,
+   "card": null
+  },
+  {
+   "id": "3d80d8c642a0",
+   "type": "post",
+   "headline": "Cardfight!! Vanguard : La série Veil Lift prévue pour 2027",
+   "key": [
+    "2027",
+    "cardfight",
+    "lift",
+    "prevue",
+    "serie",
+    "vanguard",
+    "veil"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/29/cardfight-vanguard-veil-lift-2027",
+   "visual": "visuals/20261029-3d80d8c642a0.jpg",
+   "work": "Cardfight!! Vanguard",
+   "media_id": "18101934830354075",
+   "ts": 1793269056.095798,
+   "card": "posts/20261029-3d80d8c642a0.jpg"
+  },
+  {
+   "id": "3d80d8c642a0",
+   "type": "story",
+   "headline": "Cardfight!! Vanguard : La série Veil Lift prévue pour 2027",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/29/cardfight-vanguard-veil-lift-2027",
+   "visual": null,
+   "work": "Cardfight!! Vanguard",
+   "media_id": "18113299916593953",
+   "ts": 1793269071.162423,
    "card": null
   }
  ],
