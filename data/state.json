@@ -261,7 +261,8 @@
   "167be2bf9fee": 1793198645.737179,
   "2b9173a24f23": 1793199560.249177,
   "e4c8fa2bd0fe": 1793200472.172316,
-  "1978226407bb": 1793205963.969446
+  "1978226407bb": 1793205963.969446,
+  "92412ea85d93": 1793254359.226603
  },
  "queue": [],
  "posted": [
@@ -4487,6 +4488,35 @@
    "work": null,
    "ts": 1793207786.383713,
    "media_id": "?",
+   "card": null
+  },
+  {
+   "id": "92412ea85d93",
+   "type": "reel",
+   "headline": "Sono Mono Nochi Ni adapté en anime",
+   "key": [
+    "mono",
+    "ni",
+    "nochi",
+    "sono"
+   ],
+   "link": "https://adala-news.fr/2026/10/le-manga-sono-mono-nochi-ni-adapte-en-anime/",
+   "visual": "visuals/20261029-92412ea85d93.jpg",
+   "work": "Sono Mono Nochi ni",
+   "media_id": "18120025150962720",
+   "ts": 1793254483.57807,
+   "card": "posts/20261029-92412ea85d93.jpg"
+  },
+  {
+   "id": "92412ea85d93",
+   "type": "story",
+   "headline": "Sono Mono Nochi Ni adapté en anime",
+   "key": null,
+   "link": "https://adala-news.fr/2026/10/le-manga-sono-mono-nochi-ni-adapte-en-anime/",
+   "visual": null,
+   "work": "Sono Mono Nochi ni",
+   "media_id": "18102460862165804",
+   "ts": 1793254497.236733,
    "card": null
   }
  ],
