@@ -264,7 +264,8 @@
   "1978226407bb": 1793205963.969446,
   "92412ea85d93": 1793254359.226603,
   "3d80d8c642a0": 1793268959.785795,
-  "39fd60f3fab1": 1793279901.803332
+  "39fd60f3fab1": 1793279901.803332,
+  "e1cc572263f8": 1793281725.661568
  },
  "queue": [],
  "posted": [
@@ -4585,6 +4586,40 @@
    "work": "anime disney twisted-wonderland",
    "media_id": "18504814480098090",
    "ts": 1793280053.367778,
+   "card": null
+  },
+  {
+   "id": "e1cc572263f8",
+   "type": "post",
+   "headline": "No-Clipping My Way to Supremacy! dévoile 7 nouvelles voix",
+   "key": [
+    "clipping",
+    "devoile",
+    "my",
+    "no",
+    "nouvelles",
+    "supremacy",
+    "to",
+    "voix",
+    "way"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/29/no-clipping-my-way-to-supremacy-casting-vocal",
+   "visual": "visuals/20261029-e1cc572263f8.jpg",
+   "work": "",
+   "media_id": "18124716829936437",
+   "ts": 1793281777.699156,
+   "card": "posts/20261029-e1cc572263f8.jpg"
+  },
+  {
+   "id": "e1cc572263f8",
+   "type": "story",
+   "headline": "No-Clipping My Way to Supremacy! dévoile 7 nouvelles voix",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/29/no-clipping-my-way-to-supremacy-casting-vocal",
+   "visual": null,
+   "work": "",
+   "media_id": "18138518926632261",
+   "ts": 1793281793.06084,
    "card": null
   }
  ],
