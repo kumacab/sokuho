@@ -263,7 +263,8 @@
   "e4c8fa2bd0fe": 1793200472.172316,
   "1978226407bb": 1793205963.969446,
   "92412ea85d93": 1793254359.226603,
-  "3d80d8c642a0": 1793268959.785795
+  "3d80d8c642a0": 1793268959.785795,
+  "39fd60f3fab1": 1793279901.803332
  },
  "queue": [],
  "posted": [
@@ -4550,6 +4551,40 @@
    "work": "Cardfight!! Vanguard",
    "media_id": "18113299916593953",
    "ts": 1793269071.162423,
+   "card": null
+  },
+  {
+   "id": "39fd60f3fab1",
+   "type": "reel",
+   "headline": "L’anime Disney Twisted-Wonderland Saison 2 sortira le 23 décembre 2026…",
+   "key": [
+    "2026",
+    "23",
+    "aura",
+    "decembre",
+    "disney",
+    "episodes",
+    "sortira",
+    "twisted",
+    "wonderland"
+   ],
+   "link": "https://animotaku.fr/actualite/anime-disney-twisted-wonderland-saison-2-date-sortie-trailer/",
+   "visual": "visuals/20261029-39fd60f3fab1.jpg",
+   "work": "anime disney twisted-wonderland",
+   "media_id": "18103104032182982",
+   "ts": 1793280040.25358,
+   "card": "posts/20261029-39fd60f3fab1.jpg"
+  },
+  {
+   "id": "39fd60f3fab1",
+   "type": "story",
+   "headline": "L’anime Disney Twisted-Wonderland Saison 2 sortira le 23 décembre 2026…",
+   "key": null,
+   "link": "https://animotaku.fr/actualite/anime-disney-twisted-wonderland-saison-2-date-sortie-trailer/",
+   "visual": null,
+   "work": "anime disney twisted-wonderland",
+   "media_id": "18504814480098090",
+   "ts": 1793280053.367778,
    "card": null
   }
  ],
