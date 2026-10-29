@@ -266,7 +266,8 @@
   "3d80d8c642a0": 1793268959.785795,
   "39fd60f3fab1": 1793279901.803332,
   "e1cc572263f8": 1793281725.661568,
-  "e9917dccdf54": 1793282640.928877
+  "e9917dccdf54": 1793282640.928877,
+  "247b79c72058": 1793289039.295502
  },
  "queue": [],
  "posted": [
@@ -4653,6 +4654,36 @@
    "work": "Disney Twisted-Wonderland The Animation",
    "media_id": "18138211072645445",
    "ts": 1793282801.624448,
+   "card": null
+  },
+  {
+   "id": "247b79c72058",
+   "type": "post",
+   "headline": "Witch on the Holy Night : Une Affiche pour la sortie IMAX",
+   "key": [
+    "holy",
+    "imax",
+    "night",
+    "on",
+    "witch"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/29/witch-on-the-holy-night-film-visuel-imax",
+   "visual": "visuals/20261029-247b79c72058.jpg",
+   "work": "Witch on the Holy Night",
+   "media_id": "17901327018672934",
+   "ts": 1793289085.377603,
+   "card": "posts/20261029-247b79c72058.jpg"
+  },
+  {
+   "id": "247b79c72058",
+   "type": "story",
+   "headline": "Witch on the Holy Night : Une Affiche pour la sortie IMAX",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/29/witch-on-the-holy-night-film-visuel-imax",
+   "visual": null,
+   "work": "Witch on the Holy Night",
+   "media_id": "18125333311927139",
+   "ts": 1793289097.992673,
    "card": null
   }
  ],
