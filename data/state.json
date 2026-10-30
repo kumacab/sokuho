@@ -269,7 +269,8 @@
   "e9917dccdf54": 1793282640.928877,
   "247b79c72058": 1793289039.295502,
   "a0e9f5993f9b": 1793291792.579132,
-  "e89c4a7ff696": 1793344675.66532
+  "e89c4a7ff696": 1793344675.66532,
+  "756cafb7df1d": 1793346502.156606
  },
  "queue": [],
  "posted": [
@@ -4746,6 +4747,39 @@
    "work": "Death Stranding Isolations",
    "media_id": "18140479225627596",
    "ts": 1793344804.868707,
+   "card": null
+  },
+  {
+   "id": "756cafb7df1d",
+   "type": "reel",
+   "headline": "Solo Leveling: ARISE OVERDRIVE",
+   "key": [
+    "annoncee",
+    "arise",
+    "leveling",
+    "overdrive",
+    "ps5",
+    "series",
+    "solo",
+    "xbox"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/30/solo-leveling-arise-overdrive-ps5-xbox-series-date-sortie",
+   "visual": "visuals/20261030-756cafb7df1d.jpg",
+   "work": "Solo Leveling: ARISE OVERDRIVE",
+   "media_id": "18641756008047500",
+   "ts": 1793346713.193857,
+   "card": "posts/20261030-756cafb7df1d.jpg"
+  },
+  {
+   "id": "756cafb7df1d",
+   "type": "story",
+   "headline": "Solo Leveling: ARISE OVERDRIVE",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/30/solo-leveling-arise-overdrive-ps5-xbox-series-date-sortie",
+   "visual": null,
+   "work": "Solo Leveling: ARISE OVERDRIVE",
+   "media_id": "18124318750728936",
+   "ts": 1793346727.117627,
    "card": null
   }
  ],
