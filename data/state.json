@@ -268,7 +268,8 @@
   "e1cc572263f8": 1793281725.661568,
   "e9917dccdf54": 1793282640.928877,
   "247b79c72058": 1793289039.295502,
-  "a0e9f5993f9b": 1793291792.579132
+  "a0e9f5993f9b": 1793291792.579132,
+  "e89c4a7ff696": 1793344675.66532
  },
  "queue": [],
  "posted": [
@@ -4717,6 +4718,34 @@
    "work": "Les carnets de l'apothicaire",
    "media_id": "18101989241381962",
    "ts": 1793292038.215775,
+   "card": null
+  },
+  {
+   "id": "e89c4a7ff696",
+   "type": "reel",
+   "headline": "Death Stranding Isolations dévoile un teaser vidéo",
+   "key": [
+    "death",
+    "isolations",
+    "stranding"
+   ],
+   "link": "https://adala-news.fr/2026/10/lanime-death-stranding-isolations-en-teaser-video/",
+   "visual": "visuals/20261030-e89c4a7ff696.jpg",
+   "work": "Death Stranding Isolations",
+   "media_id": "17895546198615250",
+   "ts": 1793344792.483433,
+   "card": "posts/20261030-e89c4a7ff696.jpg"
+  },
+  {
+   "id": "e89c4a7ff696",
+   "type": "story",
+   "headline": "Death Stranding Isolations dévoile un teaser vidéo",
+   "key": null,
+   "link": "https://adala-news.fr/2026/10/lanime-death-stranding-isolations-en-teaser-video/",
+   "visual": null,
+   "work": "Death Stranding Isolations",
+   "media_id": "18140479225627596",
+   "ts": 1793344804.868707,
    "card": null
   }
  ],
