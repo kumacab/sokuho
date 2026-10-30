@@ -278,7 +278,8 @@
   "20593775b6a5": 1793362910.356345,
   "ddc8bf6d2ef2": 1793369309.736268,
   "976aa611de98": 1793373861.970484,
-  "498668d51599": 1793378420.150223
+  "498668d51599": 1793378420.150223,
+  "e51271edb338": 1793382756.507905
  },
  "queue": [],
  "posted": [
@@ -5001,6 +5002,36 @@
    "work": null,
    "media_id": "18430264714148920",
    "ts": 1793380431.510226,
+   "card": null
+  },
+  {
+   "id": "e51271edb338",
+   "type": "post",
+   "headline": "Regarde Les Noces des Lucioles en VF sur Crunchyroll",
+   "key": [
+    "crunchyroll",
+    "lucioles",
+    "noces",
+    "regarde",
+    "vf"
+   ],
+   "link": "https://crunchyroll.com/fr/news/announcements/2026/10/30/regarder-les-noces-des-lucioles-vf-crunchyroll",
+   "visual": "visuals/20261030-e51271edb338.jpg",
+   "work": "",
+   "media_id": "18095462261168831",
+   "ts": 1793382805.667754,
+   "card": "posts/20261030-e51271edb338.jpg"
+  },
+  {
+   "id": "e51271edb338",
+   "type": "story",
+   "headline": "Regarde Les Noces des Lucioles en VF sur Crunchyroll",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/announcements/2026/10/30/regarder-les-noces-des-lucioles-vf-crunchyroll",
+   "visual": null,
+   "work": "",
+   "media_id": "18115871323861087",
+   "ts": 1793382819.387344,
    "card": null
   }
  ],
