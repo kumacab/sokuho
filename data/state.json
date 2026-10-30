@@ -277,7 +277,8 @@
   "6a2b6c1c1aa3": 1793358348.978943,
   "20593775b6a5": 1793362910.356345,
   "ddc8bf6d2ef2": 1793369309.736268,
-  "976aa611de98": 1793373861.970484
+  "976aa611de98": 1793373861.970484,
+  "498668d51599": 1793378420.150223
  },
  "queue": [],
  "posted": [
@@ -4953,6 +4954,41 @@
    "work": "",
    "media_id": "17975316696156651",
    "ts": 1793373932.242508,
+   "card": null
+  },
+  {
+   "id": "498668d51599",
+   "type": "post",
+   "headline": "Chitose Is in the Ramune Bottle Cour 2 : L'été s'invite dans un nouveau…",
+   "key": [
+    "bottle",
+    "chitose",
+    "cour",
+    "dans",
+    "ete",
+    "in",
+    "invite",
+    "is",
+    "ramune",
+    "visuel"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/30/chitose-is-in-the-ramune-bottle-cour-2-visuel-ete",
+   "visual": "visuals/20261030-498668d51599.jpg",
+   "work": "Chitose Is in the Ramune Bottle Cour 2",
+   "media_id": "18020786786739259",
+   "ts": 1793378469.718292,
+   "card": "posts/20261030-498668d51599.jpg"
+  },
+  {
+   "id": "498668d51599",
+   "type": "story",
+   "headline": "Chitose Is in the Ramune Bottle Cour 2 : L'été s'invite dans un nouveau…",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/30/chitose-is-in-the-ramune-bottle-cour-2-visuel-ete",
+   "visual": null,
+   "work": "Chitose Is in the Ramune Bottle Cour 2",
+   "media_id": "18210007081365217",
+   "ts": 1793378482.734359,
    "card": null
   }
  ],
