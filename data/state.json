@@ -271,7 +271,9 @@
   "a0e9f5993f9b": 1793291792.579132,
   "e89c4a7ff696": 1793344675.66532,
   "756cafb7df1d": 1793346502.156606,
-  "1dffa9f5894d": 1793350143.487812
+  "1dffa9f5894d": 1793350143.487812,
+  "ac24eacbdb8a": 1793354706.442405,
+  "5606507a9d64": 1793354706.442632
  },
  "queue": [],
  "posted": [
@@ -4781,6 +4783,38 @@
    "work": "Solo Leveling: ARISE OVERDRIVE",
    "media_id": "18124318750728936",
    "ts": 1793346727.117627,
+   "card": null
+  },
+  {
+   "id": "5606507a9d64",
+   "type": "post",
+   "headline": "Marshmello x JUJUTSU KAISEN : Une collaboration sur le passé de Gojo et…",
+   "key": [
+    "collaboration",
+    "geto",
+    "gojo",
+    "jujutsu",
+    "kaisen",
+    "marshmello",
+    "passe"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/30/marshmello-jujutsu-kaisen-collaboration-collection-gojo-geto",
+   "visual": "visuals/20261030-5606507a9d64.jpg",
+   "work": "Marshmello x JUJUTSU KAISEN",
+   "media_id": "17992689543112071",
+   "ts": 1793354754.880138,
+   "card": "posts/20261030-5606507a9d64.jpg"
+  },
+  {
+   "id": "5606507a9d64",
+   "type": "story",
+   "headline": "Marshmello x JUJUTSU KAISEN : Une collaboration sur le passé de Gojo et…",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/30/marshmello-jujutsu-kaisen-collaboration-collection-gojo-geto",
+   "visual": null,
+   "work": "Marshmello x JUJUTSU KAISEN",
+   "media_id": "18187151815420442",
+   "ts": 1793354767.719884,
    "card": null
   }
  ],
