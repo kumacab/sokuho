@@ -276,7 +276,8 @@
   "5606507a9d64": 1793354706.442632,
   "6a2b6c1c1aa3": 1793358348.978943,
   "20593775b6a5": 1793362910.356345,
-  "ddc8bf6d2ef2": 1793369309.736268
+  "ddc8bf6d2ef2": 1793369309.736268,
+  "976aa611de98": 1793373861.970484
  },
  "queue": [],
  "posted": [
@@ -4913,6 +4914,45 @@
    "work": "Mercedes and the Waning Moon",
    "media_id": "18121089554287810",
    "ts": 1793369372.405082,
+   "card": null
+  },
+  {
+   "id": "976aa611de98",
+   "type": "post",
+   "headline": "The Final-Boss Prince Is Somehow Obsessed with the Chubby Villainess:…",
+   "key": [
+    "boss",
+    "chubby",
+    "devoile",
+    "final",
+    "is",
+    "me",
+    "obsessed",
+    "prince",
+    "reincarnated",
+    "somehow",
+    "special",
+    "villainess",
+    "visuel",
+    "with"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/30/the-final-boss-prince-is-somehow-obsessed-with-the-chubby-villainess-reincarnated-me-visuel-special",
+   "visual": "visuals/20261030-976aa611de98.jpg",
+   "work": "",
+   "media_id": "18594586486068976",
+   "ts": 1793373920.032482,
+   "card": "posts/20261030-976aa611de98.jpg"
+  },
+  {
+   "id": "976aa611de98",
+   "type": "story",
+   "headline": "The Final-Boss Prince Is Somehow Obsessed with the Chubby Villainess:…",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/30/the-final-boss-prince-is-somehow-obsessed-with-the-chubby-villainess-reincarnated-me-visuel-special",
+   "visual": null,
+   "work": "",
+   "media_id": "17975316696156651",
+   "ts": 1793373932.242508,
    "card": null
   }
  ],
