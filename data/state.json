@@ -275,7 +275,8 @@
   "ac24eacbdb8a": 1793354706.442405,
   "5606507a9d64": 1793354706.442632,
   "6a2b6c1c1aa3": 1793358348.978943,
-  "20593775b6a5": 1793362910.356345
+  "20593775b6a5": 1793362910.356345,
+  "ddc8bf6d2ef2": 1793369309.736268
  },
  "queue": [],
  "posted": [
@@ -4881,6 +4882,37 @@
    "work": "anime Destiny Unchain Online",
    "media_id": "18062343134796091",
    "ts": 1793363001.502274,
+   "card": null
+  },
+  {
+   "id": "ddc8bf6d2ef2",
+   "type": "post",
+   "headline": "Mercedes and the Waning Moon : Nouveau Trailer et nouvelles voix",
+   "key": [
+    "and",
+    "mercedes",
+    "moon",
+    "nouvelles",
+    "voix",
+    "waning"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/30/mercedes-and-the-waning-moon-trailer-casting",
+   "visual": "visuals/20261030-ddc8bf6d2ef2.jpg",
+   "work": "Mercedes and the Waning Moon",
+   "media_id": "18117735773097796",
+   "ts": 1793369358.401596,
+   "card": "posts/20261030-ddc8bf6d2ef2.jpg"
+  },
+  {
+   "id": "ddc8bf6d2ef2",
+   "type": "story",
+   "headline": "Mercedes and the Waning Moon : Nouveau Trailer et nouvelles voix",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/30/mercedes-and-the-waning-moon-trailer-casting",
+   "visual": null,
+   "work": "Mercedes and the Waning Moon",
+   "media_id": "18121089554287810",
+   "ts": 1793369372.405082,
    "card": null
   }
  ],
