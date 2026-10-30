@@ -273,7 +273,8 @@
   "756cafb7df1d": 1793346502.156606,
   "1dffa9f5894d": 1793350143.487812,
   "ac24eacbdb8a": 1793354706.442405,
-  "5606507a9d64": 1793354706.442632
+  "5606507a9d64": 1793354706.442632,
+  "6a2b6c1c1aa3": 1793358348.978943
  },
  "queue": [],
  "posted": [
@@ -4815,6 +4816,38 @@
    "work": "Marshmello x JUJUTSU KAISEN",
    "media_id": "18187151815420442",
    "ts": 1793354767.719884,
+   "card": null
+  },
+  {
+   "id": "6a2b6c1c1aa3",
+   "type": "reel",
+   "headline": "Destiny Unchain Online : Diffusion en 2027, Trailer, casting et staff",
+   "key": [
+    "2027",
+    "casting",
+    "destiny",
+    "diffusion",
+    "online",
+    "staff",
+    "unchain"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/30/destiny-unchain-online-2027-trailer-staff-casting",
+   "visual": "visuals/20261030-6a2b6c1c1aa3.jpg",
+   "work": "Destiny Unchain Online",
+   "media_id": "18645326404025709",
+   "ts": 1793358466.354166,
+   "card": "posts/20261030-6a2b6c1c1aa3.jpg"
+  },
+  {
+   "id": "6a2b6c1c1aa3",
+   "type": "story",
+   "headline": "Destiny Unchain Online : Diffusion en 2027, Trailer, casting et staff",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/10/30/destiny-unchain-online-2027-trailer-staff-casting",
+   "visual": null,
+   "work": "Destiny Unchain Online",
+   "media_id": "18079757189718843",
+   "ts": 1793358477.7839,
    "card": null
   }
  ],
