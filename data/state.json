@@ -281,7 +281,8 @@
   "498668d51599": 1793378420.150223,
   "e51271edb338": 1793382756.507905,
   "fec7218c978c": 1793443456.691285,
-  "dba49ee8be41": 1793444371.692855
+  "dba49ee8be41": 1793444371.692855,
+  "beadd232a0e6": 1793445284.604696
  },
  "queue": [],
  "posted": [
@@ -5070,6 +5071,37 @@
    "media_id": "18119166754781342",
    "ts": 1793443586.905882,
    "card": null
+  },
+  {
+   "id": "beadd232a0e6",
+   "type": "post",
+   "headline": "Mercedes de la Lune Décroissante (Kaketa Tsuki no Mercedes) : toutes les nouvelles infos",
+   "key": [
+    "decroissante",
+    "kaketa",
+    "lune",
+    "mercedes",
+    "no",
+    "tsuki"
+   ],
+   "link": "https://adala-news.fr/2026/10/toutes-les-infos-sur-lanime-mercedes-de-la-lune-decroissante-kaketa-tsuki-no-mercedes/",
+   "visual": "visuals/20261031-beadd232a0e6.jpg",
+   "work": "Mercedes de la Lune Décroissante",
+   "media_id": "17965356372220628",
+   "ts": 1793445340.629102,
+   "card": "posts/20261031-beadd232a0e6.jpg"
+  },
+  {
+   "id": "beadd232a0e6",
+   "type": "story",
+   "headline": "Mercedes de la Lune Décroissante (Kaketa Tsuki no Mercedes) : toutes les nouvelles infos",
+   "key": null,
+   "link": "https://adala-news.fr/2026/10/toutes-les-infos-sur-lanime-mercedes-de-la-lune-decroissante-kaketa-tsuki-no-mercedes/",
+   "visual": null,
+   "work": "Mercedes de la Lune Décroissante",
+   "media_id": "18121075063970626",
+   "ts": 1793445354.676005,
+   "card": null
   }
  ],
  "last_recap": "2026-W43",
@@ -5079,7 +5111,7 @@
  "carousels_done": {
   "upcoming": "2026-W44",
   "movies": "2026-W44",
-  "countdown": "2026-W43",
+  "countdown": "2026-W44",
   "week": "2026-W44"
  },
  "ig_user_id": "17841459944087335"
