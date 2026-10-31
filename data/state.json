@@ -283,7 +283,8 @@
   "fec7218c978c": 1793443456.691285,
   "dba49ee8be41": 1793444371.692855,
   "beadd232a0e6": 1793445284.604696,
-  "564a32a30a9b": 1793447103.88626
+  "564a32a30a9b": 1793447103.88626,
+  "ae12de5f97c0": 1793467155.891545
  },
  "queue": [],
  "posted": [
@@ -5130,6 +5131,38 @@
    "work": "Hagure Idol Jigokuhen",
    "media_id": "17963121651228687",
    "ts": 1793447194.90776,
+   "card": null
+  },
+  {
+   "id": "ae12de5f97c0",
+   "type": "post",
+   "headline": "L’anime Romelia War Chronicle Part 2 arrive au Printemps 2027",
+   "key": [
+    "2027",
+    "arrive",
+    "chronicle",
+    "part",
+    "printemps",
+    "romelia",
+    "war"
+   ],
+   "link": "https://adala-news.fr/2026/10/lanime-romelia-war-chronicle-part-2-arrive-au-printemps-2027/",
+   "visual": "visuals/20261031-ae12de5f97c0.jpg",
+   "work": "Romelia War Chronicle",
+   "media_id": "17971300533188890",
+   "ts": 1793467206.054538,
+   "card": "posts/20261031-ae12de5f97c0.jpg"
+  },
+  {
+   "id": "ae12de5f97c0",
+   "type": "story",
+   "headline": "L’anime Romelia War Chronicle Part 2 arrive au Printemps 2027",
+   "key": null,
+   "link": "https://adala-news.fr/2026/10/lanime-romelia-war-chronicle-part-2-arrive-au-printemps-2027/",
+   "visual": null,
+   "work": "Romelia War Chronicle",
+   "media_id": "18091743239499757",
+   "ts": 1793467220.395875,
    "card": null
   }
  ],
