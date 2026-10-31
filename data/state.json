@@ -279,7 +279,8 @@
   "ddc8bf6d2ef2": 1793369309.736268,
   "976aa611de98": 1793373861.970484,
   "498668d51599": 1793378420.150223,
-  "e51271edb338": 1793382756.507905
+  "e51271edb338": 1793382756.507905,
+  "fec7218c978c": 1793443456.691285
  },
  "queue": [],
  "posted": [
@@ -5032,6 +5033,41 @@
    "work": "",
    "media_id": "18115871323861087",
    "ts": 1793382819.387344,
+   "card": null
+  },
+  {
+   "id": "fec7218c978c",
+   "type": "reel",
+   "headline": "L’anime Isshiki-san wa Koi wo Shiritai dévoile son Premier Trailer avec…",
+   "key": [
+    "apercu",
+    "devoile",
+    "isshiki",
+    "koi",
+    "opening",
+    "premier",
+    "san",
+    "shiritai",
+    "wa",
+    "wo"
+   ],
+   "link": "https://animotaku.fr/actualite/anime-isshiki-san-wa-koi-wo-shiritai-premier-trailer-opening/",
+   "visual": "visuals/20261031-fec7218c978c.jpg",
+   "work": "anime Isshiki-san wa Koi wo Shiritai",
+   "media_id": "18121653298970794",
+   "ts": 1793443574.439415,
+   "card": "posts/20261031-fec7218c978c.jpg"
+  },
+  {
+   "id": "fec7218c978c",
+   "type": "story",
+   "headline": "L’anime Isshiki-san wa Koi wo Shiritai dévoile son Premier Trailer avec…",
+   "key": null,
+   "link": "https://animotaku.fr/actualite/anime-isshiki-san-wa-koi-wo-shiritai-premier-trailer-opening/",
+   "visual": null,
+   "work": "anime Isshiki-san wa Koi wo Shiritai",
+   "media_id": "18119166754781342",
+   "ts": 1793443586.905882,
    "card": null
   }
  ],
