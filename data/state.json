@@ -282,7 +282,8 @@
   "e51271edb338": 1793382756.507905,
   "fec7218c978c": 1793443456.691285,
   "dba49ee8be41": 1793444371.692855,
-  "beadd232a0e6": 1793445284.604696
+  "beadd232a0e6": 1793445284.604696,
+  "564a32a30a9b": 1793447103.88626
  },
  "queue": [],
  "posted": [
@@ -5101,6 +5102,34 @@
    "work": "Mercedes de la Lune Décroissante",
    "media_id": "18121075063970626",
    "ts": 1793445354.676005,
+   "card": null
+  },
+  {
+   "id": "564a32a30a9b",
+   "type": "reel",
+   "headline": "Hagure Idol Jigokuhen adapté en anime",
+   "key": [
+    "hagure",
+    "idol",
+    "jigokuhen"
+   ],
+   "link": "https://adala-news.fr/2026/10/le-manga-hagure-idol-jigokuhen-adapte-en-anime/",
+   "visual": "visuals/20261031-564a32a30a9b.jpg",
+   "work": "Hagure Idol Jigokuhen",
+   "media_id": "18113894126156275",
+   "ts": 1793447181.282129,
+   "card": "posts/20261031-564a32a30a9b.jpg"
+  },
+  {
+   "id": "564a32a30a9b",
+   "type": "story",
+   "headline": "Hagure Idol Jigokuhen adapté en anime",
+   "key": null,
+   "link": "https://adala-news.fr/2026/10/le-manga-hagure-idol-jigokuhen-adapte-en-anime/",
+   "visual": null,
+   "work": "Hagure Idol Jigokuhen",
+   "media_id": "17963121651228687",
+   "ts": 1793447194.90776,
    "card": null
   }
  ],
