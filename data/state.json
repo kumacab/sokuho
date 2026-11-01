@@ -285,7 +285,8 @@
   "beadd232a0e6": 1793445284.604696,
   "564a32a30a9b": 1793447103.88626,
   "ae12de5f97c0": 1793467155.891545,
-  "2926c32b721b": 1793528212.444539
+  "2926c32b721b": 1793528212.444539,
+  "a1dd2c66a888": 1793530035.607633
  },
  "queue": [],
  "posted": [
@@ -5198,6 +5199,32 @@
    "work": "",
    "media_id": "18440707390178714",
    "ts": 1793528406.450004,
+   "card": null
+  },
+  {
+   "id": "a1dd2c66a888",
+   "type": "reel",
+   "headline": "Charisma dévoile un teaser vidéo",
+   "key": [
+    "charisma"
+   ],
+   "link": "https://adala-news.fr/2026/11/lanime-charisma-en-teaser-video/",
+   "visual": "visuals/20261101-a1dd2c66a888.jpg",
+   "work": "Charisma",
+   "media_id": "17914006008550857",
+   "ts": 1793530113.033292,
+   "card": "posts/20261101-a1dd2c66a888.jpg"
+  },
+  {
+   "id": "a1dd2c66a888",
+   "type": "story",
+   "headline": "Charisma dévoile un teaser vidéo",
+   "key": null,
+   "link": "https://adala-news.fr/2026/11/lanime-charisma-en-teaser-video/",
+   "visual": null,
+   "work": "Charisma",
+   "media_id": "18197474521360353",
+   "ts": 1793530125.968599,
    "card": null
   }
  ],
