@@ -5259,9 +5259,33 @@
    "media_id": "18639887821003838",
    "ts": 1793540202.673006,
    "card": null
+  },
+  {
+   "id": "recap-2026-W44",
+   "type": "carousel",
+   "headline": "Récap 26 → 1 NOV.",
+   "key": null,
+   "link": null,
+   "visual": null,
+   "work": null,
+   "media_id": "17992649868115389",
+   "ts": 1793553027.570292,
+   "card": null
+  },
+  {
+   "id": "recap-2026-W44",
+   "type": "reel",
+   "headline": "Récap 26 → 1 NOV.",
+   "key": null,
+   "link": null,
+   "visual": null,
+   "work": null,
+   "media_id": "17996180790102761",
+   "ts": 1793553158.404849,
+   "card": null
   }
  ],
- "last_recap": "2026-W43",
+ "last_recap": "2026-W44",
  "news_count": 39,
  "manual_reels": [],
  "ig_pause_until": 1792187394.2893388,
