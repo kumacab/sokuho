@@ -286,7 +286,8 @@
   "564a32a30a9b": 1793447103.88626,
   "ae12de5f97c0": 1793467155.891545,
   "2926c32b721b": 1793528212.444539,
-  "a1dd2c66a888": 1793530035.607633
+  "a1dd2c66a888": 1793530035.607633,
+  "d8157faa7940": 1793540066.896644
  },
  "queue": [],
  "posted": [
@@ -5225,6 +5226,38 @@
    "work": "Charisma",
    "media_id": "18197474521360353",
    "ts": 1793530125.968599,
+   "card": null
+  },
+  {
+   "id": "d8157faa7940",
+   "type": "reel",
+   "headline": "Le film préquel BOCCHI THE ROCK! Hoshi no Ashiato annoncé pour 2027",
+   "key": [
+    "2027",
+    "ashiato",
+    "bocchi",
+    "hoshi",
+    "no",
+    "prequel",
+    "rock"
+   ],
+   "link": "https://animotaku.fr/actualite/film-prequel-bocchi-the-rock-hoshi-no-ashiato-annonce-2027/",
+   "visual": "visuals/20261101-d8157faa7940.jpg",
+   "work": "",
+   "media_id": "18107982875292324",
+   "ts": 1793540189.319758,
+   "card": "posts/20261101-d8157faa7940.jpg"
+  },
+  {
+   "id": "d8157faa7940",
+   "type": "story",
+   "headline": "Le film préquel BOCCHI THE ROCK! Hoshi no Ashiato annoncé pour 2027",
+   "key": null,
+   "link": "https://animotaku.fr/actualite/film-prequel-bocchi-the-rock-hoshi-no-ashiato-annonce-2027/",
+   "visual": null,
+   "work": "",
+   "media_id": "18639887821003838",
+   "ts": 1793540202.673006,
    "card": null
   }
  ],
