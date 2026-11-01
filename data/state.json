@@ -287,7 +287,8 @@
   "ae12de5f97c0": 1793467155.891545,
   "2926c32b721b": 1793528212.444539,
   "a1dd2c66a888": 1793530035.607633,
-  "d8157faa7940": 1793540066.896644
+  "d8157faa7940": 1793540066.896644,
+  "c99b33db07f8": 1793553727.33038
  },
  "queue": [],
  "posted": [
@@ -5282,6 +5283,34 @@
    "work": null,
    "media_id": "17996180790102761",
    "ts": 1793553158.404849,
+   "card": null
+  },
+  {
+   "id": "c99b33db07f8",
+   "type": "post",
+   "headline": "Le film anime Bocchi the Rock!, annoncé pour 2027",
+   "key": [
+    "2027",
+    "bocchi",
+    "rock"
+   ],
+   "link": "https://adala-news.fr/2026/11/le-film-anime-bocchi-the-rock-annonce-pour-2027/",
+   "visual": "visuals/20261101-c99b33db07f8.jpg",
+   "work": "",
+   "media_id": "18108960569349062",
+   "ts": 1793553770.827819,
+   "card": "posts/20261101-c99b33db07f8.jpg"
+  },
+  {
+   "id": "c99b33db07f8",
+   "type": "story",
+   "headline": "Le film anime Bocchi the Rock!, annoncé pour 2027",
+   "key": null,
+   "link": "https://adala-news.fr/2026/11/le-film-anime-bocchi-the-rock-annonce-pour-2027/",
+   "visual": null,
+   "work": "",
+   "media_id": "18141177076622723",
+   "ts": 1793553784.415373,
    "card": null
   }
  ],
