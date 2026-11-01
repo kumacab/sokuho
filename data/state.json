@@ -284,7 +284,8 @@
   "dba49ee8be41": 1793444371.692855,
   "beadd232a0e6": 1793445284.604696,
   "564a32a30a9b": 1793447103.88626,
-  "ae12de5f97c0": 1793467155.891545
+  "ae12de5f97c0": 1793467155.891545,
+  "2926c32b721b": 1793528212.444539
  },
  "queue": [],
  "posted": [
@@ -5163,6 +5164,40 @@
    "work": "Romelia War Chronicle",
    "media_id": "18091743239499757",
    "ts": 1793467220.395875,
+   "card": null
+  },
+  {
+   "id": "2926c32b721b",
+   "type": "reel",
+   "headline": "L’anime SHIBA INU ROOMS annoncé pour l’été 2027 au Japon",
+   "key": [
+    "2027",
+    "devoiles",
+    "ete",
+    "inu",
+    "japon",
+    "premier",
+    "rooms",
+    "shiba",
+    "visuel"
+   ],
+   "link": "https://animotaku.fr/actualite/anime-shiba-inu-rooms-annonce-ete-2027/",
+   "visual": "visuals/20261101-2926c32b721b.jpg",
+   "work": "",
+   "media_id": "18098723060426062",
+   "ts": 1793528393.304871,
+   "card": "posts/20261101-2926c32b721b.jpg"
+  },
+  {
+   "id": "2926c32b721b",
+   "type": "story",
+   "headline": "L’anime SHIBA INU ROOMS annoncé pour l’été 2027 au Japon",
+   "key": null,
+   "link": "https://animotaku.fr/actualite/anime-shiba-inu-rooms-annonce-ete-2027/",
+   "visual": null,
+   "work": "",
+   "media_id": "18440707390178714",
+   "ts": 1793528406.450004,
    "card": null
   }
  ],
