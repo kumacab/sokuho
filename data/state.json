@@ -294,7 +294,9 @@
   "cd08a52e3a6b": 1793614885.117895,
   "504253ddfec9": 1793616723.78353,
   "7d39f6996d91": 1793620389.61366,
-  "53f28aa5e3b2": 1793626784.766518
+  "53f28aa5e3b2": 1793626784.766518,
+  "35a90628f3de": 1793628616.355256,
+  "efd0e17d5025": 1793628617.287214
  },
  "queue": [],
  "posted": [
@@ -5485,6 +5487,73 @@
    "work": "",
    "media_id": "17970149901193428",
    "ts": 1793626853.724202,
+   "card": null
+  },
+  {
+   "id": "35a90628f3de",
+   "type": "post",
+   "headline": "Regarde Full Clearing Another World under a Goddess with Zero Believers…",
+   "key": [
+    "another",
+    "believers",
+    "clearing",
+    "crunchyroll",
+    "full",
+    "goddess",
+    "regarde",
+    "under",
+    "vf",
+    "with",
+    "world",
+    "zero"
+   ],
+   "link": "https://crunchyroll.com/fr/news/announcements/2026/11/2/regarder-full-clearing-another-world-under-a-goddess-with-zero-believers-vf-crunchyroll",
+   "visual": "visuals/20261102-35a90628f3de.jpg",
+   "work": "",
+   "media_id": "18095513858169339",
+   "ts": 1793628692.969866,
+   "card": "posts/20261102-35a90628f3de.jpg"
+  },
+  {
+   "id": "efd0e17d5025",
+   "type": "reel",
+   "headline": "Hiragi-san's House of Vampires sera adapté en anime",
+   "key": [
+    "hiragi",
+    "house",
+    "san",
+    "sera",
+    "vampires"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/2/hiragisans-house-of-vampires-annonce-adaptation-visuel",
+   "visual": "visuals/20261102-efd0e17d5025.jpg",
+   "work": "",
+   "media_id": "18400465336165030",
+   "ts": 1793628763.22207,
+   "card": "posts/20261102-efd0e17d5025.jpg"
+  },
+  {
+   "id": "35a90628f3de",
+   "type": "story",
+   "headline": "Regarde Full Clearing Another World under a Goddess with Zero Believers…",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/announcements/2026/11/2/regarder-full-clearing-another-world-under-a-goddess-with-zero-believers-vf-crunchyroll",
+   "visual": null,
+   "work": "",
+   "media_id": "17918859120468847",
+   "ts": 1793628776.561001,
+   "card": null
+  },
+  {
+   "id": "efd0e17d5025",
+   "type": "story",
+   "headline": "Hiragi-san's House of Vampires sera adapté en anime",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/2/hiragisans-house-of-vampires-annonce-adaptation-visuel",
+   "visual": null,
+   "work": "",
+   "media_id": "18125922988902267",
+   "ts": 1793628789.435324,
    "card": null
   }
  ],
