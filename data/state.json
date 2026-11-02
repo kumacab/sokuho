@@ -292,7 +292,8 @@
   "e922720e9a7f": 1793612154.999397,
   "453a964d2642": 1793613046.493138,
   "cd08a52e3a6b": 1793614885.117895,
-  "504253ddfec9": 1793616723.78353
+  "504253ddfec9": 1793616723.78353,
+  "7d39f6996d91": 1793620389.61366
  },
  "queue": [],
  "posted": [
@@ -5423,6 +5424,36 @@
    "work": "Charisma",
    "media_id": "18645620242050898",
    "ts": 1793616795.69224,
+   "card": null
+  },
+  {
+   "id": "7d39f6996d91",
+   "type": "reel",
+   "headline": "L’anime Charisma sortira le 7 janvier 2027, Trailer Officiel",
+   "key": [
+    "2027",
+    "charisma",
+    "janvier",
+    "officiel",
+    "sortira"
+   ],
+   "link": "https://animotaku.fr/actualite/anime-charisma-date-sortie-trailer/",
+   "visual": "visuals/20261102-7d39f6996d91.jpg",
+   "work": "anime Charisma",
+   "media_id": "17881787001545346",
+   "ts": 1793620517.726199,
+   "card": "posts/20261102-7d39f6996d91.jpg"
+  },
+  {
+   "id": "7d39f6996d91",
+   "type": "story",
+   "headline": "L’anime Charisma sortira le 7 janvier 2027, Trailer Officiel",
+   "key": null,
+   "link": "https://animotaku.fr/actualite/anime-charisma-date-sortie-trailer/",
+   "visual": null,
+   "work": "anime Charisma",
+   "media_id": "17990263716065971",
+   "ts": 1793620530.006169,
    "card": null
   }
  ],
