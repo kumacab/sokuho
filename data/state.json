@@ -288,7 +288,8 @@
   "2926c32b721b": 1793528212.444539,
   "a1dd2c66a888": 1793530035.607633,
   "d8157faa7940": 1793540066.896644,
-  "c99b33db07f8": 1793553727.33038
+  "c99b33db07f8": 1793553727.33038,
+  "e922720e9a7f": 1793612154.999397
  },
  "queue": [],
  "posted": [
@@ -5323,6 +5324,41 @@
    "work": null,
    "media_id": "18079440785437033",
    "ts": 1793606757.152249,
+   "card": null
+  },
+  {
+   "id": "e922720e9a7f",
+   "type": "reel",
+   "headline": "Isshiki-san Wants to Know About Love : L'opening dévoilé dans le…",
+   "key": [
+    "about",
+    "dans",
+    "devoile",
+    "isshiki",
+    "know",
+    "love",
+    "opening",
+    "san",
+    "to",
+    "wants"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/2/isshiki-san-wants-to-know-about-love-trailer-opening",
+   "visual": "visuals/20261102-e922720e9a7f.jpg",
+   "work": "Isshiki-san Wants to Know About Love",
+   "media_id": "18174571732460052",
+   "ts": 1793612224.57599,
+   "card": "posts/20261102-e922720e9a7f.jpg"
+  },
+  {
+   "id": "e922720e9a7f",
+   "type": "story",
+   "headline": "Isshiki-san Wants to Know About Love : L'opening dévoilé dans le…",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/2/isshiki-san-wants-to-know-about-love-trailer-opening",
+   "visual": null,
+   "work": "Isshiki-san Wants to Know About Love",
+   "media_id": "18356849749219662",
+   "ts": 1793612237.782573,
    "card": null
   }
  ],
