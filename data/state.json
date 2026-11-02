@@ -291,7 +291,8 @@
   "c99b33db07f8": 1793553727.33038,
   "e922720e9a7f": 1793612154.999397,
   "453a964d2642": 1793613046.493138,
-  "cd08a52e3a6b": 1793614885.117895
+  "cd08a52e3a6b": 1793614885.117895,
+  "504253ddfec9": 1793616723.78353
  },
  "queue": [],
  "posted": [
@@ -5393,6 +5394,35 @@
    "work": "Romelia War Chronicle",
    "media_id": "18090307871274108",
    "ts": 1793613110.513043,
+   "card": null
+  },
+  {
+   "id": "504253ddfec9",
+   "type": "post",
+   "headline": "Charisma : L'anime confirme une diffusion dès le 7 janvier",
+   "key": [
+    "charisma",
+    "confirme",
+    "diffusion",
+    "janvier"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/2/charisma-date-diffusion-trailer-casting-opening",
+   "visual": "visuals/20261102-504253ddfec9.jpg",
+   "work": "Charisma",
+   "media_id": "17993533776110601",
+   "ts": 1793616782.42818,
+   "card": "posts/20261102-504253ddfec9.jpg"
+  },
+  {
+   "id": "504253ddfec9",
+   "type": "story",
+   "headline": "Charisma : L'anime confirme une diffusion dès le 7 janvier",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/2/charisma-date-diffusion-trailer-casting-opening",
+   "visual": null,
+   "work": "Charisma",
+   "media_id": "18645620242050898",
+   "ts": 1793616795.69224,
    "card": null
   }
  ],
