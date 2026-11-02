@@ -297,7 +297,8 @@
   "53f28aa5e3b2": 1793626784.766518,
   "35a90628f3de": 1793628616.355256,
   "efd0e17d5025": 1793628617.287214,
-  "4eb00f6db246": 1793630441.216035
+  "4eb00f6db246": 1793630441.216035,
+  "95d12b0f02d8": 1793631355.009181
  },
  "queue": [],
  "posted": [
@@ -5587,6 +5588,37 @@
    "work": "",
    "media_id": "18117476756276617",
    "ts": 1793630573.526193,
+   "card": null
+  },
+  {
+   "id": "95d12b0f02d8",
+   "type": "post",
+   "headline": "Shiba Inu Rooms sera adapté en anime dès l'été 2027",
+   "key": [
+    "2027",
+    "ete",
+    "inu",
+    "rooms",
+    "sera",
+    "shiba"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/2/shiba-inu-rooms-annonce-adaptation-ete-2027",
+   "visual": "visuals/20261102-95d12b0f02d8.jpg",
+   "work": "",
+   "media_id": "18127125103924224",
+   "ts": 1793631427.217773,
+   "card": "posts/20261102-95d12b0f02d8.jpg"
+  },
+  {
+   "id": "95d12b0f02d8",
+   "type": "story",
+   "headline": "Shiba Inu Rooms sera adapté en anime dès l'été 2027",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/2/shiba-inu-rooms-annonce-adaptation-ete-2027",
+   "visual": null,
+   "work": "",
+   "media_id": "17915318478493601",
+   "ts": 1793631441.248542,
    "card": null
   }
  ],
