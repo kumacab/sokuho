@@ -289,7 +289,8 @@
   "a1dd2c66a888": 1793530035.607633,
   "d8157faa7940": 1793540066.896644,
   "c99b33db07f8": 1793553727.33038,
-  "e922720e9a7f": 1793612154.999397
+  "e922720e9a7f": 1793612154.999397,
+  "453a964d2642": 1793613046.493138
  },
  "queue": [],
  "posted": [
@@ -5359,6 +5360,38 @@
    "work": "Isshiki-san Wants to Know About Love",
    "media_id": "18356849749219662",
    "ts": 1793612237.782573,
+   "card": null
+  },
+  {
+   "id": "453a964d2642",
+   "type": "post",
+   "headline": "Romelia War Chronicle : La Cour 2 prévue pour avril 2027",
+   "key": [
+    "2027",
+    "avril",
+    "chronicle",
+    "cour",
+    "prevue",
+    "romelia",
+    "war"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/2/romelia-war-chronicle-cour-2-avril-2027",
+   "visual": "visuals/20261102-453a964d2642.jpg",
+   "work": "Romelia War Chronicle",
+   "media_id": "18129344539851993",
+   "ts": 1793613097.441969,
+   "card": "posts/20261102-453a964d2642.jpg"
+  },
+  {
+   "id": "453a964d2642",
+   "type": "story",
+   "headline": "Romelia War Chronicle : La Cour 2 prévue pour avril 2027",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/2/romelia-war-chronicle-cour-2-avril-2027",
+   "visual": null,
+   "work": "Romelia War Chronicle",
+   "media_id": "18090307871274108",
+   "ts": 1793613110.513043,
    "card": null
   }
  ],
