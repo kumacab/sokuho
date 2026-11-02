@@ -293,7 +293,8 @@
   "453a964d2642": 1793613046.493138,
   "cd08a52e3a6b": 1793614885.117895,
   "504253ddfec9": 1793616723.78353,
-  "7d39f6996d91": 1793620389.61366
+  "7d39f6996d91": 1793620389.61366,
+  "53f28aa5e3b2": 1793626784.766518
  },
  "queue": [],
  "posted": [
@@ -5454,6 +5455,36 @@
    "work": "anime Charisma",
    "media_id": "17990263716065971",
    "ts": 1793620530.006169,
+   "card": null
+  },
+  {
+   "id": "53f28aa5e3b2",
+   "type": "post",
+   "headline": "Regarde The Vermilion Mask en VF sur Crunchyroll",
+   "key": [
+    "crunchyroll",
+    "mask",
+    "regarde",
+    "vermilion",
+    "vf"
+   ],
+   "link": "https://crunchyroll.com/fr/news/announcements/2026/11/2/regarder-the-vermilion-mask-vf-crunchyroll",
+   "visual": "visuals/20261102-53f28aa5e3b2.jpg",
+   "work": "",
+   "media_id": "17912441904305844",
+   "ts": 1793626840.847916,
+   "card": "posts/20261102-53f28aa5e3b2.jpg"
+  },
+  {
+   "id": "53f28aa5e3b2",
+   "type": "story",
+   "headline": "Regarde The Vermilion Mask en VF sur Crunchyroll",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/announcements/2026/11/2/regarder-the-vermilion-mask-vf-crunchyroll",
+   "visual": null,
+   "work": "",
+   "media_id": "17970149901193428",
+   "ts": 1793626853.724202,
    "card": null
   }
  ],
