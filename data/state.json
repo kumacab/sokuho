@@ -5312,6 +5312,18 @@
    "media_id": "18141177076622723",
    "ts": 1793553784.415373,
    "card": null
+  },
+  {
+   "id": "car-week-2026-W45",
+   "type": "carousel",
+   "headline": "🗓️ LE PLANNING DE LA SEMAINE EST LÀ ! (2/11 → 8/11)",
+   "key": null,
+   "link": null,
+   "visual": null,
+   "work": null,
+   "media_id": "18079440785437033",
+   "ts": 1793606757.152249,
+   "card": null
   }
  ],
  "last_recap": "2026-W44",
@@ -5322,7 +5334,7 @@
   "upcoming": "2026-W44",
   "movies": "2026-W44",
   "countdown": "2026-W44",
-  "week": "2026-W44"
+  "week": "2026-W45"
  },
  "ig_user_id": "17841459944087335"
 }
