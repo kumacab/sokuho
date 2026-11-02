@@ -296,7 +296,8 @@
   "7d39f6996d91": 1793620389.61366,
   "53f28aa5e3b2": 1793626784.766518,
   "35a90628f3de": 1793628616.355256,
-  "efd0e17d5025": 1793628617.287214
+  "efd0e17d5025": 1793628617.287214,
+  "4eb00f6db246": 1793630441.216035
  },
  "queue": [],
  "posted": [
@@ -5554,6 +5555,38 @@
    "work": "",
    "media_id": "18125922988902267",
    "ts": 1793628789.435324,
+   "card": null
+  },
+  {
+   "id": "4eb00f6db246",
+   "type": "reel",
+   "headline": "La mascotte de Sanrio Kuromi aura droit à un film anime prévu pour 2027",
+   "key": [
+    "2027",
+    "aura",
+    "droit",
+    "kuromi",
+    "mascotte",
+    "prevu",
+    "sanrio"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/2/kuromi-mascotte-sanrio-film-anime-2027",
+   "visual": "visuals/20261102-4eb00f6db246.jpg",
+   "work": "",
+   "media_id": "18429821932159187",
+   "ts": 1793630560.503581,
+   "card": "posts/20261102-4eb00f6db246.jpg"
+  },
+  {
+   "id": "4eb00f6db246",
+   "type": "story",
+   "headline": "La mascotte de Sanrio Kuromi aura droit à un film anime prévu pour 2027",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/2/kuromi-mascotte-sanrio-film-anime-2027",
+   "visual": null,
+   "work": "",
+   "media_id": "18117476756276617",
+   "ts": 1793630573.526193,
    "card": null
   }
  ],
