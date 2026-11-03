@@ -303,7 +303,8 @@
   "24c2cb9e2abf": 1793700003.606398,
   "433d4a33242a": 1793704566.919468,
   "3b7f7efb47dc": 1793713691.781696,
-  "0a941e497950": 1793716428.898399
+  "0a941e497950": 1793716428.898399,
+  "0762854ab624": 1793721031.546382
  },
  "queue": [],
  "posted": [
@@ -5786,6 +5787,35 @@
    "work": "",
    "media_id": "17997498819061663",
    "ts": 1793716571.08753,
+   "card": null
+  },
+  {
+   "id": "0762854ab624",
+   "type": "reel",
+   "headline": "Girls Band Cry : Une date et un Trailer pour le film original",
+   "key": [
+    "band",
+    "cry",
+    "girls",
+    "original"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/3/girls-band-cry-film-the-stage-date-sortie-trailer-visuels",
+   "visual": "visuals/20261103-0762854ab624.jpg",
+   "work": "Girls Band Cry",
+   "media_id": "18146893426567300",
+   "ts": 1793721223.667476,
+   "card": "posts/20261103-0762854ab624.jpg"
+  },
+  {
+   "id": "0762854ab624",
+   "type": "story",
+   "headline": "Girls Band Cry : Une date et un Trailer pour le film original",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/3/girls-band-cry-film-the-stage-date-sortie-trailer-visuels",
+   "visual": null,
+   "work": "Girls Band Cry",
+   "media_id": "17975822331172949",
+   "ts": 1793721237.383593,
    "card": null
   }
  ],
