@@ -300,7 +300,8 @@
   "4eb00f6db246": 1793630441.216035,
   "95d12b0f02d8": 1793631355.009181,
   "99e8e798e083": 1793697272.720792,
-  "24c2cb9e2abf": 1793700003.606398
+  "24c2cb9e2abf": 1793700003.606398,
+  "433d4a33242a": 1793704566.919468
  },
  "queue": [],
  "posted": [
@@ -5684,6 +5685,37 @@
    "work": "Hirayasumi",
    "media_id": "18121268074960317",
    "ts": 1793700101.116419,
+   "card": null
+  },
+  {
+   "id": "433d4a33242a",
+   "type": "post",
+   "headline": "L'auteur de Claymore, Norihiro Yagi, lance une nouvelle série",
+   "key": [
+    "auteur",
+    "claymore",
+    "lance",
+    "norihiro",
+    "serie",
+    "yagi"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/3/claymore-norihiro-yagi-manga-bartlet-fairy-basslet",
+   "visual": "visuals/20261103-433d4a33242a.jpg",
+   "work": "",
+   "media_id": "18496945336105741",
+   "ts": 1793704627.855785,
+   "card": "posts/20261103-433d4a33242a.jpg"
+  },
+  {
+   "id": "433d4a33242a",
+   "type": "story",
+   "headline": "L'auteur de Claymore, Norihiro Yagi, lance une nouvelle série",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/3/claymore-norihiro-yagi-manga-bartlet-fairy-basslet",
+   "visual": null,
+   "work": "",
+   "media_id": "18640536190019058",
+   "ts": 1793704641.58131,
    "card": null
   }
  ],
