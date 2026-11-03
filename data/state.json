@@ -299,7 +299,8 @@
   "efd0e17d5025": 1793628617.287214,
   "4eb00f6db246": 1793630441.216035,
   "95d12b0f02d8": 1793631355.009181,
-  "99e8e798e083": 1793697272.720792
+  "99e8e798e083": 1793697272.720792,
+  "24c2cb9e2abf": 1793700003.606398
  },
  "queue": [],
  "posted": [
@@ -5653,6 +5654,36 @@
    "work": "Spice and Wolf: MERCHANT MEETS THE WISE WOLF",
    "media_id": "18169240114475425",
    "ts": 1793697412.490723,
+   "card": null
+  },
+  {
+   "id": "24c2cb9e2abf",
+   "type": "post",
+   "headline": "Hirayasumi : Quel artiste interprétera l'ending ?",
+   "key": [
+    "artiste",
+    "ending",
+    "hirayasumi",
+    "interpretera",
+    "quel"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/3/hirayasumi-ending-artiste-tomoo",
+   "visual": "visuals/20261103-24c2cb9e2abf.jpg",
+   "work": "Hirayasumi",
+   "media_id": "18129541709486551",
+   "ts": 1793700087.288458,
+   "card": "posts/20261103-24c2cb9e2abf.jpg"
+  },
+  {
+   "id": "24c2cb9e2abf",
+   "type": "story",
+   "headline": "Hirayasumi : Quel artiste interprétera l'ending ?",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/3/hirayasumi-ending-artiste-tomoo",
+   "visual": null,
+   "work": "Hirayasumi",
+   "media_id": "18121268074960317",
+   "ts": 1793700101.116419,
    "card": null
   }
  ],
