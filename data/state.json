@@ -298,7 +298,8 @@
   "35a90628f3de": 1793628616.355256,
   "efd0e17d5025": 1793628617.287214,
   "4eb00f6db246": 1793630441.216035,
-  "95d12b0f02d8": 1793631355.009181
+  "95d12b0f02d8": 1793631355.009181,
+  "99e8e798e083": 1793697272.720792
  },
  "queue": [],
  "posted": [
@@ -5619,6 +5620,39 @@
    "work": "",
    "media_id": "17915318478493601",
    "ts": 1793631441.248542,
+   "card": null
+  },
+  {
+   "id": "99e8e798e083",
+   "type": "reel",
+   "headline": "Spice and Wolf: MERCHANT MEETS THE WISE WOLF - Visuel de novembre",
+   "key": [
+    "and",
+    "meets",
+    "merchant",
+    "novembre",
+    "spice",
+    "visuel",
+    "wise",
+    "wolf"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/3/spice-and-wolf-merchant-meets-the-wise-wolf-visuel-novembre",
+   "visual": "visuals/20261103-99e8e798e083.jpg",
+   "work": "Spice and Wolf: MERCHANT MEETS THE WISE WOLF",
+   "media_id": "17988771627083206",
+   "ts": 1793697398.560296,
+   "card": "posts/20261103-99e8e798e083.jpg"
+  },
+  {
+   "id": "99e8e798e083",
+   "type": "story",
+   "headline": "Spice and Wolf: MERCHANT MEETS THE WISE WOLF - Visuel de novembre",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/3/spice-and-wolf-merchant-meets-the-wise-wolf-visuel-novembre",
+   "visual": null,
+   "work": "Spice and Wolf: MERCHANT MEETS THE WISE WOLF",
+   "media_id": "18169240114475425",
+   "ts": 1793697412.490723,
    "card": null
   }
  ],
