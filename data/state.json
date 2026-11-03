@@ -301,7 +301,8 @@
   "95d12b0f02d8": 1793631355.009181,
   "99e8e798e083": 1793697272.720792,
   "24c2cb9e2abf": 1793700003.606398,
-  "433d4a33242a": 1793704566.919468
+  "433d4a33242a": 1793704566.919468,
+  "3b7f7efb47dc": 1793713691.781696
  },
  "queue": [],
  "posted": [
@@ -5716,6 +5717,40 @@
    "work": "",
    "media_id": "18640536190019058",
    "ts": 1793704641.58131,
+   "card": null
+  },
+  {
+   "id": "3b7f7efb47dc",
+   "type": "post",
+   "headline": "The Iceblade Sorcerer Shall Rule the World II : 5 nouvelles voix au…",
+   "key": [
+    "casting",
+    "iceblade",
+    "ii",
+    "nouvelles",
+    "rule",
+    "shall",
+    "sorcerer",
+    "voix",
+    "world"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/3/the-iceblade-sorcerer-shall-rule-the-world-ii-casting",
+   "visual": "visuals/20261103-3b7f7efb47dc.jpg",
+   "work": "The Iceblade Sorcerer Shall Rule the World II",
+   "media_id": "17916813663497974",
+   "ts": 1793713794.172488,
+   "card": "posts/20261103-3b7f7efb47dc.jpg"
+  },
+  {
+   "id": "3b7f7efb47dc",
+   "type": "story",
+   "headline": "The Iceblade Sorcerer Shall Rule the World II : 5 nouvelles voix au…",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/3/the-iceblade-sorcerer-shall-rule-the-world-ii-casting",
+   "visual": null,
+   "work": "The Iceblade Sorcerer Shall Rule the World II",
+   "media_id": "18029256812864282",
+   "ts": 1793713808.917954,
    "card": null
   }
  ],
