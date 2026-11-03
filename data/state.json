@@ -304,7 +304,8 @@
   "433d4a33242a": 1793704566.919468,
   "3b7f7efb47dc": 1793713691.781696,
   "0a941e497950": 1793716428.898399,
-  "0762854ab624": 1793721031.546382
+  "0762854ab624": 1793721031.546382,
+  "9490a6f5348b": 1793724692.783906
  },
  "queue": [],
  "posted": [
@@ -5816,6 +5817,38 @@
    "work": "Girls Band Cry",
    "media_id": "17975822331172949",
    "ts": 1793721237.383593,
+   "card": null
+  },
+  {
+   "id": "9490a6f5348b",
+   "type": "reel",
+   "headline": "Black Clover Saison 2 Épisode 6 : Date et Heure de Sortie",
+   "key": [
+    "black",
+    "clover",
+    "episode",
+    "heure",
+    "images",
+    "premieres",
+    "resume"
+   ],
+   "link": "https://animotaku.fr/actualite/anime-black-clover-saison-2-episode-6-date-heure-sortie/",
+   "visual": "visuals/20261103-9490a6f5348b.jpg",
+   "work": "Black Clover Saison 2 Épisode 6",
+   "media_id": "17956885170295801",
+   "ts": 1793724823.066424,
+   "card": "posts/20261103-9490a6f5348b.jpg"
+  },
+  {
+   "id": "9490a6f5348b",
+   "type": "story",
+   "headline": "Black Clover Saison 2 Épisode 6 : Date et Heure de Sortie",
+   "key": null,
+   "link": "https://animotaku.fr/actualite/anime-black-clover-saison-2-episode-6-date-heure-sortie/",
+   "visual": null,
+   "work": "Black Clover Saison 2 Épisode 6",
+   "media_id": "18570891397073120",
+   "ts": 1793724837.148294,
    "card": null
   }
  ],
