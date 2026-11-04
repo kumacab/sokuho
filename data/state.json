@@ -309,9 +309,47 @@
   "f1a02d5246ee": 1793784032.133393,
   "2915a9f7d4bf": 1793785856.472285,
   "7ce6b9f1fb01": 1793786772.53009,
-  "c840050c0786": 1793789521.833213
+  "c840050c0786": 1793789521.833213,
+  "1fa6f1935086": 1793814486.586719,
+  "7a04fe96c700": 1793814508.97437
  },
- "queue": [],
+ "queue": [
+  {
+   "id": "1fa6f1935086",
+   "headline": "Game Sekai Tensei Dankatsu dévoile un teaser vidéo",
+   "category": "ANIME",
+   "link": "https://adala-news.fr/2026/11/lanime-game-sekai-tensei-dankatsu-en-teaser-video/",
+   "work": "Game Sekai Tensei Dankatsu",
+   "key": [
+    "dankatsu",
+    "game",
+    "sekai",
+    "tensei"
+   ],
+   "ts": 1793814498.877427,
+   "type": "reel",
+   "files": [
+    "reels/20261104-1fa6f1935086.mp4",
+    "posts/20261104-1fa6f1935086.jpg"
+   ],
+   "caption": "🎬 GAME SEKAI TENSEI DANKATSU DÉVOILE UN TEASER VIDÉO\n\nLe teaser vidéo de l’anime Game Sekai Tensei Dankatsu est en ligne et la qualité de l’animation est loin de faire l’unanimité ! La série animée Game Sekai Tensei Dankatsu est prévue pour Janvier 2027. (via Adala News)\n\n📅 Date : Janvier 2027\n🎬 Studio : MASSKET\n🎥 Réalisation : Nagisa Miyazaki\n\n💬 Note ta hype sur 10 👇\n\n📌 Œuvre : Game Sekai Tensei Dankatsu\n📰 Source : Adala News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Game Sekai Tensei Dankatsu et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#GameSekaiTenseiDankatsu #anime #animefr #japanime #manga",
+   "visual": "visuals/20261104-1fa6f1935086.jpg",
+   "card": "posts/20261104-1fa6f1935086.jpg"
+  },
+  {
+   "id": "1fa6f1935086",
+   "headline": "Game Sekai Tensei Dankatsu dévoile un teaser vidéo",
+   "category": "ANIME",
+   "link": "https://adala-news.fr/2026/11/lanime-game-sekai-tensei-dankatsu-en-teaser-video/",
+   "work": "Game Sekai Tensei Dankatsu",
+   "key": null,
+   "ts": 1793814498.877427,
+   "type": "story",
+   "files": [
+    "stories/20261104-1fa6f1935086.jpg"
+   ]
+  }
+ ],
  "posted": [
   {
    "id": "5a95cf269da6",
@@ -5975,6 +6013,50 @@
    "media_id": "17962143066230454",
    "ts": 1793789605.026326,
    "card": null
+  },
+  {
+   "id": "7a04fe96c700",
+   "type": "post",
+   "headline": "Promise Me the Spotlight : Trailer, Visuel, casting vocal et staff",
+   "key": [
+    "casting",
+    "me",
+    "promise",
+    "spotlight",
+    "staff",
+    "visuel",
+    "vocal"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/4/promise-me-the-spotlight-trailer-visuel-casting-staff",
+   "visual": "visuals/20261104-7a04fe96c700.jpg",
+   "work": "Promise Me the Spotlight",
+   "media_id": "17965043784211321",
+   "ts": 1793814588.592269,
+   "card": "posts/20261104-7a04fe96c700.jpg"
+  },
+  {
+   "id": "car-upcoming-2026-W45",
+   "type": "carousel",
+   "headline": "🔥 ON VA PAS S'ENNUYER CET HIVER 2027 !",
+   "key": null,
+   "link": null,
+   "visual": null,
+   "work": null,
+   "media_id": "18039561539848738",
+   "ts": 1793814696.300189,
+   "card": null
+  },
+  {
+   "id": "7a04fe96c700",
+   "type": "story",
+   "headline": "Promise Me the Spotlight : Trailer, Visuel, casting vocal et staff",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/4/promise-me-the-spotlight-trailer-visuel-casting-staff",
+   "visual": null,
+   "work": "Promise Me the Spotlight",
+   "media_id": "18113140775626685",
+   "ts": 1793814714.734168,
+   "card": null
   }
  ],
  "last_recap": "2026-W44",
@@ -5982,7 +6064,7 @@
  "manual_reels": [],
  "ig_pause_until": 1792187394.2893388,
  "carousels_done": {
-  "upcoming": "2026-W44",
+  "upcoming": "2026-W45",
   "movies": "2026-W44",
   "countdown": "2026-W44",
   "week": "2026-W45"
