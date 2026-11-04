@@ -308,7 +308,8 @@
   "9490a6f5348b": 1793724692.783906,
   "f1a02d5246ee": 1793784032.133393,
   "2915a9f7d4bf": 1793785856.472285,
-  "7ce6b9f1fb01": 1793786772.53009
+  "7ce6b9f1fb01": 1793786772.53009,
+  "c840050c0786": 1793789521.833213
  },
  "queue": [],
  "posted": [
@@ -5940,6 +5941,39 @@
    "work": "MASHLE",
    "media_id": "18099405848392835",
    "ts": 1793786918.118718,
+   "card": null
+  },
+  {
+   "id": "c840050c0786",
+   "type": "post",
+   "headline": "Made in Abyss: Mezameru Shinpi publie un clip vidéo de son générique",
+   "key": [
+    "abyss",
+    "clip",
+    "generique",
+    "in",
+    "made",
+    "mezameru",
+    "publie",
+    "shinpi"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/4/made-in-abyss-mezameru-shinpi-film-clip-video-paroles-chanson",
+   "visual": "visuals/20261104-c840050c0786.jpg",
+   "work": "Made in Abyss",
+   "media_id": "17909819094329566",
+   "ts": 1793789590.799279,
+   "card": "posts/20261104-c840050c0786.jpg"
+  },
+  {
+   "id": "c840050c0786",
+   "type": "story",
+   "headline": "Made in Abyss: Mezameru Shinpi publie un clip vidéo de son générique",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/4/made-in-abyss-mezameru-shinpi-film-clip-video-paroles-chanson",
+   "visual": null,
+   "work": "Made in Abyss",
+   "media_id": "17962143066230454",
+   "ts": 1793789605.026326,
    "card": null
   }
  ],
