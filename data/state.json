@@ -307,7 +307,8 @@
   "0762854ab624": 1793721031.546382,
   "9490a6f5348b": 1793724692.783906,
   "f1a02d5246ee": 1793784032.133393,
-  "2915a9f7d4bf": 1793785856.472285
+  "2915a9f7d4bf": 1793785856.472285,
+  "7ce6b9f1fb01": 1793786772.53009
  },
  "queue": [],
  "posted": [
@@ -5907,6 +5908,38 @@
    "work": "",
    "media_id": "18127139126477479",
    "ts": 1793786002.880796,
+   "card": null
+  },
+  {
+   "id": "7ce6b9f1fb01",
+   "type": "reel",
+   "headline": "MASHLE : Un film live-action sortira le 19 mars 2027",
+   "key": [
+    "19",
+    "2027",
+    "action",
+    "live",
+    "mars",
+    "mashle",
+    "sortira"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/4/mashle-magic-and-muscles-film-live-action-date-sortie",
+   "visual": "visuals/20261104-7ce6b9f1fb01.jpg",
+   "work": "MASHLE",
+   "media_id": "17990582784110194",
+   "ts": 1793786903.84227,
+   "card": "posts/20261104-7ce6b9f1fb01.jpg"
+  },
+  {
+   "id": "7ce6b9f1fb01",
+   "type": "story",
+   "headline": "MASHLE : Un film live-action sortira le 19 mars 2027",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/4/mashle-magic-and-muscles-film-live-action-date-sortie",
+   "visual": null,
+   "work": "MASHLE",
+   "media_id": "18099405848392835",
+   "ts": 1793786918.118718,
    "card": null
   }
  ],
