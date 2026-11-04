@@ -311,7 +311,10 @@
   "7ce6b9f1fb01": 1793786772.53009,
   "c840050c0786": 1793789521.833213,
   "1fa6f1935086": 1793814486.586719,
-  "7a04fe96c700": 1793814508.97437
+  "7a04fe96c700": 1793814508.97437,
+  "386005b5aee8": 1793815410.60229,
+  "1801a3537917": 1793815411.466925,
+  "c31fe76cfd2d": 1793815411.467061
  },
  "queue": [
   {
@@ -347,6 +350,77 @@
    "type": "story",
    "files": [
     "stories/20261104-1fa6f1935086.jpg"
+   ]
+  },
+  {
+   "id": "386005b5aee8",
+   "headline": "Cyberpunk: Edgerunners 2 : Un clip musical sur Weak and Avida",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/4/cyberpunk-edgerunners-2-clip-video-ending",
+   "work": "Cyberpunk: Edgerunners 2",
+   "key": [
+    "and",
+    "avida",
+    "clip",
+    "cyberpunk",
+    "edgerunners",
+    "musical",
+    "weak"
+   ],
+   "ts": 1793815411.209468,
+   "type": "post",
+   "files": [
+    "posts/20261104-386005b5aee8.jpg"
+   ],
+   "caption": "🎬 CYBERPUNK: EDGERUNNERS 2 : UN CLIP MUSICAL SUR WEAK AND AVIDA\n\nSi tu avais besoin de plus de 10 épisodes pour faire connaissance avec les personnages de Cyberpunk: Edgerunners 2, tu as de la chance. Le passé semé d’embûches de Weak Kingsley et Avida fait l’objet d’un clip animé sorti aujourd’hui, sur la musique de l'ending de la série, Watson de Petite Meller feat. (via Crunchyroll News)\n\n🎬 Studio : TRIGGER\n🎥 Réalisation : Hiroyuki Imaishi\n📺 Diffusion : YouTube\n🔢 Épisodes : 10\n\n💬 Note ta hype sur 10 👇\n\n📌 Œuvre : Cyberpunk: Edgerunners 2\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Cyberpunk: Edgerunners 2 et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#CyberpunkEdgerunners2 #anime #animefr #japanime #manga",
+   "alt": "ANIME — Cyberpunk: Edgerunners 2 : Un clip musical sur Weak and Avida",
+   "visual": "visuals/20261104-386005b5aee8.jpg"
+  },
+  {
+   "id": "386005b5aee8",
+   "headline": "Cyberpunk: Edgerunners 2 : Un clip musical sur Weak and Avida",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/4/cyberpunk-edgerunners-2-clip-video-ending",
+   "work": "Cyberpunk: Edgerunners 2",
+   "key": null,
+   "ts": 1793815411.209468,
+   "type": "story",
+   "files": [
+    "stories/20261104-386005b5aee8.jpg"
+   ]
+  },
+  {
+   "id": "c31fe76cfd2d",
+   "headline": "L’anime À crocs à toi officiellement en production",
+   "category": "ANIME",
+   "link": "https://animotaku.fr/actualite/anime-a-crocs-a-toi-annonce/",
+   "work": "",
+   "key": [
+    "crocs",
+    "officiellement",
+    "production",
+    "toi"
+   ],
+   "ts": 1793815415.800113,
+   "type": "post",
+   "files": [
+    "posts/20261104-c31fe76cfd2d.jpg"
+   ],
+   "caption": "🎬 L’ANIME À CROCS À TOI OFFICIELLEMENT EN PRODUCTION\n\nUn site web officiel a été mis en ligne pour l’occasion. Sur celui-ci, une première affiche promotionnelle et une bande-annonce ont été dévoilées. Pour le moment, la date de sortie, le personnel créatif, le studio d’animation en charge du projet la distribution artistique n’ont pas été dévoilés. (via Animotaku)\n\n📅 Date : Hiver 2027\n\n💬 Ton avis sur le studio ? 🎬\n\n📰 Source : Animotaku\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote qui doit savoir ça et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
+   "alt": "ANIME — L’anime À crocs à toi officiellement en production",
+   "visual": "visuals/20261104-c31fe76cfd2d.jpg"
+  },
+  {
+   "id": "c31fe76cfd2d",
+   "headline": "L’anime À crocs à toi officiellement en production",
+   "category": "ANIME",
+   "link": "https://animotaku.fr/actualite/anime-a-crocs-a-toi-annonce/",
+   "work": "",
+   "key": null,
+   "ts": 1793815415.800113,
+   "type": "story",
+   "files": [
+    "stories/20261104-c31fe76cfd2d.jpg"
    ]
   }
  ],
