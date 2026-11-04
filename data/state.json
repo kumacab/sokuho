@@ -305,7 +305,8 @@
   "3b7f7efb47dc": 1793713691.781696,
   "0a941e497950": 1793716428.898399,
   "0762854ab624": 1793721031.546382,
-  "9490a6f5348b": 1793724692.783906
+  "9490a6f5348b": 1793724692.783906,
+  "f1a02d5246ee": 1793784032.133393
  },
  "queue": [],
  "posted": [
@@ -5849,6 +5850,34 @@
    "work": "Black Clover Saison 2 Épisode 6",
    "media_id": "18570891397073120",
    "ts": 1793724837.148294,
+   "card": null
+  },
+  {
+   "id": "f1a02d5246ee",
+   "type": "reel",
+   "headline": "Watashi wo Center dévoile un teaser vidéo",
+   "key": [
+    "center",
+    "watashi",
+    "wo"
+   ],
+   "link": "https://adala-news.fr/2026/11/lanime-watashi-wo-center-en-teaser-video/",
+   "visual": "visuals/20261104-f1a02d5246ee.jpg",
+   "work": "",
+   "media_id": "18651179389011557",
+   "ts": 1793784171.724617,
+   "card": "posts/20261104-f1a02d5246ee.jpg"
+  },
+  {
+   "id": "f1a02d5246ee",
+   "type": "story",
+   "headline": "Watashi wo Center dévoile un teaser vidéo",
+   "key": null,
+   "link": "https://adala-news.fr/2026/11/lanime-watashi-wo-center-en-teaser-video/",
+   "visual": null,
+   "work": "",
+   "media_id": "18354103105268101",
+   "ts": 1793784185.463893,
    "card": null
   }
  ],
