@@ -306,7 +306,8 @@
   "0a941e497950": 1793716428.898399,
   "0762854ab624": 1793721031.546382,
   "9490a6f5348b": 1793724692.783906,
-  "f1a02d5246ee": 1793784032.133393
+  "f1a02d5246ee": 1793784032.133393,
+  "2915a9f7d4bf": 1793785856.472285
  },
  "queue": [],
  "posted": [
@@ -5878,6 +5879,34 @@
    "work": "",
    "media_id": "18354103105268101",
    "ts": 1793784185.463893,
+   "card": null
+  },
+  {
+   "id": "2915a9f7d4bf",
+   "type": "reel",
+   "headline": "À crocs à toi sera adapté en anime",
+   "key": [
+    "crocs",
+    "sera",
+    "toi"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/4/otaku-vampires-love-bite-annonce-adaptation",
+   "visual": "visuals/20261104-2915a9f7d4bf.jpg",
+   "work": "",
+   "media_id": "17915010189473816",
+   "ts": 1793785989.428577,
+   "card": "posts/20261104-2915a9f7d4bf.jpg"
+  },
+  {
+   "id": "2915a9f7d4bf",
+   "type": "story",
+   "headline": "À crocs à toi sera adapté en anime",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/4/otaku-vampires-love-bite-annonce-adaptation",
+   "visual": null,
+   "work": "",
+   "media_id": "18127139126477479",
+   "ts": 1793786002.880796,
    "card": null
   }
  ],
