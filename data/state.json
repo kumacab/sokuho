@@ -325,7 +325,9 @@
   "72c66b6abf3e": 1793884790.886665,
   "805bb455486d": 1793887527.754681,
   "919cbd294872": 1793887529.762142,
-  "d2edddeaaaa4": 1793890266.759581
+  "d2edddeaaaa4": 1793890266.759581,
+  "ea1e7d90b3d3": 1793893018.29861,
+  "b2ec3c428ebd": 1793893020.042378
  },
  "queue": [],
  "posted": [
@@ -6321,6 +6323,62 @@
    "work": "Fool Night",
    "media_id": "18147074839571040",
    "ts": 1793890376.640926,
+   "card": null
+  },
+  {
+   "id": "ea1e7d90b3d3",
+   "type": "post",
+   "headline": "Spirit Circle : toutes les nouvelles infos",
+   "key": [
+    "circle",
+    "spirit"
+   ],
+   "link": "https://adala-news.fr/2026/11/toutes-les-informations-sur-lanime-spirit-circle/",
+   "visual": "visuals/20261105-ea1e7d90b3d3.jpg",
+   "work": "Spirit Circle",
+   "media_id": "17989817228880608",
+   "ts": 1793893079.897516,
+   "card": "posts/20261105-ea1e7d90b3d3.jpg"
+  },
+  {
+   "id": "b2ec3c428ebd",
+   "type": "post",
+   "headline": "The Dangers in My Heart Saison 3 dévoile un teaser vidéo",
+   "key": [
+    "dangers",
+    "heart",
+    "in",
+    "my"
+   ],
+   "link": "https://adala-news.fr/2026/11/lanime-the-dangers-in-my-heart-saison-3-en-teaser-video/",
+   "visual": "visuals/20261105-b2ec3c428ebd.jpg",
+   "work": "The Dangers in My Heart Saison 3",
+   "media_id": "17994351792020992",
+   "ts": 1793893094.879937,
+   "card": "posts/20261105-b2ec3c428ebd.jpg"
+  },
+  {
+   "id": "ea1e7d90b3d3",
+   "type": "story",
+   "headline": "Spirit Circle : toutes les nouvelles infos",
+   "key": null,
+   "link": "https://adala-news.fr/2026/11/toutes-les-informations-sur-lanime-spirit-circle/",
+   "visual": null,
+   "work": "Spirit Circle",
+   "media_id": "18214141990364106",
+   "ts": 1793893108.055426,
+   "card": null
+  },
+  {
+   "id": "b2ec3c428ebd",
+   "type": "story",
+   "headline": "The Dangers in My Heart Saison 3 dévoile un teaser vidéo",
+   "key": null,
+   "link": "https://adala-news.fr/2026/11/lanime-the-dangers-in-my-heart-saison-3-en-teaser-video/",
+   "visual": null,
+   "work": "The Dangers in My Heart Saison 3",
+   "media_id": "17912556369590058",
+   "ts": 1793893121.13699,
    "card": null
   }
  ],
