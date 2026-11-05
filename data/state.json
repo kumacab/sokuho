@@ -320,7 +320,8 @@
   "99f30548c534": 1793867439.54344,
   "1c43a60bc2d4": 1793869263.968655,
   "cba261768ed2": 1793871078.758189,
-  "8bea115a610b": 1793878381.828335
+  "8bea115a610b": 1793878381.828335,
+  "48419e220f62": 1793881120.661409
  },
  "queue": [],
  "posted": [
@@ -6187,6 +6188,38 @@
    "work": "MASHLE",
    "media_id": "18037176164667504",
    "ts": 1793878520.151547,
+   "card": null
+  },
+  {
+   "id": "48419e220f62",
+   "type": "reel",
+   "headline": "L’anime Spirit Circle annoncé pour décembre 2026 avec 18 épisodes",
+   "key": [
+    "18",
+    "2026",
+    "circle",
+    "decembre",
+    "episodes",
+    "premier",
+    "spirit"
+   ],
+   "link": "https://animotaku.fr/actualite/anime-spirit-circle-annonce-decembre-2026/",
+   "visual": "visuals/20261105-48419e220f62.jpg",
+   "work": "anime Spirit Circle",
+   "media_id": "18141355102627344",
+   "ts": 1793881256.686863,
+   "card": "posts/20261105-48419e220f62.jpg"
+  },
+  {
+   "id": "48419e220f62",
+   "type": "story",
+   "headline": "L’anime Spirit Circle annoncé pour décembre 2026 avec 18 épisodes",
+   "key": null,
+   "link": "https://animotaku.fr/actualite/anime-spirit-circle-annonce-decembre-2026/",
+   "visual": null,
+   "work": "anime Spirit Circle",
+   "media_id": "18107834054269240",
+   "ts": 1793881272.363464,
    "card": null
   }
  ],
