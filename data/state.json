@@ -319,7 +319,8 @@
   "841b08720d60": 1793860133.018073,
   "99f30548c534": 1793867439.54344,
   "1c43a60bc2d4": 1793869263.968655,
-  "cba261768ed2": 1793871078.758189
+  "cba261768ed2": 1793871078.758189,
+  "8bea115a610b": 1793878381.828335
  },
  "queue": [],
  "posted": [
@@ -6154,6 +6155,38 @@
    "work": "",
    "media_id": "18121290725088952",
    "ts": 1793871168.298859,
+   "card": null
+  },
+  {
+   "id": "8bea115a610b",
+   "type": "reel",
+   "headline": "MASHLE : Mackenyu incarne Mash dans le film live-action",
+   "key": [
+    "action",
+    "dans",
+    "incarne",
+    "live",
+    "mackenyu",
+    "mash",
+    "mashle"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/5/mashle-magic-and-muscles-film-live-action-trailer-visuel-mackenyu-maeda-mash-burnedead",
+   "visual": "visuals/20261105-8bea115a610b.jpg",
+   "work": "MASHLE",
+   "media_id": "18116041016024247",
+   "ts": 1793878506.324813,
+   "card": "posts/20261105-8bea115a610b.jpg"
+  },
+  {
+   "id": "8bea115a610b",
+   "type": "story",
+   "headline": "MASHLE : Mackenyu incarne Mash dans le film live-action",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/5/mashle-magic-and-muscles-film-live-action-trailer-visuel-mackenyu-maeda-mash-burnedead",
+   "visual": null,
+   "work": "MASHLE",
+   "media_id": "18037176164667504",
+   "ts": 1793878520.151547,
    "card": null
   }
  ],
