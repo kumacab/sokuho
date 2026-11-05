@@ -317,7 +317,8 @@
   "c31fe76cfd2d": 1793815411.467061,
   "840b6859c0a8": 1793860133.018071,
   "841b08720d60": 1793860133.018073,
-  "99f30548c534": 1793867439.54344
+  "99f30548c534": 1793867439.54344,
+  "1c43a60bc2d4": 1793869263.968655
  },
  "queue": [],
  "posted": [
@@ -6085,6 +6086,38 @@
    "work": "Reincarnated as a Sword Saison 2",
    "media_id": "18118710035100663",
    "ts": 1793867568.714929,
+   "card": null
+  },
+  {
+   "id": "1c43a60bc2d4",
+   "type": "reel",
+   "headline": "Dragon's Dogma 2: Dark Arisen annonce sa collaboration avec Gloutons et…",
+   "key": [
+    "arisen",
+    "collaboration",
+    "dark",
+    "dogma",
+    "dragon",
+    "dragons",
+    "gloutons"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/5/dragons-dogma-2-dark-arisen-delicious-in-dungeon-collaboration",
+   "visual": "visuals/20261105-1c43a60bc2d4.jpg",
+   "work": "Dragon's Dogma 2",
+   "media_id": "18136143196675160",
+   "ts": 1793869377.847135,
+   "card": "posts/20261105-1c43a60bc2d4.jpg"
+  },
+  {
+   "id": "1c43a60bc2d4",
+   "type": "story",
+   "headline": "Dragon's Dogma 2: Dark Arisen annonce sa collaboration avec Gloutons et…",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/5/dragons-dogma-2-dark-arisen-delicious-in-dungeon-collaboration",
+   "visual": null,
+   "work": "Dragon's Dogma 2",
+   "media_id": "18571513045078833",
+   "ts": 1793869391.063087,
    "card": null
   }
  ],
