@@ -318,7 +318,8 @@
   "840b6859c0a8": 1793860133.018071,
   "841b08720d60": 1793860133.018073,
   "99f30548c534": 1793867439.54344,
-  "1c43a60bc2d4": 1793869263.968655
+  "1c43a60bc2d4": 1793869263.968655,
+  "cba261768ed2": 1793871078.758189
  },
  "queue": [],
  "posted": [
@@ -6118,6 +6119,41 @@
    "work": "Dragon's Dogma 2",
    "media_id": "18571513045078833",
    "ts": 1793869391.063087,
+   "card": null
+  },
+  {
+   "id": "cba261768ed2",
+   "type": "post",
+   "headline": "Though I Am an Inept Villainess ressort les tenues d'Idols pour la…",
+   "key": [
+    "am",
+    "an",
+    "idols",
+    "inept",
+    "journee",
+    "oshi",
+    "ressort",
+    "tenues",
+    "though",
+    "villainess"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/5/though-i-am-an-inept-villainess-visuel-good-oshi-day-2026",
+   "visual": "visuals/20261105-cba261768ed2.jpg",
+   "work": "",
+   "media_id": "18016811132970675",
+   "ts": 1793871155.403946,
+   "card": "posts/20261105-cba261768ed2.jpg"
+  },
+  {
+   "id": "cba261768ed2",
+   "type": "story",
+   "headline": "Though I Am an Inept Villainess ressort les tenues d'Idols pour la…",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/5/though-i-am-an-inept-villainess-visuel-good-oshi-day-2026",
+   "visual": null,
+   "work": "",
+   "media_id": "18121290725088952",
+   "ts": 1793871168.298859,
    "card": null
   }
  ],
