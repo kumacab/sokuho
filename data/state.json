@@ -322,7 +322,9 @@
   "cba261768ed2": 1793871078.758189,
   "8bea115a610b": 1793878381.828335,
   "48419e220f62": 1793881120.661409,
-  "72c66b6abf3e": 1793884790.886665
+  "72c66b6abf3e": 1793884790.886665,
+  "805bb455486d": 1793887527.754681,
+  "919cbd294872": 1793887529.762142
  },
  "queue": [],
  "posted": [
@@ -6221,6 +6223,72 @@
    "work": "anime Spirit Circle",
    "media_id": "18107834054269240",
    "ts": 1793881272.363464,
+   "card": null
+  },
+  {
+   "id": "805bb455486d",
+   "type": "post",
+   "headline": "L’anime Fool Night dévoile son Trailer Principal avec un extrait de son…",
+   "key": [
+    "devoile",
+    "extrait",
+    "fool",
+    "night",
+    "opening",
+    "principal",
+    "tempalay"
+   ],
+   "link": "https://animotaku.fr/actualite/anime-fool-night-trailer-opening/",
+   "visual": "visuals/20261105-805bb455486d.jpg",
+   "work": "anime Fool Night",
+   "media_id": "18641679334025628",
+   "ts": 1793887594.922108,
+   "card": "posts/20261105-805bb455486d.jpg"
+  },
+  {
+   "id": "919cbd294872",
+   "type": "post",
+   "headline": "Code Geass: Star Chaser Aspal dévoile un Visuel et son casting vocal",
+   "key": [
+    "aspal",
+    "casting",
+    "chaser",
+    "code",
+    "devoile",
+    "geass",
+    "star",
+    "visuel",
+    "vocal"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/5/code-geass-star-chaser-aspal-visuel-casting",
+   "visual": "visuals/20261105-919cbd294872.jpg",
+   "work": "Code Geass",
+   "media_id": "17916040188473281",
+   "ts": 1793887609.048514,
+   "card": "posts/20261105-919cbd294872.jpg"
+  },
+  {
+   "id": "805bb455486d",
+   "type": "story",
+   "headline": "L’anime Fool Night dévoile son Trailer Principal avec un extrait de son…",
+   "key": null,
+   "link": "https://animotaku.fr/actualite/anime-fool-night-trailer-opening/",
+   "visual": null,
+   "work": "anime Fool Night",
+   "media_id": "17930457294424964",
+   "ts": 1793887624.008367,
+   "card": null
+  },
+  {
+   "id": "919cbd294872",
+   "type": "story",
+   "headline": "Code Geass: Star Chaser Aspal dévoile un Visuel et son casting vocal",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/5/code-geass-star-chaser-aspal-visuel-casting",
+   "visual": null,
+   "work": "Code Geass",
+   "media_id": "18136559350785114",
+   "ts": 1793887637.242299,
    "card": null
   }
  ],
