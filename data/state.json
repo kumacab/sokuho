@@ -335,7 +335,9 @@
   "f01dbc56855f": 1793954154.392239,
   "d08b2f067b47": 1793955976.93806,
   "a13fb44dddb6": 1793957807.11334,
-  "8e19be86c595": 1793958722.939307
+  "8e19be86c595": 1793958722.939307,
+  "914b2bc10364": 1793962367.990033,
+  "556d1456a5e5": 1793962386.604496
  },
  "queue": [],
  "posted": [
@@ -6517,6 +6519,62 @@
    "work": "",
    "media_id": "17927675655203488",
    "ts": 1793958861.37839,
+   "card": null
+  },
+  {
+   "id": "556d1456a5e5",
+   "type": "post",
+   "headline": "NINJA SKOOLER : L'anime dévoile son film pilote",
+   "key": [
+    "devoile",
+    "ninja",
+    "pilote",
+    "skooler"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/6/ninja-skooler-film-pilote",
+   "visual": "visuals/20261106-556d1456a5e5.jpg",
+   "work": "NINJA SKOOLER",
+   "media_id": "18413809480092252",
+   "ts": 1793962444.215685,
+   "card": "posts/20261106-556d1456a5e5.jpg"
+  },
+  {
+   "id": "914b2bc10364",
+   "type": "reel",
+   "headline": "Yuru Camp Saison 4 : nouveau trailer",
+   "key": [
+    "camp",
+    "yuru"
+   ],
+   "link": "https://adala-news.fr/2026/11/lanime-yuru-camp-saison-4-en-trailer/",
+   "visual": "visuals/20261106-914b2bc10364.jpg",
+   "work": "Yuru Camp Saison 4",
+   "media_id": "17944295199095805",
+   "ts": 1793962511.877611,
+   "card": "posts/20261106-914b2bc10364.jpg"
+  },
+  {
+   "id": "914b2bc10364",
+   "type": "story",
+   "headline": "Yuru Camp Saison 4 : nouveau trailer",
+   "key": null,
+   "link": "https://adala-news.fr/2026/11/lanime-yuru-camp-saison-4-en-trailer/",
+   "visual": null,
+   "work": "Yuru Camp Saison 4",
+   "media_id": "18353129038264591",
+   "ts": 1793962524.56694,
+   "card": null
+  },
+  {
+   "id": "556d1456a5e5",
+   "type": "story",
+   "headline": "NINJA SKOOLER : L'anime dévoile son film pilote",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/6/ninja-skooler-film-pilote",
+   "visual": null,
+   "work": "NINJA SKOOLER",
+   "media_id": "17955421176290912",
+   "ts": 1793962542.128148,
    "card": null
   }
  ],
