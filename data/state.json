@@ -339,7 +339,8 @@
   "914b2bc10364": 1793962367.990033,
   "556d1456a5e5": 1793962386.604496,
   "2adf8ae68f86": 1793963278.771788,
-  "ea6d90dc0ca3": 1793964193.632812
+  "ea6d90dc0ca3": 1793964193.632812,
+  "fc93789abcf9": 1793966014.693146
  },
  "queue": [],
  "posted": [
@@ -6637,6 +6638,38 @@
    "work": "",
    "media_id": "18028766768863488",
    "ts": 1793964261.550887,
+   "card": null
+  },
+  {
+   "id": "fc93789abcf9",
+   "type": "post",
+   "headline": "Wound & Bandage : Opening par MIYAVI et nouvelles voix dans le Trailer",
+   "key": [
+    "bandage",
+    "dans",
+    "miyavi",
+    "nouvelles",
+    "opening",
+    "voix",
+    "wound"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/6/wound-bandage-trailer-opening-casting",
+   "visual": "visuals/20261106-fc93789abcf9.jpg",
+   "work": "Wound & Bandage",
+   "media_id": "18651543820000760",
+   "ts": 1793966104.614139,
+   "card": "posts/20261106-fc93789abcf9.jpg"
+  },
+  {
+   "id": "fc93789abcf9",
+   "type": "story",
+   "headline": "Wound & Bandage : Opening par MIYAVI et nouvelles voix dans le Trailer",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/6/wound-bandage-trailer-opening-casting",
+   "visual": null,
+   "work": "Wound & Bandage",
+   "media_id": "18651380224021887",
+   "ts": 1793966119.642989,
    "card": null
   }
  ],
