@@ -331,7 +331,8 @@
   "7014c604b0d5": 1793945040.613135,
   "91418c3d9ced": 1793945040.613138,
   "a8d7d3c9a731": 1793945040.61314,
-  "93866b17eb9d": 1793952331.941952
+  "93866b17eb9d": 1793952331.941952,
+  "f01dbc56855f": 1793954154.392239
  },
  "queue": [],
  "posted": [
@@ -6383,6 +6384,39 @@
    "work": "The Dangers in My Heart Saison 3",
    "media_id": "17912556369590058",
    "ts": 1793893121.13699,
+   "card": null
+  },
+  {
+   "id": "f01dbc56855f",
+   "type": "post",
+   "headline": "Les Carnets de l'apothicaire collabore avec Real Escape Games en…",
+   "key": [
+    "2027",
+    "apothicaire",
+    "carnets",
+    "collabore",
+    "escape",
+    "games",
+    "janvier",
+    "real"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/6/les-carnets-de-l-apothicaire-real-escape-game-collaboration-janvier-2027",
+   "visual": "visuals/20261106-f01dbc56855f.jpg",
+   "work": "",
+   "media_id": "18470734957142425",
+   "ts": 1793954206.140246,
+   "card": "posts/20261106-f01dbc56855f.jpg"
+  },
+  {
+   "id": "f01dbc56855f",
+   "type": "story",
+   "headline": "Les Carnets de l'apothicaire collabore avec Real Escape Games en…",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/6/les-carnets-de-l-apothicaire-real-escape-game-collaboration-janvier-2027",
+   "visual": null,
+   "work": "",
+   "media_id": "18116872547031271",
+   "ts": 1793954219.240634,
    "card": null
   }
  ],
