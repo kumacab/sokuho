@@ -334,7 +334,8 @@
   "93866b17eb9d": 1793952331.941952,
   "f01dbc56855f": 1793954154.392239,
   "d08b2f067b47": 1793955976.93806,
-  "a13fb44dddb6": 1793957807.11334
+  "a13fb44dddb6": 1793957807.11334,
+  "8e19be86c595": 1793958722.939307
  },
  "queue": [],
  "posted": [
@@ -6486,6 +6487,36 @@
    "work": "Expelled from Paradise x Girls Band Cry",
    "media_id": "18102125891185131",
    "ts": 1793957951.210363,
+   "card": null
+  },
+  {
+   "id": "8e19be86c595",
+   "type": "reel",
+   "headline": "L’anime ecchi Booty Royale annoncé pour janvier 2027",
+   "key": [
+    "2027",
+    "booty",
+    "ecchi",
+    "janvier",
+    "royale"
+   ],
+   "link": "https://animotaku.fr/actualite/anime-ecchi-booty-royale-annonce-janvier-2027/",
+   "visual": "visuals/20261106-8e19be86c595.jpg",
+   "work": "",
+   "media_id": "17913845310555246",
+   "ts": 1793958846.967486,
+   "card": "posts/20261106-8e19be86c595.jpg"
+  },
+  {
+   "id": "8e19be86c595",
+   "type": "story",
+   "headline": "L’anime ecchi Booty Royale annoncé pour janvier 2027",
+   "key": null,
+   "link": "https://animotaku.fr/actualite/anime-ecchi-booty-royale-annonce-janvier-2027/",
+   "visual": null,
+   "work": "",
+   "media_id": "17927675655203488",
+   "ts": 1793958861.37839,
    "card": null
   }
  ],
