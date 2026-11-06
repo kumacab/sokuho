@@ -333,7 +333,8 @@
   "a8d7d3c9a731": 1793945040.61314,
   "93866b17eb9d": 1793952331.941952,
   "f01dbc56855f": 1793954154.392239,
-  "d08b2f067b47": 1793955976.93806
+  "d08b2f067b47": 1793955976.93806,
+  "a13fb44dddb6": 1793957807.11334
  },
  "queue": [],
  "posted": [
@@ -6450,6 +6451,41 @@
    "work": "Les carnets de l'apothicaire",
    "media_id": "18172123261482541",
    "ts": 1793956139.366731,
+   "card": null
+  },
+  {
+   "id": "a13fb44dddb6",
+   "type": "reel",
+   "headline": "Expelled from Paradise x Girls Band Cry : Une collaboration entre les…",
+   "key": [
+    "band",
+    "collaboration",
+    "cry",
+    "entre",
+    "expelled",
+    "films",
+    "from",
+    "girls",
+    "nouveaux",
+    "paradise"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/6/expelled-from-paradise-resonance-of-the-heart-girls-band-cry-the-movie-video-visuels-collab",
+   "visual": "visuals/20261106-a13fb44dddb6.jpg",
+   "work": "Expelled from Paradise x Girls Band Cry",
+   "media_id": "17889610008486775",
+   "ts": 1793957937.986951,
+   "card": "posts/20261106-a13fb44dddb6.jpg"
+  },
+  {
+   "id": "a13fb44dddb6",
+   "type": "story",
+   "headline": "Expelled from Paradise x Girls Band Cry : Une collaboration entre les…",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/6/expelled-from-paradise-resonance-of-the-heart-girls-band-cry-the-movie-video-visuels-collab",
+   "visual": null,
+   "work": "Expelled from Paradise x Girls Band Cry",
+   "media_id": "18102125891185131",
+   "ts": 1793957951.210363,
    "card": null
   }
  ],
