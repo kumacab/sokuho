@@ -332,7 +332,8 @@
   "91418c3d9ced": 1793945040.613138,
   "a8d7d3c9a731": 1793945040.61314,
   "93866b17eb9d": 1793952331.941952,
-  "f01dbc56855f": 1793954154.392239
+  "f01dbc56855f": 1793954154.392239,
+  "d08b2f067b47": 1793955976.93806
  },
  "queue": [],
  "posted": [
@@ -6417,6 +6418,38 @@
    "work": "",
    "media_id": "18116872547031271",
    "ts": 1793954219.240634,
+   "card": null
+  },
+  {
+   "id": "d08b2f067b47",
+   "type": "reel",
+   "headline": "Les Carnets de l’Apothicaire Saison 3 Épisode 6 : Date et Heure de…",
+   "key": [
+    "apothicaire",
+    "carnets",
+    "episode",
+    "heure",
+    "images",
+    "premieres",
+    "resume"
+   ],
+   "link": "https://animotaku.fr/actualite/anime-carnets-apothicaire-saison-3-episode-6-date-heure-sortie/",
+   "visual": "visuals/20261106-d08b2f067b47.jpg",
+   "work": "Les carnets de l'apothicaire",
+   "media_id": "18196413640395497",
+   "ts": 1793956126.611915,
+   "card": "posts/20261106-d08b2f067b47.jpg"
+  },
+  {
+   "id": "d08b2f067b47",
+   "type": "story",
+   "headline": "Les Carnets de l’Apothicaire Saison 3 Épisode 6 : Date et Heure de…",
+   "key": null,
+   "link": "https://animotaku.fr/actualite/anime-carnets-apothicaire-saison-3-episode-6-date-heure-sortie/",
+   "visual": null,
+   "work": "Les carnets de l'apothicaire",
+   "media_id": "18172123261482541",
+   "ts": 1793956139.366731,
    "card": null
   }
  ],
