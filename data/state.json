@@ -6701,6 +6701,18 @@
    "media_id": "18095380109165797",
    "ts": 1793967929.857771,
    "card": null
+  },
+  {
+   "id": "car-movies-2026-W45",
+   "type": "carousel",
+   "headline": "🎬 LES PROCHAINS FILMS D'ANIMATION À NE PAS RATER !",
+   "key": null,
+   "link": null,
+   "visual": null,
+   "work": null,
+   "media_id": "18146219365594658",
+   "ts": 1793985782.915743,
+   "card": null
   }
  ],
  "last_recap": "2026-W44",
@@ -6709,7 +6721,7 @@
  "ig_pause_until": 1792187394.2893388,
  "carousels_done": {
   "upcoming": "2026-W45",
-  "movies": "2026-W44",
+  "movies": "2026-W45",
   "countdown": "2026-W44",
   "week": "2026-W45"
  },
