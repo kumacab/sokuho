@@ -341,7 +341,8 @@
   "2adf8ae68f86": 1793963278.771788,
   "ea6d90dc0ca3": 1793964193.632812,
   "fc93789abcf9": 1793966014.693146,
-  "24ef5efb6ca9": 1793966944.486884
+  "24ef5efb6ca9": 1793966944.486884,
+  "052d4319bf07": 1793967846.069254
  },
  "queue": [],
  "posted": [
@@ -6671,6 +6672,34 @@
    "work": "Wound & Bandage",
    "media_id": "18651380224021887",
    "ts": 1793966119.642989,
+   "card": null
+  },
+  {
+   "id": "052d4319bf07",
+   "type": "post",
+   "headline": "Kizuguchi to Hotai : nouveau trailer",
+   "key": [
+    "hotai",
+    "kizuguchi",
+    "to"
+   ],
+   "link": "https://adala-news.fr/2026/11/lanime-kizuguchi-to-hotai-en-trailer/",
+   "visual": "visuals/20261106-052d4319bf07.jpg",
+   "work": "Kizuguchi to Hotai",
+   "media_id": "17999749205830511",
+   "ts": 1793967916.689257,
+   "card": "posts/20261106-052d4319bf07.jpg"
+  },
+  {
+   "id": "052d4319bf07",
+   "type": "story",
+   "headline": "Kizuguchi to Hotai : nouveau trailer",
+   "key": null,
+   "link": "https://adala-news.fr/2026/11/lanime-kizuguchi-to-hotai-en-trailer/",
+   "visual": null,
+   "work": "Kizuguchi to Hotai",
+   "media_id": "18095380109165797",
+   "ts": 1793967929.857771,
    "card": null
   }
  ],
