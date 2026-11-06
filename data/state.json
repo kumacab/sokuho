@@ -338,7 +338,8 @@
   "8e19be86c595": 1793958722.939307,
   "914b2bc10364": 1793962367.990033,
   "556d1456a5e5": 1793962386.604496,
-  "2adf8ae68f86": 1793963278.771788
+  "2adf8ae68f86": 1793963278.771788,
+  "ea6d90dc0ca3": 1793964193.632812
  },
  "queue": [],
  "posted": [
@@ -6604,6 +6605,38 @@
    "work": "",
    "media_id": "17912357571589592",
    "ts": 1793963342.327183,
+   "card": null
+  },
+  {
+   "id": "ea6d90dc0ca3",
+   "type": "post",
+   "headline": "33-sai Dokushin Onna Kishi Taicho. sera adapté en anime",
+   "key": [
+    "33",
+    "dokushin",
+    "kishi",
+    "onna",
+    "sai",
+    "sera",
+    "taicho"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/6/33-sai-dokushin-onna-kishi-taicho-annonce-adaptation",
+   "visual": "visuals/20261106-ea6d90dc0ca3.jpg",
+   "work": "",
+   "media_id": "18077718044578955",
+   "ts": 1793964247.919741,
+   "card": "posts/20261106-ea6d90dc0ca3.jpg"
+  },
+  {
+   "id": "ea6d90dc0ca3",
+   "type": "story",
+   "headline": "33-sai Dokushin Onna Kishi Taicho. sera adapté en anime",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/6/33-sai-dokushin-onna-kishi-taicho-annonce-adaptation",
+   "visual": null,
+   "work": "",
+   "media_id": "18028766768863488",
+   "ts": 1793964261.550887,
    "card": null
   }
  ],
