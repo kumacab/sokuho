@@ -337,7 +337,8 @@
   "a13fb44dddb6": 1793957807.11334,
   "8e19be86c595": 1793958722.939307,
   "914b2bc10364": 1793962367.990033,
-  "556d1456a5e5": 1793962386.604496
+  "556d1456a5e5": 1793962386.604496,
+  "2adf8ae68f86": 1793963278.771788
  },
  "queue": [],
  "posted": [
@@ -6575,6 +6576,34 @@
    "work": "NINJA SKOOLER",
    "media_id": "17955421176290912",
    "ts": 1793962542.128148,
+   "card": null
+  },
+  {
+   "id": "2adf8ae68f86",
+   "type": "post",
+   "headline": "L’anime Demons’ Crest, en Opening Vidéo",
+   "key": [
+    "crest",
+    "demons",
+    "opening"
+   ],
+   "link": "https://adala-news.fr/2026/11/lanime-demons-crest-en-opening-video/",
+   "visual": "visuals/20261106-2adf8ae68f86.jpg",
+   "work": "",
+   "media_id": "18116316218067282",
+   "ts": 1793963327.71098,
+   "card": "posts/20261106-2adf8ae68f86.jpg"
+  },
+  {
+   "id": "2adf8ae68f86",
+   "type": "story",
+   "headline": "L’anime Demons’ Crest, en Opening Vidéo",
+   "key": null,
+   "link": "https://adala-news.fr/2026/11/lanime-demons-crest-en-opening-video/",
+   "visual": null,
+   "work": "",
+   "media_id": "17912357571589592",
+   "ts": 1793963342.327183,
    "card": null
   }
  ],
