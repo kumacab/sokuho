@@ -347,7 +347,8 @@
   "8001c5e908d6": 1794031689.983687,
   "184939007d74": 1794031689.983689,
   "5e27a656b59c": 1794031689.98369,
-  "ea4c6266ebef": 1794031689.98369
+  "ea4c6266ebef": 1794031689.98369,
+  "bb52d7327c10": 1794045354.061978
  },
  "queue": [],
  "posted": [
@@ -6717,6 +6718,36 @@
    "work": null,
    "media_id": "18146219365594658",
    "ts": 1793985782.915743,
+   "card": null
+  },
+  {
+   "id": "bb52d7327c10",
+   "type": "reel",
+   "headline": "L’anime Gacha Girls Corps révèle sa Date de Sortie sur Crunchyroll",
+   "key": [
+    "corps",
+    "crunchyroll",
+    "gacha",
+    "girls",
+    "revele"
+   ],
+   "link": "https://animotaku.fr/actualite/anime-gacha-girls-corps-date-sortie-crunchyroll/",
+   "visual": "visuals/20261107-bb52d7327c10.jpg",
+   "work": "anime Gacha Girls Corps",
+   "media_id": "18132714733894366",
+   "ts": 1794045458.468934,
+   "card": "posts/20261107-bb52d7327c10.jpg"
+  },
+  {
+   "id": "bb52d7327c10",
+   "type": "story",
+   "headline": "L’anime Gacha Girls Corps révèle sa Date de Sortie sur Crunchyroll",
+   "key": null,
+   "link": "https://animotaku.fr/actualite/anime-gacha-girls-corps-date-sortie-crunchyroll/",
+   "visual": null,
+   "work": "anime Gacha Girls Corps",
+   "media_id": "18653302246026082",
+   "ts": 1794045471.323456,
    "card": null
   }
  ],
