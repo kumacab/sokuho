@@ -351,9 +351,42 @@
   "bb52d7327c10": 1794045354.061978,
   "baa4ca5b4eb1": 1794048996.713274,
   "f3ba34fa9c01": 1794057198.131712,
-  "542858799780": 1794065406.509957
+  "542858799780": 1794065406.509957,
+  "3234565a1cf1": 1794068141.186782
  },
- "queue": [],
+ "queue": [
+  {
+   "id": "3234565a1cf1",
+   "headline": "BLESS : toutes les nouvelles infos",
+   "category": "ANIME",
+   "link": "https://adala-news.fr/2026/11/toutes-les-informations-sur-lanime-bless/",
+   "work": "BLESS",
+   "key": [
+    "bless"
+   ],
+   "ts": 1794068142.926565,
+   "type": "post",
+   "files": [
+    "posts/20261107-3234565a1cf1.jpg"
+   ],
+   "caption": "🎬 BLESS : TOUTES LES NOUVELLES INFOS\n\nL’anime BLESS, réalisé Shotaro Kitamura ( Makeine: Too Many Losing Heroines! ), dévoile toutes ses informations à travers un trailer captivant, dévoilant la collaboration passionnée entre un aspirant maquilleur et un modèle en manque d’assurance dans les coulisses impitoyables de la mode. (via Adala News)\n\n🎥 Réalisation : Shotaro Kitamura\n\n💬 Tu attendais cette annonce ?\n\n📌 Œuvre : BLESS\n📰 Source : Adala News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de BLESS et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#BLESS #anime #animefr #japanime #manga",
+   "alt": "ANIME — BLESS : toutes les nouvelles infos",
+   "visual": "visuals/20261107-3234565a1cf1.jpg"
+  },
+  {
+   "id": "3234565a1cf1",
+   "headline": "BLESS : toutes les nouvelles infos",
+   "category": "ANIME",
+   "link": "https://adala-news.fr/2026/11/toutes-les-informations-sur-lanime-bless/",
+   "work": "BLESS",
+   "key": null,
+   "ts": 1794068142.926565,
+   "type": "story",
+   "files": [
+    "stories/20261107-3234565a1cf1.jpg"
+   ]
+  }
+ ],
  "posted": [
   {
    "id": "5a95cf269da6",
