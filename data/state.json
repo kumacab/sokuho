@@ -348,7 +348,8 @@
   "184939007d74": 1794031689.983689,
   "5e27a656b59c": 1794031689.98369,
   "ea4c6266ebef": 1794031689.98369,
-  "bb52d7327c10": 1794045354.061978
+  "bb52d7327c10": 1794045354.061978,
+  "baa4ca5b4eb1": 1794048996.713274
  },
  "queue": [],
  "posted": [
@@ -6748,6 +6749,35 @@
    "work": "anime Gacha Girls Corps",
    "media_id": "18653302246026082",
    "ts": 1794045471.323456,
+   "card": null
+  },
+  {
+   "id": "baa4ca5b4eb1",
+   "type": "reel",
+   "headline": "L’anime Bless révèle sa Date de Sortie sur Crunchyroll et s’offre un…",
+   "key": [
+    "bless",
+    "crunchyroll",
+    "offre",
+    "revele"
+   ],
+   "link": "https://animotaku.fr/actualite/anime-bless-date-sortie-crunchyroll-trailer/",
+   "visual": "visuals/20261107-baa4ca5b4eb1.jpg",
+   "work": "anime Bless",
+   "media_id": "18117625883028753",
+   "ts": 1794049499.768372,
+   "card": "posts/20261107-baa4ca5b4eb1.jpg"
+  },
+  {
+   "id": "baa4ca5b4eb1",
+   "type": "story",
+   "headline": "L’anime Bless révèle sa Date de Sortie sur Crunchyroll et s’offre un…",
+   "key": null,
+   "link": "https://animotaku.fr/actualite/anime-bless-date-sortie-crunchyroll-trailer/",
+   "visual": null,
+   "work": "anime Bless",
+   "media_id": "17883861558534309",
+   "ts": 1794049512.996631,
    "card": null
   }
  ],
