@@ -349,7 +349,8 @@
   "5e27a656b59c": 1794031689.98369,
   "ea4c6266ebef": 1794031689.98369,
   "bb52d7327c10": 1794045354.061978,
-  "baa4ca5b4eb1": 1794048996.713274
+  "baa4ca5b4eb1": 1794048996.713274,
+  "f3ba34fa9c01": 1794057198.131712
  },
  "queue": [],
  "posted": [
@@ -6778,6 +6779,40 @@
    "work": "anime Bless",
    "media_id": "17883861558534309",
    "ts": 1794049512.996631,
+   "card": null
+  },
+  {
+   "id": "f3ba34fa9c01",
+   "type": "reel",
+   "headline": "L’anime There Was A Cute Girl In The Hero’s Party Saison 2",
+   "key": [
+    "cute",
+    "girl",
+    "hero",
+    "in",
+    "officiellement",
+    "party",
+    "production",
+    "there",
+    "was"
+   ],
+   "link": "https://animotaku.fr/actualite/anime-there-was-a-cute-girl-in-the-heros-party-saison-2-annonce/",
+   "visual": "visuals/20261107-f3ba34fa9c01.jpg",
+   "work": "anime There Was a Cute Girl in the Hero's Party",
+   "media_id": "18647134852027967",
+   "ts": 1794057313.789173,
+   "card": "posts/20261107-f3ba34fa9c01.jpg"
+  },
+  {
+   "id": "f3ba34fa9c01",
+   "type": "story",
+   "headline": "L’anime There Was A Cute Girl In The Hero’s Party Saison 2",
+   "key": null,
+   "link": "https://animotaku.fr/actualite/anime-there-was-a-cute-girl-in-the-heros-party-saison-2-annonce/",
+   "visual": null,
+   "work": "anime There Was a Cute Girl in the Hero's Party",
+   "media_id": "17944838193384504",
+   "ts": 1794057326.850546,
    "card": null
   }
  ],
