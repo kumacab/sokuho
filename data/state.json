@@ -353,7 +353,8 @@
   "f3ba34fa9c01": 1794057198.131712,
   "542858799780": 1794065406.509957,
   "3234565a1cf1": 1794068141.186782,
-  "4ec59e0b25e8": 1794131936.681501
+  "4ec59e0b25e8": 1794131936.681501,
+  "01a86acca521": 1794136493.963096
  },
  "queue": [],
  "posted": [
@@ -6849,6 +6850,35 @@
    "work": "anime Minami-ke saison 5",
    "media_id": "18081145562753772",
    "ts": 1794132115.240106,
+   "card": null
+  },
+  {
+   "id": "01a86acca521",
+   "type": "post",
+   "headline": "L’anime Bride of the Barrier Master, en Character Vidéo",
+   "key": [
+    "barrier",
+    "bride",
+    "character",
+    "master"
+   ],
+   "link": "https://adala-news.fr/2026/11/lanime-bride-of-the-barrier-master-en-character-video/",
+   "visual": "visuals/20261108-01a86acca521.jpg",
+   "work": "Bride of the Barrier Master",
+   "media_id": "17949919476069199",
+   "ts": 1794136547.754963,
+   "card": "posts/20261108-01a86acca521.jpg"
+  },
+  {
+   "id": "01a86acca521",
+   "type": "story",
+   "headline": "L’anime Bride of the Barrier Master, en Character Vidéo",
+   "key": null,
+   "link": "https://adala-news.fr/2026/11/lanime-bride-of-the-barrier-master-en-character-video/",
+   "visual": null,
+   "work": "Bride of the Barrier Master",
+   "media_id": "18119848874009408",
+   "ts": 1794136560.643606,
    "card": null
   }
  ],
