@@ -357,7 +357,8 @@
   "01a86acca521": 1794136493.963096,
   "b62a42c3bddc": 1794137401.959735,
   "b46034716f0a": 1794137420.865112,
-  "193cc49800cf": 1794142867.831856
+  "193cc49800cf": 1794142867.831856,
+  "e9fca0204183": 1794154708.905123
  },
  "queue": [],
  "posted": [
@@ -6938,6 +6939,39 @@
    "work": "SPY x FAMILY Saison 4",
    "media_id": "18417227926085053",
    "ts": 1794137632.867733,
+   "card": null
+  },
+  {
+   "id": "e9fca0204183",
+   "type": "reel",
+   "headline": "L’anime My Crush’s Crush sortira en avril 2027 et s’offre un Premier…",
+   "key": [
+    "2027",
+    "avril",
+    "crush",
+    "my",
+    "offre",
+    "premier",
+    "sortira",
+    "visuel"
+   ],
+   "link": "https://animotaku.fr/actualite/anime-my-crushs-crush-avril-2027-teaser/",
+   "visual": "visuals/20261108-e9fca0204183.jpg",
+   "work": "",
+   "media_id": "18107392967130277",
+   "ts": 1794154827.798807,
+   "card": "posts/20261108-e9fca0204183.jpg"
+  },
+  {
+   "id": "e9fca0204183",
+   "type": "story",
+   "headline": "L’anime My Crush’s Crush sortira en avril 2027 et s’offre un Premier…",
+   "key": null,
+   "link": "https://animotaku.fr/actualite/anime-my-crushs-crush-avril-2027-teaser/",
+   "visual": null,
+   "work": "",
+   "media_id": "18169115089488030",
+   "ts": 1794154841.698587,
    "card": null
   }
  ],
