@@ -352,7 +352,8 @@
   "baa4ca5b4eb1": 1794048996.713274,
   "f3ba34fa9c01": 1794057198.131712,
   "542858799780": 1794065406.509957,
-  "3234565a1cf1": 1794068141.186782
+  "3234565a1cf1": 1794068141.186782,
+  "4ec59e0b25e8": 1794131936.681501
  },
  "queue": [],
  "posted": [
@@ -6815,6 +6816,39 @@
    "work": "anime There Was a Cute Girl in the Hero's Party",
    "media_id": "17944838193384504",
    "ts": 1794057326.850546,
+   "card": null
+  },
+  {
+   "id": "4ec59e0b25e8",
+   "type": "reel",
+   "headline": "L’anime Minami-ke Saison 5 sortira en avril 2027",
+   "key": [
+    "2027",
+    "avril",
+    "devoiles",
+    "ke",
+    "minami",
+    "premier",
+    "sortira",
+    "visuel"
+   ],
+   "link": "https://animotaku.fr/actualite/anime-minami-ke-saison-5-avril-2027/",
+   "visual": "visuals/20261108-4ec59e0b25e8.jpg",
+   "work": "anime Minami-ke saison 5",
+   "media_id": "18645719026058619",
+   "ts": 1794132101.967925,
+   "card": "posts/20261108-4ec59e0b25e8.jpg"
+  },
+  {
+   "id": "4ec59e0b25e8",
+   "type": "story",
+   "headline": "L’anime Minami-ke Saison 5 sortira en avril 2027",
+   "key": null,
+   "link": "https://animotaku.fr/actualite/anime-minami-ke-saison-5-avril-2027/",
+   "visual": null,
+   "work": "anime Minami-ke saison 5",
+   "media_id": "18081145562753772",
+   "ts": 1794132115.240106,
    "card": null
   }
  ],
