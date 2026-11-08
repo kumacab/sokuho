@@ -6973,9 +6973,33 @@
    "media_id": "18169115089488030",
    "ts": 1794154841.698587,
    "card": null
+  },
+  {
+   "id": "recap-2026-W45",
+   "type": "carousel",
+   "headline": "Récap 2 → 8 NOV.",
+   "key": null,
+   "link": null,
+   "visual": null,
+   "work": null,
+   "media_id": "18136042580505149",
+   "ts": 1794157632.005764,
+   "card": null
+  },
+  {
+   "id": "recap-2026-W45",
+   "type": "reel",
+   "headline": "Récap 2 → 8 NOV.",
+   "key": null,
+   "link": null,
+   "visual": null,
+   "work": null,
+   "media_id": "18171690502485988",
+   "ts": 1794157699.475308,
+   "card": null
   }
  ],
- "last_recap": "2026-W44",
+ "last_recap": "2026-W45",
  "news_count": 39,
  "manual_reels": [],
  "ig_pause_until": 1792187394.2893388,
