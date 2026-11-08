@@ -354,7 +354,9 @@
   "542858799780": 1794065406.509957,
   "3234565a1cf1": 1794068141.186782,
   "4ec59e0b25e8": 1794131936.681501,
-  "01a86acca521": 1794136493.963096
+  "01a86acca521": 1794136493.963096,
+  "b62a42c3bddc": 1794137401.959735,
+  "b46034716f0a": 1794137420.865112
  },
  "queue": [],
  "posted": [
@@ -6879,6 +6881,62 @@
    "work": "Bride of the Barrier Master",
    "media_id": "18119848874009408",
    "ts": 1794136560.643606,
+   "card": null
+  },
+  {
+   "id": "b62a42c3bddc",
+   "type": "reel",
+   "headline": "L’anime Minami-ke Korekara, en Teaser Vidéo et Date de sortie",
+   "key": [
+    "ke",
+    "korekara",
+    "minami"
+   ],
+   "link": "https://adala-news.fr/2026/11/lanime-minami-ke-korekara-en-teaser-video-et-date-de-sortie/",
+   "visual": "visuals/20261108-b62a42c3bddc.jpg",
+   "work": "Minami-ke Korekara",
+   "media_id": "17991679878074664",
+   "ts": 1794137538.107183,
+   "card": "posts/20261108-b62a42c3bddc.jpg"
+  },
+  {
+   "id": "b46034716f0a",
+   "type": "reel",
+   "headline": "L’anime SPY x FAMILY Saison 4, annoncé pour 2027",
+   "key": [
+    "2027",
+    "family",
+    "spy"
+   ],
+   "link": "https://adala-news.fr/2026/11/lanime-spy-x-family-saison-4-annonce-pour-2027/",
+   "visual": "visuals/20261108-b46034716f0a.jpg",
+   "work": "SPY x FAMILY Saison 4",
+   "media_id": "18114724895593210",
+   "ts": 1794137606.415456,
+   "card": "posts/20261108-b46034716f0a.jpg"
+  },
+  {
+   "id": "b62a42c3bddc",
+   "type": "story",
+   "headline": "L’anime Minami-ke Korekara, en Teaser Vidéo et Date de sortie",
+   "key": null,
+   "link": "https://adala-news.fr/2026/11/lanime-minami-ke-korekara-en-teaser-video-et-date-de-sortie/",
+   "visual": null,
+   "work": "Minami-ke Korekara",
+   "media_id": "18399282448203234",
+   "ts": 1794137620.360519,
+   "card": null
+  },
+  {
+   "id": "b46034716f0a",
+   "type": "story",
+   "headline": "L’anime SPY x FAMILY Saison 4, annoncé pour 2027",
+   "key": null,
+   "link": "https://adala-news.fr/2026/11/lanime-spy-x-family-saison-4-annonce-pour-2027/",
+   "visual": null,
+   "work": "SPY x FAMILY Saison 4",
+   "media_id": "18417227926085053",
+   "ts": 1794137632.867733,
    "card": null
   }
  ],
