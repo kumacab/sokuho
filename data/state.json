@@ -359,7 +359,8 @@
   "b46034716f0a": 1794137420.865112,
   "193cc49800cf": 1794142867.831856,
   "e9fca0204183": 1794154708.905123,
-  "db42a7358ce5": 1794212120.471244
+  "db42a7358ce5": 1794212120.471244,
+  "5df8ac515893": 1794214859.0041
  },
  "queue": [],
  "posted": [
@@ -7009,6 +7010,40 @@
    "work": null,
    "media_id": "18093527210215400",
    "ts": 1794211362.202976,
+   "card": null
+  },
+  {
+   "id": "5df8ac515893",
+   "type": "reel",
+   "headline": "One-Punch Man Saison 3 Partie 2 dévoile des Visuels de personnages et…",
+   "key": [
+    "devoile",
+    "ending",
+    "interprete",
+    "man",
+    "one",
+    "partie",
+    "personnages",
+    "punch",
+    "visuels"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/9/one-punch-man-saison-3-partie-2-visuels-artiste-ending",
+   "visual": "visuals/20261109-5df8ac515893.jpg",
+   "work": "",
+   "media_id": "18117109427163990",
+   "ts": 1794214976.256069,
+   "card": "posts/20261109-5df8ac515893.jpg"
+  },
+  {
+   "id": "5df8ac515893",
+   "type": "story",
+   "headline": "One-Punch Man Saison 3 Partie 2 dévoile des Visuels de personnages et…",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/9/one-punch-man-saison-3-partie-2-visuels-artiste-ending",
+   "visual": null,
+   "work": "",
+   "media_id": "17979980970136642",
+   "ts": 1794214988.833734,
    "card": null
   }
  ],
