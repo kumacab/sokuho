@@ -363,45 +363,10 @@
   "5df8ac515893": 1794214859.0041,
   "85e48a665685": 1794216677.094503,
   "9e3c42d667ec": 1794217594.018982,
-  "9fd989202165": 1794221228.626055
+  "9fd989202165": 1794221228.626055,
+  "e74e1c8b491c": 1794222137.414794
  },
- "queue": [
-  {
-   "id": "9fd989202165",
-   "headline": "My Crush's Crush : L'anime commencera en avril 2027",
-   "category": "ANIME",
-   "link": "https://crunchyroll.com/fr/news/latest/2026/11/9/my-crushs-crush-avril-2027-trailer-visuel-casting-staff",
-   "work": "My Crush's Crush",
-   "key": [
-    "2027",
-    "avril",
-    "commencera",
-    "crush",
-    "my"
-   ],
-   "ts": 1794221229.691019,
-   "type": "post",
-   "files": [
-    "posts/20261109-9fd989202165.jpg"
-   ],
-   "caption": "🎬 MY CRUSH'S CRUSH : L'ANIME COMMENCERA EN AVRIL 2027\n\nL'anime à venir My Crush's Crush a dévoilé une multitude de nouvelles informations, notamment le casting principal, l'équipe de production, une bande-annonce et un visuel. La diffusion de la série est prévue au Japon à partir d' avril 2027. (via Crunchyroll News)\n\n📅 Date : avril 2027\n\n💬 Note ta hype sur 10 👇\n\n📌 Œuvre : My Crush's Crush\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de My Crush's Crush et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#MyCrushCrush #anime #animefr #japanime #manga",
-   "alt": "ANIME — My Crush's Crush : L'anime commencera en avril 2027",
-   "visual": "visuals/20261109-9fd989202165.jpg"
-  },
-  {
-   "id": "9fd989202165",
-   "headline": "My Crush's Crush : L'anime commencera en avril 2027",
-   "category": "ANIME",
-   "link": "https://crunchyroll.com/fr/news/latest/2026/11/9/my-crushs-crush-avril-2027-trailer-visuel-casting-staff",
-   "work": "My Crush's Crush",
-   "key": null,
-   "ts": 1794221229.691019,
-   "type": "story",
-   "files": [
-    "stories/20261109-9fd989202165.jpg"
-   ]
-  }
- ],
+ "queue": [],
  "posted": [
   {
    "id": "5a95cf269da6",
@@ -7146,6 +7111,66 @@
    "work": "Rascal Does Not Dream of a Dear Friend",
    "media_id": "18639580903031701",
    "ts": 1794218303.677076,
+   "card": null
+  },
+  {
+   "id": "9fd989202165",
+   "type": "post",
+   "headline": "My Crush's Crush : L'anime commencera en avril 2027",
+   "key": [
+    "2027",
+    "avril",
+    "commencera",
+    "crush",
+    "my"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/9/my-crushs-crush-avril-2027-trailer-visuel-casting-staff",
+   "visual": "visuals/20261109-9fd989202165.jpg",
+   "work": "My Crush's Crush",
+   "media_id": "18121594199048486",
+   "ts": 1794222200.678674,
+   "card": "posts/20261109-9fd989202165.jpg"
+  },
+  {
+   "id": "e74e1c8b491c",
+   "type": "post",
+   "headline": "Hirayasumi : Quel artiste interprétera l'opening ?",
+   "key": [
+    "artiste",
+    "hirayasumi",
+    "interpretera",
+    "opening",
+    "quel"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/9/hirayasumi-opening-artiste-gen-hoshino",
+   "visual": "visuals/20261109-e74e1c8b491c.jpg",
+   "work": "Hirayasumi",
+   "media_id": "18113485886178161",
+   "ts": 1794222214.418453,
+   "card": "posts/20261109-e74e1c8b491c.jpg"
+  },
+  {
+   "id": "9fd989202165",
+   "type": "story",
+   "headline": "My Crush's Crush : L'anime commencera en avril 2027",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/9/my-crushs-crush-avril-2027-trailer-visuel-casting-staff",
+   "visual": null,
+   "work": "My Crush's Crush",
+   "media_id": "18115082819144723",
+   "ts": 1794222228.09761,
+   "card": null
+  },
+  {
+   "id": "e74e1c8b491c",
+   "type": "story",
+   "headline": "Hirayasumi : Quel artiste interprétera l'opening ?",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/9/hirayasumi-opening-artiste-gen-hoshino",
+   "visual": null,
+   "work": "Hirayasumi",
+   "media_id": "18499315237106300",
+   "ts": 1794222241.148732,
    "card": null
   }
  ],
