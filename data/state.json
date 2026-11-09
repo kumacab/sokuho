@@ -362,9 +362,46 @@
   "db42a7358ce5": 1794212120.471244,
   "5df8ac515893": 1794214859.0041,
   "85e48a665685": 1794216677.094503,
-  "9e3c42d667ec": 1794217594.018982
+  "9e3c42d667ec": 1794217594.018982,
+  "9fd989202165": 1794221228.626055
  },
- "queue": [],
+ "queue": [
+  {
+   "id": "9fd989202165",
+   "headline": "My Crush's Crush : L'anime commencera en avril 2027",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/9/my-crushs-crush-avril-2027-trailer-visuel-casting-staff",
+   "work": "My Crush's Crush",
+   "key": [
+    "2027",
+    "avril",
+    "commencera",
+    "crush",
+    "my"
+   ],
+   "ts": 1794221229.691019,
+   "type": "post",
+   "files": [
+    "posts/20261109-9fd989202165.jpg"
+   ],
+   "caption": "🎬 MY CRUSH'S CRUSH : L'ANIME COMMENCERA EN AVRIL 2027\n\nL'anime à venir My Crush's Crush a dévoilé une multitude de nouvelles informations, notamment le casting principal, l'équipe de production, une bande-annonce et un visuel. La diffusion de la série est prévue au Japon à partir d' avril 2027. (via Crunchyroll News)\n\n📅 Date : avril 2027\n\n💬 Note ta hype sur 10 👇\n\n📌 Œuvre : My Crush's Crush\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de My Crush's Crush et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#MyCrushCrush #anime #animefr #japanime #manga",
+   "alt": "ANIME — My Crush's Crush : L'anime commencera en avril 2027",
+   "visual": "visuals/20261109-9fd989202165.jpg"
+  },
+  {
+   "id": "9fd989202165",
+   "headline": "My Crush's Crush : L'anime commencera en avril 2027",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/9/my-crushs-crush-avril-2027-trailer-visuel-casting-staff",
+   "work": "My Crush's Crush",
+   "key": null,
+   "ts": 1794221229.691019,
+   "type": "story",
+   "files": [
+    "stories/20261109-9fd989202165.jpg"
+   ]
+  }
+ ],
  "posted": [
   {
    "id": "5a95cf269da6",
