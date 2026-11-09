@@ -360,7 +360,8 @@
   "193cc49800cf": 1794142867.831856,
   "e9fca0204183": 1794154708.905123,
   "db42a7358ce5": 1794212120.471244,
-  "5df8ac515893": 1794214859.0041
+  "5df8ac515893": 1794214859.0041,
+  "85e48a665685": 1794216677.094503
  },
  "queue": [],
  "posted": [
@@ -7044,6 +7045,37 @@
    "work": "",
    "media_id": "17979980970136642",
    "ts": 1794214988.833734,
+   "card": null
+  },
+  {
+   "id": "85e48a665685",
+   "type": "post",
+   "headline": "Netflix diffusera l’anime Hirayasumi à partir de janvier 2027",
+   "key": [
+    "2027",
+    "diffusera",
+    "hirayasumi",
+    "janvier",
+    "netflix",
+    "partir"
+   ],
+   "link": "https://animotaku.fr/actualite/anime-hirayasumi-netflix/",
+   "visual": "visuals/20261109-85e48a665685.jpg",
+   "work": "anime Hirayasumi",
+   "media_id": "18239442787321627",
+   "ts": 1794216733.470463,
+   "card": "posts/20261109-85e48a665685.jpg"
+  },
+  {
+   "id": "85e48a665685",
+   "type": "story",
+   "headline": "Netflix diffusera l’anime Hirayasumi à partir de janvier 2027",
+   "key": null,
+   "link": "https://animotaku.fr/actualite/anime-hirayasumi-netflix/",
+   "visual": null,
+   "work": "anime Hirayasumi",
+   "media_id": "17915248152507647",
+   "ts": 1794216746.092034,
    "card": null
   }
  ],
