@@ -367,7 +367,8 @@
   "e74e1c8b491c": 1794222137.414794,
   "542ecf88c07c": 1794224873.722523,
   "4ea2cb1abe32": 1794225784.492166,
-  "29581c8b0a90": 1794226699.158856
+  "29581c8b0a90": 1794226699.158856,
+  "1ac78e9bc451": 1794231258.055321
  },
  "queue": [],
  "posted": [
@@ -7266,6 +7267,37 @@
    "work": "Boku no Suki na Hito ga Suki na Hito",
    "media_id": "17911256199578388",
    "ts": 1794226759.535072,
+   "card": null
+  },
+  {
+   "id": "1ac78e9bc451",
+   "type": "post",
+   "headline": "Minami-ke: Korekara - La nouvelle saison débutera en avril 2027",
+   "key": [
+    "2027",
+    "avril",
+    "debutera",
+    "ke",
+    "korekara",
+    "minami"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/9/minami-ke-korekara-avril-2027-trailer-visuel-casting-staff",
+   "visual": "visuals/20261109-1ac78e9bc451.jpg",
+   "work": "Minami-ke: Korekara",
+   "media_id": "18228014038339860",
+   "ts": 1794231365.59592,
+   "card": "posts/20261109-1ac78e9bc451.jpg"
+  },
+  {
+   "id": "1ac78e9bc451",
+   "type": "story",
+   "headline": "Minami-ke: Korekara - La nouvelle saison débutera en avril 2027",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/9/minami-ke-korekara-avril-2027-trailer-visuel-casting-staff",
+   "visual": null,
+   "work": "Minami-ke: Korekara",
+   "media_id": "18469819057191827",
+   "ts": 1794231378.504291,
    "card": null
   }
  ],
