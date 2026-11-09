@@ -361,7 +361,8 @@
   "e9fca0204183": 1794154708.905123,
   "db42a7358ce5": 1794212120.471244,
   "5df8ac515893": 1794214859.0041,
-  "85e48a665685": 1794216677.094503
+  "85e48a665685": 1794216677.094503,
+  "9e3c42d667ec": 1794217594.018982
  },
  "queue": [],
  "posted": [
@@ -7076,6 +7077,38 @@
    "work": "anime Hirayasumi",
    "media_id": "17915248152507647",
    "ts": 1794216746.092034,
+   "card": null
+  },
+  {
+   "id": "9e3c42d667ec",
+   "type": "reel",
+   "headline": "Rascal Does Not Dream of a Dear Friend : Nouvel extrait vidéo du film",
+   "key": [
+    "dear",
+    "does",
+    "dream",
+    "extrait",
+    "friend",
+    "not",
+    "rascal"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/9/rascal-does-not-dream-of-a-dear-friend-extrait-video-kaede",
+   "visual": "visuals/20261109-9e3c42d667ec.jpg",
+   "work": "Rascal Does Not Dream of a Dear Friend",
+   "media_id": "18129414092311371",
+   "ts": 1794218289.818862,
+   "card": "posts/20261109-9e3c42d667ec.jpg"
+  },
+  {
+   "id": "9e3c42d667ec",
+   "type": "story",
+   "headline": "Rascal Does Not Dream of a Dear Friend : Nouvel extrait vidéo du film",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/9/rascal-does-not-dream-of-a-dear-friend-extrait-video-kaede",
+   "visual": null,
+   "work": "Rascal Does Not Dream of a Dear Friend",
+   "media_id": "18639580903031701",
+   "ts": 1794218303.677076,
    "card": null
   }
  ],
