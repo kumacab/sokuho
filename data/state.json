@@ -365,7 +365,8 @@
   "9e3c42d667ec": 1794217594.018982,
   "9fd989202165": 1794221228.626055,
   "e74e1c8b491c": 1794222137.414794,
-  "542ecf88c07c": 1794224873.722523
+  "542ecf88c07c": 1794224873.722523,
+  "4ea2cb1abe32": 1794225784.492166
  },
  "queue": [],
  "posted": [
@@ -7201,6 +7202,38 @@
    "work": "BLESS",
    "media_id": "18146451379610516",
    "ts": 1794224997.941676,
+   "card": null
+  },
+  {
+   "id": "4ea2cb1abe32",
+   "type": "reel",
+   "headline": "Bride of the Barrier Master partage deux Trailers de personnages",
+   "key": [
+    "barrier",
+    "bride",
+    "deux",
+    "master",
+    "partage",
+    "personnages",
+    "trailers"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/9/bride-of-the-barrier-master-trailers-personnages-hana-saku",
+   "visual": "visuals/20261109-4ea2cb1abe32.jpg",
+   "work": "",
+   "media_id": "18107111720006018",
+   "ts": 1794225907.702709,
+   "card": "posts/20261109-4ea2cb1abe32.jpg"
+  },
+  {
+   "id": "4ea2cb1abe32",
+   "type": "story",
+   "headline": "Bride of the Barrier Master partage deux Trailers de personnages",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/9/bride-of-the-barrier-master-trailers-personnages-hana-saku",
+   "visual": null,
+   "work": "",
+   "media_id": "18015335457004122",
+   "ts": 1794225920.697972,
    "card": null
   }
  ],
