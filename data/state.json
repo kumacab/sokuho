@@ -366,7 +366,8 @@
   "9fd989202165": 1794221228.626055,
   "e74e1c8b491c": 1794222137.414794,
   "542ecf88c07c": 1794224873.722523,
-  "4ea2cb1abe32": 1794225784.492166
+  "4ea2cb1abe32": 1794225784.492166,
+  "29581c8b0a90": 1794226699.158856
  },
  "queue": [],
  "posted": [
@@ -7234,6 +7235,37 @@
    "work": "",
    "media_id": "18015335457004122",
    "ts": 1794225920.697972,
+   "card": null
+  },
+  {
+   "id": "29581c8b0a90",
+   "type": "post",
+   "headline": "L’anime Boku no Suki na Hito ga Suki na Hito",
+   "key": [
+    "boku",
+    "ga",
+    "hito",
+    "na",
+    "no",
+    "suki"
+   ],
+   "link": "https://adala-news.fr/2026/11/lanime-boku-no-suki-na-hito-ga-suki-na-hito-en-teaser-video-date-de-sortie/",
+   "visual": "visuals/20261109-29581c8b0a90.jpg",
+   "work": "Boku no Suki na Hito ga Suki na Hito",
+   "media_id": "18176253616456520",
+   "ts": 1794226746.328423,
+   "card": "posts/20261109-29581c8b0a90.jpg"
+  },
+  {
+   "id": "29581c8b0a90",
+   "type": "story",
+   "headline": "L’anime Boku no Suki na Hito ga Suki na Hito",
+   "key": null,
+   "link": "https://adala-news.fr/2026/11/lanime-boku-no-suki-na-hito-ga-suki-na-hito-en-teaser-video-date-de-sortie/",
+   "visual": null,
+   "work": "Boku no Suki na Hito ga Suki na Hito",
+   "media_id": "17911256199578388",
+   "ts": 1794226759.535072,
    "card": null
   }
  ],
