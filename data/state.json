@@ -364,7 +364,8 @@
   "85e48a665685": 1794216677.094503,
   "9e3c42d667ec": 1794217594.018982,
   "9fd989202165": 1794221228.626055,
-  "e74e1c8b491c": 1794222137.414794
+  "e74e1c8b491c": 1794222137.414794,
+  "542ecf88c07c": 1794224873.722523
  },
  "queue": [],
  "posted": [
@@ -7171,6 +7172,35 @@
    "work": "Hirayasumi",
    "media_id": "18499315237106300",
    "ts": 1794222241.148732,
+   "card": null
+  },
+  {
+   "id": "542ecf88c07c",
+   "type": "reel",
+   "headline": "BLESS : Le Trailer dévoile l'ending et la date de diffusion",
+   "key": [
+    "bless",
+    "devoile",
+    "diffusion",
+    "ending"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/9/bless-date-diffusion-trailer-visuel-ending",
+   "visual": "visuals/20261109-542ecf88c07c.jpg",
+   "work": "BLESS",
+   "media_id": "18134880352790623",
+   "ts": 1794224983.528992,
+   "card": "posts/20261109-542ecf88c07c.jpg"
+  },
+  {
+   "id": "542ecf88c07c",
+   "type": "story",
+   "headline": "BLESS : Le Trailer dévoile l'ending et la date de diffusion",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/9/bless-date-diffusion-trailer-visuel-ending",
+   "visual": null,
+   "work": "BLESS",
+   "media_id": "18146451379610516",
+   "ts": 1794224997.941676,
    "card": null
   }
  ],
