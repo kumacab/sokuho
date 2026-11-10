@@ -344,7 +344,8 @@
   "1ac78e9bc451": 1794231258.055321,
   "2ab6decee625": 1794290616.662035,
   "fef440d479d5": 1794301621.795023,
-  "69b59a7767af": 1794304362.975748
+  "69b59a7767af": 1794304362.975748,
+  "c5fd322646b3": 1794306195.125189
  },
  "queue": [],
  "posted": [
@@ -7273,6 +7274,40 @@
    "work": "Harajuku Himegoto House",
    "media_id": "17918895684541281",
    "ts": 1794304502.11124,
+   "card": null
+  },
+  {
+   "id": "c5fd322646b3",
+   "type": "post",
+   "headline": "STEEL BALL RUN JoJo's Bizarre Adventure publie une vidéo spéciale sur…",
+   "key": [
+    "adventure",
+    "ball",
+    "bizarre",
+    "jojo",
+    "publie",
+    "run",
+    "speciale",
+    "stands",
+    "steel"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/10/steel-ball-run-jojos-bizarre-adventure-video-speciale-stands",
+   "visual": "visuals/20261110-c5fd322646b3.jpg",
+   "work": "",
+   "media_id": "18134331814752921",
+   "ts": 1794306268.82934,
+   "card": "posts/20261110-c5fd322646b3.jpg"
+  },
+  {
+   "id": "c5fd322646b3",
+   "type": "story",
+   "headline": "STEEL BALL RUN JoJo's Bizarre Adventure publie une vidéo spéciale sur…",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/10/steel-ball-run-jojos-bizarre-adventure-video-speciale-stands",
+   "visual": null,
+   "work": "",
+   "media_id": "18113739182237243",
+   "ts": 1794306283.378906,
    "card": null
   }
  ],
