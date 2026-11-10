@@ -349,7 +349,8 @@
   "20cb6e849a87": 1794308933.454413,
   "ba41487d6e54": 1794318059.703245,
   "2f0b6af0003a": 1794319882.491503,
-  "73d29c1b6bf3": 1794320798.030797
+  "73d29c1b6bf3": 1794320798.030797,
+  "43ad2dff30eb": 1794322630.529528
  },
  "queue": [],
  "posted": [
@@ -7383,6 +7384,37 @@
    "work": "",
    "media_id": "17957075337275828",
    "ts": 1794321042.156687,
+   "card": null
+  },
+  {
+   "id": "43ad2dff30eb",
+   "type": "post",
+   "headline": "My Hero Ultra Rumble arrive sur mobile",
+   "key": [
+    "arrive",
+    "hero",
+    "mobile",
+    "my",
+    "rumble",
+    "ultra"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/10/my-hero-ultra-rumble-version-mobile-trailer",
+   "visual": "visuals/20261110-43ad2dff30eb.jpg",
+   "work": "",
+   "media_id": "18650905615002259",
+   "ts": 1794322716.96676,
+   "card": "posts/20261110-43ad2dff30eb.jpg"
+  },
+  {
+   "id": "43ad2dff30eb",
+   "type": "story",
+   "headline": "My Hero Ultra Rumble arrive sur mobile",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/10/my-hero-ultra-rumble-version-mobile-trailer",
+   "visual": null,
+   "work": "",
+   "media_id": "18121417391601862",
+   "ts": 1794322731.046964,
    "card": null
   }
  ],
