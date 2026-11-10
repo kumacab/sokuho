@@ -350,7 +350,8 @@
   "ba41487d6e54": 1794318059.703245,
   "2f0b6af0003a": 1794319882.491503,
   "73d29c1b6bf3": 1794320798.030797,
-  "43ad2dff30eb": 1794322630.529528
+  "43ad2dff30eb": 1794322630.529528,
+  "c972b4118fac": 1794331767.126068
  },
  "queue": [],
  "posted": [
@@ -7415,6 +7416,35 @@
    "work": "",
    "media_id": "18121417391601862",
    "ts": 1794322731.046964,
+   "card": null
+  },
+  {
+   "id": "c972b4118fac",
+   "type": "post",
+   "headline": "Ore no Shibou Flag adapté en anime",
+   "key": [
+    "flag",
+    "no",
+    "ore",
+    "shibou"
+   ],
+   "link": "https://adala-news.fr/2026/11/le-manga-ore-no-shibou-flag-adapte-en-anime/",
+   "visual": "visuals/20261110-c972b4118fac.jpg",
+   "work": "",
+   "media_id": "17911501239565411",
+   "ts": 1794331843.440785,
+   "card": "posts/20261110-c972b4118fac.jpg"
+  },
+  {
+   "id": "c972b4118fac",
+   "type": "story",
+   "headline": "Ore no Shibou Flag adapté en anime",
+   "key": null,
+   "link": "https://adala-news.fr/2026/11/le-manga-ore-no-shibou-flag-adapte-en-anime/",
+   "visual": null,
+   "work": "",
+   "media_id": "18000849519009479",
+   "ts": 1794331857.944464,
    "card": null
   }
  ],
