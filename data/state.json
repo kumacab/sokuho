@@ -342,7 +342,8 @@
   "4ea2cb1abe32": 1794225784.492166,
   "29581c8b0a90": 1794226699.158856,
   "1ac78e9bc451": 1794231258.055321,
-  "2ab6decee625": 1794290616.662035
+  "2ab6decee625": 1794290616.662035,
+  "fef440d479d5": 1794301621.795023
  },
  "queue": [],
  "posted": [
@@ -7207,6 +7208,40 @@
    "work": "",
    "media_id": "18150557089568934",
    "ts": 1794290672.16731,
+   "card": null
+  },
+  {
+   "id": "fef440d479d5",
+   "type": "post",
+   "headline": "AiNA THE END et ONE PIECE collaborent sur un clip musical de l'arc Erbaf",
+   "key": [
+    "aina",
+    "arc",
+    "clip",
+    "collaborent",
+    "end",
+    "erbaf",
+    "musical",
+    "one",
+    "piece"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/10/one-piece-arc-erbaf-opening-video-collab-aina-the-end",
+   "visual": "visuals/20261110-fef440d479d5.jpg",
+   "work": "",
+   "media_id": "17893734870621672",
+   "ts": 1794301668.03177,
+   "card": "posts/20261110-fef440d479d5.jpg"
+  },
+  {
+   "id": "fef440d479d5",
+   "type": "story",
+   "headline": "AiNA THE END et ONE PIECE collaborent sur un clip musical de l'arc Erbaf",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/10/one-piece-arc-erbaf-opening-video-collab-aina-the-end",
+   "visual": null,
+   "work": "",
+   "media_id": "18153808597557351",
+   "ts": 1794301680.561326,
    "card": null
   }
  ],
