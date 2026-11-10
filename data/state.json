@@ -343,7 +343,8 @@
   "29581c8b0a90": 1794226699.158856,
   "1ac78e9bc451": 1794231258.055321,
   "2ab6decee625": 1794290616.662035,
-  "fef440d479d5": 1794301621.795023
+  "fef440d479d5": 1794301621.795023,
+  "69b59a7767af": 1794304362.975748
  },
  "queue": [],
  "posted": [
@@ -7242,6 +7243,36 @@
    "work": "",
    "media_id": "18153808597557351",
    "ts": 1794301680.561326,
+   "card": null
+  },
+  {
+   "id": "69b59a7767af",
+   "type": "reel",
+   "headline": "Harajuku Himegoto House : Annonce d'un projet multimédia",
+   "key": [
+    "harajuku",
+    "himegoto",
+    "house",
+    "multimedia",
+    "projet"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/10/harajuku-himegoto-house-annonce-projet-multimedia",
+   "visual": "visuals/20261110-69b59a7767af.jpg",
+   "work": "Harajuku Himegoto House",
+   "media_id": "18007046766007498",
+   "ts": 1794304487.96516,
+   "card": "posts/20261110-69b59a7767af.jpg"
+  },
+  {
+   "id": "69b59a7767af",
+   "type": "story",
+   "headline": "Harajuku Himegoto House : Annonce d'un projet multimédia",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/10/harajuku-himegoto-house-annonce-projet-multimedia",
+   "visual": null,
+   "work": "Harajuku Himegoto House",
+   "media_id": "17918895684541281",
+   "ts": 1794304502.11124,
    "card": null
   }
  ],
