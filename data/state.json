@@ -348,7 +348,8 @@
   "a2c0de5b9e97": 1794308017.546967,
   "20cb6e849a87": 1794308933.454413,
   "ba41487d6e54": 1794318059.703245,
-  "2f0b6af0003a": 1794319882.491503
+  "2f0b6af0003a": 1794319882.491503,
+  "73d29c1b6bf3": 1794320798.030797
  },
  "queue": [],
  "posted": [
@@ -7352,6 +7353,36 @@
    "work": "film ghost",
    "media_id": "18131454844794232",
    "ts": 1794309105.959909,
+   "card": null
+  },
+  {
+   "id": "73d29c1b6bf3",
+   "type": "post",
+   "headline": "Fate Rewinder dévoile des Visuels de ses personnages",
+   "key": [
+    "devoile",
+    "fate",
+    "personnages",
+    "rewinder",
+    "visuels"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/10/fate-rewinder-visuels-personnages",
+   "visual": "visuals/20261110-73d29c1b6bf3.jpg",
+   "work": "",
+   "media_id": "18119834248817236",
+   "ts": 1794321027.349408,
+   "card": "posts/20261110-73d29c1b6bf3.jpg"
+  },
+  {
+   "id": "73d29c1b6bf3",
+   "type": "story",
+   "headline": "Fate Rewinder dévoile des Visuels de ses personnages",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/10/fate-rewinder-visuels-personnages",
+   "visual": null,
+   "work": "",
+   "media_id": "17957075337275828",
+   "ts": 1794321042.156687,
    "card": null
   }
  ],
