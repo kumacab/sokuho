@@ -1,7 +1,5 @@
 {
  "seen": {
-  "4cf6813a02f5": 1791698417.133729,
-  "80c26ab3faa7": 1791698418.993827,
   "f6554e8faff4": 1791723898.103732,
   "725d4f3613b8": 1791723900.141386,
   "66e47439e18e": 1791756438.589715,
@@ -343,63 +341,11 @@
   "542ecf88c07c": 1794224873.722523,
   "4ea2cb1abe32": 1794225784.492166,
   "29581c8b0a90": 1794226699.158856,
-  "1ac78e9bc451": 1794231258.055321
+  "1ac78e9bc451": 1794231258.055321,
+  "2ab6decee625": 1794290616.662035
  },
  "queue": [],
  "posted": [
-  {
-   "id": "4cf6813a02f5",
-   "type": "post",
-   "headline": "Le nouvel anime NARUTO sera un crossover avec Ninku",
-   "key": [
-    "crossover",
-    "naruto",
-    "ninku",
-    "sera"
-   ],
-   "link": "https://adala-news.fr/2026/10/le-nouvel-anime-naruto-sera-un-crossover-avec-ninku/",
-   "visual": "visuals/20261011-4cf6813a02f5.jpg",
-   "media_id": "18395329387160848",
-   "ts": 1791698444.023723,
-   "card": "posts/20261011-4cf6813a02f5.jpg"
-  },
-  {
-   "id": "4cf6813a02f5",
-   "type": "story",
-   "headline": "Le nouvel anime NARUTO sera un crossover avec Ninku",
-   "key": null,
-   "link": "https://adala-news.fr/2026/10/le-nouvel-anime-naruto-sera-un-crossover-avec-ninku/",
-   "visual": null,
-   "media_id": "18105246245202502",
-   "ts": 1791698451.862127,
-   "card": null
-  },
-  {
-   "id": "80c26ab3faa7",
-   "type": "post",
-   "headline": "Le manga NARUTO: SHADOW RISING, annoncé",
-   "key": [
-    "naruto",
-    "rising",
-    "shadow"
-   ],
-   "link": "https://adala-news.fr/2026/10/le-manga-naruto-shadow-rising-annonce/",
-   "visual": "visuals/20261011-80c26ab3faa7.jpg",
-   "media_id": "18632836147013406",
-   "ts": 1791698461.65784,
-   "card": "posts/20261011-80c26ab3faa7.jpg"
-  },
-  {
-   "id": "80c26ab3faa7",
-   "type": "story",
-   "headline": "Le manga NARUTO: SHADOW RISING, annoncé",
-   "key": null,
-   "link": "https://adala-news.fr/2026/10/le-manga-naruto-shadow-rising-annonce/",
-   "visual": null,
-   "media_id": "18097051685109502",
-   "ts": 1791698470.269857,
-   "card": null
-  },
   {
    "id": "f6554e8faff4",
    "type": "post",
@@ -7221,6 +7167,46 @@
    "work": "Minami-ke: Korekara",
    "media_id": "18469819057191827",
    "ts": 1794231378.504291,
+   "card": null
+  },
+  {
+   "id": "2ab6decee625",
+   "type": "post",
+   "headline": "Les clips de A Returner's Magic Should Be Special",
+   "key": [
+    "as",
+    "be",
+    "bien",
+    "clips",
+    "crunchyroll",
+    "disponibles",
+    "magic",
+    "mercenary",
+    "plus",
+    "reborn",
+    "returner",
+    "should",
+    "sont",
+    "space",
+    "special"
+   ],
+   "link": "https://crunchyroll.com/fr/news/announcements/2026/11/9/a-returners-magic-should-be-special-reborn-as-a-space-mercenary-clips-musique-crunchyroll",
+   "visual": "visuals/20261110-2ab6decee625.jpg",
+   "work": "",
+   "media_id": "18473725678138303",
+   "ts": 1794290657.973466,
+   "card": "posts/20261110-2ab6decee625.jpg"
+  },
+  {
+   "id": "2ab6decee625",
+   "type": "story",
+   "headline": "Les clips de A Returner's Magic Should Be Special",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/announcements/2026/11/9/a-returners-magic-should-be-special-reborn-as-a-space-mercenary-clips-musique-crunchyroll",
+   "visual": null,
+   "work": "",
+   "media_id": "18150557089568934",
+   "ts": 1794290672.16731,
    "card": null
   }
  ],
