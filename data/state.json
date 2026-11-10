@@ -346,49 +346,10 @@
   "fef440d479d5": 1794301621.795023,
   "69b59a7767af": 1794304362.975748,
   "c5fd322646b3": 1794306195.125189,
-  "6f94c02ef629": 1794307107.60942
+  "6f94c02ef629": 1794307107.60942,
+  "a2c0de5b9e97": 1794308017.546967
  },
- "queue": [
-  {
-   "id": "6f94c02ef629",
-   "headline": "L’anime My Death Flags Show No Sign of Ending annoncé pour 2027",
-   "category": "ANIME",
-   "link": "https://animotaku.fr/actualite/anime-my-death-flags-show-no-sign-of-ending-annonce-2027/",
-   "work": "",
-   "key": [
-    "2027",
-    "death",
-    "ending",
-    "flags",
-    "my",
-    "no",
-    "show",
-    "sign"
-   ],
-   "ts": 1794307109.891461,
-   "type": "reel",
-   "files": [
-    "reels/20261110-6f94c02ef629.mp4",
-    "posts/20261110-6f94c02ef629.jpg"
-   ],
-   "caption": "🎬 L’ANIME MY DEATH FLAGS SHOW NO SIGN OF ENDING ANNONCÉ POUR 2027\n\nPour le moment, aucune information complémentaire n’a été partagée. De plus amples détails seront communiqués dans les prochains mois. Kazuki Hirasawa, un étudiant ordinaire, se retrouve soudainement transporté dans le corps de Harold Stokes, un personnage maléfique de Brave Hearts, son jeu vidéo préféré. (via Animotaku)\n\n📅 Date : Hiver 2027\n\n💬 Note ta hype sur 10 👇\n\n📰 Source : Animotaku\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote qui doit savoir ça et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
-   "visual": "visuals/20261110-6f94c02ef629.jpg",
-   "card": "posts/20261110-6f94c02ef629.jpg"
-  },
-  {
-   "id": "6f94c02ef629",
-   "headline": "L’anime My Death Flags Show No Sign of Ending annoncé pour 2027",
-   "category": "ANIME",
-   "link": "https://animotaku.fr/actualite/anime-my-death-flags-show-no-sign-of-ending-annonce-2027/",
-   "work": "",
-   "key": null,
-   "ts": 1794307109.891461,
-   "type": "story",
-   "files": [
-    "stories/20261110-6f94c02ef629.jpg"
-   ]
-  }
- ],
+ "queue": [],
  "posted": [
   {
    "id": "f6554e8faff4",
@@ -7349,6 +7310,68 @@
    "work": "",
    "media_id": "18113739182237243",
    "ts": 1794306283.378906,
+   "card": null
+  },
+  {
+   "id": "6f94c02ef629",
+   "type": "reel",
+   "headline": "L’anime My Death Flags Show No Sign of Ending annoncé pour 2027",
+   "key": [
+    "2027",
+    "death",
+    "ending",
+    "flags",
+    "my",
+    "no",
+    "show",
+    "sign"
+   ],
+   "link": "https://animotaku.fr/actualite/anime-my-death-flags-show-no-sign-of-ending-annonce-2027/",
+   "visual": "visuals/20261110-6f94c02ef629.jpg",
+   "work": "",
+   "media_id": "18142188877722281",
+   "ts": 1794308139.701667,
+   "card": "posts/20261110-6f94c02ef629.jpg"
+  },
+  {
+   "id": "a2c0de5b9e97",
+   "type": "reel",
+   "headline": "Fool Night : Un nouveau Trailer sur Toshiro Kamiya",
+   "key": [
+    "fool",
+    "kamiya",
+    "night",
+    "toshiro"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/10/fool-night-trailer-personnage-toshiro-kamiya",
+   "visual": "visuals/20261110-a2c0de5b9e97.jpg",
+   "work": "Fool Night",
+   "media_id": "18139643485648490",
+   "ts": 1794308210.63783,
+   "card": "posts/20261110-a2c0de5b9e97.jpg"
+  },
+  {
+   "id": "6f94c02ef629",
+   "type": "story",
+   "headline": "L’anime My Death Flags Show No Sign of Ending annoncé pour 2027",
+   "key": null,
+   "link": "https://animotaku.fr/actualite/anime-my-death-flags-show-no-sign-of-ending-annonce-2027/",
+   "visual": null,
+   "work": "",
+   "media_id": "18138769054630423",
+   "ts": 1794308224.73396,
+   "card": null
+  },
+  {
+   "id": "a2c0de5b9e97",
+   "type": "story",
+   "headline": "Fool Night : Un nouveau Trailer sur Toshiro Kamiya",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/10/fool-night-trailer-personnage-toshiro-kamiya",
+   "visual": null,
+   "work": "Fool Night",
+   "media_id": "18350333485252146",
+   "ts": 1794308239.165519,
    "card": null
   }
  ],
