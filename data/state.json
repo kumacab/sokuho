@@ -1,8 +1,5 @@
 {
  "seen": {
-  "1ff33acf81fe": 1791829575.164681,
-  "2664b080b990": 1791829575.586424,
-  "ffcb38aa9b63": 1791829576.221594,
   "806ac8119fe4": 1791830486.843474,
   "05ebbdc46beb": 1791831398.426187,
   "4da4e0eba4b3": 1791843268.55581,
@@ -268,68 +265,6 @@
  },
  "queue": [],
  "posted": [
-  {
-   "id": "2664b080b990",
-   "type": "post",
-   "headline": "PSYCHO-PASS fête ses 14 ans",
-   "key": [
-    "14",
-    "ans",
-    "fete",
-    "pass",
-    "psycho"
-   ],
-   "link": "https://anilist.co/anime/13601",
-   "visual": "visuals/20261012-2664b080b990.jpg",
-   "work": "PSYCHO-PASS",
-   "media_id": "18235849501320520",
-   "ts": 1791829628.880964,
-   "card": "posts/20261012-2664b080b990.jpg"
-  },
-  {
-   "id": "2664b080b990",
-   "type": "story",
-   "headline": "PSYCHO-PASS fête ses 14 ans",
-   "key": null,
-   "link": "https://anilist.co/anime/13601",
-   "visual": null,
-   "work": "PSYCHO-PASS",
-   "media_id": "18105033716204647",
-   "ts": 1791829637.689405,
-   "card": null
-  },
-  {
-   "id": "ffcb38aa9b63",
-   "type": "post",
-   "headline": "Dr. STONE New World Part 2 fête ses 3 ans",
-   "key": [
-    "ans",
-    "dr",
-    "fete",
-    "new",
-    "part",
-    "stone",
-    "world"
-   ],
-   "link": "https://anilist.co/anime/162670",
-   "visual": "visuals/20261012-ffcb38aa9b63.jpg",
-   "work": "Dr. STONE New World Part 2",
-   "media_id": "17906973813576079",
-   "ts": 1791829647.920187,
-   "card": "posts/20261012-ffcb38aa9b63.jpg"
-  },
-  {
-   "id": "ffcb38aa9b63",
-   "type": "story",
-   "headline": "Dr. STONE New World Part 2 fête ses 3 ans",
-   "key": null,
-   "link": "https://anilist.co/anime/162670",
-   "visual": null,
-   "work": "Dr. STONE New World Part 2",
-   "media_id": "18122283857514403",
-   "ts": 1791829655.617859,
-   "card": null
-  },
   {
    "id": "05ebbdc46beb-reel",
    "type": "reel",
