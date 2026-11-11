@@ -1,7 +1,5 @@
 {
  "seen": {
-  "8b524d45e0f4": 1791827751.840455,
-  "e07e8f43e09e": 1791827752.418148,
   "6d08e0c2ce89": 1791828661.093791,
   "0721f47f2799": 1791828661.093944,
   "d64a42eec5bd": 1791828661.947966,
@@ -273,70 +271,6 @@
  },
  "queue": [],
  "posted": [
-  {
-   "id": "8b524d45e0f4",
-   "type": "post",
-   "headline": "From Far Away : l’épisode 2 est sorti",
-   "key": [
-    "away",
-    "episode",
-    "est",
-    "far",
-    "from",
-    "sorti"
-   ],
-   "link": "https://anilist.co/anime/209463",
-   "visual": "visuals/20261012-8b524d45e0f4.jpg",
-   "work": "From Far Away",
-   "media_id": "18012578297973479",
-   "ts": 1791827798.058361,
-   "card": "posts/20261012-8b524d45e0f4.jpg"
-  },
-  {
-   "id": "8b524d45e0f4",
-   "type": "story",
-   "headline": "From Far Away : l’épisode 2 est sorti",
-   "key": null,
-   "link": "https://anilist.co/anime/209463",
-   "visual": null,
-   "work": "From Far Away",
-   "media_id": "17999048538042834",
-   "ts": 1791827807.907637,
-   "card": null
-  },
-  {
-   "id": "e07e8f43e09e",
-   "type": "post",
-   "headline": "Uncle's Obsession with Cute Things : l’épisode 2 est sorti",
-   "key": [
-    "cute",
-    "episode",
-    "est",
-    "obsession",
-    "sorti",
-    "things",
-    "uncle",
-    "with"
-   ],
-   "link": "https://anilist.co/anime/202079",
-   "visual": "visuals/20261012-e07e8f43e09e.jpg",
-   "work": "Uncle's Obsession with Cute Things",
-   "media_id": "17874653355594605",
-   "ts": 1791827819.577291,
-   "card": "posts/20261012-e07e8f43e09e.jpg"
-  },
-  {
-   "id": "e07e8f43e09e",
-   "type": "story",
-   "headline": "Uncle's Obsession with Cute Things : l’épisode 2 est sorti",
-   "key": null,
-   "link": "https://anilist.co/anime/202079",
-   "visual": null,
-   "work": "Uncle's Obsession with Cute Things",
-   "media_id": "18438649432181489",
-   "ts": 1791827829.21328,
-   "card": null
-  },
   {
    "id": "0721f47f2799",
    "type": "post",
