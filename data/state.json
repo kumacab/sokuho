@@ -353,7 +353,8 @@
   "866a31640ebf": 1794388369.772502,
   "8ba878938973": 1794392023.455677,
   "0dec2e635c40": 1794394760.079481,
-  "b6d9ad3fe8eb": 1794396584.083494
+  "b6d9ad3fe8eb": 1794396584.083494,
+  "46f923107ce6": 1794397501.068118
  },
  "queue": [],
  "posted": [
@@ -7486,6 +7487,32 @@
    "work": "Nanatsuya Shinobu no Housekibako",
    "media_id": "18055878857807701",
    "ts": 1794396731.065983,
+   "card": null
+  },
+  {
+   "id": "46f923107ce6",
+   "type": "reel",
+   "headline": "Mashle Saison 3 : nouveau trailer",
+   "key": [
+    "mashle"
+   ],
+   "link": "https://adala-news.fr/2026/11/lanime-mashle-saison-3-en-trailer/",
+   "visual": "visuals/20261111-46f923107ce6.jpg",
+   "work": "Mashle Saison 3",
+   "media_id": "17885360277529811",
+   "ts": 1794397630.905925,
+   "card": "posts/20261111-46f923107ce6.jpg"
+  },
+  {
+   "id": "46f923107ce6",
+   "type": "story",
+   "headline": "Mashle Saison 3 : nouveau trailer",
+   "key": null,
+   "link": "https://adala-news.fr/2026/11/lanime-mashle-saison-3-en-trailer/",
+   "visual": null,
+   "work": "Mashle Saison 3",
+   "media_id": "17950446114356916",
+   "ts": 1794397644.906626,
    "card": null
   }
  ],
