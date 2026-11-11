@@ -1,8 +1,5 @@
 {
  "seen": {
-  "8a7ee3efec41": 1791819307.602206,
-  "31752556622d": 1791819308.748569,
-  "d3e423236843": 1791819309.735686,
   "feaaace01f31": 1791820444.058511,
   "6e2e538e69e3": 1791820445.36761,
   "83879f97eb10": 1791823178.517378,
@@ -294,106 +291,6 @@
  },
  "queue": [],
  "posted": [
-  {
-   "id": "8a7ee3efec41",
-   "type": "post",
-   "headline": "Dragon Ball Super: Beerus partage ses génériques sans crédits",
-   "key": [
-    "ball",
-    "beerus",
-    "credits",
-    "dragon",
-    "generiques",
-    "partage",
-    "sans",
-    "super"
-   ],
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/12/dragon-ball-super-beerus-video-opening-ending-sans-credits",
-   "visual": "visuals/20261012-8a7ee3efec41.jpg",
-   "work": "Dragon Ball Super",
-   "media_id": "18134202904776578",
-   "ts": 1791819531.418948,
-   "card": "posts/20261012-8a7ee3efec41.jpg"
-  },
-  {
-   "id": "8a7ee3efec41",
-   "type": "story",
-   "headline": "Dragon Ball Super: Beerus partage ses génériques sans crédits",
-   "key": null,
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/12/dragon-ball-super-beerus-video-opening-ending-sans-credits",
-   "visual": null,
-   "work": "Dragon Ball Super",
-   "media_id": "18029997767907117",
-   "ts": 1791819539.776417,
-   "card": null
-  },
-  {
-   "id": "31752556622d",
-   "type": "post",
-   "headline": "Les Carnets de l'apothicaire : The Late Lady's Treasure",
-   "key": [
-    "2e",
-    "apothicaire",
-    "carnets",
-    "dans",
-    "lady",
-    "late",
-    "nouvelles",
-    "personnages",
-    "treasure",
-    "voix"
-   ],
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/12/les-carnets-de-l-apothicaire-the-late-lady-s-treasure-film-trailer-personnages-clan-bi",
-   "visual": "visuals/20261012-31752556622d.jpg",
-   "work": "Les Carnets de l'apothicaire",
-   "media_id": "18136262458709825",
-   "ts": 1791819550.20948,
-   "card": "posts/20261012-31752556622d.jpg"
-  },
-  {
-   "id": "31752556622d",
-   "type": "story",
-   "headline": "Les Carnets de l'apothicaire : The Late Lady's Treasure",
-   "key": null,
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/12/les-carnets-de-l-apothicaire-the-late-lady-s-treasure-film-trailer-personnages-clan-bi",
-   "visual": null,
-   "work": "Les Carnets de l'apothicaire",
-   "media_id": "18107365666953856",
-   "ts": 1791819558.566728,
-   "card": null
-  },
-  {
-   "id": "d3e423236843",
-   "type": "reel",
-   "headline": "Nue's Exorcist : Un anime pour l'été 2027",
-   "key": [
-    "2027",
-    "devoilee",
-    "equipe",
-    "ete",
-    "exorcist",
-    "nue",
-    "production"
-   ],
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/12/nues-exorcist-annonce-adaptation-ete-2027-trailer-visuel-staff-casting",
-   "visual": "visuals/20261012-d3e423236843.jpg",
-   "work": "Nue's Exorcist",
-   "media_id": "18076628018456606",
-   "ts": 1791819629.802135,
-   "card": "posts/20261012-d3e423236843.jpg"
-  },
-  {
-   "id": "d3e423236843",
-   "type": "story",
-   "headline": "Nue's Exorcist : Un anime pour l'été 2027",
-   "key": null,
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/12/nues-exorcist-annonce-adaptation-ete-2027-trailer-visuel-staff-casting",
-   "visual": null,
-   "work": "Nue's Exorcist",
-   "media_id": "17908465113592524",
-   "ts": 1791819639.632889,
-   "card": null
-  },
   {
    "id": "feaaace01f31",
    "type": "post",
