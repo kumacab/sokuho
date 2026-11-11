@@ -349,7 +349,8 @@
   "2f0b6af0003a": 1794319882.491503,
   "73d29c1b6bf3": 1794320798.030797,
   "43ad2dff30eb": 1794322630.529528,
-  "c972b4118fac": 1794331767.126068
+  "c972b4118fac": 1794331767.126068,
+  "866a31640ebf": 1794388369.772502
  },
  "queue": [],
  "posted": [
@@ -7388,6 +7389,38 @@
    "work": "",
    "media_id": "18000849519009479",
    "ts": 1794331857.944464,
+   "card": null
+  },
+  {
+   "id": "866a31640ebf",
+   "type": "reel",
+   "headline": "L’anime Berserk of Gluttony Saison 2 sortira en avril 2027 sur…",
+   "key": [
+    "2027",
+    "avril",
+    "berserk",
+    "crunchyroll",
+    "gluttony",
+    "sortira",
+    "visuel"
+   ],
+   "link": "https://animotaku.fr/actualite/anime-berserk-of-gluttony-saison-2-avril-2027-crunchyroll/",
+   "visual": "visuals/20261111-866a31640ebf.jpg",
+   "work": "anime Berserk of Gluttony Saison 2",
+   "media_id": "18100182098423211",
+   "ts": 1794388483.794801,
+   "card": "posts/20261111-866a31640ebf.jpg"
+  },
+  {
+   "id": "866a31640ebf",
+   "type": "story",
+   "headline": "L’anime Berserk of Gluttony Saison 2 sortira en avril 2027 sur…",
+   "key": null,
+   "link": "https://animotaku.fr/actualite/anime-berserk-of-gluttony-saison-2-avril-2027-crunchyroll/",
+   "visual": null,
+   "work": "anime Berserk of Gluttony Saison 2",
+   "media_id": "18096471374676785",
+   "ts": 1794388497.472192,
    "card": null
   }
  ],
