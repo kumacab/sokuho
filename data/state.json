@@ -1,7 +1,5 @@
 {
  "seen": {
-  "13fdf87ecb94": 1791824096.28235,
-  "119fb6e0236e": 1791824096.93605,
   "6b9ea7f4087a": 1791825005.165252,
   "0bb16c968cbb": 1791825005.752852,
   "d0c8176728d6": 1791825005.752936,
@@ -276,81 +274,11 @@
   "b6d9ad3fe8eb": 1794396584.083494,
   "46f923107ce6": 1794397501.068118,
   "2412313db3d5": 1794398412.58737,
-  "2dd8ae03f316": 1794399331.615163
+  "2dd8ae03f316": 1794399331.615163,
+  "5e194541a9be": 1794416678.273087
  },
  "queue": [],
  "posted": [
-  {
-   "id": "13fdf87ecb94",
-   "type": "post",
-   "headline": "Reborn as a Space Mercenary : l’épisode 2 est sorti",
-   "key": [
-    "as",
-    "episode",
-    "est",
-    "mercenary",
-    "reborn",
-    "sorti",
-    "space"
-   ],
-   "link": "https://anilist.co/anime/186541",
-   "visual": "visuals/20261012-13fdf87ecb94.jpg",
-   "work": "Reborn as a Space Mercenary",
-   "media_id": "18088128158504477",
-   "ts": 1791824134.414816,
-   "card": "posts/20261012-13fdf87ecb94.jpg"
-  },
-  {
-   "id": "13fdf87ecb94",
-   "type": "story",
-   "headline": "Reborn as a Space Mercenary : l’épisode 2 est sorti",
-   "key": null,
-   "link": "https://anilist.co/anime/186541",
-   "visual": null,
-   "work": "Reborn as a Space Mercenary",
-   "media_id": "18059687483555204",
-   "ts": 1791824142.091105,
-   "card": null
-  },
-  {
-   "id": "119fb6e0236e",
-   "type": "post",
-   "headline": "Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu : l’épisode 2 est sorti",
-   "key": [
-    "desu",
-    "doumo",
-    "episode",
-    "est",
-    "hito",
-    "horegusuri",
-    "irai",
-    "majo",
-    "na",
-    "ni",
-    "sareta",
-    "sorti",
-    "suki",
-    "wo"
-   ],
-   "link": "https://anilist.co/anime/207191",
-   "visual": "visuals/20261012-119fb6e0236e.jpg",
-   "work": "Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu",
-   "media_id": "18034025312844953",
-   "ts": 1791824152.483882,
-   "card": "posts/20261012-119fb6e0236e.jpg"
-  },
-  {
-   "id": "119fb6e0236e",
-   "type": "story",
-   "headline": "Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu : l’épisode 2 est sorti",
-   "key": null,
-   "link": "https://anilist.co/anime/207191",
-   "visual": null,
-   "work": "Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu",
-   "media_id": "18106777193628928",
-   "ts": 1791824160.816141,
-   "card": null
-  },
   {
    "id": "6b9ea7f4087a",
    "type": "post",
@@ -7140,6 +7068,53 @@
    "media_id": "17950446114356916",
    "ts": 1794397644.906626,
    "card": null
+  },
+  {
+   "id": "5e194541a9be",
+   "type": "post",
+   "headline": "Medaka Kuroiwa is Impervious to My Charms Saison 2 sera disponible sur…",
+   "key": [
+    "charms",
+    "crunchyroll",
+    "disponible",
+    "impervious",
+    "is",
+    "kuroiwa",
+    "medaka",
+    "my",
+    "sera",
+    "to"
+   ],
+   "link": "https://crunchyroll.com/fr/news/announcements/2026/11/11/medaka-kuroiwa-is-impervious-to-my-charms-saison-2-streaming-crunchyroll",
+   "visual": "visuals/20261111-5e194541a9be.jpg",
+   "work": "",
+   "media_id": "18128060707903212",
+   "ts": 1794416738.237826,
+   "card": "posts/20261111-5e194541a9be.jpg"
+  },
+  {
+   "id": "car-upcoming-2026-W46",
+   "type": "carousel",
+   "headline": "🔥 ON VA PAS S'ENNUYER CET HIVER 2027 !",
+   "key": null,
+   "link": null,
+   "visual": null,
+   "work": null,
+   "media_id": "17961323559014817",
+   "ts": 1794416836.499265,
+   "card": null
+  },
+  {
+   "id": "5e194541a9be",
+   "type": "story",
+   "headline": "Medaka Kuroiwa is Impervious to My Charms Saison 2 sera disponible sur…",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/announcements/2026/11/11/medaka-kuroiwa-is-impervious-to-my-charms-saison-2-streaming-crunchyroll",
+   "visual": null,
+   "work": "",
+   "media_id": "17901237405610771",
+   "ts": 1794416849.759357,
+   "card": null
   }
  ],
  "last_recap": "2026-W45",
@@ -7147,7 +7122,7 @@
  "manual_reels": [],
  "ig_pause_until": 1792187394.2893388,
  "carousels_done": {
-  "upcoming": "2026-W45",
+  "upcoming": "2026-W46",
   "movies": "2026-W45",
   "countdown": "2026-W45",
   "week": "2026-W46"
