@@ -1,8 +1,5 @@
 {
  "seen": {
-  "6d08e0c2ce89": 1791828661.093791,
-  "0721f47f2799": 1791828661.093944,
-  "d64a42eec5bd": 1791828661.947966,
   "1ff33acf81fe": 1791829575.164681,
   "2664b080b990": 1791829575.586424,
   "ffcb38aa9b63": 1791829576.221594,
@@ -271,65 +268,6 @@
  },
  "queue": [],
  "posted": [
-  {
-   "id": "0721f47f2799",
-   "type": "post",
-   "headline": "Chainsaw Man fête ses 4 ans",
-   "key": [
-    "ans",
-    "chainsaw",
-    "fete",
-    "man"
-   ],
-   "link": "https://anilist.co/anime/127230",
-   "visual": "visuals/20261012-0721f47f2799.jpg",
-   "work": "Chainsaw Man",
-   "media_id": "18158096569521683",
-   "ts": 1791828697.689354,
-   "card": "posts/20261012-0721f47f2799.jpg"
-  },
-  {
-   "id": "0721f47f2799",
-   "type": "story",
-   "headline": "Chainsaw Man fête ses 4 ans",
-   "key": null,
-   "link": "https://anilist.co/anime/127230",
-   "visual": null,
-   "work": "Chainsaw Man",
-   "media_id": "18109263551190011",
-   "ts": 1791828705.538274,
-   "card": null
-  },
-  {
-   "id": "d64a42eec5bd",
-   "type": "post",
-   "headline": "My Hero Academia saison 4 fête ses 7 ans",
-   "key": [
-    "academia",
-    "ans",
-    "fete",
-    "hero",
-    "my"
-   ],
-   "link": "https://anilist.co/anime/104276",
-   "visual": "visuals/20261012-d64a42eec5bd.jpg",
-   "work": "My Hero Academia saison 4",
-   "media_id": "17906838021587848",
-   "ts": 1791828714.601493,
-   "card": "posts/20261012-d64a42eec5bd.jpg"
-  },
-  {
-   "id": "d64a42eec5bd",
-   "type": "story",
-   "headline": "My Hero Academia saison 4 fête ses 7 ans",
-   "key": null,
-   "link": "https://anilist.co/anime/104276",
-   "visual": null,
-   "work": "My Hero Academia saison 4",
-   "media_id": "17954333037036904",
-   "ts": 1791828720.484681,
-   "card": null
-  },
   {
    "id": "2664b080b990",
    "type": "post",
