@@ -1,8 +1,5 @@
 {
  "seen": {
-  "6b9ea7f4087a": 1791825005.165252,
-  "0bb16c968cbb": 1791825005.752852,
-  "d0c8176728d6": 1791825005.752936,
   "b833813722ee": 1791825922.626097,
   "5e0532a2cec9": 1791825923.261379,
   "3642d59fac91": 1791826832.945499,
@@ -275,75 +272,11 @@
   "46f923107ce6": 1794397501.068118,
   "2412313db3d5": 1794398412.58737,
   "2dd8ae03f316": 1794399331.615163,
-  "5e194541a9be": 1794416678.273087
+  "5e194541a9be": 1794416678.273087,
+  "8fdfd3b3d273": 1794417595.388789
  },
  "queue": [],
  "posted": [
-  {
-   "id": "6b9ea7f4087a",
-   "type": "post",
-   "headline": "Dragon Ball Super: Beerus : l’épisode 1 est sorti",
-   "key": [
-    "ball",
-    "beerus",
-    "dragon",
-    "episode",
-    "est",
-    "sorti",
-    "super"
-   ],
-   "link": "https://anilist.co/anime/206814",
-   "visual": "visuals/20261012-6b9ea7f4087a.jpg",
-   "work": "Dragon Ball Super: Beerus",
-   "media_id": "18130173244826738",
-   "ts": 1791825045.182969,
-   "card": "posts/20261012-6b9ea7f4087a.jpg"
-  },
-  {
-   "id": "6b9ea7f4087a",
-   "type": "story",
-   "headline": "Dragon Ball Super: Beerus : l’épisode 1 est sorti",
-   "key": null,
-   "link": "https://anilist.co/anime/206814",
-   "visual": null,
-   "work": "Dragon Ball Super: Beerus",
-   "media_id": "17871077442644417",
-   "ts": 1791825054.064061,
-   "card": null
-  },
-  {
-   "id": "d0c8176728d6",
-   "type": "post",
-   "headline": "Tensei Goblin Dakedo Shitsumon Aru? : l’épisode 3 est sorti",
-   "key": [
-    "aru",
-    "dakedo",
-    "episode",
-    "est",
-    "goblin",
-    "shitsumon",
-    "sorti",
-    "tensei"
-   ],
-   "link": "https://anilist.co/anime/209219",
-   "visual": "visuals/20261012-d0c8176728d6.jpg",
-   "work": "Tensei Goblin Dakedo Shitsumon Aru?",
-   "media_id": "18079862984719593",
-   "ts": 1791825064.332647,
-   "card": "posts/20261012-d0c8176728d6.jpg"
-  },
-  {
-   "id": "d0c8176728d6",
-   "type": "story",
-   "headline": "Tensei Goblin Dakedo Shitsumon Aru? : l’épisode 3 est sorti",
-   "key": null,
-   "link": "https://anilist.co/anime/209219",
-   "visual": null,
-   "work": "Tensei Goblin Dakedo Shitsumon Aru?",
-   "media_id": "18194608153393399",
-   "ts": 1791825073.359106,
-   "card": null
-  },
   {
    "id": "b833813722ee",
    "type": "post",
@@ -7114,6 +7047,33 @@
    "work": "",
    "media_id": "17901237405610771",
    "ts": 1794416849.759357,
+   "card": null
+  },
+  {
+   "id": "8fdfd3b3d273",
+   "type": "post",
+   "headline": "L’Oxalis et l’Or adapté en anime",
+   "key": [
+    "or",
+    "oxalis"
+   ],
+   "link": "https://adala-news.fr/2026/11/le-manga-loxalis-et-lor-adapte-en-anime/",
+   "visual": "visuals/20261111-8fdfd3b3d273.jpg",
+   "work": "L'Oxalis et l'Or",
+   "media_id": "18027291329925956",
+   "ts": 1794417646.846747,
+   "card": "posts/20261111-8fdfd3b3d273.jpg"
+  },
+  {
+   "id": "8fdfd3b3d273",
+   "type": "story",
+   "headline": "L’Oxalis et l’Or adapté en anime",
+   "key": null,
+   "link": "https://adala-news.fr/2026/11/le-manga-loxalis-et-lor-adapte-en-anime/",
+   "visual": null,
+   "work": "L'Oxalis et l'Or",
+   "media_id": "17915247357487284",
+   "ts": 1794417660.562167,
    "card": null
   }
  ],
