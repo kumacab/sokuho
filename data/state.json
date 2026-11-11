@@ -350,7 +350,8 @@
   "73d29c1b6bf3": 1794320798.030797,
   "43ad2dff30eb": 1794322630.529528,
   "c972b4118fac": 1794331767.126068,
-  "866a31640ebf": 1794388369.772502
+  "866a31640ebf": 1794388369.772502,
+  "8ba878938973": 1794392023.455677
  },
  "queue": [],
  "posted": [
@@ -7421,6 +7422,39 @@
    "work": "anime Berserk of Gluttony Saison 2",
    "media_id": "18096471374676785",
    "ts": 1794388497.472192,
+   "card": null
+  },
+  {
+   "id": "8ba878938973",
+   "type": "reel",
+   "headline": "L’anime Nanatsu-ya : Shinobu and Her Jewelry Box, annoncé pour 2027",
+   "key": [
+    "2027",
+    "and",
+    "box",
+    "her",
+    "jewelry",
+    "nanatsu",
+    "shinobu",
+    "ya"
+   ],
+   "link": "https://animotaku.fr/actualite/anime-nanatsu-ya-shinobu-and-her-jewelry-box-annonce-2027/",
+   "visual": "visuals/20261111-8ba878938973.jpg",
+   "work": "Nanatsu-ya",
+   "media_id": "18114665036140916",
+   "ts": 1794392140.388088,
+   "card": "posts/20261111-8ba878938973.jpg"
+  },
+  {
+   "id": "8ba878938973",
+   "type": "story",
+   "headline": "L’anime Nanatsu-ya : Shinobu and Her Jewelry Box, annoncé pour 2027",
+   "key": null,
+   "link": "https://animotaku.fr/actualite/anime-nanatsu-ya-shinobu-and-her-jewelry-box-annonce-2027/",
+   "visual": null,
+   "work": "Nanatsu-ya",
+   "media_id": "18030961007860187",
+   "ts": 1794392153.950344,
    "card": null
   }
  ],
