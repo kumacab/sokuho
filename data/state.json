@@ -1,7 +1,5 @@
 {
  "seen": {
-  "b833813722ee": 1791825922.626097,
-  "5e0532a2cec9": 1791825923.261379,
   "3642d59fac91": 1791826832.945499,
   "5381d3c8c57c": 1791826832.945672,
   "1b7629716d0c": 1791826833.671162,
@@ -277,83 +275,6 @@
  },
  "queue": [],
  "posted": [
-  {
-   "id": "b833813722ee",
-   "type": "post",
-   "headline": "Yowaki MAX Reijou Nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta : l’épisode 2 est sorti",
-   "key": [
-    "episode",
-    "est",
-    "kake",
-    "konyakusha",
-    "max",
-    "nano",
-    "ni",
-    "no",
-    "notte",
-    "ratsuwan",
-    "reijou",
-    "sama",
-    "shimatta",
-    "sorti",
-    "yowaki"
-   ],
-   "link": "https://anilist.co/anime/200455",
-   "visual": "visuals/20261012-b833813722ee.jpg",
-   "work": "Yowaki MAX Reijou Nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
-   "media_id": "17910949359472387",
-   "ts": 1791825981.129212,
-   "card": "posts/20261012-b833813722ee.jpg"
-  },
-  {
-   "id": "b833813722ee",
-   "type": "story",
-   "headline": "Yowaki MAX Reijou Nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta : l’épisode 2 est sorti",
-   "key": null,
-   "link": "https://anilist.co/anime/200455",
-   "visual": null,
-   "work": "Yowaki MAX Reijou Nano ni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
-   "media_id": "17929209870411771",
-   "ts": 1791825988.100228,
-   "card": null
-  },
-  {
-   "id": "5e0532a2cec9",
-   "type": "post",
-   "headline": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku : l’épisode 1 est sorti",
-   "key": [
-    "episode",
-    "est",
-    "hajimeru",
-    "isekai",
-    "kouryaku",
-    "megami",
-    "no",
-    "sama",
-    "shinja",
-    "sorti",
-    "to",
-    "zero"
-   ],
-   "link": "https://anilist.co/anime/205896",
-   "visual": "visuals/20261012-5e0532a2cec9.jpg",
-   "work": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
-   "media_id": "18113582774143803",
-   "ts": 1791825997.234835,
-   "card": "posts/20261012-5e0532a2cec9.jpg"
-  },
-  {
-   "id": "5e0532a2cec9",
-   "type": "story",
-   "headline": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku : l’épisode 1 est sorti",
-   "key": null,
-   "link": "https://anilist.co/anime/205896",
-   "visual": null,
-   "work": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
-   "media_id": "17912214543540507",
-   "ts": 1791826003.694251,
-   "card": null
-  },
   {
    "id": "5381d3c8c57c",
    "type": "post",
