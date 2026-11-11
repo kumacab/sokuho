@@ -1,9 +1,5 @@
 {
  "seen": {
-  "4da4e0eba4b3": 1791843268.55581,
-  "8f2785220fa1": 1791843268.943884,
-  "b7909294ac7b": 1791844183.479706,
-  "b97fc9721141": 1791844184.058776,
   "e9d1b49160a9": 1791845090.060174,
   "1a576619cf57": 1791845090.651173,
   "c3587b5301e0": 1791894361.722264,
@@ -263,78 +259,6 @@
  },
  "queue": [],
  "posted": [
-  {
-   "id": "05ebbdc46beb-reel",
-   "type": "reel",
-   "headline": "Robotics;Notes fête ses 14 ans",
-   "key": null,
-   "link": "https://anilist.co/anime/13599",
-   "visual": "visuals/20261012-05ebbdc46beb.jpg",
-   "work": "Robotics;Notes",
-   "media_id": "18116977094089813",
-   "ts": 1791843372.592547,
-   "card": null
-  },
-  {
-   "id": "4da4e0eba4b3",
-   "type": "post",
-   "headline": "Sword Art Online fête ses 7 ans",
-   "key": [
-    "ans",
-    "art",
-    "fete",
-    "online",
-    "sword"
-   ],
-   "link": "https://anilist.co/anime/108759",
-   "visual": "visuals/20261012-4da4e0eba4b3.jpg",
-   "work": "Sword Art Online",
-   "media_id": "18119580032066165",
-   "ts": 1791843385.096027,
-   "card": "posts/20261012-4da4e0eba4b3.jpg"
-  },
-  {
-   "id": "4da4e0eba4b3",
-   "type": "story",
-   "headline": "Sword Art Online fête ses 7 ans",
-   "key": null,
-   "link": "https://anilist.co/anime/108759",
-   "visual": null,
-   "work": "Sword Art Online",
-   "media_id": "18116275115520892",
-   "ts": 1791843395.466996,
-   "card": null
-  },
-  {
-   "id": "8f2785220fa1",
-   "type": "post",
-   "headline": "INUYASHIKI LAST HERO fête ses 9 ans",
-   "key": [
-    "ans",
-    "fete",
-    "hero",
-    "inuyashiki",
-    "last"
-   ],
-   "link": "https://anilist.co/anime/97922",
-   "visual": "visuals/20261012-8f2785220fa1.jpg",
-   "work": "INUYASHIKI LAST HERO",
-   "media_id": "18191207392404831",
-   "ts": 1791843406.239556,
-   "card": "posts/20261012-8f2785220fa1.jpg"
-  },
-  {
-   "id": "8f2785220fa1",
-   "type": "story",
-   "headline": "INUYASHIKI LAST HERO fête ses 9 ans",
-   "key": null,
-   "link": "https://anilist.co/anime/97922",
-   "visual": null,
-   "work": "INUYASHIKI LAST HERO",
-   "media_id": "18140936080617186",
-   "ts": 1791843416.143983,
-   "card": null
-  },
   {
    "id": "92593e969eab",
    "type": "reel",
