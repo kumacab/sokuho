@@ -352,7 +352,8 @@
   "c972b4118fac": 1794331767.126068,
   "866a31640ebf": 1794388369.772502,
   "8ba878938973": 1794392023.455677,
-  "0dec2e635c40": 1794394760.079481
+  "0dec2e635c40": 1794394760.079481,
+  "b6d9ad3fe8eb": 1794396584.083494
  },
  "queue": [],
  "posted": [
@@ -7456,6 +7457,35 @@
    "work": "Nanatsu-ya",
    "media_id": "18030961007860187",
    "ts": 1794392153.950344,
+   "card": null
+  },
+  {
+   "id": "b6d9ad3fe8eb",
+   "type": "reel",
+   "headline": "Nanatsuya Shinobu no Housekibako dévoile un teaser vidéo",
+   "key": [
+    "housekibako",
+    "nanatsuya",
+    "no",
+    "shinobu"
+   ],
+   "link": "https://adala-news.fr/2026/11/lanime-nanatsuya-shinobu-no-housekibako-en-teaser-video/",
+   "visual": "visuals/20261111-b6d9ad3fe8eb.jpg",
+   "work": "Nanatsuya Shinobu no Housekibako",
+   "media_id": "18148170196582872",
+   "ts": 1794396717.865008,
+   "card": "posts/20261111-b6d9ad3fe8eb.jpg"
+  },
+  {
+   "id": "b6d9ad3fe8eb",
+   "type": "story",
+   "headline": "Nanatsuya Shinobu no Housekibako dévoile un teaser vidéo",
+   "key": null,
+   "link": "https://adala-news.fr/2026/11/lanime-nanatsuya-shinobu-no-housekibako-en-teaser-video/",
+   "visual": null,
+   "work": "Nanatsuya Shinobu no Housekibako",
+   "media_id": "18055878857807701",
+   "ts": 1794396731.065983,
    "card": null
   }
  ],
