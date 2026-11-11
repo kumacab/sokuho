@@ -1,14 +1,5 @@
 {
  "seen": {
-  "83879f97eb10": 1791823178.517378,
-  "0c210ac01e4b": 1791823178.517381,
-  "ca9150556d4f": 1791823178.517383,
-  "c59f989b75f8": 1791823178.517385,
-  "8dfe1f8efd51": 1791823178.517385,
-  "4ebc2802a6f8": 1791823178.517386,
-  "b1137c56dadf": 1791823178.517387,
-  "982a23883140": 1791823179.32415,
-  "ad77aedff405": 1791823179.970696,
   "13fdf87ecb94": 1791824096.28235,
   "119fb6e0236e": 1791824096.93605,
   "6b9ea7f4087a": 1791825005.165252,
@@ -289,68 +280,6 @@
  },
  "queue": [],
  "posted": [
-  {
-   "id": "982a23883140",
-   "type": "post",
-   "headline": "Overgeared : l’épisode 3 est sorti",
-   "key": [
-    "episode",
-    "est",
-    "overgeared",
-    "sorti"
-   ],
-   "link": "https://anilist.co/anime/212888",
-   "visual": "visuals/20261012-982a23883140.jpg",
-   "work": "Overgeared",
-   "media_id": "18176552086801154",
-   "ts": 1791823220.464438,
-   "card": "posts/20261012-982a23883140.jpg"
-  },
-  {
-   "id": "982a23883140",
-   "type": "story",
-   "headline": "Overgeared : l’épisode 3 est sorti",
-   "key": null,
-   "link": "https://anilist.co/anime/212888",
-   "visual": null,
-   "work": "Overgeared",
-   "media_id": "18628509499033195",
-   "ts": 1791823229.299815,
-   "card": null
-  },
-  {
-   "id": "ad77aedff405",
-   "type": "post",
-   "headline": "Tensei Kizoku, Kantei Skill de Nariagaru saison 3 : l’épisode 3 est sorti",
-   "key": [
-    "episode",
-    "est",
-    "kantei",
-    "kizoku",
-    "nariagaru",
-    "skill",
-    "sorti",
-    "tensei"
-   ],
-   "link": "https://anilist.co/anime/185756",
-   "visual": "visuals/20261012-ad77aedff405.jpg",
-   "work": "Tensei Kizoku, Kantei Skill de Nariagaru saison 3",
-   "media_id": "18027136163701412",
-   "ts": 1791823239.824845,
-   "card": "posts/20261012-ad77aedff405.jpg"
-  },
-  {
-   "id": "ad77aedff405",
-   "type": "story",
-   "headline": "Tensei Kizoku, Kantei Skill de Nariagaru saison 3 : l’épisode 3 est sorti",
-   "key": null,
-   "link": "https://anilist.co/anime/185756",
-   "visual": null,
-   "work": "Tensei Kizoku, Kantei Skill de Nariagaru saison 3",
-   "media_id": "17974164768135399",
-   "ts": 1791823247.849415,
-   "card": null
-  },
   {
    "id": "13fdf87ecb94",
    "type": "post",
