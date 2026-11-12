@@ -254,7 +254,8 @@
   "5e194541a9be": 1794416678.273087,
   "8fdfd3b3d273": 1794417595.388789,
   "c62693e13d12": 1794419418.123403,
-  "02d416baeff0": 1794469853.921237
+  "02d416baeff0": 1794469853.921237,
+  "945bd18260d6": 1794471677.931029
  },
  "queue": [],
  "posted": [
@@ -6716,6 +6717,38 @@
    "work": "",
    "media_id": "17981298405067429",
    "ts": 1794469991.157049,
+   "card": null
+  },
+  {
+   "id": "945bd18260d6",
+   "type": "reel",
+   "headline": "SSS-Class Revival Hunter : L'ending présenté dans le nouveau Trailer",
+   "key": [
+    "class",
+    "dans",
+    "ending",
+    "hunter",
+    "presente",
+    "revival",
+    "sss"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/12/sss-class-revival-hunter-trailer-ending",
+   "visual": "visuals/20261112-945bd18260d6.jpg",
+   "work": "SSS-Class Revival Hunter",
+   "media_id": "17871500748660396",
+   "ts": 1794471799.688299,
+   "card": "posts/20261112-945bd18260d6.jpg"
+  },
+  {
+   "id": "945bd18260d6",
+   "type": "story",
+   "headline": "SSS-Class Revival Hunter : L'ending présenté dans le nouveau Trailer",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/12/sss-class-revival-hunter-trailer-ending",
+   "visual": null,
+   "work": "SSS-Class Revival Hunter",
+   "media_id": "18119022098328587",
+   "ts": 1794471813.10402,
    "card": null
   }
  ],
