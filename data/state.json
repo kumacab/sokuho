@@ -1,7 +1,5 @@
 {
  "seen": {
-  "82a10a22054e": 1791900260.881009,
-  "779c43a26a1a": 1791900261.556116,
   "cc19015b427d": 1791901174.648986,
   "51c75780ef61": 1791903915.760819,
   "92593e969eab": 1791928136.056194,
@@ -261,7 +259,8 @@
   "9e755d4fd325": 1794482628.38515,
   "7020864e09ac": 1794489016.331475,
   "c84ce0a8cf5b": 1794490843.785655,
-  "073d293e3865": 1794491752.259358
+  "073d293e3865": 1794491752.259358,
+  "fd13bee6a835": 1794492663.556626
  },
  "queue": [],
  "posted": [
@@ -6983,6 +6982,40 @@
    "work": "",
    "media_id": "18132947227819409",
    "ts": 1794491818.604928,
+   "card": null
+  },
+  {
+   "id": "fd13bee6a835",
+   "type": "post",
+   "headline": "Dragon Ball DAIMA : pourquoi la VF diffusée sur Gulli fait polémique ?",
+   "key": [
+    "ball",
+    "daima",
+    "diffusee",
+    "dragon",
+    "fait",
+    "gulli",
+    "polemique",
+    "pourquoi",
+    "vf"
+   ],
+   "link": "https://animotaku.fr/actualite/dragon-ball-daima-vf-gulli-polemique/",
+   "visual": "visuals/20261112-fd13bee6a835.jpg",
+   "work": "Gulli",
+   "media_id": "17942364696400081",
+   "ts": 1794492712.892194,
+   "card": "posts/20261112-fd13bee6a835.jpg"
+  },
+  {
+   "id": "fd13bee6a835",
+   "type": "story",
+   "headline": "Dragon Ball DAIMA : pourquoi la VF diffusée sur Gulli fait polémique ?",
+   "key": null,
+   "link": "https://animotaku.fr/actualite/dragon-ball-daima-vf-gulli-polemique/",
+   "visual": null,
+   "work": "Gulli",
+   "media_id": "18356980111264906",
+   "ts": 1794492726.798509,
    "card": null
   }
  ],
