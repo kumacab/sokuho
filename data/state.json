@@ -257,7 +257,8 @@
   "02d416baeff0": 1794469853.921237,
   "945bd18260d6": 1794471677.931029,
   "7086c9533aef": 1794473499.522008,
-  "e8260f35f555": 1794475328.524949
+  "e8260f35f555": 1794475328.524949,
+  "2bf974fef8bc": 1794479890.464631
  },
  "queue": [],
  "posted": [
@@ -6782,6 +6783,39 @@
    "work": "Tsugumi Project",
    "media_id": "18124306912943906",
    "ts": 1794475461.580279,
+   "card": null
+  },
+  {
+   "id": "2bf974fef8bc",
+   "type": "reel",
+   "headline": "Red Riding Hood: A Detective Story dévoile un Trailer et des Visuels de…",
+   "key": [
+    "detective",
+    "devoile",
+    "hood",
+    "personnages",
+    "red",
+    "riding",
+    "story",
+    "visuels"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/12/red-riding-hood-a-detective-story-trailers-visuels-personnages",
+   "visual": "visuals/20261112-2bf974fef8bc.jpg",
+   "work": "Red Riding Hood",
+   "media_id": "18501411409110134",
+   "ts": 1794480009.262964,
+   "card": "posts/20261112-2bf974fef8bc.jpg"
+  },
+  {
+   "id": "2bf974fef8bc",
+   "type": "story",
+   "headline": "Red Riding Hood: A Detective Story dévoile un Trailer et des Visuels de…",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/12/red-riding-hood-a-detective-story-trailers-visuels-personnages",
+   "visual": null,
+   "work": "Red Riding Hood",
+   "media_id": "17979434871142747",
+   "ts": 1794480022.528718,
    "card": null
   }
  ],
