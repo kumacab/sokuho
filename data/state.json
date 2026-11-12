@@ -258,7 +258,9 @@
   "945bd18260d6": 1794471677.931029,
   "7086c9533aef": 1794473499.522008,
   "e8260f35f555": 1794475328.524949,
-  "2bf974fef8bc": 1794479890.464631
+  "2bf974fef8bc": 1794479890.464631,
+  "18783617a50d": 1794482627.318791,
+  "9e755d4fd325": 1794482628.38515
  },
  "queue": [],
  "posted": [
@@ -6816,6 +6818,70 @@
    "work": "Red Riding Hood",
    "media_id": "17979434871142747",
    "ts": 1794480022.528718,
+   "card": null
+  },
+  {
+   "id": "18783617a50d",
+   "type": "post",
+   "headline": "Le Remake d'Ocarina of Time devient le jeu le plus rapidement vendu sur…",
+   "key": [
+    "devient",
+    "jeu",
+    "ocarina",
+    "plus",
+    "rapidement",
+    "remake",
+    "switch",
+    "time",
+    "vendu"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/12/the-legend-of-zelda-ocarina-of-time-remake-ventes-jeu-switch-2",
+   "visual": "visuals/20261112-18783617a50d.jpg",
+   "work": "",
+   "media_id": "18156027631551107",
+   "ts": 1794482678.439087,
+   "card": "posts/20261112-18783617a50d.jpg"
+  },
+  {
+   "id": "9e755d4fd325",
+   "type": "post",
+   "headline": "Nabe ni Tama wo Ukenagara adapté en anime · teaser vidéo",
+   "key": [
+    "nabe",
+    "ni",
+    "tama",
+    "ukenagara",
+    "wo"
+   ],
+   "link": "https://adala-news.fr/2026/11/le-manga-nabe-ni-tama-wo-ukenagara-adapte-en-anime-teaser-video/",
+   "visual": "visuals/20261112-9e755d4fd325.jpg",
+   "work": "Nabe ni Tama wo Ukenagara",
+   "media_id": "18358308610168409",
+   "ts": 1794482692.353921,
+   "card": "posts/20261112-9e755d4fd325.jpg"
+  },
+  {
+   "id": "18783617a50d",
+   "type": "story",
+   "headline": "Le Remake d'Ocarina of Time devient le jeu le plus rapidement vendu sur…",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/12/the-legend-of-zelda-ocarina-of-time-remake-ventes-jeu-switch-2",
+   "visual": null,
+   "work": "",
+   "media_id": "18201305164387108",
+   "ts": 1794482705.794325,
+   "card": null
+  },
+  {
+   "id": "9e755d4fd325",
+   "type": "story",
+   "headline": "Nabe ni Tama wo Ukenagara adapté en anime · teaser vidéo",
+   "key": null,
+   "link": "https://adala-news.fr/2026/11/le-manga-nabe-ni-tama-wo-ukenagara-adapte-en-anime-teaser-video/",
+   "visual": null,
+   "work": "Nabe ni Tama wo Ukenagara",
+   "media_id": "18075613736764539",
+   "ts": 1794482719.266643,
    "card": null
   }
  ],
