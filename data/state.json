@@ -259,7 +259,8 @@
   "2bf974fef8bc": 1794479890.464631,
   "18783617a50d": 1794482627.318791,
   "9e755d4fd325": 1794482628.38515,
-  "7020864e09ac": 1794489016.331475
+  "7020864e09ac": 1794489016.331475,
+  "c84ce0a8cf5b": 1794490843.785655
  },
  "queue": [],
  "posted": [
@@ -6913,6 +6914,40 @@
    "work": "",
    "media_id": "18034691123911394",
    "ts": 1794489077.280944,
+   "card": null
+  },
+  {
+   "id": "c84ce0a8cf5b",
+   "type": "post",
+   "headline": "Nanatsu-ya: Shinobu and Her Jewelry Box sera adapté en anime en 2027",
+   "key": [
+    "2027",
+    "and",
+    "box",
+    "her",
+    "jewelry",
+    "nanatsu",
+    "sera",
+    "shinobu",
+    "ya"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/12/nanatsu-ya-shinobu-and-her-jewelry-box-annonce-adaptation-2027",
+   "visual": "visuals/20261112-c84ce0a8cf5b.jpg",
+   "work": "Nanatsu-ya",
+   "media_id": "18223551205348377",
+   "ts": 1794490893.444996,
+   "card": "posts/20261112-c84ce0a8cf5b.jpg"
+  },
+  {
+   "id": "c84ce0a8cf5b",
+   "type": "story",
+   "headline": "Nanatsu-ya: Shinobu and Her Jewelry Box sera adapté en anime en 2027",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/12/nanatsu-ya-shinobu-and-her-jewelry-box-annonce-adaptation-2027",
+   "visual": null,
+   "work": "Nanatsu-ya",
+   "media_id": "17960622300017963",
+   "ts": 1794490906.955466,
    "card": null
   }
  ],
