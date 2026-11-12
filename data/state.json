@@ -253,7 +253,8 @@
   "2dd8ae03f316": 1794399331.615163,
   "5e194541a9be": 1794416678.273087,
   "8fdfd3b3d273": 1794417595.388789,
-  "c62693e13d12": 1794419418.123403
+  "c62693e13d12": 1794419418.123403,
+  "02d416baeff0": 1794469853.921237
  },
  "queue": [],
  "posted": [
@@ -6684,6 +6685,37 @@
    "work": "",
    "media_id": "18417734455086905",
    "ts": 1794419500.04218,
+   "card": null
+  },
+  {
+   "id": "02d416baeff0",
+   "type": "reel",
+   "headline": "Berserk of Gluttony Saison 2 confirme sa diffusion en avril 2027",
+   "key": [
+    "2027",
+    "avril",
+    "berserk",
+    "confirme",
+    "diffusion",
+    "gluttony"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/12/berserk-of-gluttony-saison-2-avril-2027",
+   "visual": "visuals/20261112-02d416baeff0.jpg",
+   "work": "",
+   "media_id": "18025951154710713",
+   "ts": 1794469976.599889,
+   "card": "posts/20261112-02d416baeff0.jpg"
+  },
+  {
+   "id": "02d416baeff0",
+   "type": "story",
+   "headline": "Berserk of Gluttony Saison 2 confirme sa diffusion en avril 2027",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/12/berserk-of-gluttony-saison-2-avril-2027",
+   "visual": null,
+   "work": "",
+   "media_id": "17981298405067429",
+   "ts": 1794469991.157049,
    "card": null
   }
  ],
