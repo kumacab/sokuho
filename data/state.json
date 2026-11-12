@@ -259,7 +259,8 @@
   "e8260f35f555": 1794475328.524949,
   "2bf974fef8bc": 1794479890.464631,
   "18783617a50d": 1794482627.318791,
-  "9e755d4fd325": 1794482628.38515
+  "9e755d4fd325": 1794482628.38515,
+  "7020864e09ac": 1794489016.331475
  },
  "queue": [],
  "posted": [
@@ -6881,6 +6882,38 @@
    "work": "Nabe ni Tama wo Ukenagara",
    "media_id": "18075613736764539",
    "ts": 1794482719.266643,
+   "card": null
+  },
+  {
+   "id": "7020864e09ac",
+   "type": "post",
+   "headline": "Aoharu Once More sera adapté en light anime en janvier 2027",
+   "key": [
+    "2027",
+    "aoharu",
+    "janvier",
+    "light",
+    "more",
+    "once",
+    "sera"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/12/aoharu-once-more-light-annonce-adaptation-janvier-2027-trailer-casting",
+   "visual": "visuals/20261112-7020864e09ac.jpg",
+   "work": "",
+   "media_id": "18142978756623733",
+   "ts": 1794489062.958634,
+   "card": "posts/20261112-7020864e09ac.jpg"
+  },
+  {
+   "id": "7020864e09ac",
+   "type": "story",
+   "headline": "Aoharu Once More sera adapté en light anime en janvier 2027",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/12/aoharu-once-more-light-annonce-adaptation-janvier-2027-trailer-casting",
+   "visual": null,
+   "work": "",
+   "media_id": "18034691123911394",
+   "ts": 1794489077.280944,
    "card": null
   }
  ],
