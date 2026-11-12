@@ -260,7 +260,8 @@
   "18783617a50d": 1794482627.318791,
   "9e755d4fd325": 1794482628.38515,
   "7020864e09ac": 1794489016.331475,
-  "c84ce0a8cf5b": 1794490843.785655
+  "c84ce0a8cf5b": 1794490843.785655,
+  "073d293e3865": 1794491752.259358
  },
  "queue": [],
  "posted": [
@@ -6948,6 +6949,40 @@
    "work": "Nanatsu-ya",
    "media_id": "17960622300017963",
    "ts": 1794490906.955466,
+   "card": null
+  },
+  {
+   "id": "073d293e3865",
+   "type": "post",
+   "headline": "L’anime Getting Shots on a Frying Pan sortira en janvier 2027",
+   "key": [
+    "2027",
+    "frying",
+    "getting",
+    "janvier",
+    "on",
+    "pan",
+    "premier",
+    "shots",
+    "sortira"
+   ],
+   "link": "https://animotaku.fr/actualite/anime-getting-shots-on-a-frying-pan-janvier-2027/",
+   "visual": "visuals/20261112-073d293e3865.jpg",
+   "work": "",
+   "media_id": "18130809991892290",
+   "ts": 1794491804.79348,
+   "card": "posts/20261112-073d293e3865.jpg"
+  },
+  {
+   "id": "073d293e3865",
+   "type": "story",
+   "headline": "L’anime Getting Shots on a Frying Pan sortira en janvier 2027",
+   "key": null,
+   "link": "https://animotaku.fr/actualite/anime-getting-shots-on-a-frying-pan-janvier-2027/",
+   "visual": null,
+   "work": "",
+   "media_id": "18132947227819409",
+   "ts": 1794491818.604928,
    "card": null
   }
  ],
