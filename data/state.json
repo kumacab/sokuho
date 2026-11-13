@@ -1,7 +1,5 @@
 {
  "seen": {
-  "87b678de7f02": 1791968273.865979,
-  "af798af9dede": 1791968274.793884,
   "b4a0d7879aef": 1791971916.231279,
   "63904fdf6cf5": 1791976475.124319,
   "ffe2589f2e4f": 1791987449.297861,
@@ -258,7 +256,8 @@
   "e880c6d6a399": 1794549733.469636,
   "de26c132df7c": 1794549733.469637,
   "f147b3e2a6c9": 1794549750.087458,
-  "5823c04bf669": 1794558857.336852
+  "5823c04bf669": 1794558857.336852,
+  "a62c6410eae0": 1794560684.457804
  },
  "queue": [],
  "posted": [
@@ -6951,6 +6950,36 @@
    "work": "",
    "media_id": "18471407608189697",
    "ts": 1794558916.438931,
+   "card": null
+  },
+  {
+   "id": "a62c6410eae0",
+   "type": "reel",
+   "headline": "Charisma présente Amahiko Tendo dans un nouveau Trailer",
+   "key": [
+    "amahiko",
+    "charisma",
+    "dans",
+    "presente",
+    "tendo"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/13/charisma-trailer-personnage-amahiko-tendo",
+   "visual": "visuals/20261113-a62c6410eae0.jpg",
+   "work": "",
+   "media_id": "18132354811691876",
+   "ts": 1794560807.119928,
+   "card": "posts/20261113-a62c6410eae0.jpg"
+  },
+  {
+   "id": "a62c6410eae0",
+   "type": "story",
+   "headline": "Charisma présente Amahiko Tendo dans un nouveau Trailer",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/13/charisma-trailer-personnage-amahiko-tendo",
+   "visual": null,
+   "work": "",
+   "media_id": "17911855668659957",
+   "ts": 1794560822.725953,
    "card": null
   }
  ],
