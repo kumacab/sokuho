@@ -260,7 +260,8 @@
   "9e9377fb1d28": 1794571636.52711,
   "a384b1e8c0a9": 1794575292.769191,
   "0acd37141331": 1794581700.62213,
-  "41d9a1f75389": 1794583531.369586
+  "41d9a1f75389": 1794583531.369586,
+  "2814a8f5c247": 1794593590.956245
  },
  "queue": [],
  "posted": [
@@ -7063,6 +7064,37 @@
    "work": null,
    "media_id": "18113944589630015",
    "ts": 1794590086.475246,
+   "card": null
+  },
+  {
+   "id": "2814a8f5c247",
+   "type": "post",
+   "headline": "Isekai Douraku ni Akitara adapté en anime",
+   "key": [
+    "akitara",
+    "douraku",
+    "isekai",
+    "light",
+    "ni",
+    "novel"
+   ],
+   "link": "https://adala-news.fr/2026/11/le-light-novel-isekai-douraku-ni-akitara-adapte-en-anime/",
+   "visual": "visuals/20261113-2814a8f5c247.jpg",
+   "work": "Isekai Douraku ni Akitara",
+   "media_id": "18291242134295689",
+   "ts": 1794593645.525871,
+   "card": "posts/20261113-2814a8f5c247.jpg"
+  },
+  {
+   "id": "2814a8f5c247",
+   "type": "story",
+   "headline": "Isekai Douraku ni Akitara adapté en anime",
+   "key": null,
+   "link": "https://adala-news.fr/2026/11/le-light-novel-isekai-douraku-ni-akitara-adapte-en-anime/",
+   "visual": null,
+   "work": "Isekai Douraku ni Akitara",
+   "media_id": "18115410788268658",
+   "ts": 1794593658.680054,
    "card": null
   }
  ],
