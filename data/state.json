@@ -255,7 +255,10 @@
   "7020864e09ac": 1794489016.331475,
   "c84ce0a8cf5b": 1794490843.785655,
   "073d293e3865": 1794491752.259358,
-  "fd13bee6a835": 1794492663.556626
+  "fd13bee6a835": 1794492663.556626,
+  "e880c6d6a399": 1794549733.469636,
+  "de26c132df7c": 1794549733.469637,
+  "f147b3e2a6c9": 1794549750.087458
  },
  "queue": [],
  "posted": [
@@ -6916,6 +6919,38 @@
    "work": "Gulli",
    "media_id": "18356980111264906",
    "ts": 1794492726.798509,
+   "card": null
+  },
+  {
+   "id": "de26c132df7c",
+   "type": "reel",
+   "headline": "Les Carnets de l’Apothicaire Saison 3 Épisode 7 : Date et Heure de…",
+   "key": [
+    "apothicaire",
+    "carnets",
+    "episode",
+    "heure",
+    "images",
+    "premieres",
+    "resume"
+   ],
+   "link": "https://animotaku.fr/actualite/anime-carnets-apothicaire-saison-3-episode-7-date-heure-sortie/",
+   "visual": "visuals/20261113-de26c132df7c.jpg",
+   "work": "Les carnets de l'apothicaire",
+   "media_id": "17997354870052553",
+   "ts": 1794549849.793886,
+   "card": "posts/20261113-de26c132df7c.jpg"
+  },
+  {
+   "id": "de26c132df7c",
+   "type": "story",
+   "headline": "Les Carnets de l’Apothicaire Saison 3 Épisode 7 : Date et Heure de…",
+   "key": null,
+   "link": "https://animotaku.fr/actualite/anime-carnets-apothicaire-saison-3-episode-7-date-heure-sortie/",
+   "visual": null,
+   "work": "Les carnets de l'apothicaire",
+   "media_id": "18125525638897591",
+   "ts": 1794549864.034644,
    "card": null
   }
  ],
