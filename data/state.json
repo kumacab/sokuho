@@ -257,7 +257,8 @@
   "f147b3e2a6c9": 1794549750.087458,
   "5823c04bf669": 1794558857.336852,
   "a62c6410eae0": 1794560684.457804,
-  "c570d80e3f57": 1794562507.331164
+  "c570d80e3f57": 1794562507.331164,
+  "6d6dd7727c32": 1794565257.841634
  },
  "queue": [],
  "posted": [
@@ -6980,6 +6981,38 @@
    "work": "",
    "media_id": "17911855668659957",
    "ts": 1794560822.725953,
+   "card": null
+  },
+  {
+   "id": "6d6dd7727c32",
+   "type": "post",
+   "headline": "Sonic the Hedgehog affronte Metal Sonic pour les 35 ans de la franchise",
+   "key": [
+    "35",
+    "affronte",
+    "ans",
+    "franchise",
+    "hedgehog",
+    "metal",
+    "sonic"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/13/sonic-the-hedgehog-35-ans-video-animation",
+   "visual": "visuals/20261113-6d6dd7727c32.jpg",
+   "work": "",
+   "media_id": "18103593023678685",
+   "ts": 1794565308.47341,
+   "card": "posts/20261113-6d6dd7727c32.jpg"
+  },
+  {
+   "id": "6d6dd7727c32",
+   "type": "story",
+   "headline": "Sonic the Hedgehog affronte Metal Sonic pour les 35 ans de la franchise",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/13/sonic-the-hedgehog-35-ans-video-animation",
+   "visual": null,
+   "work": "",
+   "media_id": "18139110574652048",
+   "ts": 1794565322.463391,
    "card": null
   }
  ],
