@@ -259,7 +259,8 @@
   "6d6dd7727c32": 1794565257.841634,
   "8f1ebe052bf1": 1794567987.970113,
   "9e9377fb1d28": 1794571636.52711,
-  "a384b1e8c0a9": 1794575292.769191
+  "a384b1e8c0a9": 1794575292.769191,
+  "0acd37141331": 1794581700.62213
  },
  "queue": [],
  "posted": [
@@ -7016,6 +7017,36 @@
    "work": "Dragon Quest RPG",
    "media_id": "18065346263717217",
    "ts": 1794575363.976862,
+   "card": null
+  },
+  {
+   "id": "0acd37141331",
+   "type": "post",
+   "headline": "OROCHI -Seventh Echoes- : Le film anime dévoile son pilote",
+   "key": [
+    "devoile",
+    "echoes",
+    "orochi",
+    "pilote",
+    "seventh"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/13/orochi-seventh-echoes-film-original-pilote",
+   "visual": "visuals/20261113-0acd37141331.jpg",
+   "work": "OROCHI -Seventh Echoes-",
+   "media_id": "17940032118127196",
+   "ts": 1794581751.228027,
+   "card": "posts/20261113-0acd37141331.jpg"
+  },
+  {
+   "id": "0acd37141331",
+   "type": "story",
+   "headline": "OROCHI -Seventh Echoes- : Le film anime dévoile son pilote",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/13/orochi-seventh-echoes-film-original-pilote",
+   "visual": null,
+   "work": "OROCHI -Seventh Echoes-",
+   "media_id": "18148169203590297",
+   "ts": 1794581764.289824,
    "card": null
   }
  ],
