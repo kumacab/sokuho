@@ -257,7 +257,8 @@
   "fd13bee6a835": 1794492663.556626,
   "e880c6d6a399": 1794549733.469636,
   "de26c132df7c": 1794549733.469637,
-  "f147b3e2a6c9": 1794549750.087458
+  "f147b3e2a6c9": 1794549750.087458,
+  "5823c04bf669": 1794558857.336852
  },
  "queue": [],
  "posted": [
@@ -6918,6 +6919,38 @@
    "work": "Les carnets de l'apothicaire",
    "media_id": "18125525638897591",
    "ts": 1794549864.034644,
+   "card": null
+  },
+  {
+   "id": "5823c04bf669",
+   "type": "post",
+   "headline": "Devils’ Crest sera diffusé sur deux Cours consécutives",
+   "key": [
+    "consecutives",
+    "cours",
+    "crest",
+    "deux",
+    "devils",
+    "diffuse",
+    "sera"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/13/devils-crest-diffusion-deux-cours-consecutives",
+   "visual": "visuals/20261113-5823c04bf669.jpg",
+   "work": "",
+   "media_id": "18117959678008916",
+   "ts": 1794558903.60516,
+   "card": "posts/20261113-5823c04bf669.jpg"
+  },
+  {
+   "id": "5823c04bf669",
+   "type": "story",
+   "headline": "Devils’ Crest sera diffusé sur deux Cours consécutives",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/13/devils-crest-diffusion-deux-cours-consecutives",
+   "visual": null,
+   "work": "",
+   "media_id": "18471407608189697",
+   "ts": 1794558916.438931,
    "card": null
   }
  ],
