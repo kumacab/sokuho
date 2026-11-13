@@ -259,7 +259,8 @@
   "8f1ebe052bf1": 1794567987.970113,
   "9e9377fb1d28": 1794571636.52711,
   "a384b1e8c0a9": 1794575292.769191,
-  "0acd37141331": 1794581700.62213
+  "0acd37141331": 1794581700.62213,
+  "41d9a1f75389": 1794583531.369586
  },
  "queue": [],
  "posted": [
@@ -7046,6 +7047,37 @@
    "work": "OROCHI -Seventh Echoes-",
    "media_id": "18148169203590297",
    "ts": 1794581764.289824,
+   "card": null
+  },
+  {
+   "id": "41d9a1f75389",
+   "type": "post",
+   "headline": "Multi-Mind Mayhem : Date de diffusion et génériques dans le Trailer",
+   "key": [
+    "dans",
+    "diffusion",
+    "generiques",
+    "mayhem",
+    "mind",
+    "multi"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/13/multi-mind-mayhem-date-diffusion-trailer-visuel-casting-staff-generiques",
+   "visual": "visuals/20261113-41d9a1f75389.jpg",
+   "work": "Multi-Mind Mayhem",
+   "media_id": "17968660173212170",
+   "ts": 1794583595.066252,
+   "card": "posts/20261113-41d9a1f75389.jpg"
+  },
+  {
+   "id": "41d9a1f75389",
+   "type": "story",
+   "headline": "Multi-Mind Mayhem : Date de diffusion et génériques dans le Trailer",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/13/multi-mind-mayhem-date-diffusion-trailer-visuel-casting-staff-generiques",
+   "visual": null,
+   "work": "Multi-Mind Mayhem",
+   "media_id": "18075124001766934",
+   "ts": 1794583609.360875,
    "card": null
   }
  ],
