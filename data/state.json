@@ -259,7 +259,8 @@
   "c570d80e3f57": 1794562507.331164,
   "6d6dd7727c32": 1794565257.841634,
   "8f1ebe052bf1": 1794567987.970113,
-  "9e9377fb1d28": 1794571636.52711
+  "9e9377fb1d28": 1794571636.52711,
+  "a384b1e8c0a9": 1794575292.769191
  },
  "queue": [],
  "posted": [
@@ -7057,6 +7058,40 @@
    "work": "Inherit the Winds",
    "media_id": "17904916716655885",
    "ts": 1794571775.968185,
+   "card": null
+  },
+  {
+   "id": "a384b1e8c0a9",
+   "type": "post",
+   "headline": "Dragon Quest RPG: The Cursed Tree and the Chosen Isle annoncé sur mobile",
+   "key": [
+    "and",
+    "chosen",
+    "cursed",
+    "dragon",
+    "isle",
+    "mobile",
+    "quest",
+    "rpg",
+    "tree"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/13/dragon-quest-rpg-the-cursed-tree-and-the-chosen-isle-announced-annonce-sortie-mobile",
+   "visual": "visuals/20261113-a384b1e8c0a9.jpg",
+   "work": "Dragon Quest RPG",
+   "media_id": "18166293889430469",
+   "ts": 1794575348.669351,
+   "card": "posts/20261113-a384b1e8c0a9.jpg"
+  },
+  {
+   "id": "a384b1e8c0a9",
+   "type": "story",
+   "headline": "Dragon Quest RPG: The Cursed Tree and the Chosen Isle annoncé sur mobile",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/13/dragon-quest-rpg-the-cursed-tree-and-the-chosen-isle-announced-annonce-sortie-mobile",
+   "visual": null,
+   "work": "Dragon Quest RPG",
+   "media_id": "18065346263717217",
+   "ts": 1794575363.976862,
    "card": null
   }
  ],
