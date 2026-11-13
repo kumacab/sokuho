@@ -266,42 +266,6 @@
  "queue": [],
  "posted": [
   {
-   "id": "car-upcoming-2026-W42",
-   "type": "carousel",
-   "headline": "🔥 ON VA PAS S'ENNUYER CET HIVER 2027 !",
-   "key": null,
-   "link": null,
-   "visual": null,
-   "work": null,
-   "ts": 1792009367.958738,
-   "media_id": "?",
-   "card": null
-  },
-  {
-   "id": "ffe2589f2e4f",
-   "type": "story",
-   "headline": "Qui est Beerus ? Tout ce qu'il faut savoir sur le personnage central de…",
-   "key": null,
-   "link": "https://crunchyroll.com/fr/news/guides/2026/10/14/dragon-ball-super-beerus-personnage-wiki",
-   "visual": null,
-   "work": "",
-   "media_id": "18098187617439369",
-   "ts": 1792009382.487806,
-   "card": null
-  },
-  {
-   "id": "d976c0c2c87e",
-   "type": "story",
-   "headline": "Dreamland : Une exposition pour les 20 ans du manga",
-   "key": null,
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/14/dreamland-exposition-20-ans",
-   "visual": null,
-   "work": "Dreamland",
-   "media_id": "18096662975406403",
-   "ts": 1792009396.214201,
-   "card": null
-  },
-  {
    "id": "23136a6c8f1c",
    "type": "reel",
    "headline": "Yumene Connect dévoile un teaser vidéo",
