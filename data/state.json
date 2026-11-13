@@ -266,23 +266,6 @@
  "queue": [],
  "posted": [
   {
-   "id": "d976c0c2c87e",
-   "type": "post",
-   "headline": "Dreamland : Une exposition pour les 20 ans du manga",
-   "key": [
-    "20",
-    "ans",
-    "dreamland",
-    "exposition"
-   ],
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/14/dreamland-exposition-20-ans",
-   "visual": "visuals/20261014-d976c0c2c87e.jpg",
-   "work": "Dreamland",
-   "ts": 1792002051.569316,
-   "media_id": "?",
-   "card": "posts/20261014-d976c0c2c87e.jpg"
-  },
-  {
    "id": "car-upcoming-2026-W42",
    "type": "carousel",
    "headline": "🔥 ON VA PAS S'ENNUYER CET HIVER 2027 !",
