@@ -258,7 +258,8 @@
   "a62c6410eae0": 1794560684.457804,
   "c570d80e3f57": 1794562507.331164,
   "6d6dd7727c32": 1794565257.841634,
-  "8f1ebe052bf1": 1794567987.970113
+  "8f1ebe052bf1": 1794567987.970113,
+  "9e9377fb1d28": 1794571636.52711
  },
  "queue": [],
  "posted": [
@@ -7026,6 +7027,36 @@
    "work": "",
    "media_id": "17967659568196571",
    "ts": 1794568123.392656,
+   "card": null
+  },
+  {
+   "id": "9e9377fb1d28",
+   "type": "reel",
+   "headline": "Inherit the Winds : Un nouveau Visuel à l'occasion de l'avant-première",
+   "key": [
+    "avant",
+    "inherit",
+    "occasion",
+    "visuel",
+    "winds"
+   ],
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/13/inherit-the-winds-visuel-avant-premiere",
+   "visual": "visuals/20261113-9e9377fb1d28.jpg",
+   "work": "Inherit the Winds",
+   "media_id": "18129285475908182",
+   "ts": 1794571762.173369,
+   "card": "posts/20261113-9e9377fb1d28.jpg"
+  },
+  {
+   "id": "9e9377fb1d28",
+   "type": "story",
+   "headline": "Inherit the Winds : Un nouveau Visuel à l'occasion de l'avant-première",
+   "key": null,
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/13/inherit-the-winds-visuel-avant-premiere",
+   "visual": null,
+   "work": "Inherit the Winds",
+   "media_id": "17904916716655885",
+   "ts": 1794571775.968185,
    "card": null
   }
  ],
