@@ -1,6 +1,5 @@
 {
  "seen": {
-  "63904fdf6cf5": 1791976475.124319,
   "ffe2589f2e4f": 1791987449.297861,
   "d976c0c2c87e": 1791990186.994862,
   "23136a6c8f1c": 1792046766.035363,
@@ -263,24 +262,6 @@
  },
  "queue": [],
  "posted": [
-  {
-   "id": "87b678de7f02",
-   "type": "post",
-   "headline": "Hirayasumi dévoile 5 nouvelles voix de son casting",
-   "key": [
-    "casting",
-    "devoile",
-    "hirayasumi",
-    "nouvelles",
-    "voix"
-   ],
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/14/hirayasumi-casting",
-   "visual": "visuals/20261014-87b678de7f02.jpg",
-   "work": "",
-   "ts": 1791976585.132219,
-   "media_id": "?",
-   "card": "posts/20261014-87b678de7f02.jpg"
-  },
   {
    "id": "63904fdf6cf5",
    "type": "post",
