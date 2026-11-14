@@ -260,7 +260,8 @@
   "41d9a1f75389": 1794583531.369586,
   "2814a8f5c247": 1794593590.956245,
   "d0a75dc47f57": 1794636484.132774,
-  "228e1543e056": 1794649260.585248
+  "228e1543e056": 1794649260.585248,
+  "37161eb7350e": 1794650181.146784
  },
  "queue": [],
  "posted": [
@@ -7043,6 +7044,34 @@
    "work": "Gushing over Magical Girls Saison 2",
    "media_id": "17922811347241373",
    "ts": 1794649348.285178,
+   "card": null
+  },
+  {
+   "id": "37161eb7350e",
+   "type": "reel",
+   "headline": "L’anime A Certain Dark Item, en Trailer 2",
+   "key": [
+    "certain",
+    "dark",
+    "item"
+   ],
+   "link": "https://adala-news.fr/2026/11/lanime-a-certain-dark-item-en-trailer-2/",
+   "visual": "visuals/20261114-37161eb7350e.jpg",
+   "work": "A Certain Dark Item",
+   "media_id": "18121202471007014",
+   "ts": 1794650302.476207,
+   "card": "posts/20261114-37161eb7350e.jpg"
+  },
+  {
+   "id": "37161eb7350e",
+   "type": "story",
+   "headline": "L’anime A Certain Dark Item, en Trailer 2",
+   "key": null,
+   "link": "https://adala-news.fr/2026/11/lanime-a-certain-dark-item-en-trailer-2/",
+   "visual": null,
+   "work": "A Certain Dark Item",
+   "media_id": "18040677758854459",
+   "ts": 1794650316.521657,
    "card": null
   }
  ],
