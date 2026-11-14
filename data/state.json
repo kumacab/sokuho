@@ -259,7 +259,8 @@
   "0acd37141331": 1794581700.62213,
   "41d9a1f75389": 1794583531.369586,
   "2814a8f5c247": 1794593590.956245,
-  "d0a75dc47f57": 1794636484.132774
+  "d0a75dc47f57": 1794636484.132774,
+  "228e1543e056": 1794649260.585248
  },
  "queue": [],
  "posted": [
@@ -7013,6 +7014,35 @@
    "work": "Isekai Douraku ni Akitara",
    "media_id": "18115410788268658",
    "ts": 1794593658.680054,
+   "card": null
+  },
+  {
+   "id": "228e1543e056",
+   "type": "reel",
+   "headline": "L’anime Gushing over Magical Girls Saison 2, en Annonce Vidéo 2",
+   "key": [
+    "girls",
+    "gushing",
+    "magical",
+    "over"
+   ],
+   "link": "https://adala-news.fr/2026/11/lanime-gushing-over-magical-girls-saison-2-en-annonce-video-2/",
+   "visual": "visuals/20261114-228e1543e056.jpg",
+   "work": "Gushing over Magical Girls Saison 2",
+   "media_id": "17955600816335104",
+   "ts": 1794649335.371354,
+   "card": "posts/20261114-228e1543e056.jpg"
+  },
+  {
+   "id": "228e1543e056",
+   "type": "story",
+   "headline": "L’anime Gushing over Magical Girls Saison 2, en Annonce Vidéo 2",
+   "key": null,
+   "link": "https://adala-news.fr/2026/11/lanime-gushing-over-magical-girls-saison-2-en-annonce-video-2/",
+   "visual": null,
+   "work": "Gushing over Magical Girls Saison 2",
+   "media_id": "17922811347241373",
+   "ts": 1794649348.285178,
    "card": null
   }
  ],
