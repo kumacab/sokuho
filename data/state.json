@@ -259,7 +259,8 @@
   "2814a8f5c247": 1794593590.956245,
   "d0a75dc47f57": 1794636484.132774,
   "228e1543e056": 1794649260.585248,
-  "37161eb7350e": 1794650181.146784
+  "37161eb7350e": 1794650181.146784,
+  "111838ace42c": 1794656573.836838
  },
  "queue": [],
  "posted": [
@@ -7048,6 +7049,39 @@
    "work": "A Certain Dark Item",
    "media_id": "18040677758854459",
    "ts": 1794650316.521657,
+   "card": null
+  },
+  {
+   "id": "111838ace42c",
+   "type": "reel",
+   "headline": "L’anime Looking Up to Magical Girls Saison 2 sortira en 2027",
+   "key": [
+    "2027",
+    "girls",
+    "looking",
+    "magical",
+    "premier",
+    "sortira",
+    "to",
+    "up"
+   ],
+   "link": "https://animotaku.fr/actualite/anime-looking-up-to-magical-girls-saison-2-2027-teaser/",
+   "visual": "visuals/20261114-111838ace42c.jpg",
+   "work": "anime Looking Up To Magical Girls Saison 2",
+   "media_id": "18000361644041207",
+   "ts": 1794656683.169894,
+   "card": "posts/20261114-111838ace42c.jpg"
+  },
+  {
+   "id": "111838ace42c",
+   "type": "story",
+   "headline": "L’anime Looking Up to Magical Girls Saison 2 sortira en 2027",
+   "key": null,
+   "link": "https://animotaku.fr/actualite/anime-looking-up-to-magical-girls-saison-2-2027-teaser/",
+   "visual": null,
+   "work": "anime Looking Up To Magical Girls Saison 2",
+   "media_id": "18154599604535578",
+   "ts": 1794656695.000646,
    "card": null
   }
  ],
