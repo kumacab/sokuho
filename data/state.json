@@ -260,7 +260,8 @@
   "d0a75dc47f57": 1794636484.132774,
   "228e1543e056": 1794649260.585248,
   "37161eb7350e": 1794650181.146784,
-  "111838ace42c": 1794656573.836838
+  "111838ace42c": 1794656573.836838,
+  "4593a9b0776d": 1794658398.230091
  },
  "queue": [],
  "posted": [
@@ -7082,6 +7083,37 @@
    "work": "anime Looking Up To Magical Girls Saison 2",
    "media_id": "18154599604535578",
    "ts": 1794656695.000646,
+   "card": null
+  },
+  {
+   "id": "4593a9b0776d",
+   "type": "reel",
+   "headline": "L’anime Re:ZERO Saison 5 officiellement en production avec un premier…",
+   "key": [
+    "officiellement",
+    "premier",
+    "production",
+    "re",
+    "visuel",
+    "zero"
+   ],
+   "link": "https://animotaku.fr/actualite/anime-re-zero-saison-5-annonce/",
+   "visual": "visuals/20261114-4593a9b0776d.jpg",
+   "work": "anime Re:ZERO Saison 5",
+   "media_id": "17917942236551555",
+   "ts": 1794658563.028637,
+   "card": "posts/20261114-4593a9b0776d.jpg"
+  },
+  {
+   "id": "4593a9b0776d",
+   "type": "story",
+   "headline": "L’anime Re:ZERO Saison 5 officiellement en production avec un premier…",
+   "key": null,
+   "link": "https://animotaku.fr/actualite/anime-re-zero-saison-5-annonce/",
+   "visual": null,
+   "work": "anime Re:ZERO Saison 5",
+   "media_id": "18176764915454203",
+   "ts": 1794658575.630291,
    "card": null
   }
  ],
