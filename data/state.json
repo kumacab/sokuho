@@ -264,25 +264,6 @@
  "queue": [],
  "posted": [
   {
-   "id": "c26004766b62",
-   "type": "post",
-   "headline": "The Legend of Zelda: Ocarina of Time",
-   "key": [
-    "legend",
-    "ocarina",
-    "presentation",
-    "remake",
-    "time",
-    "zelda"
-   ],
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/15/legend-of-zelda-ocarina-of-time-remake-trailer-presentation",
-   "visual": "visuals/20261015-c26004766b62.jpg",
-   "work": "The Legend of Zelda: Ocarina of Time",
-   "ts": 1792081451.371416,
-   "media_id": "?",
-   "card": "posts/20261015-c26004766b62.jpg"
-  },
-  {
    "id": "cfe26f84749d",
    "type": "post",
    "headline": "Le festival Voix d'Étoiles fête ses 20 ans avec une édition d'exception",
