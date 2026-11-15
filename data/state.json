@@ -1,6 +1,5 @@
 {
  "seen": {
-  "ba16519b4911": 1792128892.426268,
   "3dc8b8c7c348": 1792136197.915909,
   "3ca0d385d6d6": 1792137112.795596,
   "b09c6abafcc4": 1792140758.349383,
@@ -257,38 +256,6 @@
  },
  "queue": [],
  "posted": [
-  {
-   "id": "ba16519b4911",
-   "type": "reel",
-   "headline": "Les Carnets de l’Apothicaire Saison 3 Épisode 3 : Date et Heure de…",
-   "key": [
-    "apothicaire",
-    "carnets",
-    "episode",
-    "heure",
-    "images",
-    "premieres",
-    "resume"
-   ],
-   "link": "https://animotaku.fr/actualite/anime-carnets-apothicaire-saison-3-episode-3-date-heure-sortie/",
-   "visual": "visuals/20261016-ba16519b4911.jpg",
-   "work": "Les carnets de l'apothicaire",
-   "media_id": "18118353061945409",
-   "ts": 1792129008.361534,
-   "card": "posts/20261016-ba16519b4911.jpg"
-  },
-  {
-   "id": "ba16519b4911",
-   "type": "story",
-   "headline": "Les Carnets de l’Apothicaire Saison 3 Épisode 3 : Date et Heure de…",
-   "key": null,
-   "link": "https://animotaku.fr/actualite/anime-carnets-apothicaire-saison-3-episode-3-date-heure-sortie/",
-   "visual": null,
-   "work": "Les carnets de l'apothicaire",
-   "media_id": "18123564985930220",
-   "ts": 1792129020.909844,
-   "card": null
-  },
   {
    "id": "3dc8b8c7c348",
    "type": "post",
