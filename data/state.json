@@ -320,37 +320,6 @@
  ],
  "posted": [
   {
-   "id": "7b912f8e9578",
-   "type": "reel",
-   "headline": "Wound & Bandage : Date de diffusion, Trailer, Visuel et casting vocal",
-   "key": [
-    "bandage",
-    "casting",
-    "diffusion",
-    "visuel",
-    "vocal",
-    "wound"
-   ],
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/16/wound-and-bandage-date-diffusion-trailer-visuel-casting",
-   "visual": "visuals/20261016-7b912f8e9578.jpg",
-   "work": "Wound & Bandage",
-   "media_id": "18100554584639368",
-   "ts": 1792189209.668858,
-   "card": "posts/20261016-7b912f8e9578.jpg"
-  },
-  {
-   "id": "7b912f8e9578",
-   "type": "story",
-   "headline": "Wound & Bandage : Date de diffusion, Trailer, Visuel et casting vocal",
-   "key": null,
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/16/wound-and-bandage-date-diffusion-trailer-visuel-casting",
-   "visual": null,
-   "work": "Wound & Bandage",
-   "media_id": "18020302124930208",
-   "ts": 1792189223.375063,
-   "card": null
-  },
-  {
    "id": "f0d33ad9cff0",
    "type": "reel",
    "headline": "L’anime Happy Kanako’s Killer Life annoncé pour avril 2027",
@@ -6709,7 +6678,7 @@
  "last_recap": "2026-W46",
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1794781548.6946259,
+ "ig_pause_until": 1794783375.549518,
  "carousels_done": {
   "upcoming": "2026-W46",
   "movies": "2026-W46",
