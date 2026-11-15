@@ -252,7 +252,9 @@
   "37161eb7350e": 1794650181.146784,
   "111838ace42c": 1794656573.836838,
   "4593a9b0776d": 1794658398.230091,
-  "240666647453": 1794659311.517446
+  "240666647453": 1794659311.517446,
+  "21d51cadeebf": 1794723182.846091,
+  "8e95c4ca0fe2": 1794723198.589851
  },
  "queue": [],
  "posted": [
@@ -6820,6 +6822,62 @@
    "work": "Re:ZERO Saison 5",
    "media_id": "18509838703101464",
    "ts": 1794659373.862803,
+   "card": null
+  },
+  {
+   "id": "21d51cadeebf",
+   "type": "reel",
+   "headline": "Veritas Oculis adapté en anime",
+   "key": [
+    "oculis",
+    "veritas"
+   ],
+   "link": "https://adala-news.fr/2026/11/le-manga-veritas-oculis-adapte-en-anime/",
+   "visual": "visuals/20261115-21d51cadeebf.jpg",
+   "work": "Veritas Oculis",
+   "media_id": "17954807544339803",
+   "ts": 1794723311.243481,
+   "card": "posts/20261115-21d51cadeebf.jpg"
+  },
+  {
+   "id": "8e95c4ca0fe2",
+   "type": "reel",
+   "headline": "Jimoto no Ijimekko-tachi adapté en anime",
+   "key": [
+    "ijimekko",
+    "jimoto",
+    "no",
+    "tachi"
+   ],
+   "link": "https://adala-news.fr/2026/11/le-manga-jimoto-no-ijimekko-tachi-adapte-en-anime/",
+   "visual": "visuals/20261115-8e95c4ca0fe2.jpg",
+   "work": "",
+   "media_id": "18397860163166276",
+   "ts": 1794723379.773338,
+   "card": "posts/20261115-8e95c4ca0fe2.jpg"
+  },
+  {
+   "id": "21d51cadeebf",
+   "type": "story",
+   "headline": "Veritas Oculis adapté en anime",
+   "key": null,
+   "link": "https://adala-news.fr/2026/11/le-manga-veritas-oculis-adapte-en-anime/",
+   "visual": null,
+   "work": "Veritas Oculis",
+   "media_id": "18133800832696085",
+   "ts": 1794723394.025812,
+   "card": null
+  },
+  {
+   "id": "8e95c4ca0fe2",
+   "type": "story",
+   "headline": "Jimoto no Ijimekko-tachi adapté en anime",
+   "key": null,
+   "link": "https://adala-news.fr/2026/11/le-manga-jimoto-no-ijimekko-tachi-adapte-en-anime/",
+   "visual": null,
+   "work": "",
+   "media_id": "18067268747546649",
+   "ts": 1794723408.478813,
    "card": null
   }
  ],
