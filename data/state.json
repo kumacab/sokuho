@@ -1,6 +1,5 @@
 {
  "seen": {
-  "b042d30cebe0": 1792166311.938668,
   "f0d33ad9cff0": 1792213754.064257,
   "9c5bff9b3328": 1792231087.106908,
   "c2d8e9a0d41c": 1792237462.670262,
@@ -245,9 +244,48 @@
   "4593a9b0776d": 1794658398.230091,
   "240666647453": 1794659311.517446,
   "21d51cadeebf": 1794723182.846091,
-  "8e95c4ca0fe2": 1794723198.589851
+  "8e95c4ca0fe2": 1794723198.589851,
+  "189de1e47561": 1794758768.580447
  },
- "queue": [],
+ "queue": [
+  {
+   "id": "189de1e47561",
+   "headline": "L’anime WITCH WATCH Saison 2 sortira en 2027, Premier Visuel",
+   "category": "ANIME",
+   "link": "https://animotaku.fr/actualite/anime-witch-watch-saison-2-2027-visuel/",
+   "work": "anime WITCH WATCH Saison 2",
+   "key": [
+    "2027",
+    "premier",
+    "sortira",
+    "visuel",
+    "watch",
+    "witch"
+   ],
+   "ts": 1794758771.302517,
+   "type": "reel",
+   "files": [
+    "reels/20261115-189de1e47561.mp4",
+    "posts/20261115-189de1e47561.jpg"
+   ],
+   "caption": "🎬 L’ANIME WITCH WATCH SAISON 2 SORTIRA EN 2027, PREMIER VISUEL\n\nSur le site officiel du projet, une première affiche promotionnelle a été dévoilée. Nous apprenons par ailleurs que l’animation de cette deuxième saison sera coproduite par les studios Bibury Animation Studios (saison 1) et MASSKET. (via Animotaku)\n\n📅 Date : Hiver 2027\n🎬 Studio : Bibury Animation Studios\n📺 Diffusion : Crunchyroll, ADN\n\n💬 Ton avis sur le studio ? 🎬\n\n📌 Œuvre : anime WITCH WATCH Saison 2\n📰 Source : Animotaku\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan d’anime WITCH WATCH Saison 2 et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#AnimeWITCHWATCHSaison2 #anime #animefr #japanime #manga",
+   "visual": "visuals/20261115-189de1e47561.jpg",
+   "card": "posts/20261115-189de1e47561.jpg"
+  },
+  {
+   "id": "189de1e47561",
+   "headline": "L’anime WITCH WATCH Saison 2 sortira en 2027, Premier Visuel",
+   "category": "ANIME",
+   "link": "https://animotaku.fr/actualite/anime-witch-watch-saison-2-2027-visuel/",
+   "work": "anime WITCH WATCH Saison 2",
+   "key": null,
+   "ts": 1794758771.302517,
+   "type": "story",
+   "files": [
+    "stories/20261115-189de1e47561.jpg"
+   ]
+  }
+ ],
  "posted": [
   {
    "id": "e50e5a7e5198",
@@ -6794,7 +6832,7 @@
  "last_recap": "2026-W45",
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1792187394.2893388,
+ "ig_pause_until": 1794760613.0791664,
  "carousels_done": {
   "upcoming": "2026-W46",
   "movies": "2026-W46",
