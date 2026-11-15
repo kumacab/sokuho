@@ -320,26 +320,6 @@
  ],
  "posted": [
   {
-   "id": "e50e5a7e5198",
-   "type": "post",
-   "headline": "BanG Dream! Ave Mujica prima aurora dévoile un nouveau Trailer",
-   "key": [
-    "aurora",
-    "ave",
-    "bang",
-    "devoile",
-    "dream",
-    "mujica",
-    "prima"
-   ],
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/16/bang-dream-ave-mujica-prima-aurora-film-trailer",
-   "visual": "visuals/20261016-e50e5a7e5198.jpg",
-   "work": "",
-   "ts": 1792172711.800422,
-   "media_id": "?",
-   "card": "posts/20261016-e50e5a7e5198.jpg"
-  },
-  {
    "id": "b042d30cebe0",
    "type": "post",
    "headline": "Expelled from Paradise: Resonance of the Heart collabore avec Rascal…",
@@ -6864,7 +6844,7 @@
  "last_recap": "2026-W46",
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1794765132.1040285,
+ "ig_pause_until": 1794766955.9490697,
  "carousels_done": {
   "upcoming": "2026-W46",
   "movies": "2026-W46",
