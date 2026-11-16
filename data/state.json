@@ -347,19 +347,6 @@
    "card": "posts/20261116-83beee05f38b.jpg"
   },
   {
-   "id": "83beee05f38b",
-   "headline": "Chainsaw Man - Le film : L'arc de Reze - Un Visuel pour l'événement de…",
-   "category": "ANIME",
-   "link": "https://crunchyroll.com/fr/news/latest/2026/11/16/chainsaw-man-film-arc-reze-evenement-saint-valentin-visual-cinema-live-2027",
-   "work": "Chainsaw Man - Le film",
-   "key": null,
-   "ts": 1794819940.097024,
-   "type": "story",
-   "files": [
-    "stories/20261116-83beee05f38b.jpg"
-   ]
-  },
-  {
    "id": "42492683a88f",
    "headline": "Skip and Loafer Saison 2 : nouveau teaser et troisième visuel",
    "category": "ANIME",
@@ -6654,7 +6641,7 @@
  "last_recap": "2026-W46",
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1794863212.7983427,
+ "ig_pause_until": 1794865047.5293288,
  "carousels_done": {
   "upcoming": "2026-W46",
   "movies": "2026-W46",
