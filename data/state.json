@@ -1,6 +1,5 @@
 {
  "seen": {
-  "f0d33ad9cff0": 1792213754.064257,
   "9c5bff9b3328": 1792231087.106908,
   "c2d8e9a0d41c": 1792237462.670262,
   "fe2545ca0260": 1792246580.09159,
@@ -306,39 +305,6 @@
   }
  ],
  "posted": [
-  {
-   "id": "f0d33ad9cff0",
-   "type": "reel",
-   "headline": "L’anime Happy Kanako’s Killer Life annoncé pour avril 2027",
-   "key": [
-    "2027",
-    "avril",
-    "happy",
-    "kanako",
-    "killer",
-    "life",
-    "premier",
-    "visuel"
-   ],
-   "link": "https://animotaku.fr/actualite/anime-happy-kanakos-killer-life-annonce-avril-2027/",
-   "visual": "visuals/20261017-f0d33ad9cff0.jpg",
-   "work": "",
-   "media_id": "17922606600224675",
-   "ts": 1792213876.013764,
-   "card": "posts/20261017-f0d33ad9cff0.jpg"
-  },
-  {
-   "id": "f0d33ad9cff0",
-   "type": "story",
-   "headline": "L’anime Happy Kanako’s Killer Life annoncé pour avril 2027",
-   "key": null,
-   "link": "https://animotaku.fr/actualite/anime-happy-kanakos-killer-life-annonce-avril-2027/",
-   "visual": null,
-   "work": "",
-   "media_id": "18068745179603828",
-   "ts": 1792213886.607518,
-   "card": null
-  },
   {
    "id": "c2d8e9a0d41c",
    "type": "reel",
