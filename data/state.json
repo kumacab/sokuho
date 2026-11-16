@@ -1,6 +1,5 @@
 {
  "seen": {
-  "c2d8e9a0d41c": 1792237462.670262,
   "fe2545ca0260": 1792246580.09159,
   "6d4e6d63fe60": 1792247497.246804,
   "c5a55224f27c": 1792248404.543627,
@@ -246,7 +245,9 @@
   "189de1e47561": 1794758768.580447,
   "83beee05f38b": 1794819939.006051,
   "42492683a88f": 1794823599.718054,
-  "1c69a9a9d2d9": 1794826339.576089
+  "1c69a9a9d2d9": 1794826339.576089,
+  "0ddb7a9db8dc": 1794831696.306231,
+  "3c6ddfdf3da0": 1794831697.510578
  },
  "queue": [
   {
@@ -397,37 +398,82 @@
    "files": [
     "stories/20261116-42492683a88f.jpg"
    ]
+  },
+  {
+   "id": "0ddb7a9db8dc",
+   "headline": "Re:ZERO -Starting Life in Another World- : La Saison 5 annoncée",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/16/re-zero-starting-life-in-another-world-saison-5-annonce-visuel",
+   "work": "Re:ZERO -Starting Life in Another World-",
+   "key": [
+    "annoncee",
+    "another",
+    "in",
+    "life",
+    "re",
+    "starting",
+    "world",
+    "zero"
+   ],
+   "ts": 1794831697.215663,
+   "type": "post",
+   "files": [
+    "posts/20261116-0ddb7a9db8dc.jpg"
+   ],
+   "caption": "🎬 RE:ZERO -STARTING LIFE IN ANOTHER WORLD- : LA SAISON 5 ANNONCÉE\n\nÀ l'occasion de l'événement Re:ZERO -Starting Life in Another World- 10th EVENT -Starlight Party- qui s'est tenu ce week-end au Japon, les comptes de la série ont annoncé que la 5e saison de l'anime Re:ZERO -Starting Life in Another World- était désormais en cours de développement. (via Crunchyroll News)\n\n📺 Diffusion : Crunchyroll\n\n💬 Tu vas le regarder ? 👀\n\n📌 Œuvre : Re:ZERO -Starting Life in Another World-\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Re:ZERO -Starting Life in Another World- et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
+   "alt": "ANIME — Re:ZERO -Starting Life in Another World- : La Saison 5 annoncée",
+   "visual": "visuals/20261116-0ddb7a9db8dc.jpg"
+  },
+  {
+   "id": "0ddb7a9db8dc",
+   "headline": "Re:ZERO -Starting Life in Another World- : La Saison 5 annoncée",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/16/re-zero-starting-life-in-another-world-saison-5-annonce-visuel",
+   "work": "Re:ZERO -Starting Life in Another World-",
+   "key": null,
+   "ts": 1794831697.215663,
+   "type": "story",
+   "files": [
+    "stories/20261116-0ddb7a9db8dc.jpg"
+   ]
+  },
+  {
+   "id": "3c6ddfdf3da0",
+   "headline": "Attack on Titan 3 : Nouvelle vidéo aperçu du gameplay",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/16/attack-on-titan-3-video-gameplay",
+   "work": "Attack on Titan 3",
+   "key": [
+    "apercu",
+    "attack",
+    "gameplay",
+    "on",
+    "titan"
+   ],
+   "ts": 1794831698.291221,
+   "type": "post",
+   "files": [
+    "posts/20261116-3c6ddfdf3da0.jpg"
+   ],
+   "caption": "🎬 ATTACK ON TITAN 3 : NOUVELLE VIDÉO APERÇU DU GAMEPLAY\n\nÀ moins d'un mois de la sortie d' Attack on Titan 3, Koei Tecmo revient avec un aperçu plus complet de ce qu'Omega Force prépare pour l'adaptation en jeu vidéo de la conclusion de la saga. Découvre la nouvelle vidéo de gameplay de 11 minutes, qui présente les interactions entre les personnages et les expéditions au-delà des murs. (via Crunchyroll News)\n\n🎬 Studio : MAPPA\n📺 Diffusion : Crunchyroll, YouTube\n\n💬 Hype ou pas hype ? 🔥\n\n📌 Œuvre : Attack on Titan 3\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan d’Attack on Titan 3 et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#AttackOnTitan3 #anime #animefr #japanime #manga",
+   "alt": "ANIME — Attack on Titan 3 : Nouvelle vidéo aperçu du gameplay",
+   "visual": "visuals/20261116-3c6ddfdf3da0.jpg"
+  },
+  {
+   "id": "3c6ddfdf3da0",
+   "headline": "Attack on Titan 3 : Nouvelle vidéo aperçu du gameplay",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/16/attack-on-titan-3-video-gameplay",
+   "work": "Attack on Titan 3",
+   "key": null,
+   "ts": 1794831698.291221,
+   "type": "story",
+   "files": [
+    "stories/20261116-3c6ddfdf3da0.jpg"
+   ]
   }
  ],
  "posted": [
-  {
-   "id": "c2d8e9a0d41c",
-   "type": "reel",
-   "headline": "L’anime Bleach – The Calamity, en Trailer Final",
-   "key": [
-    "bleach",
-    "calamity",
-    "final"
-   ],
-   "link": "https://adala-news.fr/2026/10/lanime-bleach-the-calamity-en-trailer-final/",
-   "visual": "visuals/20261017-c2d8e9a0d41c.jpg",
-   "work": "Bleach",
-   "media_id": "18105241490528230",
-   "ts": 1792237579.350303,
-   "card": "posts/20261017-c2d8e9a0d41c.jpg"
-  },
-  {
-   "id": "c2d8e9a0d41c",
-   "type": "story",
-   "headline": "L’anime Bleach – The Calamity, en Trailer Final",
-   "key": null,
-   "link": "https://adala-news.fr/2026/10/lanime-bleach-the-calamity-en-trailer-final/",
-   "visual": null,
-   "work": "Bleach",
-   "media_id": "18077451173753976",
-   "ts": 1792237592.444948,
-   "card": null
-  },
   {
    "id": "fe2545ca0260",
    "type": "reel",
@@ -6726,7 +6772,7 @@
  "last_recap": "2026-W46",
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1794829960.9774356,
+ "ig_pause_until": 1794833535.7166252,
  "carousels_done": {
   "upcoming": "2026-W46",
   "movies": "2026-W46",
