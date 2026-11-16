@@ -244,7 +244,8 @@
   "240666647453": 1794659311.517446,
   "21d51cadeebf": 1794723182.846091,
   "8e95c4ca0fe2": 1794723198.589851,
-  "189de1e47561": 1794758768.580447
+  "189de1e47561": 1794758768.580447,
+  "83beee05f38b": 1794819939.006051
  },
  "queue": [
   {
@@ -319,6 +320,45 @@
     "carousels/20261116-2026-W47-week-5.jpg",
     "carousels/20261116-2026-W47-week-6.jpg",
     "carousels/20261116-2026-W47-week-7.jpg"
+   ]
+  },
+  {
+   "id": "83beee05f38b",
+   "headline": "Chainsaw Man - Le film : L'arc de Reze - Un Visuel pour l'événement de…",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/16/chainsaw-man-film-arc-reze-evenement-saint-valentin-visual-cinema-live-2027",
+   "work": "Chainsaw Man - Le film",
+   "key": [
+    "arc",
+    "chainsaw",
+    "evenement",
+    "man",
+    "reze",
+    "saint",
+    "valentin",
+    "visuel"
+   ],
+   "ts": 1794819940.097024,
+   "type": "reel",
+   "files": [
+    "reels/20261116-83beee05f38b.mp4",
+    "posts/20261116-83beee05f38b.jpg"
+   ],
+   "caption": "🎬 CHAINSAW MAN - LE FILM : L'ARC DE REZE - UN VISUEL POUR L'ÉVÉNEMENT DE…\n\nIl n’y a rien de plus romantique pour la Saint-Valentin que de redécouvrir Chainsaw Man - Le film : L'arc de Reze projeté sur un écran LED de 500 pouces, accompagné d’un groupe jouant en direct. (via Crunchyroll News)\n\n📅 Date : 4 juin 2026\n📺 Diffusion : Crunchyroll\n🔢 Épisodes : 12\n\n💬 Hype ou pas hype ? 🔥\n\n📌 Œuvre : Chainsaw Man - Le film\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Chainsaw Man - Le film et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#ChainsawManLeFilm #anime #animefr #japanime #manga",
+   "visual": "visuals/20261116-83beee05f38b.jpg",
+   "card": "posts/20261116-83beee05f38b.jpg"
+  },
+  {
+   "id": "83beee05f38b",
+   "headline": "Chainsaw Man - Le film : L'arc de Reze - Un Visuel pour l'événement de…",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/16/chainsaw-man-film-arc-reze-evenement-saint-valentin-visual-cinema-live-2027",
+   "work": "Chainsaw Man - Le film",
+   "key": null,
+   "ts": 1794819940.097024,
+   "type": "story",
+   "files": [
+    "stories/20261116-83beee05f38b.jpg"
    ]
   }
  ],
