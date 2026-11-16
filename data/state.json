@@ -1,6 +1,5 @@
 {
  "seen": {
-  "9c5bff9b3328": 1792231087.106908,
   "c2d8e9a0d41c": 1792237462.670262,
   "fe2545ca0260": 1792246580.09159,
   "6d4e6d63fe60": 1792247497.246804,
@@ -245,7 +244,8 @@
   "21d51cadeebf": 1794723182.846091,
   "8e95c4ca0fe2": 1794723198.589851,
   "189de1e47561": 1794758768.580447,
-  "83beee05f38b": 1794819939.006051
+  "83beee05f38b": 1794819939.006051,
+  "42492683a88f": 1794823599.718054
  },
  "queue": [
   {
@@ -359,6 +359,42 @@
    "type": "story",
    "files": [
     "stories/20261116-83beee05f38b.jpg"
+   ]
+  },
+  {
+   "id": "42492683a88f",
+   "headline": "Skip and Loafer Saison 2 : nouveau teaser et troisième visuel",
+   "category": "ANIME",
+   "link": "https://animotaku.fr/actualite/anime-skip-and-loafer-saison-2-nouveau-teaser/",
+   "work": "skip and loafer",
+   "key": [
+    "and",
+    "loafer",
+    "skip",
+    "troisieme",
+    "visuel"
+   ],
+   "ts": 1794823602.698494,
+   "type": "reel",
+   "files": [
+    "reels/20261116-42492683a88f.mp4",
+    "posts/20261116-42492683a88f.jpg"
+   ],
+   "caption": "🎬 SKIP AND LOAFER SAISON 2 : NOUVEAU TEASER ET TROISIÈME VISUEL\n\nEn parallèle, deux comédiens supplémentaires ont rejoint la distribution artistique : Pour rappel, c’est Kotomi Deai qui réalise la saison 2 au studio d’animation P.A.WORKS. Elle signe aussi la composition scénaristique, aux côtés de Yoko Yonaiyama. (via Animotaku)\n\n📅 Date : avril 2027\n📺 Diffusion : Crunchyroll\n\n💬 Note ta hype sur 10 👇\n\n📌 Œuvre : skip and loafer\n📰 Source : Animotaku\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de skip and loafer et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#SkipAndLoafer #anime #animefr #japanime #manga",
+   "visual": "visuals/20261116-42492683a88f.jpg",
+   "card": "posts/20261116-42492683a88f.jpg"
+  },
+  {
+   "id": "42492683a88f",
+   "headline": "Skip and Loafer Saison 2 : nouveau teaser et troisième visuel",
+   "category": "ANIME",
+   "link": "https://animotaku.fr/actualite/anime-skip-and-loafer-saison-2-nouveau-teaser/",
+   "work": "skip and loafer",
+   "key": null,
+   "ts": 1794823602.698494,
+   "type": "story",
+   "files": [
+    "stories/20261116-42492683a88f.jpg"
    ]
   }
  ],
