@@ -1,6 +1,5 @@
 {
  "seen": {
-  "c5a55224f27c": 1792248404.543627,
   "04a455f33f75": 1792249315.43607,
   "842f2e93ceff": 1792314033.683035,
   "0c647f290ae4": 1792333184.030059,
@@ -472,64 +471,6 @@
   }
  ],
  "posted": [
-  {
-   "id": "6d4e6d63fe60",
-   "type": "reel",
-   "headline": "Nanatsuya Shinobu no Housekibako adapté en anime",
-   "key": [
-    "housekibako",
-    "nanatsuya",
-    "no",
-    "shinobu"
-   ],
-   "link": "https://adala-news.fr/2026/10/le-manga-nanatsuya-shinobu-no-housekibako-adapte-en-anime/",
-   "visual": "visuals/20261017-6d4e6d63fe60.jpg",
-   "work": "Nanatsuya Shinobu no Housekibako",
-   "media_id": "17983934202095373",
-   "ts": 1792247641.904627,
-   "card": "posts/20261017-6d4e6d63fe60.jpg"
-  },
-  {
-   "id": "6d4e6d63fe60",
-   "type": "story",
-   "headline": "Nanatsuya Shinobu no Housekibako adapté en anime",
-   "key": null,
-   "link": "https://adala-news.fr/2026/10/le-manga-nanatsuya-shinobu-no-housekibako-adapte-en-anime/",
-   "visual": null,
-   "work": "Nanatsuya Shinobu no Housekibako",
-   "media_id": "17913156219552295",
-   "ts": 1792247654.752176,
-   "card": null
-  },
-  {
-   "id": "c5a55224f27c",
-   "type": "post",
-   "headline": "L’anime Full Clearing Another World, en Trailer 2",
-   "key": [
-    "another",
-    "clearing",
-    "full",
-    "world"
-   ],
-   "link": "https://adala-news.fr/2026/10/lanime-full-clearing-another-world-en-trailer-2/",
-   "visual": "visuals/20261017-c5a55224f27c.jpg",
-   "work": "",
-   "media_id": "18116669225321295",
-   "ts": 1792248453.351985,
-   "card": "posts/20261017-c5a55224f27c.jpg"
-  },
-  {
-   "id": "c5a55224f27c",
-   "type": "story",
-   "headline": "L’anime Full Clearing Another World, en Trailer 2",
-   "key": null,
-   "link": "https://adala-news.fr/2026/10/lanime-full-clearing-another-world-en-trailer-2/",
-   "visual": null,
-   "work": "",
-   "media_id": "18104198459015376",
-   "ts": 1792248467.756871,
-   "card": null
-  },
   {
    "id": "04a455f33f75",
    "type": "post",
