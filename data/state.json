@@ -1,6 +1,5 @@
 {
  "seen": {
-  "6d4e6d63fe60": 1792247497.246804,
   "c5a55224f27c": 1792248404.543627,
   "04a455f33f75": 1792249315.43607,
   "842f2e93ceff": 1792314033.683035,
@@ -473,33 +472,6 @@
   }
  ],
  "posted": [
-  {
-   "id": "fe2545ca0260",
-   "type": "reel",
-   "headline": "À crocs à toi adapté en anime",
-   "key": [
-    "crocs",
-    "toi"
-   ],
-   "link": "https://adala-news.fr/2026/10/le-manga-a-crocs-a-toi-adapte-en-anime/",
-   "visual": "visuals/20261017-fe2545ca0260.jpg",
-   "work": "À crocs à toi",
-   "media_id": "18015333821960500",
-   "ts": 1792246771.379948,
-   "card": "posts/20261017-fe2545ca0260.jpg"
-  },
-  {
-   "id": "fe2545ca0260",
-   "type": "story",
-   "headline": "À crocs à toi adapté en anime",
-   "key": null,
-   "link": "https://adala-news.fr/2026/10/le-manga-a-crocs-a-toi-adapte-en-anime/",
-   "visual": null,
-   "work": "À crocs à toi",
-   "media_id": "18393037657204271",
-   "ts": 1792246785.554844,
-   "card": null
-  },
   {
    "id": "6d4e6d63fe60",
    "type": "reel",
@@ -6771,7 +6743,7 @@
  "last_recap": "2026-W46",
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1794839553.0556715,
+ "ig_pause_until": 1794841362.4675817,
  "carousels_done": {
   "upcoming": "2026-W46",
   "movies": "2026-W46",
