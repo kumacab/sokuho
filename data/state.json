@@ -1,6 +1,5 @@
 {
  "seen": {
-  "0c647f290ae4": 1792333184.030059,
   "f22089a38709": 1792427458.922731,
   "fe45db4374c8": 1792436599.054776,
   "54ea804738f8": 1792480373.248261,
@@ -457,35 +456,6 @@
   }
  ],
  "posted": [
-  {
-   "id": "0c647f290ae4",
-   "type": "reel",
-   "headline": "L’anime NullMeta officiellement en production pour 2027",
-   "key": [
-    "2027",
-    "nullmeta",
-    "officiellement",
-    "production"
-   ],
-   "link": "https://animotaku.fr/actualite/anime-nullmeta-annonce-2027/",
-   "visual": "visuals/20261018-0c647f290ae4.jpg",
-   "work": "anime NullMeta",
-   "media_id": "18098161307393089",
-   "ts": 1792333307.555726,
-   "card": "posts/20261018-0c647f290ae4.jpg"
-  },
-  {
-   "id": "0c647f290ae4",
-   "type": "story",
-   "headline": "L’anime NullMeta officiellement en production pour 2027",
-   "key": null,
-   "link": "https://animotaku.fr/actualite/anime-nullmeta-annonce-2027/",
-   "visual": null,
-   "work": "anime NullMeta",
-   "media_id": "18032309210888691",
-   "ts": 1792333326.700914,
-   "card": null
-  },
   {
    "id": "recap-2026-W42",
    "type": "carousel",
@@ -6614,7 +6584,7 @@
  "last_recap": "2026-W46",
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1794925351.6933138,
+ "ig_pause_until": 1794927172.9046402,
  "carousels_done": {
   "upcoming": "2026-W46",
   "movies": "2026-W46",
