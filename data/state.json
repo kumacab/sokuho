@@ -457,18 +457,6 @@
  ],
  "posted": [
   {
-   "id": "recap-2026-W42",
-   "type": "reel",
-   "headline": "Récap 12 → 18 OCT.",
-   "key": null,
-   "link": null,
-   "visual": null,
-   "work": null,
-   "media_id": "18424547041152241",
-   "ts": 1792339826.065722,
-   "card": null
-  },
-  {
    "id": "car-week-2026-W43",
    "type": "carousel",
    "headline": "🗓️ LE PLANNING DE LA SEMAINE EST LÀ ! (19/10 → 25/10)",
@@ -6572,7 +6560,7 @@
  "last_recap": "2026-W46",
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1794932657.2491486,
+ "ig_pause_until": 1794934479.5370398,
  "carousels_done": {
   "upcoming": "2026-W46",
   "movies": "2026-W46",
