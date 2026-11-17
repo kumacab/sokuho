@@ -1,6 +1,5 @@
 {
  "seen": {
-  "842f2e93ceff": 1792314033.683035,
   "0c647f290ae4": 1792333184.030059,
   "f22089a38709": 1792427458.922731,
   "fe45db4374c8": 1792436599.054776,
@@ -252,7 +251,8 @@
   "ef3c7d404355": 1794896127.845535,
   "ca97b131b3f3": 1794896127.845536,
   "6837dd3f457a": 1794896127.845536,
-  "fe5b8cf8228e": 1794904353.240433
+  "fe5b8cf8228e": 1794904353.240433,
+  "69a8ee8746f4": 1794906176.145903
  },
  "queue": [
   {
@@ -415,36 +415,48 @@
    "files": [
     "stories/20261117-fe5b8cf8228e.jpg"
    ]
+  },
+  {
+   "id": "69a8ee8746f4",
+   "headline": "Fool Night : Trailer pour Yomiko Horai et collab avec Gundam SEED…",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/17/fool-night-trailer-yomiko-horai-visuel-collab-gundam-seed-freedom-zero",
+   "work": "Fool Night",
+   "key": [
+    "collab",
+    "fool",
+    "freedom",
+    "gundam",
+    "horai",
+    "night",
+    "seed",
+    "yomiko",
+    "zero"
+   ],
+   "ts": 1794906176.924265,
+   "type": "post",
+   "files": [
+    "posts/20261117-69a8ee8746f4.jpg"
+   ],
+   "caption": "🎬 FOOL NIGHT : TRAILER POUR YOMIKO HORAI ET COLLAB AVEC GUNDAM SEED…\n\nL'adaptation animée du manga Fool Night de Kasumi Yasuda sortira dans dix jours : tous les épisodes seront disponibles en streaming à partir du 26 novembre. En attendant, la série a dévoilé une nouvelle bande-annonce présentant un de ses personnages, ainsi qu'une illustration en collaboration avec le film à venir Mobile Suit Gundam SEED FREEDOM ZERO. (via Crunchyroll News)\n\n📅 Date : 15 janvier 2027\n🎬 Studio : Sunrise\n📺 Diffusion : YouTube\n\n💬 Tu vas le regarder ? 👀\n\n📌 Œuvre : Fool Night\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Fool Night et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#FoolNight #anime #animefr #japanime #manga",
+   "alt": "ANIME — Fool Night : Trailer pour Yomiko Horai et collab avec Gundam SEED…",
+   "visual": "visuals/20261117-69a8ee8746f4.jpg"
+  },
+  {
+   "id": "69a8ee8746f4",
+   "headline": "Fool Night : Trailer pour Yomiko Horai et collab avec Gundam SEED…",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/17/fool-night-trailer-yomiko-horai-visuel-collab-gundam-seed-freedom-zero",
+   "work": "Fool Night",
+   "key": null,
+   "ts": 1794906176.924265,
+   "type": "story",
+   "files": [
+    "stories/20261117-69a8ee8746f4.jpg"
+   ]
   }
  ],
  "posted": [
-  {
-   "id": "842f2e93ceff",
-   "type": "reel",
-   "headline": "Le film anime Kaiju Decode, en Teaser Vidéo",
-   "key": [
-    "decode",
-    "kaiju"
-   ],
-   "link": "https://adala-news.fr/2026/10/le-film-anime-kaiju-decode-en-teaser-video/",
-   "visual": "visuals/20261018-842f2e93ceff.jpg",
-   "work": "",
-   "media_id": "18445870546135141",
-   "ts": 1792314132.88121,
-   "card": "posts/20261018-842f2e93ceff.jpg"
-  },
-  {
-   "id": "842f2e93ceff",
-   "type": "story",
-   "headline": "Le film anime Kaiju Decode, en Teaser Vidéo",
-   "key": null,
-   "link": "https://adala-news.fr/2026/10/le-film-anime-kaiju-decode-en-teaser-video/",
-   "visual": null,
-   "work": "",
-   "media_id": "18133191490762647",
-   "ts": 1792314145.515051,
-   "card": null
-  },
   {
    "id": "0c647f290ae4",
    "type": "reel",
