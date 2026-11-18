@@ -1,6 +1,5 @@
 {
  "seen": {
-  "fe45db4374c8": 1792436599.054776,
   "54ea804738f8": 1792480373.248261,
   "c1b77b7aab53": 1792505024.788896,
   "f4a8504e207a": 1792523351.915518,
@@ -474,39 +473,6 @@
   }
  ],
  "posted": [
-  {
-   "id": "fe45db4374c8",
-   "type": "post",
-   "headline": "Les clips de Tsugai, Haikyu!! et bien plus sont disponibles sur…",
-   "key": [
-    "bien",
-    "clips",
-    "crunchyroll",
-    "disponibles",
-    "haikyu",
-    "plus",
-    "sont",
-    "tsugai"
-   ],
-   "link": "https://crunchyroll.com/fr/news/announcements/2026/10/19/tsugai-daemons-of-the-shadow-realm-haikyu-clips-musique-crunchyroll",
-   "visual": "visuals/20261019-fe45db4374c8.jpg",
-   "work": "",
-   "media_id": "18161529514504379",
-   "ts": 1792436702.725278,
-   "card": "posts/20261019-fe45db4374c8.jpg"
-  },
-  {
-   "id": "fe45db4374c8",
-   "type": "story",
-   "headline": "Les clips de Tsugai, Haikyu!! et bien plus sont disponibles sur…",
-   "key": null,
-   "link": "https://crunchyroll.com/fr/news/announcements/2026/10/19/tsugai-daemons-of-the-shadow-realm-haikyu-clips-musique-crunchyroll",
-   "visual": null,
-   "work": "",
-   "media_id": "18108196342947238",
-   "ts": 1792436717.484349,
-   "card": null
-  },
   {
    "id": "54ea804738f8",
    "type": "reel",
@@ -6532,7 +6498,7 @@
  "last_recap": "2026-W46",
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1795029466.9652126,
+ "ig_pause_until": 1795031284.2193825,
  "carousels_done": {
   "upcoming": "2026-W47",
   "movies": "2026-W46",
