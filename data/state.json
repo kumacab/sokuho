@@ -260,7 +260,11 @@
   "a09f62388c1a": 1794993842.664781,
   "8fff6a0dd8fb": 1794993842.664782,
   "bbc2b0b71e53": 1794993842.664784,
-  "307a3369a6f8": 1794995671.93196
+  "307a3369a6f8": 1794995671.93196,
+  "e4e1eab21b3f": 1795038612.466062,
+  "f64970c73f75": 1795038612.466065,
+  "8b8bd29781f1": 1795038612.466067,
+  "b47be230b658": 1795038612.466069
  },
  "queue": [
   {
@@ -435,6 +439,44 @@
     "carousels/20261118-2026-W47-upcoming-4.jpg",
     "carousels/20261118-2026-W47-upcoming-5.jpg",
     "carousels/20261118-2026-W47-upcoming-6.jpg"
+   ]
+  },
+  {
+   "id": "b47be230b658",
+   "headline": "L’anime Spice and Wolf Saison 2 sortira en janvier 2027 et s’offre un…",
+   "category": "ANIME",
+   "link": "https://animotaku.fr/actualite/anime-spice-and-wolf-saison-2-janvier-2027/",
+   "work": "anime Spice and Wolf",
+   "key": [
+    "2027",
+    "and",
+    "janvier",
+    "offre",
+    "sortira",
+    "spice",
+    "visuel",
+    "wolf"
+   ],
+   "ts": 1795038614.43828,
+   "type": "post",
+   "files": [
+    "posts/20261118-b47be230b658.jpg"
+   ],
+   "caption": "🎬 L’ANIME SPICE AND WOLF SAISON 2 SORTIRA EN JANVIER 2027 ET S’OFFRE UN…\n\nEn France, cette deuxième saison sera proposée en simulcast sur Crunchyroll. Le casting de cette deuxième saison regroupe Jun Fukuyama, Ami Koshimizu et Romi Park, respectivement pour les rôles de Kraft Lawrence, Holo et Eve Bolan. (via Animotaku)\n\n📅 Date : janvier 2027\n🎬 Studio : Passione\n📺 Diffusion : Crunchyroll\n\n💬 Tu attendais cette annonce ?\n\n📌 Œuvre : anime Spice and Wolf\n📰 Source : Animotaku\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan d’anime Spice and Wolf et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#AnimeSpiceAndWolf #anime #animefr #japanime #manga",
+   "alt": "ANIME — L’anime Spice and Wolf Saison 2 sortira en janvier 2027 et s’offre un…",
+   "visual": "visuals/20261118-b47be230b658.jpg"
+  },
+  {
+   "id": "b47be230b658",
+   "headline": "L’anime Spice and Wolf Saison 2 sortira en janvier 2027 et s’offre un…",
+   "category": "ANIME",
+   "link": "https://animotaku.fr/actualite/anime-spice-and-wolf-saison-2-janvier-2027/",
+   "work": "anime Spice and Wolf",
+   "key": null,
+   "ts": 1795038614.43828,
+   "type": "story",
+   "files": [
+    "stories/20261118-b47be230b658.jpg"
    ]
   }
  ],
@@ -6464,7 +6506,7 @@
  "last_recap": "2026-W46",
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1795038588.4776337,
+ "ig_pause_until": 1795040449.5578933,
  "carousels_done": {
   "upcoming": "2026-W47",
   "movies": "2026-W46",
