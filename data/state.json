@@ -264,7 +264,8 @@
   "e4e1eab21b3f": 1795038612.466062,
   "f64970c73f75": 1795038612.466065,
   "8b8bd29781f1": 1795038612.466067,
-  "b47be230b658": 1795038612.466069
+  "b47be230b658": 1795038612.466069,
+  "9d3a041c7b00": 1795040435.648548
  },
  "queue": [
   {
@@ -443,6 +444,44 @@
    "type": "story",
    "files": [
     "stories/20261118-b47be230b658.jpg"
+   ]
+  },
+  {
+   "id": "9d3a041c7b00",
+   "headline": "Super Psychic Policeman Chojo partage la vidéo de Chinjuku Sentai…",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/18/super-psychic-policeman-chojo-video-chinjuku-sentai-chinranger-paroles",
+   "work": "",
+   "key": [
+    "chinjuku",
+    "chinranger",
+    "chojo",
+    "partage",
+    "policeman",
+    "psychic",
+    "sentai",
+    "super"
+   ],
+   "ts": 1795040436.357936,
+   "type": "post",
+   "files": [
+    "posts/20261118-9d3a041c7b00.jpg"
+   ],
+   "caption": "🎬 SUPER PSYCHIC POLICEMAN CHOJO PARTAGE LA VIDÉO DE CHINJUKU SENTAI…\n\nL'anime Super Psychic Policeman Chojo a publié une vidéo avec les paroles de la chanson Chinjuku Sentai Chinranger sur la chaîne YouTube officielle de Good Smile Company. Chinjuku Sentai Chinranger est un groupe de héros sentai apparaissant dans la série. (via Crunchyroll News)\n\n📅 Date : automne 2026\n🎥 Réalisation : Ranma Takahashi\n📺 Diffusion : Crunchyroll, YouTube\n\n💬 Tu vas le regarder ? 👀\n\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote qui doit savoir ça et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
+   "alt": "ANIME — Super Psychic Policeman Chojo partage la vidéo de Chinjuku Sentai…",
+   "visual": "visuals/20261118-9d3a041c7b00.jpg"
+  },
+  {
+   "id": "9d3a041c7b00",
+   "headline": "Super Psychic Policeman Chojo partage la vidéo de Chinjuku Sentai…",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/18/super-psychic-policeman-chojo-video-chinjuku-sentai-chinranger-paroles",
+   "work": "",
+   "key": null,
+   "ts": 1795040436.357936,
+   "type": "story",
+   "files": [
+    "stories/20261118-9d3a041c7b00.jpg"
    ]
   }
  ],
