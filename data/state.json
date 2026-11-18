@@ -253,7 +253,15 @@
   "fe5b8cf8228e": 1794904353.240433,
   "69a8ee8746f4": 1794906176.145903,
   "b1a2186d9600": 1794949115.416924,
-  "dd2347e3b9ce": 1794950932.837423
+  "dd2347e3b9ce": 1794950932.837423,
+  "b2767fa62dac": 1794993842.664771,
+  "7de699b74f9b": 1794993842.664773,
+  "534ffd39110d": 1794993842.664776,
+  "7de5ad93f45c": 1794993842.664778,
+  "5800401f00f4": 1794993842.66478,
+  "a09f62388c1a": 1794993842.664781,
+  "8fff6a0dd8fb": 1794993842.664782,
+  "bbc2b0b71e53": 1794993842.664784
  },
  "queue": [
   {
@@ -416,6 +424,40 @@
    "type": "story",
    "files": [
     "stories/20261117-dd2347e3b9ce.jpg"
+   ]
+  },
+  {
+   "id": "bbc2b0b71e53",
+   "headline": "Suikoden The Anime partage un clip vidéo pour son Ending",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/18/suikoden-the-anime-clip-ending",
+   "work": "",
+   "key": [
+    "clip",
+    "ending",
+    "partage",
+    "suikoden"
+   ],
+   "ts": 1794993843.426305,
+   "type": "post",
+   "files": [
+    "posts/20261118-bbc2b0b71e53.jpg"
+   ],
+   "caption": "🎬 SUIKODEN THE ANIME PARTAGE UN CLIP VIDÉO POUR SON ENDING\n\nSuikoden The Anime a publié un clip musical en collaboration, comprenant des extraits de la série ainsi qu’une prestation de Koji Nakamura interprétant l'ending, intitulé closed eye sun feat. La série est actuellement diffusée au Japon. (via Crunchyroll News)\n\n📺 Diffusion : YouTube\n\n💬 Ton avis sur le studio ? 🎬\n\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote qui doit savoir ça et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
+   "alt": "ANIME — Suikoden The Anime partage un clip vidéo pour son Ending",
+   "visual": "visuals/20261118-bbc2b0b71e53.jpg"
+  },
+  {
+   "id": "bbc2b0b71e53",
+   "headline": "Suikoden The Anime partage un clip vidéo pour son Ending",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/18/suikoden-the-anime-clip-ending",
+   "work": "",
+   "key": null,
+   "ts": 1794993843.426305,
+   "type": "story",
+   "files": [
+    "stories/20261118-bbc2b0b71e53.jpg"
    ]
   }
  ],
