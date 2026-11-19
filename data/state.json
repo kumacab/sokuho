@@ -276,7 +276,8 @@
   "ed072ae53feb": 1795128170.984944,
   "2e5731e03568": 1795128170.984946,
   "1e97721c8583": 1795128170.984948,
-  "be5a6f0b3a22": 1795128170.984949
+  "be5a6f0b3a22": 1795128170.984949,
+  "f1d959487b4c": 1795129996.383029
  },
  "queue": [
   {
@@ -453,6 +454,39 @@
    "type": "story",
    "files": [
     "stories/20261119-be5a6f0b3a22.jpg"
+   ]
+  },
+  {
+   "id": "f1d959487b4c",
+   "headline": "Le manhwa Une belle-fille à croquer adapté en anime",
+   "category": "ANIME",
+   "link": "https://animotaku.fr/actualite/anime-une-belle-fille-a-croquer-annonce/",
+   "work": "",
+   "key": [
+    "belle",
+    "croquer",
+    "fille"
+   ],
+   "ts": 1795129998.63055,
+   "type": "post",
+   "files": [
+    "posts/20261119-f1d959487b4c.jpg"
+   ],
+   "caption": "🎬 LE MANHWA UNE BELLE-FILLE À CROQUER ADAPTÉ EN ANIME\n\nPour le moment, aucune information complémentaire n’a été communiquée. Le studio chargé du projet et la date de sortie seront dévoilés ultérieurement. Après être morte d’épuisement au travail, Baekhap, une créatrice de vêtements pour enfants, se réincarne dans un monde très semblable à celui du conte de Blanche-Neige. (via Animotaku)\n\n📅 Date : Hiver 2027\n\n💬 Ton avis sur le studio ? 🎬\n\n📰 Source : Animotaku\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote qui doit savoir ça et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
+   "alt": "ANIME — Le manhwa Une belle-fille à croquer adapté en anime",
+   "visual": "visuals/20261119-f1d959487b4c.jpg"
+  },
+  {
+   "id": "f1d959487b4c",
+   "headline": "Le manhwa Une belle-fille à croquer adapté en anime",
+   "category": "ANIME",
+   "link": "https://animotaku.fr/actualite/anime-une-belle-fille-a-croquer-annonce/",
+   "work": "",
+   "key": null,
+   "ts": 1795129998.63055,
+   "type": "story",
+   "files": [
+    "stories/20261119-f1d959487b4c.jpg"
    ]
   }
  ],
@@ -6395,7 +6429,7 @@
  "last_recap": "2026-W46",
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1795129999.3746662,
+ "ig_pause_until": 1795131823.1060424,
  "carousels_done": {
   "upcoming": "2026-W47",
   "movies": "2026-W46",
