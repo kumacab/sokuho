@@ -272,7 +272,8 @@
   "909fb1fa2e00": 1795083341.849072,
   "ebd6780de573": 1795083341.849073,
   "005aa9cf4570": 1795083341.849074,
-  "15aa8178db55": 1795083341.849075
+  "15aa8178db55": 1795083341.849075,
+  "6608d3b80ad6": 1795085180.413105
  },
  "queue": [
   {
@@ -452,6 +453,48 @@
    "type": "story",
    "files": [
     "stories/20261119-15aa8178db55.jpg"
+   ]
+  },
+  {
+   "id": "6608d3b80ad6",
+   "headline": "LiSA nommée aux Grammy Awards pour la chanson de The Irregular at Magic…",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/19/lisa-nomination-grammy-awards-yes",
+   "work": "",
+   "key": [
+    "at",
+    "awards",
+    "chanson",
+    "grammy",
+    "high",
+    "irregular",
+    "lisa",
+    "magic",
+    "nommee",
+    "school",
+    "succession",
+    "yotsuba"
+   ],
+   "ts": 1795085180.911913,
+   "type": "post",
+   "files": [
+    "posts/20261119-6608d3b80ad6.jpg"
+   ],
+   "caption": "🎬 LISA NOMMÉE AUX GRAMMY AWARDS POUR LA CHANSON DE THE IRREGULAR AT MAGIC…\n\nLiSA a été nommée dans la catégorie « Meilleure performance de musique pop asiatique » lors de la 69e cérémonie des Grammy Awards, dont les nominations ont été annoncées le 16 novembre. La cérémonie de remise des prix doit avoir lieu à Los Angeles le 7 février 2027. (via Crunchyroll News)\n\n📅 Date : 7 février 2027\n📺 Diffusion : Crunchyroll\n\n💬 Note ta hype sur 10 👇\n\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote qui doit savoir ça et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
+   "alt": "ANIME — LiSA nommée aux Grammy Awards pour la chanson de The Irregular at Magic…",
+   "visual": "visuals/20261119-6608d3b80ad6.jpg"
+  },
+  {
+   "id": "6608d3b80ad6",
+   "headline": "LiSA nommée aux Grammy Awards pour la chanson de The Irregular at Magic…",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/19/lisa-nomination-grammy-awards-yes",
+   "work": "",
+   "key": null,
+   "ts": 1795085180.911913,
+   "type": "story",
+   "files": [
+    "stories/20261119-6608d3b80ad6.jpg"
    ]
   }
  ],
@@ -6452,7 +6495,7 @@
  "last_recap": "2026-W46",
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1795085166.456301,
+ "ig_pause_until": 1795087006.7402885,
  "carousels_done": {
   "upcoming": "2026-W47",
   "movies": "2026-W46",
