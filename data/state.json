@@ -498,32 +498,6 @@
  ],
  "posted": [
   {
-   "id": "f4a8504e207a",
-   "type": "reel",
-   "headline": "Murciélago dévoile un teaser vidéo",
-   "key": [
-    "murcielago"
-   ],
-   "link": "https://adala-news.fr/2026/10/lanime-murcielago-en-teaser-video/",
-   "visual": "visuals/20261020-f4a8504e207a.jpg",
-   "work": "Murcielago",
-   "media_id": "18283245436288278",
-   "ts": 1792523488.986384,
-   "card": "posts/20261020-f4a8504e207a.jpg"
-  },
-  {
-   "id": "f4a8504e207a",
-   "type": "story",
-   "headline": "Murciélago dévoile un teaser vidéo",
-   "key": null,
-   "link": "https://adala-news.fr/2026/10/lanime-murcielago-en-teaser-video/",
-   "visual": null,
-   "work": "Murcielago",
-   "media_id": "18348637633280916",
-   "ts": 1792523506.287456,
-   "card": null
-  },
-  {
    "id": "2d668669856c",
    "type": "reel",
    "headline": "À l’image de Mona Lisa : nouveau trailer",
