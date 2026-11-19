@@ -264,7 +264,15 @@
   "f64970c73f75": 1795038612.466065,
   "8b8bd29781f1": 1795038612.466067,
   "b47be230b658": 1795038612.466069,
-  "9d3a041c7b00": 1795040435.648548
+  "9d3a041c7b00": 1795040435.648548,
+  "580e331598ed": 1795083341.849067,
+  "e2c61693c3d6": 1795083341.849069,
+  "36e8314e0bb5": 1795083341.84907,
+  "916636caf8eb": 1795083341.849072,
+  "909fb1fa2e00": 1795083341.849072,
+  "ebd6780de573": 1795083341.849073,
+  "005aa9cf4570": 1795083341.849074,
+  "15aa8178db55": 1795083341.849075
  },
  "queue": [
   {
@@ -443,6 +451,45 @@
    "type": "story",
    "files": [
     "stories/20261118-9d3a041c7b00.jpg"
+   ]
+  },
+  {
+   "id": "15aa8178db55",
+   "headline": "Spice and Wolf: MERCHANT MEETS THE WISE WOLF Saison 2 sera disponible…",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/announcements/2026/11/19/spice-and-wolf-merchant-meets-the-wise-wolf-saison-2-streaming-crunchyroll",
+   "work": "Spice and Wolf",
+   "key": [
+    "and",
+    "crunchyroll",
+    "disponible",
+    "meets",
+    "merchant",
+    "sera",
+    "spice",
+    "wise",
+    "wolf"
+   ],
+   "ts": 1795083342.527363,
+   "type": "post",
+   "files": [
+    "posts/20261119-15aa8178db55.jpg"
+   ],
+   "caption": "🎬 SPICE AND WOLF: MERCHANT MEETS THE WISE WOLF SAISON 2 SERA DISPONIBLE…\n\nCrunchyroll annonce aujourd’hui qu’il diffusera en streaming la saison 2 de l’anime Spice and Wolf: MERCHANT MEETS THE WISE WOLF dès sa sortie l’année prochaine. La série a dévoilé plus tôt que la nouvelle saison débuterait en janvier 2027. (via Crunchyroll News)\n\n📅 Date : janvier 2027\n🎬 Studio : Passione\n🎥 Réalisation : Hijiri Sanpei\n📺 Diffusion : Crunchyroll\n\n💬 Note ta hype sur 10 👇\n\n📌 Œuvre : Spice and Wolf\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Spice and Wolf et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#SpiceAndWolf #anime #animefr #japanime #manga",
+   "alt": "ANIME — Spice and Wolf: MERCHANT MEETS THE WISE WOLF Saison 2 sera disponible…",
+   "visual": "visuals/20261119-15aa8178db55.jpg"
+  },
+  {
+   "id": "15aa8178db55",
+   "headline": "Spice and Wolf: MERCHANT MEETS THE WISE WOLF Saison 2 sera disponible…",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/announcements/2026/11/19/spice-and-wolf-merchant-meets-the-wise-wolf-saison-2-streaming-crunchyroll",
+   "work": "Spice and Wolf",
+   "key": null,
+   "ts": 1795083342.527363,
+   "type": "story",
+   "files": [
+    "stories/20261119-15aa8178db55.jpg"
    ]
   }
  ],
@@ -6443,7 +6490,7 @@
  "last_recap": "2026-W46",
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1795083319.144984,
+ "ig_pause_until": 1795085166.456301,
  "carousels_done": {
   "upcoming": "2026-W47",
   "movies": "2026-W46",
