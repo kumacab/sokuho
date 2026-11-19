@@ -271,7 +271,12 @@
   "ebd6780de573": 1795083341.849073,
   "005aa9cf4570": 1795083341.849074,
   "15aa8178db55": 1795083341.849075,
-  "6608d3b80ad6": 1795085180.413105
+  "6608d3b80ad6": 1795085180.413105,
+  "c73e2e57eb8d": 1795128170.984941,
+  "ed072ae53feb": 1795128170.984944,
+  "2e5731e03568": 1795128170.984946,
+  "1e97721c8583": 1795128170.984948,
+  "be5a6f0b3a22": 1795128170.984949
  },
  "queue": [
   {
@@ -454,6 +459,42 @@
    "type": "story",
    "files": [
     "stories/20261119-6608d3b80ad6.jpg"
+   ]
+  },
+  {
+   "id": "be5a6f0b3a22",
+   "headline": "Peropero Sparkles débutera sa diffusion le 10 janvier",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/19/peropero-sparkles-date-diffusion-trailer",
+   "work": "",
+   "key": [
+    "10",
+    "debutera",
+    "diffusion",
+    "janvier",
+    "peropero",
+    "sparkles"
+   ],
+   "ts": 1795128171.523669,
+   "type": "post",
+   "files": [
+    "posts/20261119-be5a6f0b3a22.jpg"
+   ],
+   "caption": "🎬 PEROPERO SPARKLES DÉBUTERA SA DIFFUSION LE 10 JANVIER\n\nL'anime Peropero Sparkles a dévoilé une bande-annonce en vue de sa sortie prochaine La série devrait être diffusée au Japon sur la chaîne TV Tokyo dans le cadre du bloc de programmatation « Animori ! », à partir du 10 janvier 2027. (via Crunchyroll News)\n\n📅 Date : 10 janvier 2027\n🎬 Studio : Usagi Ou\n\n💬 Note ta hype sur 10 👇\n\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote qui doit savoir ça et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
+   "alt": "ANIME — Peropero Sparkles débutera sa diffusion le 10 janvier",
+   "visual": "visuals/20261119-be5a6f0b3a22.jpg"
+  },
+  {
+   "id": "be5a6f0b3a22",
+   "headline": "Peropero Sparkles débutera sa diffusion le 10 janvier",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/19/peropero-sparkles-date-diffusion-trailer",
+   "work": "",
+   "key": null,
+   "ts": 1795128171.523669,
+   "type": "story",
+   "files": [
+    "stories/20261119-be5a6f0b3a22.jpg"
    ]
   }
  ],
@@ -6396,7 +6437,7 @@
  "last_recap": "2026-W46",
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1795128142.7998776,
+ "ig_pause_until": 1795129999.3746662,
  "carousels_done": {
   "upcoming": "2026-W47",
   "movies": "2026-W46",
