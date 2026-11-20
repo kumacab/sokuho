@@ -1,6 +1,5 @@
 {
  "seen": {
-  "415f225051e4": 1792578969.222754,
   "a2c2d8698a38": 1792663266.717344,
   "862ab957654e": 1792664174.623576,
   "3a8b6da440ab": 1792672381.728152,
@@ -489,37 +488,6 @@
   }
  ],
  "posted": [
-  {
-   "id": "415f225051e4",
-   "type": "post",
-   "headline": "L’anime ELECEED sortira en avril 2027 sur ADN et Crunchyroll",
-   "key": [
-    "2027",
-    "adn",
-    "avril",
-    "crunchyroll",
-    "eleceed",
-    "sortira"
-   ],
-   "link": "https://animotaku.fr/actualite/anime-eleceed-avril-2027/",
-   "visual": "visuals/20261021-415f225051e4.jpg",
-   "work": "anime ELECEED",
-   "media_id": "18082818635338541",
-   "ts": 1792579025.118254,
-   "card": "posts/20261021-415f225051e4.jpg"
-  },
-  {
-   "id": "415f225051e4",
-   "type": "story",
-   "headline": "L’anime ELECEED sortira en avril 2027 sur ADN et Crunchyroll",
-   "key": null,
-   "link": "https://animotaku.fr/actualite/anime-eleceed-avril-2027/",
-   "visual": null,
-   "work": "anime ELECEED",
-   "media_id": "18152443498540818",
-   "ts": 1792579037.753406,
-   "card": null
-  },
   {
    "id": "a2c2d8698a38",
    "type": "post",
@@ -6366,7 +6334,7 @@
  "last_recap": "2026-W46",
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1795171026.1979773,
+ "ig_pause_until": 1795172852.0843136,
  "carousels_done": {
   "upcoming": "2026-W47",
   "movies": "2026-W46",
