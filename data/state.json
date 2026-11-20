@@ -283,7 +283,12 @@
   "bc8ba52ea503": 1795172879.739699,
   "fcdafb3445ed": 1795172879.739699,
   "9fd802e35c9f": 1795172879.7397,
-  "58d3fbe9c177": 1795174702.712541
+  "58d3fbe9c177": 1795174702.712541,
+  "5f2d79f12ee6": 1795217632.520355,
+  "0d2b6fcb8459": 1795217632.520357,
+  "97e4094f2c35": 1795217632.520358,
+  "4828a468dc40": 1795217632.520359,
+  "1b59cfa36a54": 1795217632.52036
  },
  "queue": [
   {
@@ -477,6 +482,40 @@
     "carousels/20261120-2026-W47-movies-7.jpg",
     "carousels/20261120-2026-W47-movies-8.jpg",
     "carousels/20261120-2026-W47-movies-9.jpg"
+   ]
+  },
+  {
+   "id": "1b59cfa36a54",
+   "headline": "L’anime Mercedes de la Lune Décroissante révèle sa Date de Sortie",
+   "category": "ANIME",
+   "link": "https://animotaku.fr/actualite/anime-mercedes-lune-decroissante-date-sortie/",
+   "work": "",
+   "key": [
+    "decroissante",
+    "lune",
+    "mercedes",
+    "revele"
+   ],
+   "ts": 1795217635.470552,
+   "type": "post",
+   "files": [
+    "posts/20261120-1b59cfa36a54.jpg"
+   ],
+   "caption": "🎬 L’ANIME MERCEDES DE LA LUNE DÉCROISSANTE RÉVÈLE SA DATE DE SORTIE\n\nEn parallèle, un nouveau visuel a également été présenté. Cette nouvelle série de fantasy, déjà connue en France grâce à son manga édité par Meian, raconte l’histoire d’une jeune fille réincarnée en vampire après avoir vécu une première vie en tant qu’employée de bureau dans le Japon moderne. (via Animotaku)\n\n📅 Date : 10 janvier 2027\n🎥 Réalisation : Kunihisa Sugishima\n\n💬 Hype ou pas hype ? 🔥\n\n📰 Source : Animotaku\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote qui doit savoir ça et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
+   "alt": "ANIME — L’anime Mercedes de la Lune Décroissante révèle sa Date de Sortie",
+   "visual": "visuals/20261120-1b59cfa36a54.jpg"
+  },
+  {
+   "id": "1b59cfa36a54",
+   "headline": "L’anime Mercedes de la Lune Décroissante révèle sa Date de Sortie",
+   "category": "ANIME",
+   "link": "https://animotaku.fr/actualite/anime-mercedes-lune-decroissante-date-sortie/",
+   "work": "",
+   "key": null,
+   "ts": 1795217635.470552,
+   "type": "story",
+   "files": [
+    "stories/20261120-1b59cfa36a54.jpg"
    ]
   }
  ],
@@ -6327,7 +6366,7 @@
  "last_recap": "2026-W46",
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1795217611.2515147,
+ "ig_pause_until": 1795219461.5833592,
  "carousels_done": {
   "upcoming": "2026-W47",
   "movies": "2026-W47",
