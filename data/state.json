@@ -274,7 +274,15 @@
   "2e5731e03568": 1795128170.984946,
   "1e97721c8583": 1795128170.984948,
   "be5a6f0b3a22": 1795128170.984949,
-  "f1d959487b4c": 1795129996.383029
+  "f1d959487b4c": 1795129996.383029,
+  "ea5e61954565": 1795172879.739695,
+  "82ad3f1c49ad": 1795172879.739696,
+  "ef9a283d9fb2": 1795172879.739697,
+  "492c10d8d928": 1795172879.739698,
+  "f988d0fa7041": 1795172879.739699,
+  "bc8ba52ea503": 1795172879.739699,
+  "fcdafb3445ed": 1795172879.739699,
+  "9fd802e35c9f": 1795172879.7397
  },
  "queue": [
   {
@@ -448,6 +456,52 @@
    "type": "story",
    "files": [
     "stories/20261119-f1d959487b4c.jpg"
+   ]
+  },
+  {
+   "id": "9fd802e35c9f",
+   "headline": "I Lost My Adventurer's License",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/20/i-lost-my-adventurers-license-but-its-fine-because-i-have-an-adorable-daughter-now-date-diffusion-trailer-visuel",
+   "work": "",
+   "key": [
+    "adorable",
+    "adventurer",
+    "an",
+    "because",
+    "but",
+    "dans",
+    "daughter",
+    "diffusion",
+    "fine",
+    "have",
+    "it",
+    "license",
+    "lost",
+    "my",
+    "now",
+    "opening"
+   ],
+   "ts": 1795172880.443468,
+   "type": "post",
+   "files": [
+    "posts/20261120-9fd802e35c9f.jpg"
+   ],
+   "caption": "🎬 I LOST MY ADVENTURER'S LICENSE\n\nLe site web de l'anime à venir I Lost My Adventurer's License, but It's Fine Because I Have an Adorable Daughter Now a dévoilé une bande-annonce principale et un visuel, ainsi que la date de début de diffusion au Japon, fixée au 7 janvier. (via Crunchyroll News)\n\n🎬 Studio : Palette Character\n\n💬 Tu vas le regarder ? 👀\n\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote qui doit savoir ça et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
+   "alt": "ANIME — I Lost My Adventurer's License",
+   "visual": "visuals/20261120-9fd802e35c9f.jpg"
+  },
+  {
+   "id": "9fd802e35c9f",
+   "headline": "I Lost My Adventurer's License",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/20/i-lost-my-adventurers-license-but-its-fine-because-i-have-an-adorable-daughter-now-date-diffusion-trailer-visuel",
+   "work": "",
+   "key": null,
+   "ts": 1795172880.443468,
+   "type": "story",
+   "files": [
+    "stories/20261120-9fd802e35c9f.jpg"
    ]
   }
  ],
@@ -6298,7 +6352,7 @@
  "last_recap": "2026-W46",
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1795172852.0843136,
+ "ig_pause_until": 1795174703.1163576,
  "carousels_done": {
   "upcoming": "2026-W47",
   "movies": "2026-W46",
