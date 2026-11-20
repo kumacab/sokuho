@@ -282,7 +282,8 @@
   "f988d0fa7041": 1795172879.739699,
   "bc8ba52ea503": 1795172879.739699,
   "fcdafb3445ed": 1795172879.739699,
-  "9fd802e35c9f": 1795172879.7397
+  "9fd802e35c9f": 1795172879.7397,
+  "58d3fbe9c177": 1795174702.712541
  },
  "queue": [
   {
@@ -469,6 +470,39 @@
    "type": "story",
    "files": [
     "stories/20261120-9fd802e35c9f.jpg"
+   ]
+  },
+  {
+   "id": "58d3fbe9c177",
+   "headline": "Charisma : Un Trailer de présentation pour Terra",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/20/charisma-trailer-personnage-terra",
+   "work": "Charisma",
+   "key": [
+    "charisma",
+    "presentation",
+    "terra"
+   ],
+   "ts": 1795174703.521083,
+   "type": "post",
+   "files": [
+    "posts/20261120-58d3fbe9c177.jpg"
+   ],
+   "caption": "🎬 CHARISMA : UN TRAILER DE PRÉSENTATION POUR TERRA\n\nNous faisons connaissance petit à petit avec les garçons du futur anime Charisma, en attendant la diffusion de la série à partir du 7 janvier. Terra, qui incarne le « Charisma de l’amour-propre », fait son retour dans le cadre de ce projet multimédia. (via Crunchyroll News)\n\n📺 Diffusion : YouTube\n\n💬 Tu vas le regarder ? 👀\n\n📌 Œuvre : Charisma\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Charisma et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#Charisma #anime #animefr #japanime #manga",
+   "alt": "ANIME — Charisma : Un Trailer de présentation pour Terra",
+   "visual": "visuals/20261120-58d3fbe9c177.jpg"
+  },
+  {
+   "id": "58d3fbe9c177",
+   "headline": "Charisma : Un Trailer de présentation pour Terra",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/20/charisma-trailer-personnage-terra",
+   "work": "Charisma",
+   "key": null,
+   "ts": 1795174703.521083,
+   "type": "story",
+   "files": [
+    "stories/20261120-58d3fbe9c177.jpg"
    ]
   }
  ],
@@ -6319,7 +6353,7 @@
  "last_recap": "2026-W46",
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1795174703.1163576,
+ "ig_pause_until": 1795176524.1979332,
  "carousels_done": {
   "upcoming": "2026-W47",
   "movies": "2026-W46",
