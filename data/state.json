@@ -1,6 +1,5 @@
 {
  "seen": {
-  "b5ba3c3bbd46": 1792675121.082484,
   "8183a532d23b": 1792676051.910922,
   "49e0cc39630b": 1792677952.70217,
   "a35fe00036f2": 1792677953.914698,
@@ -490,40 +489,6 @@
   }
  ],
  "posted": [
-  {
-   "id": "b5ba3c3bbd46",
-   "type": "reel",
-   "headline": "BLEACH THE STORIES : Un dernier Visuel pour l'arc Thousand-Year Blood…",
-   "key": [
-    "arc",
-    "bleach",
-    "blood",
-    "dernier",
-    "stories",
-    "thousand",
-    "visuel",
-    "war",
-    "year"
-   ],
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/22/bleach-the-stories-visuel-thousand-year-blood-war-the-calamity-trailer",
-   "visual": "visuals/20261022-b5ba3c3bbd46.jpg",
-   "work": "BLEACH THE STORIES",
-   "media_id": "17905418469353664",
-   "ts": 1792675233.404576,
-   "card": "posts/20261022-b5ba3c3bbd46.jpg"
-  },
-  {
-   "id": "b5ba3c3bbd46",
-   "type": "story",
-   "headline": "BLEACH THE STORIES : Un dernier Visuel pour l'arc Thousand-Year Blood…",
-   "key": null,
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/22/bleach-the-stories-visuel-thousand-year-blood-war-the-calamity-trailer",
-   "visual": null,
-   "work": "BLEACH THE STORIES",
-   "media_id": "18123746728923192",
-   "ts": 1792675247.81667,
-   "card": null
-  },
   {
    "id": "8183a532d23b",
    "type": "reel",
