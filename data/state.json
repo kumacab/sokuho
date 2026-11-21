@@ -1,6 +1,5 @@
 {
  "seen": {
-  "862ab957654e": 1792664174.623576,
   "3a8b6da440ab": 1792672381.728152,
   "cdcee59da597": 1792674208.780959,
   "b5ba3c3bbd46": 1792675121.082484,
@@ -492,40 +491,6 @@
   }
  ],
  "posted": [
-  {
-   "id": "862ab957654e",
-   "type": "post",
-   "headline": "Jump Festa 2027 : Programme du Jump Super Stage et liste des invité-es",
-   "key": [
-    "2027",
-    "es",
-    "festa",
-    "invite",
-    "jump",
-    "liste",
-    "programme",
-    "stage",
-    "super"
-   ],
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/22/jump-festa-2027-programme-super-stage-invites",
-   "visual": "visuals/20261022-862ab957654e.jpg",
-   "work": "Jump Festa 2027",
-   "media_id": "18103465226028606",
-   "ts": 1792664240.088508,
-   "card": "posts/20261022-862ab957654e.jpg"
-  },
-  {
-   "id": "862ab957654e",
-   "type": "story",
-   "headline": "Jump Festa 2027 : Programme du Jump Super Stage et liste des invité-es",
-   "key": null,
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/22/jump-festa-2027-programme-super-stage-invites",
-   "visual": null,
-   "work": "Jump Festa 2027",
-   "media_id": "18099906377379413",
-   "ts": 1792664255.235884,
-   "card": null
-  },
   {
    "id": "3a8b6da440ab",
    "type": "reel",
