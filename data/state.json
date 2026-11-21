@@ -1,6 +1,5 @@
 {
  "seen": {
-  "8e2cbd016dab": 1792696546.919644,
   "38d913b5350c": 1792732122.030429,
   "3530a05eeefb": 1792734850.453589,
   "056bb07f4cca": 1792744949.108574,
@@ -486,46 +485,6 @@
   }
  ],
  "posted": [
-  {
-   "id": "8e2cbd016dab",
-   "type": "post",
-   "headline": "ANI-ROCK FES. 2024 \"My Hero Academia PLUS ULTRA LIVE\" sera disponible…",
-   "key": [
-    "2024",
-    "29",
-    "academia",
-    "ani",
-    "crunchyroll",
-    "disponible",
-    "fes",
-    "hero",
-    "live",
-    "my",
-    "octobre",
-    "plus",
-    "rock",
-    "sera",
-    "ultra"
-   ],
-   "link": "https://crunchyroll.com/fr/news/announcements/2026/10/22/ani-rock-fes-2024-my-hero-academia-plus-ultra-live-29-octobre-streaming-crunchyroll",
-   "visual": "visuals/20261022-8e2cbd016dab.jpg",
-   "work": "",
-   "media_id": "18151047544554228",
-   "ts": 1792696638.301615,
-   "card": "posts/20261022-8e2cbd016dab.jpg"
-  },
-  {
-   "id": "8e2cbd016dab",
-   "type": "story",
-   "headline": "ANI-ROCK FES. 2024 \"My Hero Academia PLUS ULTRA LIVE\" sera disponible…",
-   "key": null,
-   "link": "https://crunchyroll.com/fr/news/announcements/2026/10/22/ani-rock-fes-2024-my-hero-academia-plus-ultra-live-29-octobre-streaming-crunchyroll",
-   "visual": null,
-   "work": "",
-   "media_id": "17985809688120530",
-   "ts": 1792696652.706853,
-   "card": null
-  },
   {
    "id": "38d913b5350c",
    "type": "reel",
@@ -6040,7 +5999,7 @@
  "last_recap": "2026-W46",
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1795288752.248745,
+ "ig_pause_until": 1795290584.6798928,
  "carousels_done": {
   "upcoming": "2026-W47",
   "movies": "2026-W47",
