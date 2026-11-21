@@ -292,7 +292,8 @@
   "f75f4101353b": 1795241361.310403,
   "ebec5012f8b6": 1795241361.310404,
   "a69842238bdc": 1795241361.310405,
-  "48dcf4aff287": 1795241361.310406
+  "48dcf4aff287": 1795241361.310406,
+  "be1e08f20ca5": 1795263254.097846
  },
  "queue": [
   {
@@ -453,6 +454,40 @@
     "carousels/20261120-2026-W47-movies-7.jpg",
     "carousels/20261120-2026-W47-movies-8.jpg",
     "carousels/20261120-2026-W47-movies-9.jpg"
+   ]
+  },
+  {
+   "id": "be1e08f20ca5",
+   "headline": "L’anime Tamon’s B-side Saison 2 officiellement en production",
+   "category": "ANIME",
+   "link": "https://animotaku.fr/actualite/anime-tamons-b-side-saison-2-annonce/",
+   "work": "anime Tamon's B-side saison 2",
+   "key": [
+    "officiellement",
+    "production",
+    "side",
+    "tamon"
+   ],
+   "ts": 1795263255.342889,
+   "type": "post",
+   "files": [
+    "posts/20261121-be1e08f20ca5.jpg"
+   ],
+   "caption": "🎬 L’ANIME TAMON’S B-SIDE SAISON 2 OFFICIELLEMENT EN PRODUCTION\n\nPour le moment, aucune information complémentaire n’a été communiquée. La date de sortie et les principaux détails concernant cette suite seront partagés ultérieurement. Désormais consciente de ses sentiments amoureux pour Tamon, Utage décide de démissionner de son emploi de femme de ménage, jugeant qu’il serait dangereux de rester trop longtemps auprès de son idole. (via Animotaku)\n\n📅 Date : 26 mars 2026\n📺 Diffusion : Crunchyroll\n\n💬 Tu attendais cette annonce ?\n\n📌 Œuvre : anime Tamon's B-side saison 2\n📰 Source : Animotaku\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan d’anime Tamon's B-side saison 2 et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#AnimeTamonBSideSaison2 #anime #animefr #japanime #manga",
+   "alt": "ANIME — L’anime Tamon’s B-side Saison 2 officiellement en production",
+   "visual": "visuals/20261121-be1e08f20ca5.jpg"
+  },
+  {
+   "id": "be1e08f20ca5",
+   "headline": "L’anime Tamon’s B-side Saison 2 officiellement en production",
+   "category": "ANIME",
+   "link": "https://animotaku.fr/actualite/anime-tamons-b-side-saison-2-annonce/",
+   "work": "anime Tamon's B-side saison 2",
+   "key": null,
+   "ts": 1795263255.342889,
+   "type": "story",
+   "files": [
+    "stories/20261121-be1e08f20ca5.jpg"
    ]
   }
  ],
@@ -6238,7 +6273,7 @@
  "last_recap": "2026-W46",
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1795263235.9954836,
+ "ig_pause_until": 1795265075.0543482,
  "carousels_done": {
   "upcoming": "2026-W47",
   "movies": "2026-W47",
