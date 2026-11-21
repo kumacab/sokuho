@@ -1,6 +1,5 @@
 {
  "seen": {
-  "74e1d5de05f0": 1792682241.731161,
   "8e2cbd016dab": 1792696546.919644,
   "38d913b5350c": 1792732122.030429,
   "3530a05eeefb": 1792734850.453589,
@@ -486,38 +485,6 @@
   }
  ],
  "posted": [
-  {
-   "id": "74e1d5de05f0",
-   "type": "post",
-   "headline": "Décès du comédien de doublage Hiroshi Tsuchida à 54 ans",
-   "key": [
-    "54",
-    "ans",
-    "comedien",
-    "deces",
-    "doublage",
-    "hiroshi",
-    "tsuchida"
-   ],
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/22/deces-comedien-doublage-hiroshi-tsuchida",
-   "visual": "visuals/20261022-74e1d5de05f0.jpg",
-   "work": "",
-   "media_id": "17973757434149815",
-   "ts": 1792682311.481815,
-   "card": "posts/20261022-74e1d5de05f0.jpg"
-  },
-  {
-   "id": "74e1d5de05f0",
-   "type": "story",
-   "headline": "Décès du comédien de doublage Hiroshi Tsuchida à 54 ans",
-   "key": null,
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/22/deces-comedien-doublage-hiroshi-tsuchida",
-   "visual": null,
-   "work": "",
-   "media_id": "18182681215425544",
-   "ts": 1792682325.017232,
-   "card": null
-  },
   {
    "id": "8e2cbd016dab",
    "type": "post",
