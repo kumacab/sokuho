@@ -1,6 +1,5 @@
 {
  "seen": {
-  "a2c2d8698a38": 1792663266.717344,
   "862ab957654e": 1792664174.623576,
   "3a8b6da440ab": 1792672381.728152,
   "cdcee59da597": 1792674208.780959,
@@ -493,37 +492,6 @@
   }
  ],
  "posted": [
-  {
-   "id": "a2c2d8698a38",
-   "type": "post",
-   "headline": "BLESS sera disponible sur Crunchyroll dès janvier 2027",
-   "key": [
-    "2027",
-    "bless",
-    "crunchyroll",
-    "disponible",
-    "janvier",
-    "sera"
-   ],
-   "link": "https://crunchyroll.com/fr/news/announcements/2026/10/22/bless-janvier-2027-streaming-crunchyroll",
-   "visual": "visuals/20261022-a2c2d8698a38.jpg",
-   "work": "",
-   "media_id": "18132321250776715",
-   "ts": 1792663339.641887,
-   "card": "posts/20261022-a2c2d8698a38.jpg"
-  },
-  {
-   "id": "a2c2d8698a38",
-   "type": "story",
-   "headline": "BLESS sera disponible sur Crunchyroll dès janvier 2027",
-   "key": null,
-   "link": "https://crunchyroll.com/fr/news/announcements/2026/10/22/bless-janvier-2027-streaming-crunchyroll",
-   "visual": null,
-   "work": "",
-   "media_id": "17908936992586844",
-   "ts": 1792663352.915437,
-   "card": null
-  },
   {
    "id": "862ab957654e",
    "type": "post",
@@ -6339,7 +6307,7 @@
  "last_recap": "2026-W46",
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1795255934.8849418,
+ "ig_pause_until": 1795257760.0301335,
  "carousels_done": {
   "upcoming": "2026-W47",
   "movies": "2026-W47",
