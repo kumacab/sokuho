@@ -1,6 +1,5 @@
 {
  "seen": {
-  "cdcee59da597": 1792674208.780959,
   "b5ba3c3bbd46": 1792675121.082484,
   "8183a532d23b": 1792676051.910922,
   "49e0cc39630b": 1792677952.70217,
@@ -491,39 +490,6 @@
   }
  ],
  "posted": [
-  {
-   "id": "cdcee59da597",
-   "type": "reel",
-   "headline": "Le jeu The Apothecary Diaries: The False Imperial Brother dévoile sa…",
-   "key": [
-    "apothecary",
-    "brother",
-    "dans",
-    "devoile",
-    "diaries",
-    "false",
-    "imperial",
-    "jeu"
-   ],
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/22/the-apothecary-diaries-the-false-imperial-brother-jeu-video-date-sortie-trailer-gameplay",
-   "visual": "visuals/20261022-cdcee59da597.jpg",
-   "work": "Le jeu The Apothecary Diaries",
-   "media_id": "18339503338272527",
-   "ts": 1792674356.094282,
-   "card": "posts/20261022-cdcee59da597.jpg"
-  },
-  {
-   "id": "cdcee59da597",
-   "type": "story",
-   "headline": "Le jeu The Apothecary Diaries: The False Imperial Brother dévoile sa…",
-   "key": null,
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/22/the-apothecary-diaries-the-false-imperial-brother-jeu-video-date-sortie-trailer-gameplay",
-   "visual": null,
-   "work": "Le jeu The Apothecary Diaries",
-   "media_id": "18172483291460179",
-   "ts": 1792674369.366674,
-   "card": null
-  },
   {
    "id": "b5ba3c3bbd46",
    "type": "reel",
@@ -6239,7 +6205,7 @@
  "last_recap": "2026-W46",
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1795266880.6166322,
+ "ig_pause_until": 1795268703.797256,
  "carousels_done": {
   "upcoming": "2026-W47",
   "movies": "2026-W47",
