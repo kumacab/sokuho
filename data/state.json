@@ -1,6 +1,5 @@
 {
  "seen": {
-  "72a9bd5650a9": 1792746779.06603,
   "1361f5e50122": 1792748609.091073,
   "deb46be2252c": 1792750426.590199,
   "a3d6ef1efd80": 1792750436.089761,
@@ -448,37 +447,6 @@
   }
  ],
  "posted": [
-  {
-   "id": "72a9bd5650a9",
-   "type": "post",
-   "headline": "BLESS : Tarusuke Shingaki incarne Hikaru Oya",
-   "key": [
-    "bless",
-    "hikaru",
-    "incarne",
-    "oya",
-    "shingaki",
-    "tarusuke"
-   ],
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/23/bless-trailer-personnage-casting-hikaru-oya",
-   "visual": "visuals/20261023-72a9bd5650a9.jpg",
-   "work": "BLESS",
-   "media_id": "17912475297481601",
-   "ts": 1792746833.743986,
-   "card": "posts/20261023-72a9bd5650a9.jpg"
-  },
-  {
-   "id": "72a9bd5650a9",
-   "type": "story",
-   "headline": "BLESS : Tarusuke Shingaki incarne Hikaru Oya",
-   "key": null,
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/23/bless-trailer-personnage-casting-hikaru-oya",
-   "visual": null,
-   "work": "BLESS",
-   "media_id": "17984516424096081",
-   "ts": 1792746848.231449,
-   "card": null
-  },
   {
    "id": "1361f5e50122",
    "type": "reel",
@@ -5905,7 +5873,7 @@
  "last_recap": "2026-W46",
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1795338924.2409859,
+ "ig_pause_until": 1795340750.1786213,
  "carousels_done": {
   "upcoming": "2026-W47",
   "movies": "2026-W47",
