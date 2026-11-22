@@ -1,6 +1,5 @@
 {
  "seen": {
-  "1bfdbefe9eec": 1792760478.640327,
   "5cbd7d4eba97": 1792764148.848236,
   "bcc7dee5b3c9": 1792764150.328255,
   "775236dc762c": 1792818868.340954,
@@ -513,35 +512,6 @@
   }
  ],
  "posted": [
-  {
-   "id": "1bfdbefe9eec",
-   "type": "post",
-   "headline": "Takopi's Original Sin : Nouveau Trailer et Visuel pour le film",
-   "key": [
-    "original",
-    "sin",
-    "takopi",
-    "visuel"
-   ],
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/23/takopis-original-sin-film-compilation-trailer-visuel-chanson",
-   "visual": "visuals/20261023-1bfdbefe9eec.jpg",
-   "work": "Takopi's Original Sin",
-   "media_id": "17953214379278184",
-   "ts": 1792760529.31015,
-   "card": "posts/20261023-1bfdbefe9eec.jpg"
-  },
-  {
-   "id": "1bfdbefe9eec",
-   "type": "story",
-   "headline": "Takopi's Original Sin : Nouveau Trailer et Visuel pour le film",
-   "key": null,
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/23/takopis-original-sin-film-compilation-trailer-visuel-chanson",
-   "visual": null,
-   "work": "Takopi's Original Sin",
-   "media_id": "18098666564109855",
-   "ts": 1792760544.519859,
-   "card": null
-  },
   {
    "id": "5cbd7d4eba97",
    "type": "post",
@@ -5818,7 +5788,7 @@
  "last_recap": "2026-W46",
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1795352611.7302833,
+ "ig_pause_until": 1795354445.2994435,
  "carousels_done": {
   "upcoming": "2026-W47",
   "movies": "2026-W47",
