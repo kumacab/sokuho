@@ -280,7 +280,8 @@
   "48dcf4aff287": 1795241361.310406,
   "be1e08f20ca5": 1795263254.097846,
   "5661363cf3ae": 1795284215.099169,
-  "e4b3ece80c0c": 1795342599.212781
+  "e4b3ece80c0c": 1795342599.212781,
+  "64a62e38f687": 1795345334.580746
  },
  "queue": [
   {
@@ -478,6 +479,37 @@
    "type": "story",
    "files": [
     "stories/20261122-e4b3ece80c0c.jpg"
+   ]
+  },
+  {
+   "id": "64a62e38f687",
+   "headline": "L’anime Shozen, en Trailer 3",
+   "category": "ANIME",
+   "link": "https://adala-news.fr/2026/11/lanime-shozen-en-trailer-3/",
+   "work": "Shozen",
+   "key": [
+    "shozen"
+   ],
+   "ts": 1795345335.927124,
+   "type": "post",
+   "files": [
+    "posts/20261122-64a62e38f687.jpg"
+   ],
+   "caption": "🎬 L’ANIME SHOZEN, EN TRAILER 3\n\nL’anime de fantasy Shozen révèle une troisième vidéo promotionnelle inédite mettant en scène le périple surnaturel d’un prêtre taoïste et de la mystérieuse Shang Shan face aux forces démoniaques. La série animée Shozen est prévue pour Avril 2027. (via Adala News)\n\n📅 Date : Avril 2027\n🎥 Réalisation : Itsuro Kawasaki\n\n💬 Note ta hype sur 10 👇\n\n📌 Œuvre : Shozen\n📰 Source : Adala News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Shozen et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#Shozen #anime #animefr #japanime #manga",
+   "alt": "ANIME — L’anime Shozen, en Trailer 3",
+   "visual": "visuals/20261122-64a62e38f687.jpg"
+  },
+  {
+   "id": "64a62e38f687",
+   "headline": "L’anime Shozen, en Trailer 3",
+   "category": "ANIME",
+   "link": "https://adala-news.fr/2026/11/lanime-shozen-en-trailer-3/",
+   "work": "Shozen",
+   "key": null,
+   "ts": 1795345335.927124,
+   "type": "story",
+   "files": [
+    "stories/20261122-64a62e38f687.jpg"
    ]
   }
  ],
@@ -5817,7 +5849,7 @@
  "last_recap": "2026-W46",
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1795345321.1256633,
+ "ig_pause_until": 1795347155.6119506,
  "carousels_done": {
   "upcoming": "2026-W47",
   "movies": "2026-W47",
