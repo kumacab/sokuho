@@ -1,7 +1,5 @@
 {
  "seen": {
-  "deb46be2252c": 1792750426.590199,
-  "a3d6ef1efd80": 1792750436.089761,
   "27fe6edcd50a": 1792759571.401882,
   "1bfdbefe9eec": 1792760478.640327,
   "5cbd7d4eba97": 1792764148.848236,
@@ -281,7 +279,8 @@
   "a69842238bdc": 1795241361.310405,
   "48dcf4aff287": 1795241361.310406,
   "be1e08f20ca5": 1795263254.097846,
-  "5661363cf3ae": 1795284215.099169
+  "5661363cf3ae": 1795284215.099169,
+  "e4b3ece80c0c": 1795342599.212781
  },
  "queue": [
   {
@@ -443,27 +442,46 @@
     "carousels/20261120-2026-W47-movies-8.jpg",
     "carousels/20261120-2026-W47-movies-9.jpg"
    ]
+  },
+  {
+   "id": "e4b3ece80c0c",
+   "headline": "L’anime Classroom of the Elite Saison 5 sortira en 2027 et aura deux…",
+   "category": "ANIME",
+   "link": "https://animotaku.fr/actualite/anime-classroom-of-the-elite-saison-5-2027/",
+   "work": "Classroom of the Elite Saison 5",
+   "key": [
+    "2027",
+    "aura",
+    "classroom",
+    "deux",
+    "elite",
+    "parties",
+    "sortira"
+   ],
+   "ts": 1795342600.825316,
+   "type": "post",
+   "files": [
+    "posts/20261122-e4b3ece80c0c.jpg"
+   ],
+   "caption": "🎬 L’ANIME CLASSROOM OF THE ELITE SAISON 5 SORTIRA EN 2027 ET AURA DEUX…\n\nEn parallèle, nous apprenons que cette cinquième saison sera divisée en deux parties. Une vidéo d’annonce et une nouvelle affiche promotionnelle ont également été dévoilées. (via Animotaku)\n\n📅 Date : Hiver 2027\n📺 Diffusion : Crunchyroll\n\n💬 Note ta hype sur 10 👇\n\n📌 Œuvre : Classroom of the Elite Saison 5\n📰 Source : Animotaku\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Classroom of the Elite Saison 5 et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#ClassroomOfTheEliteSaison5 #anime #animefr #japanime #manga",
+   "alt": "ANIME — L’anime Classroom of the Elite Saison 5 sortira en 2027 et aura deux…",
+   "visual": "visuals/20261122-e4b3ece80c0c.jpg"
+  },
+  {
+   "id": "e4b3ece80c0c",
+   "headline": "L’anime Classroom of the Elite Saison 5 sortira en 2027 et aura deux…",
+   "category": "ANIME",
+   "link": "https://animotaku.fr/actualite/anime-classroom-of-the-elite-saison-5-2027/",
+   "work": "Classroom of the Elite Saison 5",
+   "key": null,
+   "ts": 1795342600.825316,
+   "type": "story",
+   "files": [
+    "stories/20261122-e4b3ece80c0c.jpg"
+   ]
   }
  ],
  "posted": [
-  {
-   "id": "a3d6ef1efd80",
-   "type": "post",
-   "headline": "Yona, Princesse de l'Aube : Le studio annoncé pour la suite de l'anime",
-   "key": [
-    "aube",
-    "princesse",
-    "studio",
-    "suite",
-    "yona"
-   ],
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/23/yona-of-the-dawn-annonce-studio-suite",
-   "visual": "visuals/20261023-a3d6ef1efd80.jpg",
-   "work": "Yona, Princesse de l'Aube",
-   "media_id": "18139860430545330",
-   "ts": 1792750491.609117,
-   "card": "posts/20261023-a3d6ef1efd80.jpg"
-  },
   {
    "id": "deb46be2252c",
    "type": "reel",
