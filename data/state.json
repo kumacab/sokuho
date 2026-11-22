@@ -1,6 +1,5 @@
 {
  "seen": {
-  "27fe6edcd50a": 1792759571.401882,
   "1bfdbefe9eec": 1792760478.640327,
   "5cbd7d4eba97": 1792764148.848236,
   "bcc7dee5b3c9": 1792764150.328255,
@@ -514,36 +513,6 @@
   }
  ],
  "posted": [
-  {
-   "id": "27fe6edcd50a",
-   "type": "post",
-   "headline": "DanMachi annonce le jeu Frontier Zero pour 2027",
-   "key": [
-    "2027",
-    "danmachi",
-    "frontier",
-    "jeu",
-    "zero"
-   ],
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/23/danmachi-annonce-jeu-frontier-zero-2027",
-   "visual": "visuals/20261023-27fe6edcd50a.jpg",
-   "work": "",
-   "media_id": "18573674080073242",
-   "ts": 1792759645.668797,
-   "card": "posts/20261023-27fe6edcd50a.jpg"
-  },
-  {
-   "id": "27fe6edcd50a",
-   "type": "story",
-   "headline": "DanMachi annonce le jeu Frontier Zero pour 2027",
-   "key": null,
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/23/danmachi-annonce-jeu-frontier-zero-2027",
-   "visual": null,
-   "work": "",
-   "media_id": "18110548175059926",
-   "ts": 1792759661.219833,
-   "card": null
-  },
   {
    "id": "1bfdbefe9eec",
    "type": "post",
