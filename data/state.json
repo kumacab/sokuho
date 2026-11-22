@@ -483,47 +483,6 @@
  ],
  "posted": [
   {
-   "id": "deb46be2252c",
-   "type": "reel",
-   "headline": "Null Meta sera adapté en anime en 2027",
-   "key": [
-    "2027",
-    "meta",
-    "null",
-    "sera"
-   ],
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/23/null-meta-annonce-adaptation-2027-kai-ikarashi",
-   "visual": "visuals/20261023-deb46be2252c.jpg",
-   "work": "",
-   "media_id": "18164174734496247",
-   "ts": 1792750623.635046,
-   "card": "posts/20261023-deb46be2252c.jpg"
-  },
-  {
-   "id": "deb46be2252c",
-   "type": "story",
-   "headline": "Null Meta sera adapté en anime en 2027",
-   "key": null,
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/23/null-meta-annonce-adaptation-2027-kai-ikarashi",
-   "visual": null,
-   "work": "",
-   "media_id": "17878891407635262",
-   "ts": 1792750637.674193,
-   "card": null
-  },
-  {
-   "id": "a3d6ef1efd80",
-   "type": "story",
-   "headline": "Yona, Princesse de l'Aube : Le studio annoncé pour la suite de l'anime",
-   "key": null,
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/23/yona-of-the-dawn-annonce-studio-suite",
-   "visual": null,
-   "work": "Yona, Princesse de l'Aube",
-   "media_id": "18013490648994120",
-   "ts": 1792750651.512792,
-   "card": null
-  },
-  {
    "id": "27fe6edcd50a",
    "type": "post",
    "headline": "DanMachi annonce le jeu Frontier Zero pour 2027",
@@ -5858,7 +5817,7 @@
  "last_recap": "2026-W46",
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1795342578.847698,
+ "ig_pause_until": 1795345321.1256633,
  "carousels_done": {
   "upcoming": "2026-W47",
   "movies": "2026-W47",
