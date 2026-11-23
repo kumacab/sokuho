@@ -1,12 +1,5 @@
 {
  "seen": {
-  "775236dc762c": 1792818868.340954,
-  "9b8cce1839d5": 1792818868.340956,
-  "773a29ca4929": 1792818868.340958,
-  "72375a74cc83": 1792818868.340958,
-  "c5d13066c3c5": 1792818868.340959,
-  "dea7f23c85ee": 1792818868.34096,
-  "dd40544226eb": 1792818879.476587,
   "484df282e113": 1792833450.566645,
   "962b736c2103": 1792922793.49306,
   "16083e8fc8a9": 1792923707.905124,
@@ -511,69 +504,6 @@
   }
  ],
  "posted": [
-  {
-   "id": "dd40544226eb",
-   "type": "post",
-   "headline": "L’anime Armored Trooper Votoms: Die Garue Hexe, en Publicité Vidéo",
-   "key": [
-    "armored",
-    "die",
-    "garue",
-    "hexe",
-    "publicite",
-    "trooper",
-    "votoms"
-   ],
-   "link": "https://adala-news.fr/2026/10/lanime-armored-trooper-votoms-die-garue-hexe-en-publicite-video/",
-   "visual": "visuals/20261024-dd40544226eb.jpg",
-   "work": "Armored Trooper Votoms: Die Garue Hexe",
-   "media_id": "18198949975384618",
-   "ts": 1792818919.919081,
-   "card": "posts/20261024-dd40544226eb.jpg"
-  },
-  {
-   "id": "dea7f23c85ee",
-   "type": "reel",
-   "headline": "Though I Am an Inept Villainess Part 2 dévoile un teaser vidéo",
-   "key": [
-    "am",
-    "an",
-    "inept",
-    "part",
-    "though",
-    "villainess"
-   ],
-   "link": "https://adala-news.fr/2026/10/lanime-though-i-am-an-inept-villainess-part-2-en-teaser-video/",
-   "visual": "visuals/20261024-dea7f23c85ee.jpg",
-   "work": "Though I Am an Inept Villainess",
-   "media_id": "18129618631875932",
-   "ts": 1792818986.713403,
-   "card": "posts/20261024-dea7f23c85ee.jpg"
-  },
-  {
-   "id": "dea7f23c85ee",
-   "type": "story",
-   "headline": "Though I Am an Inept Villainess Part 2 dévoile un teaser vidéo",
-   "key": null,
-   "link": "https://adala-news.fr/2026/10/lanime-though-i-am-an-inept-villainess-part-2-en-teaser-video/",
-   "visual": null,
-   "work": "Though I Am an Inept Villainess",
-   "media_id": "18089859017254909",
-   "ts": 1792818999.804894,
-   "card": null
-  },
-  {
-   "id": "dd40544226eb",
-   "type": "story",
-   "headline": "L’anime Armored Trooper Votoms: Die Garue Hexe, en Publicité Vidéo",
-   "key": null,
-   "link": "https://adala-news.fr/2026/10/lanime-armored-trooper-votoms-die-garue-hexe-en-publicite-video/",
-   "visual": null,
-   "work": "Armored Trooper Votoms: Die Garue Hexe",
-   "media_id": "18097360466130640",
-   "ts": 1792819012.774269,
-   "card": null
-  },
   {
    "id": "484df282e113",
    "type": "reel",
