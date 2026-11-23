@@ -277,7 +277,13 @@
   "36568c237bed": 1795432066.38246,
   "e5e4b0f52436": 1795432066.382461,
   "42b0728cdeb5": 1795432066.382462,
-  "9b7d2964bb36": 1795434811.280753
+  "9b7d2964bb36": 1795434811.280753,
+  "f38992c23b00": 1795476852.155388,
+  "2410c6bf79da": 1795476852.15539,
+  "81b294de431b": 1795476852.155392,
+  "462b9ab20009": 1795476852.155393,
+  "291c10a82d59": 1795476852.155393,
+  "08f84fee7bcc": 1795476852.155394
  },
  "queue": [
   {
@@ -491,6 +497,46 @@
    "type": "story",
    "files": [
     "stories/20261123-9b7d2964bb36.jpg"
+   ]
+  },
+  {
+   "id": "08f84fee7bcc",
+   "headline": "Classroom of the Elite 5th Season: Second Year",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/23/classroom-of-the-elite-saison-5-partie-1-2027-trailer-visuel",
+   "work": "Classroom of the Elite 5th Season",
+   "key": [
+    "2027",
+    "5th",
+    "classroom",
+    "diffusion",
+    "elite",
+    "part",
+    "second",
+    "semester",
+    "visuel",
+    "year"
+   ],
+   "ts": 1795476852.606698,
+   "type": "post",
+   "files": [
+    "posts/20261123-08f84fee7bcc.jpg"
+   ],
+   "caption": "🎬 CLASSROOM OF THE ELITE 5TH SEASON: SECOND YEAR\n\nLors du livestream Autumn School Festival 2026 organisé par MF Bunko J, l'anime Classroom of the Elite a annoncé que la première partie de la saison 5 serait diffusée au Japon en 2027. La prochaine saison, intitulée Second Year, Second Semester et mettant en scène Ayanokoji et ses camarades après l'épreuve de l'île déserte, sera divisée en deux parties. (via Crunchyroll News)\n\n📺 Diffusion : Crunchyroll\n\n💬 Tu vas le regarder ? 👀\n\n📌 Œuvre : Classroom of the Elite 5th Season\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Classroom of the Elite 5th Season et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#ClassroomOfTheElite5thSeason #anime #animefr #japanime #manga",
+   "alt": "ANIME — Classroom of the Elite 5th Season: Second Year",
+   "visual": "visuals/20261123-08f84fee7bcc.jpg"
+  },
+  {
+   "id": "08f84fee7bcc",
+   "headline": "Classroom of the Elite 5th Season: Second Year",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/23/classroom-of-the-elite-saison-5-partie-1-2027-trailer-visuel",
+   "work": "Classroom of the Elite 5th Season",
+   "key": null,
+   "ts": 1795476852.606698,
+   "type": "story",
+   "files": [
+    "stories/20261123-08f84fee7bcc.jpg"
    ]
   }
  ],
