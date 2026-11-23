@@ -1,6 +1,5 @@
 {
  "seen": {
-  "484df282e113": 1792833450.566645,
   "962b736c2103": 1792922793.49306,
   "16083e8fc8a9": 1792923707.905124,
   "758abdc7742c": 1792928261.433504,
@@ -522,38 +521,6 @@
   }
  ],
  "posted": [
-  {
-   "id": "484df282e113",
-   "type": "reel",
-   "headline": "Le film Kaiju No. 8 : The Final Mission annoncé pour 2027 avec un…",
-   "key": [
-    "2027",
-    "final",
-    "kaiju",
-    "mission",
-    "no",
-    "premier",
-    "visuel"
-   ],
-   "link": "https://animotaku.fr/actualite/film-kaiju-no-8-the-final-mission-annonce-2027/",
-   "visual": "visuals/20261024-484df282e113.jpg",
-   "work": "Kaiju No. 8",
-   "media_id": "18127661876488719",
-   "ts": 1792833563.217796,
-   "card": "posts/20261024-484df282e113.jpg"
-  },
-  {
-   "id": "484df282e113",
-   "type": "story",
-   "headline": "Le film Kaiju No. 8 : The Final Mission annoncé pour 2027 avec un…",
-   "key": null,
-   "link": "https://animotaku.fr/actualite/film-kaiju-no-8-the-final-mission-annonce-2027/",
-   "visual": null,
-   "work": "Kaiju No. 8",
-   "media_id": "18121505107979633",
-   "ts": 1792833577.572786,
-   "card": null
-  },
   {
    "id": "962b736c2103",
    "type": "reel",
@@ -5654,7 +5621,7 @@
  "last_recap": "2026-W46",
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1795425642.5088503,
+ "ig_pause_until": 1795427472.619364,
  "carousels_done": {
   "upcoming": "2026-W47",
   "movies": "2026-W47",
