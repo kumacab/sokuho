@@ -276,7 +276,8 @@
   "b0b8b9fff081": 1795432066.382458,
   "36568c237bed": 1795432066.38246,
   "e5e4b0f52436": 1795432066.382461,
-  "42b0728cdeb5": 1795432066.382462
+  "42b0728cdeb5": 1795432066.382462,
+  "9b7d2964bb36": 1795434811.280753
  },
  "queue": [
   {
@@ -492,6 +493,41 @@
    "type": "story",
    "files": [
     "stories/20261123-42b0728cdeb5.jpg"
+   ]
+  },
+  {
+   "id": "9b7d2964bb36",
+   "headline": "Link Click Saison 3 : Un Visuel et un Trailer pour la PART TWO",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/23/link-click-saison-3-part-two-2027-trailer-visuel",
+   "work": "Link Click Saison 3",
+   "key": [
+    "click",
+    "link",
+    "part",
+    "two",
+    "visuel"
+   ],
+   "ts": 1795434811.781567,
+   "type": "post",
+   "files": [
+    "posts/20261123-9b7d2964bb36.jpg"
+   ],
+   "caption": "🎬 LINK CLICK SAISON 3 : UN VISUEL ET UN TRAILER POUR LA PART TWO\n\nLes comptes du célèbre donghua de science-fiction Link Click ont dévoilé une bande-annonce et une image promotionnelle pour la deuxième partie de la saison 3, après la diffusion du dernier épisode de la première partie. C'est le studio CMC qui se charge de l'animation de cette suite, dont la sortie est prévue au cours du second semestre 2027. (via Crunchyroll News)\n\n🎬 Studio : CMC\n🎥 Réalisation : Li Haoling\n🔢 Épisodes : 12\n\n💬 Tu attendais cette annonce ?\n\n📌 Œuvre : Link Click Saison 3\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Link Click Saison 3 et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#LinkClickSaison3 #anime #animefr #japanime #manga",
+   "alt": "ANIME — Link Click Saison 3 : Un Visuel et un Trailer pour la PART TWO",
+   "visual": "visuals/20261123-9b7d2964bb36.jpg"
+  },
+  {
+   "id": "9b7d2964bb36",
+   "headline": "Link Click Saison 3 : Un Visuel et un Trailer pour la PART TWO",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/23/link-click-saison-3-part-two-2027-trailer-visuel",
+   "work": "Link Click Saison 3",
+   "key": null,
+   "ts": 1795434811.781567,
+   "type": "story",
+   "files": [
+    "stories/20261123-9b7d2964bb36.jpg"
    ]
   }
  ],
@@ -5596,7 +5632,7 @@
  "last_recap": "2026-W46",
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1795434778.596137,
+ "ig_pause_until": 1795436627.0975258,
  "carousels_done": {
   "upcoming": "2026-W47",
   "movies": "2026-W47",
