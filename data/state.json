@@ -271,7 +271,12 @@
   "e4b3ece80c0c": 1795342599.212781,
   "64a62e38f687": 1795345334.580746,
   "94f2f9e3501a": 1795387324.215469,
-  "e1b3c3c616f3": 1795390060.602423
+  "e1b3c3c616f3": 1795390060.602423,
+  "284a872a6851": 1795432066.382456,
+  "b0b8b9fff081": 1795432066.382458,
+  "36568c237bed": 1795432066.38246,
+  "e5e4b0f52436": 1795432066.382461,
+  "42b0728cdeb5": 1795432066.382462
  },
  "queue": [
   {
@@ -483,6 +488,43 @@
     "carousels/20261123-2026-W48-week-5.jpg",
     "carousels/20261123-2026-W48-week-6.jpg",
     "carousels/20261123-2026-W48-week-7.jpg"
+   ]
+  },
+  {
+   "id": "42b0728cdeb5",
+   "headline": "Sakamoto Days : Fin du manga dans le Weekly Shonen Jump",
+   "category": "MANGA",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/23/sakamoto-days-fin-manga",
+   "work": "Sakamoto Days",
+   "key": [
+    "dans",
+    "days",
+    "fin",
+    "jump",
+    "sakamoto",
+    "shonen",
+    "weekly"
+   ],
+   "ts": 1795432067.312954,
+   "type": "post",
+   "files": [
+    "posts/20261123-42b0728cdeb5.jpg"
+   ],
+   "caption": "📚 SAKAMOTO DAYS : FIN DU MANGA DANS LE WEEKLY SHONEN JUMP\n\nLe manga Sakamoto Days de Yuto Suzuki s'est achevé aujourd'hui dans le Weekly Shonen Jump avec la parution du chapitre 284. La série a fait ses débuts dans le magazine le 21 novembre 2020 et compte à ce jour 29 tomes publiés au Japon. (via Crunchyroll News)\n\n📅 Date : 29 avril 2026\n📺 Diffusion : Max\n📚 Éditeur : Glénat\n\n💬 Ton avis sur la série ? 👇\n\n📌 Œuvre : Sakamoto Days\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Sakamoto Days et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#SakamotoDays #manga #mangafr #mangaka #anime",
+   "alt": "MANGA — Sakamoto Days : Fin du manga dans le Weekly Shonen Jump",
+   "visual": "visuals/20261123-42b0728cdeb5.jpg"
+  },
+  {
+   "id": "42b0728cdeb5",
+   "headline": "Sakamoto Days : Fin du manga dans le Weekly Shonen Jump",
+   "category": "MANGA",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/23/sakamoto-days-fin-manga",
+   "work": "Sakamoto Days",
+   "key": null,
+   "ts": 1795432067.312954,
+   "type": "story",
+   "files": [
+    "stories/20261123-42b0728cdeb5.jpg"
    ]
   }
  ],
