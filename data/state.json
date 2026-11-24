@@ -285,7 +285,8 @@
   "e2d5d8ff5319": 1795500583.271154,
   "01abb01438a0": 1795500583.271155,
   "e24db50b6055": 1795500583.271156,
-  "c59d936acf62": 1795505138.463048
+  "c59d936acf62": 1795505138.463048,
+  "b734e1408126": 1795521567.844571
  },
  "queue": [
   {
@@ -499,6 +500,42 @@
    "type": "story",
    "files": [
     "stories/20261124-c59d936acf62.jpg"
+   ]
+  },
+  {
+   "id": "b734e1408126",
+   "headline": "Magical Buffs ajoute 3 nouvelles voix à son casting",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/24/magical-buffs-the-support-caster-is-stronger-than-he-realized-casting",
+   "work": "",
+   "key": [
+    "ajoute",
+    "buffs",
+    "casting",
+    "magical",
+    "nouvelles",
+    "voix"
+   ],
+   "ts": 1795521568.560565,
+   "type": "post",
+   "files": [
+    "posts/20261124-b734e1408126.jpg"
+   ],
+   "caption": "🎬 MAGICAL BUFFS AJOUTE 3 NOUVELLES VOIX À SON CASTING\n\nL'anime Magical Buffs: The Support Caster is Stronger Than He Realized! a dévoilé trois nouveaux membres du casting vocal. Une adaptation en manga par Shin Arakawa a débuté en septembre 2021. En France, les éditions Meian publient le manga sous le nom Magical Buffs: L'éveil de l'enchanteur polyvalent. (via Crunchyroll News)\n\n📅 Date : 4 janvier 2027\n📺 Diffusion : Crunchyroll\n\n💬 Hype ou pas hype ? 🔥\n\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote qui doit savoir ça et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
+   "alt": "ANIME — Magical Buffs ajoute 3 nouvelles voix à son casting",
+   "visual": "visuals/20261124-b734e1408126.jpg"
+  },
+  {
+   "id": "b734e1408126",
+   "headline": "Magical Buffs ajoute 3 nouvelles voix à son casting",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/24/magical-buffs-the-support-caster-is-stronger-than-he-realized-casting",
+   "work": "",
+   "key": null,
+   "ts": 1795521568.560565,
+   "type": "story",
+   "files": [
+    "stories/20261124-b734e1408126.jpg"
    ]
   }
  ],
