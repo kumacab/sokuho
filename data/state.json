@@ -287,7 +287,8 @@
   "3f7fc03923b9": 1795500583.271152,
   "e2d5d8ff5319": 1795500583.271154,
   "01abb01438a0": 1795500583.271155,
-  "e24db50b6055": 1795500583.271156
+  "e24db50b6055": 1795500583.271156,
+  "c59d936acf62": 1795505138.463048
  },
  "queue": [
   {
@@ -506,6 +507,41 @@
    "type": "story",
    "files": [
     "stories/20261123-08f84fee7bcc.jpg"
+   ]
+  },
+  {
+   "id": "c59d936acf62",
+   "headline": "Akane-banashi : La Saison 2 débutera le 9 janvier 2027",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/24/akane-banashi-saison-2-date-diffusion",
+   "work": "Akane-banashi",
+   "key": [
+    "2027",
+    "akane",
+    "banashi",
+    "debutera",
+    "janvier"
+   ],
+   "ts": 1795505139.110962,
+   "type": "post",
+   "files": [
+    "posts/20261124-c59d936acf62.jpg"
+   ],
+   "caption": "🎬 AKANE-BANASHI : LA SAISON 2 DÉBUTERA LE 9 JANVIER 2027\n\nLa première saison d’Akane-banashi est peut-être terminée, mais le parcours d’Akane pour devenir une shin’uchi ne fait que commencer ! Les comptes de la série ont annoncé hier que la saison 2 d’ Akane-banashi débutera au Japon le 9 janvier 2027 à 23:30 (heure japonaise) dans le cadre de la programmation « IMAnimation » de TV Asahi. (via Crunchyroll News)\n\n📅 Date : 9 janvier 2027\n🎬 Studio : ZEXCS\n📺 Diffusion : ADN\n\n💬 Tu attendais cette annonce ?\n\n📌 Œuvre : Akane-banashi\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan d’Akane-banashi et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#AkaneBanashi #anime #animefr #japanime #manga",
+   "alt": "ANIME — Akane-banashi : La Saison 2 débutera le 9 janvier 2027",
+   "visual": "visuals/20261124-c59d936acf62.jpg"
+  },
+  {
+   "id": "c59d936acf62",
+   "headline": "Akane-banashi : La Saison 2 débutera le 9 janvier 2027",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/24/akane-banashi-saison-2-date-diffusion",
+   "work": "Akane-banashi",
+   "key": null,
+   "ts": 1795505139.110962,
+   "type": "story",
+   "files": [
+    "stories/20261124-c59d936acf62.jpg"
    ]
   }
  ],
