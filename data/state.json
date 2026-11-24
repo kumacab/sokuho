@@ -1,6 +1,5 @@
 {
  "seen": {
-  "758abdc7742c": 1792928261.433504,
   "c025df633ca4": 1792933737.398624,
   "346d9cb83b9d": 1792936470.652215,
   "0b7981219309": 1792937379.304917,
@@ -468,46 +467,6 @@
    ]
   },
   {
-   "id": "08f84fee7bcc",
-   "headline": "Classroom of the Elite 5th Season: Second Year",
-   "category": "ANIME",
-   "link": "https://crunchyroll.com/fr/news/latest/2026/11/23/classroom-of-the-elite-saison-5-partie-1-2027-trailer-visuel",
-   "work": "Classroom of the Elite 5th Season",
-   "key": [
-    "2027",
-    "5th",
-    "classroom",
-    "diffusion",
-    "elite",
-    "part",
-    "second",
-    "semester",
-    "visuel",
-    "year"
-   ],
-   "ts": 1795476852.606698,
-   "type": "post",
-   "files": [
-    "posts/20261123-08f84fee7bcc.jpg"
-   ],
-   "caption": "🎬 CLASSROOM OF THE ELITE 5TH SEASON: SECOND YEAR\n\nLors du livestream Autumn School Festival 2026 organisé par MF Bunko J, l'anime Classroom of the Elite a annoncé que la première partie de la saison 5 serait diffusée au Japon en 2027. La prochaine saison, intitulée Second Year, Second Semester et mettant en scène Ayanokoji et ses camarades après l'épreuve de l'île déserte, sera divisée en deux parties. (via Crunchyroll News)\n\n📺 Diffusion : Crunchyroll\n\n💬 Tu vas le regarder ? 👀\n\n📌 Œuvre : Classroom of the Elite 5th Season\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Classroom of the Elite 5th Season et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#ClassroomOfTheElite5thSeason #anime #animefr #japanime #manga",
-   "alt": "ANIME — Classroom of the Elite 5th Season: Second Year",
-   "visual": "visuals/20261123-08f84fee7bcc.jpg"
-  },
-  {
-   "id": "08f84fee7bcc",
-   "headline": "Classroom of the Elite 5th Season: Second Year",
-   "category": "ANIME",
-   "link": "https://crunchyroll.com/fr/news/latest/2026/11/23/classroom-of-the-elite-saison-5-partie-1-2027-trailer-visuel",
-   "work": "Classroom of the Elite 5th Season",
-   "key": null,
-   "ts": 1795476852.606698,
-   "type": "story",
-   "files": [
-    "stories/20261123-08f84fee7bcc.jpg"
-   ]
-  },
-  {
    "id": "c59d936acf62",
    "headline": "Akane-banashi : La Saison 2 débutera le 9 janvier 2027",
    "category": "ANIME",
@@ -544,40 +503,6 @@
   }
  ],
  "posted": [
-  {
-   "id": "758abdc7742c",
-   "type": "post",
-   "headline": "L’anime DATE A LIVE F Last Date sortira le 26 mars 2027 dans les…",
-   "key": [
-    "2027",
-    "26",
-    "cinemas",
-    "dans",
-    "japonais",
-    "last",
-    "live",
-    "mars",
-    "sortira"
-   ],
-   "link": "https://animotaku.fr/actualite/anime-date-a-live-f-last-date-date-sortie/",
-   "visual": "visuals/20261025-758abdc7742c.jpg",
-   "work": "anime DATE A LIVE F Last Date",
-   "media_id": "17899760823398629",
-   "ts": 1792928302.272986,
-   "card": "posts/20261025-758abdc7742c.jpg"
-  },
-  {
-   "id": "758abdc7742c",
-   "type": "story",
-   "headline": "L’anime DATE A LIVE F Last Date sortira le 26 mars 2027 dans les…",
-   "key": null,
-   "link": "https://animotaku.fr/actualite/anime-date-a-live-f-last-date-date-sortie/",
-   "visual": null,
-   "work": "anime DATE A LIVE F Last Date",
-   "media_id": "17909744820569444",
-   "ts": 1792928315.185005,
-   "card": null
-  },
   {
    "id": "c025df633ca4",
    "type": "reel",
@@ -5589,7 +5514,7 @@
  "last_recap": "2026-W46",
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1795520631.8234448,
+ "ig_pause_until": 1795522454.7957277,
  "carousels_done": {
   "upcoming": "2026-W47",
   "movies": "2026-W47",
