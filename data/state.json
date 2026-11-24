@@ -1,6 +1,5 @@
 {
  "seen": {
-  "962b736c2103": 1792922793.49306,
   "16083e8fc8a9": 1792923707.905124,
   "758abdc7742c": 1792928261.433504,
   "c025df633ca4": 1792933737.398624,
@@ -546,33 +545,6 @@
   }
  ],
  "posted": [
-  {
-   "id": "962b736c2103",
-   "type": "reel",
-   "headline": "Akane-banashi Saison 2 dévoile un teaser vidéo",
-   "key": [
-    "akane",
-    "banashi"
-   ],
-   "link": "https://adala-news.fr/2026/10/lanime-akane-banashi-saison-2-en-teaser-video/",
-   "visual": "visuals/20261025-962b736c2103.jpg",
-   "work": "Akane-banashi Saison 2",
-   "media_id": "18088875908288154",
-   "ts": 1792922899.218061,
-   "card": "posts/20261025-962b736c2103.jpg"
-  },
-  {
-   "id": "962b736c2103",
-   "type": "story",
-   "headline": "Akane-banashi Saison 2 dévoile un teaser vidéo",
-   "key": null,
-   "link": "https://adala-news.fr/2026/10/lanime-akane-banashi-saison-2-en-teaser-video/",
-   "visual": null,
-   "work": "Akane-banashi Saison 2",
-   "media_id": "18336623443274610",
-   "ts": 1792922912.655958,
-   "card": null
-  },
   {
    "id": "16083e8fc8a9",
    "type": "post",
@@ -5646,7 +5618,7 @@
  "last_recap": "2026-W46",
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1795515166.2622724,
+ "ig_pause_until": 1795516978.776833,
  "carousels_done": {
   "upcoming": "2026-W47",
   "movies": "2026-W47",
