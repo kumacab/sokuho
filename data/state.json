@@ -1,6 +1,5 @@
 {
  "seen": {
-  "c025df633ca4": 1792933737.398624,
   "346d9cb83b9d": 1792936470.652215,
   "0b7981219309": 1792937379.304917,
   "199aae0402bd": 1793003030.182185,
@@ -540,40 +539,6 @@
   }
  ],
  "posted": [
-  {
-   "id": "c025df633ca4",
-   "type": "reel",
-   "headline": "L’anime Our Last Crusade or the Rise of a New World Saison 3",
-   "key": [
-    "crusade",
-    "last",
-    "new",
-    "officiellement",
-    "or",
-    "our",
-    "production",
-    "rise",
-    "world"
-   ],
-   "link": "https://animotaku.fr/actualite/anime-our-last-crusade-or-the-rise-of-a-new-world-saison-3-annonce/",
-   "visual": "visuals/20261025-c025df633ca4.jpg",
-   "work": "Our last crusade or the rise of a new world saison 3",
-   "media_id": "18034533146898392",
-   "ts": 1792933844.624736,
-   "card": "posts/20261025-c025df633ca4.jpg"
-  },
-  {
-   "id": "c025df633ca4",
-   "type": "story",
-   "headline": "L’anime Our Last Crusade or the Rise of a New World Saison 3",
-   "key": null,
-   "link": "https://animotaku.fr/actualite/anime-our-last-crusade-or-the-rise-of-a-new-world-saison-3-annonce/",
-   "visual": null,
-   "work": "Our last crusade or the rise of a new world saison 3",
-   "media_id": "17996340828043409",
-   "ts": 1792933858.836184,
-   "card": null
-  },
   {
    "id": "0b7981219309",
    "type": "reel",
@@ -5551,7 +5516,7 @@
  "last_recap": "2026-W46",
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1795526110.0358799,
+ "ig_pause_until": 1795527935.0633874,
  "carousels_done": {
   "upcoming": "2026-W47",
   "movies": "2026-W47",
