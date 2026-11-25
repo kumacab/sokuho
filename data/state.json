@@ -1,6 +1,5 @@
 {
  "seen": {
-  "b4871187c8c9": 1793009407.840091,
   "296d60848f68": 1793010319.889048,
   "453b1c421ff6": 1793012143.332561,
   "d208d487324b": 1793024981.091935,
@@ -545,35 +544,6 @@
   }
  ],
  "posted": [
-  {
-   "id": "b4871187c8c9",
-   "type": "reel",
-   "headline": "Akane-banashi : La Saison 2 dévoile un nouveau Trailer et un Visuel",
-   "key": [
-    "akane",
-    "banashi",
-    "devoile",
-    "visuel"
-   ],
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/26/akane-banashi-saison-2-trailer-visuel-casting",
-   "visual": "visuals/20261026-b4871187c8c9.jpg",
-   "work": "Akane-banashi",
-   "media_id": "18187062373417427",
-   "ts": 1793009507.486263,
-   "card": "posts/20261026-b4871187c8c9.jpg"
-  },
-  {
-   "id": "b4871187c8c9",
-   "type": "story",
-   "headline": "Akane-banashi : La Saison 2 dévoile un nouveau Trailer et un Visuel",
-   "key": null,
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/26/akane-banashi-saison-2-trailer-visuel-casting",
-   "visual": null,
-   "work": "Akane-banashi",
-   "media_id": "18244020541318157",
-   "ts": 1793009521.495672,
-   "card": null
-  },
   {
    "id": "1aaa15382399",
    "type": "reel",
@@ -5401,7 +5371,7 @@
  "last_recap": "2026-W46",
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1795601955.330383,
+ "ig_pause_until": 1795603788.2476175,
  "carousels_done": {
   "upcoming": "2026-W47",
   "movies": "2026-W47",
