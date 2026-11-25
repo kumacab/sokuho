@@ -291,7 +291,8 @@
   "3996e342b3f7": 1795586443.260705,
   "0855e448f018": 1795586443.260707,
   "69d19982ce07": 1795586443.260709,
-  "02585b140924": 1795595575.902903
+  "02585b140924": 1795595575.902903,
+  "a4bbabda12d5": 1795596485.969449
  },
  "queue": [
   {
@@ -505,6 +506,42 @@
    "type": "story",
    "files": [
     "stories/20261125-02585b140924.jpg"
+   ]
+  },
+  {
+   "id": "a4bbabda12d5",
+   "headline": "Bride of the Barrier Master : Date de diffusion et Opening dans le…",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/25/bride-of-the-barrier-master-date-diffusion-trailer-visuel-casting",
+   "work": "Bride of the Barrier Master",
+   "key": [
+    "barrier",
+    "bride",
+    "dans",
+    "diffusion",
+    "master",
+    "opening"
+   ],
+   "ts": 1795596486.751153,
+   "type": "post",
+   "files": [
+    "posts/20261125-a4bbabda12d5.jpg"
+   ],
+   "caption": "🎬 BRIDE OF THE BARRIER MASTER : DATE DE DIFFUSION ET OPENING DANS LE…\n\nLe site web et les réseaux sociaux de l'anime à venir Bride of the Barrier Master ont dévoilé une toute nouvelle bande-annonce et un visuel, ainsi que la nouvelle d'une première diffusion d'une heure prévue le 6 janvier et de l'arrivée de deux nouveaux membres dans le casting vocal. (via Crunchyroll News)\n\n📺 Diffusion : Netflix\n\n💬 Hype ou pas hype ? 🔥\n\n📌 Œuvre : Bride of the Barrier Master\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Bride of the Barrier Master et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#BrideOfTheBarrierMaster #anime #animefr #japanime #manga",
+   "alt": "ANIME — Bride of the Barrier Master : Date de diffusion et Opening dans le…",
+   "visual": "visuals/20261125-a4bbabda12d5.jpg"
+  },
+  {
+   "id": "a4bbabda12d5",
+   "headline": "Bride of the Barrier Master : Date de diffusion et Opening dans le…",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/25/bride-of-the-barrier-master-date-diffusion-trailer-visuel-casting",
+   "work": "Bride of the Barrier Master",
+   "key": null,
+   "ts": 1795596486.751153,
+   "type": "story",
+   "files": [
+    "stories/20261125-a4bbabda12d5.jpg"
    ]
   }
  ],
@@ -5393,7 +5430,7 @@
  "last_recap": "2026-W46",
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1795595549.0252335,
+ "ig_pause_until": 1795598299.6285017,
  "carousels_done": {
   "upcoming": "2026-W47",
   "movies": "2026-W47",
