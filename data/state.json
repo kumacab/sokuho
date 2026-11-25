@@ -282,7 +282,15 @@
   "0855e448f018": 1795586443.260707,
   "69d19982ce07": 1795586443.260709,
   "02585b140924": 1795595575.902903,
-  "a4bbabda12d5": 1795596485.969449
+  "a4bbabda12d5": 1795596485.969449,
+  "9fda68f59b91": 1795647978.903614,
+  "1f8e1b6a6888": 1795647978.903616,
+  "d861420733a7": 1795647978.903619,
+  "8ce5626fd65f": 1795647978.903621,
+  "2ca06cea4465": 1795647978.903622,
+  "d93b0d0819b7": 1795647978.903623,
+  "156e0d7be5e0": 1795647978.903625,
+  "880441cebac9": 1795647981.717604
  },
  "queue": [
   {
@@ -478,6 +486,75 @@
     "carousels/20261125-2026-W48-upcoming-4.jpg",
     "carousels/20261125-2026-W48-upcoming-5.jpg",
     "carousels/20261125-2026-W48-upcoming-6.jpg"
+   ]
+  },
+  {
+   "id": "156e0d7be5e0",
+   "headline": "Disney Twisted-Wonderland Episode of Savanaclaw : toutes les nouvelles infos",
+   "category": "ANIME",
+   "link": "https://adala-news.fr/2026/11/toutes-les-infos-sur-lanime-disney-twisted-wonderland-episode-of-savanaclaw/",
+   "work": "",
+   "key": [
+    "disney",
+    "episode",
+    "savanaclaw",
+    "twisted",
+    "wonderland"
+   ],
+   "ts": 1795647981.397861,
+   "type": "post",
+   "files": [
+    "posts/20261125-156e0d7be5e0.jpg"
+   ],
+   "caption": "🎬 DISNEY TWISTED-WONDERLAND EPISODE OF SAVANACLAW : TOUTES LES NOUVELLES INFOS\n\nAlors qu’une série de mystérieux accidents sabote la préparation du grand tournoi inter-dortoirs de Spelldrive, Yuuken Enma et les élèves de Heartslabyul mènent l’enquête face aux inquiétants pensionnaires de Leona Kingscholar dans la bande annonce de l’anime Disney Twisted-Wonderland The Animation – Episode of Savanaclaw ( Disney Twisted-Wonderland The Animation Saison 2 ). (via Adala News)\n\n📅 Date : 23 Décembre 2026\n📺 Diffusion : Disney+\n🔢 Épisodes : 8\n\n💬 Tu vas le regarder ? 👀\n\n📰 Source : Adala News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote qui doit savoir ça et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
+   "alt": "ANIME — Disney Twisted-Wonderland Episode of Savanaclaw : toutes les nouvelles infos",
+   "visual": "visuals/20261125-156e0d7be5e0.jpg"
+  },
+  {
+   "id": "156e0d7be5e0",
+   "headline": "Disney Twisted-Wonderland Episode of Savanaclaw : toutes les nouvelles infos",
+   "category": "ANIME",
+   "link": "https://adala-news.fr/2026/11/toutes-les-infos-sur-lanime-disney-twisted-wonderland-episode-of-savanaclaw/",
+   "work": "",
+   "key": null,
+   "ts": 1795647981.397861,
+   "type": "story",
+   "files": [
+    "stories/20261125-156e0d7be5e0.jpg"
+   ]
+  },
+  {
+   "id": "880441cebac9",
+   "headline": "Now That We Draw : nouveau trailer",
+   "category": "ANIME",
+   "link": "https://adala-news.fr/2026/11/lanime-now-that-we-draw-en-trailer/",
+   "work": "Now That We Draw",
+   "key": [
+    "draw",
+    "now",
+    "that",
+    "we"
+   ],
+   "ts": 1795647983.279185,
+   "type": "post",
+   "files": [
+    "posts/20261125-880441cebac9.jpg"
+   ],
+   "caption": "🎬 NOW THAT WE DRAW : NOUVEAU TRAILER\n\nTrès attendue par les amateurs de comédie romantique lycéenne, l’adaptation animée du manga Now That We Draw ( Kakunaru Ue wa ) se dévoile à travers un premier trailer plein de fraîcheur, mettant en scène deux apprentis mangakas qui décident de simuler une relation amoureuse pour rendre leurs histoires plus crédibles. (via Adala News)\n\n🎥 Réalisation : Shunsuke Ishikawa\n\n💬 Ton avis sur le studio ? 🎬\n\n📌 Œuvre : Now That We Draw\n📰 Source : Adala News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Now That We Draw et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#NowThatWeDraw #anime #animefr #japanime #manga",
+   "alt": "ANIME — Now That We Draw : nouveau trailer",
+   "visual": "visuals/20261125-880441cebac9.jpg"
+  },
+  {
+   "id": "880441cebac9",
+   "headline": "Now That We Draw : nouveau trailer",
+   "category": "ANIME",
+   "link": "https://adala-news.fr/2026/11/lanime-now-that-we-draw-en-trailer/",
+   "work": "Now That We Draw",
+   "key": null,
+   "ts": 1795647983.279185,
+   "type": "story",
+   "files": [
+    "stories/20261125-880441cebac9.jpg"
    ]
   }
  ],
