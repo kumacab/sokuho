@@ -471,43 +471,6 @@
     "carousels/20261123-2026-W48-week-6.jpg",
     "carousels/20261123-2026-W48-week-7.jpg"
    ]
-  },
-  {
-   "id": "626c92da61d0",
-   "headline": "A Tale of the Secret Saint : La série dépasse les 5 millions…",
-   "category": "ANIME",
-   "link": "https://crunchyroll.com/fr/news/latest/2026/11/24/a-tale-of-the-secret-saint-serie-5-million-exemplaires",
-   "work": "A Tale of the Secret Saint",
-   "key": [
-    "depasse",
-    "exemplaires",
-    "millions",
-    "saint",
-    "secret",
-    "serie",
-    "tale"
-   ],
-   "ts": 1795549923.706047,
-   "type": "post",
-   "files": [
-    "posts/20261124-626c92da61d0.jpg"
-   ],
-   "caption": "🎬 A TALE OF THE SECRET SAINT : LA SÉRIE DÉPASSE LES 5 MILLIONS…\n\nL'éditeur japonais Earth Star Entertainment a annoncé aujourd'hui que le tirage total de la série A Tale of the Secret Saint avait dépassé les 5 millions d'exemplaires. Touya a commencé à publier la série originale en tant que web novel sur le site d'auto-publication Shosetsuka ni Naro en janvier 2019. (via Crunchyroll News)\n\n📅 Date : automne 2026\n📺 Diffusion : Crunchyroll\n\n💬 Tu vas le regarder ? 👀\n\n📌 Œuvre : A Tale of the Secret Saint\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan d’A Tale of the Secret Saint et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#ATaleOfTheSecretSaint #anime #animefr #japanime #manga",
-   "alt": "ANIME — A Tale of the Secret Saint : La série dépasse les 5 millions…",
-   "visual": "visuals/20261124-626c92da61d0.jpg"
-  },
-  {
-   "id": "626c92da61d0",
-   "headline": "A Tale of the Secret Saint : La série dépasse les 5 millions…",
-   "category": "ANIME",
-   "link": "https://crunchyroll.com/fr/news/latest/2026/11/24/a-tale-of-the-secret-saint-serie-5-million-exemplaires",
-   "work": "A Tale of the Secret Saint",
-   "key": null,
-   "ts": 1795549923.706047,
-   "type": "story",
-   "files": [
-    "stories/20261124-626c92da61d0.jpg"
-   ]
   }
  ],
  "posted": [
@@ -5437,7 +5400,7 @@
  "last_recap": "2026-W46",
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1795593714.5902402,
+ "ig_pause_until": 1795595549.0252335,
  "carousels_done": {
   "upcoming": "2026-W47",
   "movies": "2026-W47",
