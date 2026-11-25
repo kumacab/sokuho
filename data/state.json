@@ -1,6 +1,5 @@
 {
  "seen": {
-  "199aae0402bd": 1793003030.182185,
   "32adfc67c46b": 1793008500.374828,
   "b4871187c8c9": 1793009407.840091,
   "296d60848f68": 1793010319.889048,
@@ -291,7 +290,8 @@
   "c15f88f79ef3": 1795586443.260703,
   "3996e342b3f7": 1795586443.260705,
   "0855e448f018": 1795586443.260707,
-  "69d19982ce07": 1795586443.260709
+  "69d19982ce07": 1795586443.260709,
+  "02585b140924": 1795595575.902903
  },
  "queue": [
   {
@@ -471,39 +471,44 @@
     "carousels/20261123-2026-W48-week-6.jpg",
     "carousels/20261123-2026-W48-week-7.jpg"
    ]
+  },
+  {
+   "id": "02585b140924",
+   "headline": "Duel Masters LOST : L'anime ~Shitsuraku no Duel~ annoncé",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/25/duel-masters-lost-shitsuraku-no-duel-annonce",
+   "work": "Duel Masters LOST",
+   "key": [
+    "duel",
+    "lost",
+    "masters",
+    "no",
+    "shitsuraku"
+   ],
+   "ts": 1795595576.750531,
+   "type": "post",
+   "files": [
+    "posts/20261125-02585b140924.jpg"
+   ],
+   "caption": "🎬 DUEL MASTERS LOST : L'ANIME ~SHITSURAKU NO DUEL~ ANNONCÉ\n\nSuite à la conclusion de Duel Masters LOST ~Danzai no Shonen~, le site web et les réseaux sociaux de l'anime Duel Masters LOST ont révélé qu’une cinquième partie, sous-titrée Shitsuraku no Duel, était actuellement en cours de développement. (via Crunchyroll News)\n\n💬 Hype ou pas hype ? 🔥\n\n📌 Œuvre : Duel Masters LOST\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan de Duel Masters LOST et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#DuelMastersLOST #anime #animefr #japanime #manga",
+   "alt": "ANIME — Duel Masters LOST : L'anime ~Shitsuraku no Duel~ annoncé",
+   "visual": "visuals/20261125-02585b140924.jpg"
+  },
+  {
+   "id": "02585b140924",
+   "headline": "Duel Masters LOST : L'anime ~Shitsuraku no Duel~ annoncé",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/25/duel-masters-lost-shitsuraku-no-duel-annonce",
+   "work": "Duel Masters LOST",
+   "key": null,
+   "ts": 1795595576.750531,
+   "type": "story",
+   "files": [
+    "stories/20261125-02585b140924.jpg"
+   ]
   }
  ],
  "posted": [
-  {
-   "id": "199aae0402bd",
-   "type": "reel",
-   "headline": "Regarde Black Clover Saison 2 en VF sur Crunchyroll",
-   "key": [
-    "black",
-    "clover",
-    "crunchyroll",
-    "regarde",
-    "vf"
-   ],
-   "link": "https://crunchyroll.com/fr/news/announcements/2026/10/26/regarder-black-clover-saison-2-vf-crunchyroll",
-   "visual": "visuals/20261026-199aae0402bd.jpg",
-   "work": "",
-   "media_id": "18034659854887259",
-   "ts": 1793003156.716477,
-   "card": "posts/20261026-199aae0402bd.jpg"
-  },
-  {
-   "id": "199aae0402bd",
-   "type": "story",
-   "headline": "Regarde Black Clover Saison 2 en VF sur Crunchyroll",
-   "key": null,
-   "link": "https://crunchyroll.com/fr/news/announcements/2026/10/26/regarder-black-clover-saison-2-vf-crunchyroll",
-   "visual": null,
-   "work": "",
-   "media_id": "17890163979622716",
-   "ts": 1793003169.892743,
-   "card": null
-  },
   {
    "id": "32adfc67c46b",
    "type": "reel",
