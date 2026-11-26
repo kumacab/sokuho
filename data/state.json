@@ -1,6 +1,5 @@
 {
  "seen": {
-  "4b6077d7cb45": 1793108105.737927,
   "6461409cb888": 1793110105.831885,
   "94efb5a3028a": 1793120157.9383,
   "ba72df83c441": 1793129286.056659,
@@ -571,38 +570,6 @@
   }
  ],
  "posted": [
-  {
-   "id": "4b6077d7cb45",
-   "type": "post",
-   "headline": "Tank Chair et Fool Night dévoilent une illustration collaborative",
-   "key": [
-    "chair",
-    "collaborative",
-    "devoilent",
-    "fool",
-    "illustration",
-    "night",
-    "tank"
-   ],
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/27/tank-chair-fool-night-manga-visuel-collab",
-   "visual": "visuals/20261027-4b6077d7cb45.jpg",
-   "work": "",
-   "media_id": "18176379556451022",
-   "ts": 1793108165.247187,
-   "card": "posts/20261027-4b6077d7cb45.jpg"
-  },
-  {
-   "id": "4b6077d7cb45",
-   "type": "story",
-   "headline": "Tank Chair et Fool Night dévoilent une illustration collaborative",
-   "key": null,
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/27/tank-chair-fool-night-manga-visuel-collab",
-   "visual": null,
-   "work": "",
-   "media_id": "17988474285116012",
-   "ts": 1793108179.123205,
-   "card": null
-  },
   {
    "id": "6461409cb888",
    "type": "reel",
@@ -5131,7 +5098,7 @@
  "last_recap": "2026-W46",
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1795700906.9383035,
+ "ig_pause_until": 1795702735.292266,
  "carousels_done": {
   "upcoming": "2026-W48",
   "movies": "2026-W47",
