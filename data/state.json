@@ -294,7 +294,10 @@
   "413e8c409d77": 1795692715.611665,
   "717035985ebd": 1795692715.611666,
   "4b504967f640": 1795692715.611667,
-  "9a8203414045": 1795692716.649275
+  "9a8203414045": 1795692716.649275,
+  "d21045d214bb": 1795737443.181983,
+  "86a1421a212e": 1795737443.181985,
+  "fd15c8bc3c48": 1795737444.282606
  },
  "queue": [
   {
@@ -490,6 +493,80 @@
     "carousels/20261125-2026-W48-upcoming-4.jpg",
     "carousels/20261125-2026-W48-upcoming-5.jpg",
     "carousels/20261125-2026-W48-upcoming-6.jpg"
+   ]
+  },
+  {
+   "id": "86a1421a212e",
+   "headline": "Yoichi Takahashi est l'invité d'honneur de Japan Expo 2027",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/26/japan-expo-2027-invite-d-honneur-yoichi-takahashi",
+   "work": "",
+   "key": [
+    "2027",
+    "est",
+    "expo",
+    "honneur",
+    "invite",
+    "japan",
+    "takahashi",
+    "yoichi"
+   ],
+   "ts": 1795737444.024068,
+   "type": "post",
+   "files": [
+    "posts/20261126-86a1421a212e.jpg"
+   ],
+   "caption": "🎬 YOICHI TAKAHASHI EST L'INVITÉ D'HONNEUR DE JAPAN EXPO 2027\n\nAlors que Japan Expo, troisième plus grand salon de France et premier festival européen dédié à la culture japonaise, ouvre sa billetterie, Yoichi Takahashi, l'auteur du manga classique Captain Tsubasa, est annoncé comme invité d'honneur de son édition 2027. (via Crunchyroll News)\n\n📺 Diffusion : Crunchyroll\n\n💬 Hype ou pas hype ? 🔥\n\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote qui doit savoir ça et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
+   "alt": "ANIME — Yoichi Takahashi est l'invité d'honneur de Japan Expo 2027",
+   "visual": "visuals/20261126-86a1421a212e.jpg"
+  },
+  {
+   "id": "86a1421a212e",
+   "headline": "Yoichi Takahashi est l'invité d'honneur de Japan Expo 2027",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/26/japan-expo-2027-invite-d-honneur-yoichi-takahashi",
+   "work": "",
+   "key": null,
+   "ts": 1795737444.024068,
+   "type": "story",
+   "files": [
+    "stories/20261126-86a1421a212e.jpg"
+   ]
+  },
+  {
+   "id": "fd15c8bc3c48",
+   "headline": "L’anime The Final-Boss Prince révèle sa Date de Sortie et dévoile son…",
+   "category": "ANIME",
+   "link": "https://animotaku.fr/actualite/anime-the-final-boss-prince-date-sortie-premier-trailer/",
+   "work": "",
+   "key": [
+    "boss",
+    "devoile",
+    "final",
+    "premier",
+    "prince",
+    "revele"
+   ],
+   "ts": 1795737445.609585,
+   "type": "post",
+   "files": [
+    "posts/20261126-fd15c8bc3c48.jpg"
+   ],
+   "caption": "🎬 L’ANIME THE FINAL-BOSS PRINCE RÉVÈLE SA DATE DE SORTIE ET DÉVOILE SON…\n\nEn parallèle, un premier trailer et un nouveau visuel ont été dévoilés. Nous apprenons par ailleurs que le groupe REIRIE interprétera la chanson d’ouverture, tandis que la chanteuse SERRA interprétera la chanson de fin. Ce nouvel isekai suivra les péripéties d’une jeune femme réincarnée en Céline, la duchesse égoïste, obèse et malfaisante d’un roman populaire. (via Animotaku)\n\n📅 Date : 1er janvier 2027\n\n💬 Note ta hype sur 10 👇\n\n📰 Source : Animotaku\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote qui doit savoir ça et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
+   "alt": "ANIME — L’anime The Final-Boss Prince révèle sa Date de Sortie et dévoile son…",
+   "visual": "visuals/20261126-fd15c8bc3c48.jpg"
+  },
+  {
+   "id": "fd15c8bc3c48",
+   "headline": "L’anime The Final-Boss Prince révèle sa Date de Sortie et dévoile son…",
+   "category": "ANIME",
+   "link": "https://animotaku.fr/actualite/anime-the-final-boss-prince-date-sortie-premier-trailer/",
+   "work": "",
+   "key": null,
+   "ts": 1795737445.609585,
+   "type": "story",
+   "files": [
+    "stories/20261126-fd15c8bc3c48.jpg"
    ]
   }
  ],
@@ -4921,7 +4998,7 @@
  "last_recap": "2026-W46",
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1795737419.2778523,
+ "ig_pause_until": 1795739257.5836265,
  "carousels_done": {
   "upcoming": "2026-W48",
   "movies": "2026-W47",
