@@ -1,6 +1,5 @@
 {
  "seen": {
-  "a5f4a60ade6c": 1793107087.199726,
   "4b6077d7cb45": 1793108105.737927,
   "6461409cb888": 1793110105.831885,
   "94efb5a3028a": 1793120157.9383,
@@ -572,38 +571,6 @@
   }
  ],
  "posted": [
-  {
-   "id": "a5d8c0397c0a",
-   "type": "post",
-   "headline": "Décès du créateur de mangas Tetsuya Chiba à 87 ans",
-   "key": [
-    "87",
-    "ans",
-    "chiba",
-    "createur",
-    "deces",
-    "mangas",
-    "tetsuya"
-   ],
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/27/deces-tetsuya-chiba-manga",
-   "visual": "visuals/20261027-a5d8c0397c0a.jpg",
-   "work": "",
-   "media_id": "18249759280312408",
-   "ts": 1793106248.742605,
-   "card": "posts/20261027-a5d8c0397c0a.jpg"
-  },
-  {
-   "id": "a5d8c0397c0a",
-   "type": "story",
-   "headline": "Décès du créateur de mangas Tetsuya Chiba à 87 ans",
-   "key": null,
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/27/deces-tetsuya-chiba-manga",
-   "visual": null,
-   "work": "",
-   "media_id": "18084388778708148",
-   "ts": 1793106263.33881,
-   "card": null
-  },
   {
    "id": "4b6077d7cb45",
    "type": "post",
@@ -5164,7 +5131,7 @@
  "last_recap": "2026-W46",
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1795699086.7360482,
+ "ig_pause_until": 1795700906.9383035,
  "carousels_done": {
   "upcoming": "2026-W48",
   "movies": "2026-W47",
