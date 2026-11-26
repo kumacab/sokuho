@@ -1,6 +1,5 @@
 {
  "seen": {
-  "d0f0a1af8606": 1793100695.21912,
   "a5d8c0397c0a": 1793106185.858618,
   "a5f4a60ade6c": 1793107087.199726,
   "4b6077d7cb45": 1793108105.737927,
@@ -287,7 +286,21 @@
   "2ca06cea4465": 1795647978.903622,
   "d93b0d0819b7": 1795647978.903623,
   "156e0d7be5e0": 1795647978.903625,
-  "880441cebac9": 1795647981.717604
+  "880441cebac9": 1795647981.717604,
+  "628ff8efe3d0": 1795692715.611653,
+  "2b296e2e60c6": 1795692715.611655,
+  "9913a80130c8": 1795692715.611657,
+  "7f9d26dc70eb": 1795692715.611658,
+  "9ea5fe66e051": 1795692715.611659,
+  "525836e47cd0": 1795692715.61166,
+  "b5eb54c00a22": 1795692715.611661,
+  "a5996f48a394": 1795692715.611662,
+  "dfe60585d3dd": 1795692715.611663,
+  "74c3a6bfa414": 1795692715.611664,
+  "413e8c409d77": 1795692715.611665,
+  "717035985ebd": 1795692715.611666,
+  "4b504967f640": 1795692715.611667,
+  "9a8203414045": 1795692716.649275
  },
  "queue": [
   {
@@ -483,6 +496,79 @@
     "carousels/20261125-2026-W48-upcoming-4.jpg",
     "carousels/20261125-2026-W48-upcoming-5.jpg",
     "carousels/20261125-2026-W48-upcoming-6.jpg"
+   ]
+  },
+  {
+   "id": "4b504967f640",
+   "headline": "À 25:00 à Akasaka sera adapté en anime en 2027",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/26/a-25-00-a-akasaka-annonce-adaptation-2027",
+   "work": "",
+   "key": [
+    "00",
+    "2027",
+    "25",
+    "akasaka",
+    "sera"
+   ],
+   "ts": 1795692716.321987,
+   "type": "post",
+   "files": [
+    "posts/20261126-4b504967f640.jpg"
+   ],
+   "caption": "🎬 À 25:00 À AKASAKA SERA ADAPTÉ EN ANIME EN 2027\n\nUn site web et un compte X ont été lancés pour annoncer qu’une adaptation animée du manga boys’ love À 25:00 à Akasaka de Hiroko Natsuno était en cours de développement et devrait être diffusée en 2027. (via Crunchyroll News)\n\n💬 Hype ou pas hype ? 🔥\n\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote qui doit savoir ça et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
+   "alt": "ANIME — À 25:00 à Akasaka sera adapté en anime en 2027",
+   "visual": "visuals/20261126-4b504967f640.jpg"
+  },
+  {
+   "id": "4b504967f640",
+   "headline": "À 25:00 à Akasaka sera adapté en anime en 2027",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/26/a-25-00-a-akasaka-annonce-adaptation-2027",
+   "work": "",
+   "key": null,
+   "ts": 1795692716.321987,
+   "type": "story",
+   "files": [
+    "stories/20261126-4b504967f640.jpg"
+   ]
+  },
+  {
+   "id": "9a8203414045",
+   "headline": "Toei Animation annonce la 24e série Pretty Cure : \"FUNtasic Precure!\"",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/26/precure-24e-serie-funtasic-precure-toei-animation",
+   "work": "",
+   "key": [
+    "24e",
+    "animation",
+    "cure",
+    "funtasic",
+    "precure",
+    "pretty",
+    "serie",
+    "toei"
+   ],
+   "ts": 1795692717.141808,
+   "type": "post",
+   "files": [
+    "posts/20261126-9a8203414045.jpg"
+   ],
+   "caption": "🎬 TOEI ANIMATION ANNONCE LA 24E SÉRIE PRETTY CURE : \"FUNTASIC PRECURE!\"\n\nLe site web de Toei Animation a annoncé aujourd'hui le titre du 24e volet de sa longue franchise d'anime Precure : FUNtasic Precure!. Le site teaser de la nouvelle série a également été mis en ligne, avec le titre et le texte suivant : « Que les sourires de tout le monde rayonnent ! (via Crunchyroll News)\n\n📅 Date : février 2026\n📺 Diffusion : Crunchyroll, Max\n\n💬 Tu vas le regarder ? 👀\n\n📰 Source : Crunchyroll News\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote qui doit savoir ça et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
+   "alt": "ANIME — Toei Animation annonce la 24e série Pretty Cure : \"FUNtasic Precure!\"",
+   "visual": "visuals/20261126-9a8203414045.jpg"
+  },
+  {
+   "id": "9a8203414045",
+   "headline": "Toei Animation annonce la 24e série Pretty Cure : \"FUNtasic Precure!\"",
+   "category": "ANIME",
+   "link": "https://crunchyroll.com/fr/news/latest/2026/11/26/precure-24e-serie-funtasic-precure-toei-animation",
+   "work": "",
+   "key": null,
+   "ts": 1795692717.141808,
+   "type": "story",
+   "files": [
+    "stories/20261126-9a8203414045.jpg"
    ]
   }
  ],
