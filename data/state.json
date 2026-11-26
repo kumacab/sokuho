@@ -1,6 +1,5 @@
 {
  "seen": {
-  "ba72df83c441": 1793129286.056659,
   "a58749adffb6": 1793174927.267846,
   "fffd981a2e53": 1793175823.873034,
   "52e6cf8b185c": 1793177643.63213,
@@ -568,43 +567,6 @@
   }
  ],
  "posted": [
-  {
-   "id": "ba72df83c441",
-   "type": "reel",
-   "headline": "Les animes à voir en novembre 2026 sur ADN : Major Saison 6",
-   "key": [
-    "2026",
-    "adn",
-    "animes",
-    "encore",
-    "magi",
-    "major",
-    "novembre",
-    "one",
-    "piece",
-    "plus",
-    "vf",
-    "voir"
-   ],
-   "link": "https://animotaku.fr/actualite/animes-novembre-2026-adn/",
-   "visual": "visuals/20261027-ba72df83c441.jpg",
-   "work": "Les animes à voir en novembre 2026 sur ADN",
-   "media_id": "18479922406112634",
-   "ts": 1793129511.973692,
-   "card": "posts/20261027-ba72df83c441.jpg"
-  },
-  {
-   "id": "ba72df83c441",
-   "type": "story",
-   "headline": "Les animes à voir en novembre 2026 sur ADN : Major Saison 6",
-   "key": null,
-   "link": "https://animotaku.fr/actualite/animes-novembre-2026-adn/",
-   "visual": null,
-   "work": "Les animes à voir en novembre 2026 sur ADN",
-   "media_id": "18157740979520966",
-   "ts": 1793129524.799724,
-   "card": null
-  },
   {
    "id": "a58749adffb6",
    "type": "reel",
