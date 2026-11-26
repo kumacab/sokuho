@@ -1,6 +1,5 @@
 {
  "seen": {
-  "6461409cb888": 1793110105.831885,
   "94efb5a3028a": 1793120157.9383,
   "ba72df83c441": 1793129286.056659,
   "a58749adffb6": 1793174927.267846,
@@ -570,36 +569,6 @@
   }
  ],
  "posted": [
-  {
-   "id": "6461409cb888",
-   "type": "reel",
-   "headline": "Maebashi Witches publie le clip vidéo de la chanson du film",
-   "key": [
-    "chanson",
-    "clip",
-    "maebashi",
-    "publie",
-    "witches"
-   ],
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/27/maebashi-witches-film-compilation-clip-amehare-make-up",
-   "visual": "visuals/20261027-6461409cb888.jpg",
-   "work": "",
-   "media_id": "17965053549231577",
-   "ts": 1793110252.300122,
-   "card": "posts/20261027-6461409cb888.jpg"
-  },
-  {
-   "id": "6461409cb888",
-   "type": "story",
-   "headline": "Maebashi Witches publie le clip vidéo de la chanson du film",
-   "key": null,
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/27/maebashi-witches-film-compilation-clip-amehare-make-up",
-   "visual": null,
-   "work": "",
-   "media_id": "18106559567205416",
-   "ts": 1793110265.250035,
-   "card": null
-  },
   {
    "id": "94efb5a3028a",
    "type": "reel",
@@ -5098,7 +5067,7 @@
  "last_recap": "2026-W46",
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1795702735.292266,
+ "ig_pause_until": 1795704559.2436824,
  "carousels_done": {
   "upcoming": "2026-W48",
   "movies": "2026-W47",
