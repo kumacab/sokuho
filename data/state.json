@@ -574,45 +574,6 @@
  ],
  "posted": [
   {
-   "id": "d0f0a1af8606",
-   "type": "post",
-   "headline": "L’anime Welcome to Demon School! Iruma-kun : IruMafia Edition sortira…",
-   "key": [
-    "12",
-    "2027",
-    "aura",
-    "demon",
-    "edition",
-    "episodes",
-    "iruma",
-    "irumafia",
-    "janvier",
-    "kun",
-    "school",
-    "sortira",
-    "to",
-    "welcome"
-   ],
-   "link": "https://animotaku.fr/actualite/anime-welcome-to-demon-school-iruma-kun-irumafia-edition-date-sortie/",
-   "visual": "visuals/20261027-d0f0a1af8606.jpg",
-   "work": "anime Welcome to Demon School! Iruma-kun",
-   "media_id": "18129349642760185",
-   "ts": 1793100795.642926,
-   "card": "posts/20261027-d0f0a1af8606.jpg"
-  },
-  {
-   "id": "d0f0a1af8606",
-   "type": "story",
-   "headline": "L’anime Welcome to Demon School! Iruma-kun : IruMafia Edition sortira…",
-   "key": null,
-   "link": "https://animotaku.fr/actualite/anime-welcome-to-demon-school-iruma-kun-irumafia-edition-date-sortie/",
-   "visual": null,
-   "work": "anime Welcome to Demon School! Iruma-kun",
-   "media_id": "17999012594826853",
-   "ts": 1793100808.844488,
-   "card": null
-  },
-  {
    "id": "a5d8c0397c0a",
    "type": "post",
    "headline": "Décès du créateur de mangas Tetsuya Chiba à 87 ans",
@@ -5204,7 +5165,7 @@
  "last_recap": "2026-W46",
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1795693601.2926266,
+ "ig_pause_until": 1795695434.1393664,
  "carousels_done": {
   "upcoming": "2026-W48",
   "movies": "2026-W47",
