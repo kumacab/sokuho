@@ -1,6 +1,5 @@
 {
  "seen": {
-  "a58749adffb6": 1793174927.267846,
   "fffd981a2e53": 1793175823.873034,
   "52e6cf8b185c": 1793177643.63213,
   "8f502733fdba": 1793181301.109896,
@@ -571,37 +570,6 @@
   }
  ],
  "posted": [
-  {
-   "id": "a58749adffb6",
-   "type": "reel",
-   "headline": "MASHLE Saison 3 sera disponible sur Crunchyroll dès janvier 2027",
-   "key": [
-    "2027",
-    "crunchyroll",
-    "disponible",
-    "janvier",
-    "mashle",
-    "sera"
-   ],
-   "link": "https://crunchyroll.com/fr/news/announcements/2026/10/28/mashle-magic-and-muscles-saison-3-janvier-2027-streaming-crunchyroll",
-   "visual": "visuals/20261028-a58749adffb6.jpg",
-   "work": "",
-   "media_id": "17962798470251238",
-   "ts": 1793175102.787343,
-   "card": "posts/20261028-a58749adffb6.jpg"
-  },
-  {
-   "id": "a58749adffb6",
-   "type": "story",
-   "headline": "MASHLE Saison 3 sera disponible sur Crunchyroll dès janvier 2027",
-   "key": null,
-   "link": "https://crunchyroll.com/fr/news/announcements/2026/10/28/mashle-magic-and-muscles-saison-3-janvier-2027-streaming-crunchyroll",
-   "visual": null,
-   "work": "",
-   "media_id": "18033697049890603",
-   "ts": 1793175116.420052,
-   "card": null
-  },
   {
    "id": "52e6cf8b185c",
    "type": "post",
