@@ -561,6 +561,26 @@
    "files": [
     "stories/20261127-0db7231d28b5.jpg"
    ]
+  },
+  {
+   "id": "car-movies-2026-W48",
+   "type": "carousel",
+   "headline": "🎬 LES PROCHAINS FILMS D'ANIMATION À NE PAS RATER !",
+   "key": null,
+   "ts": 1795799514.968648,
+   "caption": "🎬 LES PROCHAINS FILMS D'ANIMATION À NE PAS RATER !\n\nLes films d'animation japonais les plus attendus, avec leur date de sortie au Japon. Les sorties françaises sont annoncées plus tard : on vous tient au courant.\n\n📌 Enregistre le post\n💬 Tu vas voir lequel au cinéma ?\n\nDonnées : AniList · Visuels © leurs ayants droit\n\n#filmanime #animefr #anime #cinema #manga",
+   "files": [
+    "carousels/20261127-2026-W48-movies-0.jpg",
+    "carousels/20261127-2026-W48-movies-1.jpg",
+    "carousels/20261127-2026-W48-movies-2.jpg",
+    "carousels/20261127-2026-W48-movies-3.jpg",
+    "carousels/20261127-2026-W48-movies-4.jpg",
+    "carousels/20261127-2026-W48-movies-5.jpg",
+    "carousels/20261127-2026-W48-movies-6.jpg",
+    "carousels/20261127-2026-W48-movies-7.jpg",
+    "carousels/20261127-2026-W48-movies-8.jpg",
+    "carousels/20261127-2026-W48-movies-9.jpg"
+   ]
   }
  ],
  "posted": [
@@ -4684,7 +4704,7 @@
  "ig_pause_until": 1795799493.1021557,
  "carousels_done": {
   "upcoming": "2026-W48",
-  "movies": "2026-W47",
+  "movies": "2026-W48",
   "countdown": "2026-W47",
   "week": "2026-W48"
  },
