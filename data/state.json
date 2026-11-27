@@ -1,6 +1,5 @@
 {
  "seen": {
-  "2b9173a24f23": 1793199560.249177,
   "e4c8fa2bd0fe": 1793200472.172316,
   "1978226407bb": 1793205963.969446,
   "92412ea85d93": 1793254359.226603,
@@ -567,39 +566,6 @@
   }
  ],
  "posted": [
-  {
-   "id": "2b9173a24f23",
-   "type": "post",
-   "headline": "Rascal Does Not Dream of a Dear Friend partage un extrait vidéo du film",
-   "key": [
-    "dear",
-    "does",
-    "dream",
-    "extrait",
-    "friend",
-    "not",
-    "partage",
-    "rascal"
-   ],
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/28/rascal-does-not-dream-of-a-dear-friend-film-extrait-video",
-   "visual": "visuals/20261028-2b9173a24f23.jpg",
-   "work": "",
-   "media_id": "18012768362967448",
-   "ts": 1793199611.744109,
-   "card": "posts/20261028-2b9173a24f23.jpg"
-  },
-  {
-   "id": "2b9173a24f23",
-   "type": "story",
-   "headline": "Rascal Does Not Dream of a Dear Friend partage un extrait vidéo du film",
-   "key": null,
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/28/rascal-does-not-dream-of-a-dear-friend-film-extrait-video",
-   "visual": null,
-   "work": "",
-   "media_id": "18165590149517274",
-   "ts": 1793199625.043675,
-   "card": null
-  },
   {
    "id": "e4c8fa2bd0fe",
    "type": "post",
@@ -4780,7 +4746,7 @@
  "last_recap": "2026-W46",
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1795792204.2932272,
+ "ig_pause_until": 1795794018.9587717,
  "carousels_done": {
   "upcoming": "2026-W48",
   "movies": "2026-W47",
