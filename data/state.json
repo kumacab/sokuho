@@ -1,6 +1,5 @@
 {
  "seen": {
-  "e4c8fa2bd0fe": 1793200472.172316,
   "1978226407bb": 1793205963.969446,
   "92412ea85d93": 1793254359.226603,
   "3d80d8c642a0": 1793268959.785795,
@@ -566,38 +565,6 @@
   }
  ],
  "posted": [
-  {
-   "id": "e4c8fa2bd0fe",
-   "type": "post",
-   "headline": "Regarde The Detective Is Already Dead Saison 2 en VF sur Crunchyroll",
-   "key": [
-    "already",
-    "crunchyroll",
-    "dead",
-    "detective",
-    "is",
-    "regarde",
-    "vf"
-   ],
-   "link": "https://crunchyroll.com/fr/news/announcements/2026/10/28/regarder-the-detective-is-already-dead-saison-2-vf-crunchyroll",
-   "visual": "visuals/20261028-e4c8fa2bd0fe.jpg",
-   "work": "",
-   "media_id": "18121812572119938",
-   "ts": 1793200522.889659,
-   "card": "posts/20261028-e4c8fa2bd0fe.jpg"
-  },
-  {
-   "id": "e4c8fa2bd0fe",
-   "type": "story",
-   "headline": "Regarde The Detective Is Already Dead Saison 2 en VF sur Crunchyroll",
-   "key": null,
-   "link": "https://crunchyroll.com/fr/news/announcements/2026/10/28/regarder-the-detective-is-already-dead-saison-2-vf-crunchyroll",
-   "visual": null,
-   "work": "",
-   "media_id": "18092017049215250",
-   "ts": 1793200537.509867,
-   "card": null
-  },
   {
    "id": "1978226407bb",
    "type": "post",
