@@ -585,18 +585,6 @@
  ],
  "posted": [
   {
-   "id": "car-upcoming-2026-W44",
-   "type": "carousel",
-   "headline": "🔥 ON VA PAS S'ENNUYER CET HIVER 2027 !",
-   "key": null,
-   "link": null,
-   "visual": null,
-   "work": null,
-   "ts": 1793207786.383713,
-   "media_id": "?",
-   "card": null
-  },
-  {
    "id": "92412ea85d93",
    "type": "reel",
    "headline": "Sono Mono Nochi Ni adapté en anime",
@@ -4701,7 +4689,7 @@
  "last_recap": "2026-W46",
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1795799493.1021557,
+ "ig_pause_until": 1795802235.0087914,
  "carousels_done": {
   "upcoming": "2026-W48",
   "movies": "2026-W48",
