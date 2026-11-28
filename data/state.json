@@ -292,7 +292,24 @@
   "18e86e2dad6c": 1795782181.4742,
   "c15afa2a1cf1": 1795782181.474201,
   "8636d66b9572": 1795782181.474203,
-  "0db7231d28b5": 1795782184.012799
+  "0db7231d28b5": 1795782184.012799,
+  "fca650895dae": 1795846093.951748,
+  "cda55a39584e": 1795846093.95175,
+  "c7a0914ee081": 1795846093.951752,
+  "9315100ae2b7": 1795846093.951754,
+  "4d91b212c8ef": 1795846093.951755,
+  "49d353e8f8b6": 1795846093.951757,
+  "83bec48176cd": 1795846093.951758,
+  "97cfc8829557": 1795846093.951759,
+  "b7f691b948ad": 1795846093.951761,
+  "1bfdeb369266": 1795846093.951762,
+  "54d6cb312919": 1795846093.951764,
+  "80ae540f282a": 1795846093.951765,
+  "09df644bddc5": 1795846093.951766,
+  "6e823f74db6e": 1795846093.951768,
+  "dd410300710e": 1795846093.951769,
+  "7d4fefe35ece": 1795846093.951771,
+  "291a1f561bb1": 1795846093.951772
  },
  "queue": [
   {
@@ -508,6 +525,41 @@
     "carousels/20261127-2026-W48-movies-7.jpg",
     "carousels/20261127-2026-W48-movies-8.jpg",
     "carousels/20261127-2026-W48-movies-9.jpg"
+   ]
+  },
+  {
+   "id": "291a1f561bb1",
+   "headline": "L’anime Ramen Akaneko Saison 2 révèle sa Date de Sortie et dévoile son…",
+   "category": "ANIME",
+   "link": "https://animotaku.fr/actualite/anime-ramen-akaneko-saison-2-date-sortie-trailer/",
+   "work": "anime Ramen Akaneko Saison 2",
+   "key": [
+    "akaneko",
+    "devoile",
+    "principal",
+    "ramen",
+    "revele"
+   ],
+   "ts": 1795846096.024683,
+   "type": "post",
+   "files": [
+    "posts/20261128-291a1f561bb1.jpg"
+   ],
+   "caption": "🎬 L’ANIME RAMEN AKANEKO SAISON 2 RÉVÈLE SA DATE DE SORTIE ET DÉVOILE SON…\n\nEn parallèle, un premier trailer principal a été mis en ligne, tandis que les artistes en charge des génériques de cette deuxième saison ont également été présentés. Comme annoncé sur le site officiel du projet, la saison 2 de l’anime Ramen Akaneko sortira le dimanche 10 janvier 2027, parmi les nouveautés de l’hiver. (via Animotaku)\n\n📅 Date : 10 janvier 2027\n📺 Diffusion : ADN\n\n💬 Ton avis sur le studio ? 🎬\n\n📌 Œuvre : anime Ramen Akaneko Saison 2\n📰 Source : Animotaku\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote fan d’anime Ramen Akaneko Saison 2 et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#AnimeRamenAkanekoSaison2 #anime #animefr #japanime #manga",
+   "alt": "ANIME — L’anime Ramen Akaneko Saison 2 révèle sa Date de Sortie et dévoile son…",
+   "visual": "visuals/20261128-291a1f561bb1.jpg"
+  },
+  {
+   "id": "291a1f561bb1",
+   "headline": "L’anime Ramen Akaneko Saison 2 révèle sa Date de Sortie et dévoile son…",
+   "category": "ANIME",
+   "link": "https://animotaku.fr/actualite/anime-ramen-akaneko-saison-2-date-sortie-trailer/",
+   "work": "anime Ramen Akaneko Saison 2",
+   "key": null,
+   "ts": 1795846096.024683,
+   "type": "story",
+   "files": [
+    "stories/20261128-291a1f561bb1.jpg"
    ]
   }
  ],
@@ -4617,7 +4669,7 @@
  "last_recap": "2026-W46",
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1795824147.438115,
+ "ig_pause_until": 1795847910.3108568,
  "carousels_done": {
   "upcoming": "2026-W48",
   "movies": "2026-W48",
