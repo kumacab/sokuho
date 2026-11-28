@@ -1,6 +1,5 @@
 {
  "seen": {
-  "a0e9f5993f9b": 1793291792.579132,
   "e89c4a7ff696": 1793344675.66532,
   "756cafb7df1d": 1793346502.156606,
   "1dffa9f5894d": 1793350143.487812,
@@ -594,38 +593,6 @@
   }
  ],
  "posted": [
-  {
-   "id": "a0e9f5993f9b",
-   "type": "reel",
-   "headline": "Les Carnets de l’Apothicaire Saison 3 Épisode 5 : Date et Heure de…",
-   "key": [
-    "apothicaire",
-    "carnets",
-    "episode",
-    "heure",
-    "images",
-    "premieres",
-    "resume"
-   ],
-   "link": "https://animotaku.fr/actualite/anime-carnets-apothicaire-saison-3-episode-5-date-heure-sortie/",
-   "visual": "visuals/20261029-a0e9f5993f9b.jpg",
-   "work": "Les carnets de l'apothicaire",
-   "media_id": "18064525277527025",
-   "ts": 1793292025.860458,
-   "card": "posts/20261029-a0e9f5993f9b.jpg"
-  },
-  {
-   "id": "a0e9f5993f9b",
-   "type": "story",
-   "headline": "Les Carnets de l’Apothicaire Saison 3 Épisode 5 : Date et Heure de…",
-   "key": null,
-   "link": "https://animotaku.fr/actualite/anime-carnets-apothicaire-saison-3-episode-5-date-heure-sortie/",
-   "visual": null,
-   "work": "Les carnets de l'apothicaire",
-   "media_id": "18101989241381962",
-   "ts": 1793292038.215775,
-   "card": null
-  },
   {
    "id": "e89c4a7ff696",
    "type": "reel",
@@ -4508,7 +4475,7 @@
  "last_recap": "2026-W46",
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1795884373.5484004,
+ "ig_pause_until": 1795886198.6570647,
  "carousels_done": {
   "upcoming": "2026-W48",
   "movies": "2026-W48",
