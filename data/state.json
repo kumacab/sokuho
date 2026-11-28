@@ -308,7 +308,8 @@
   "6e823f74db6e": 1795846093.951768,
   "dd410300710e": 1795846093.951769,
   "7d4fefe35ece": 1795846093.951771,
-  "291a1f561bb1": 1795846093.951772
+  "291a1f561bb1": 1795846093.951772,
+  "de60f3e95427": 1795859777.477474
  },
  "queue": [
   {
@@ -559,6 +560,41 @@
    "type": "story",
    "files": [
     "stories/20261128-291a1f561bb1.jpg"
+   ]
+  },
+  {
+   "id": "de60f3e95427",
+   "headline": "L’anime Medaka Kuroiwa Saison 2 révèle sa Date de Sortie sur…",
+   "category": "ANIME",
+   "link": "https://animotaku.fr/actualite/anime-medaka-kuroiwa-saison-2-date-sortie-trailer/",
+   "work": "",
+   "key": [
+    "crunchyroll",
+    "kuroiwa",
+    "medaka",
+    "officiel",
+    "revele"
+   ],
+   "ts": 1795859778.839707,
+   "type": "post",
+   "files": [
+    "posts/20261128-de60f3e95427.jpg"
+   ],
+   "caption": "🎬 L’ANIME MEDAKA KUROIWA SAISON 2 RÉVÈLE SA DATE DE SORTIE SUR…\n\nEn France, comme la première saison, cette suite devrait être proposée en simulcast sur Crunchyroll. De plus, un premier trailer principal et un nouveau visuel ont également été dévoilés. Dans cette suite, Mona a finalement pris conscience de ses sentiments envers Medaka et se fixe en conséquence un nouvel objectif : sortir avec lui ! (via Animotaku)\n\n📅 Date : 5 janvier 2027\n🎥 Réalisation : Yoshiaki Okumura\n📺 Diffusion : Crunchyroll\n\n💬 Tu attendais cette annonce ?\n\n📰 Source : Animotaku\n🖼️ Visuel officiel © ses ayants droit\n\n📤 Partage à un pote qui doit savoir ça et enregistre le post\n🔔 Abonne-toi à @sokuho.fr pour avoir les annonces en premier\n\n#anime #animefr #japanime #manga #actuanime",
+   "alt": "ANIME — L’anime Medaka Kuroiwa Saison 2 révèle sa Date de Sortie sur…",
+   "visual": "visuals/20261128-de60f3e95427.jpg"
+  },
+  {
+   "id": "de60f3e95427",
+   "headline": "L’anime Medaka Kuroiwa Saison 2 révèle sa Date de Sortie sur…",
+   "category": "ANIME",
+   "link": "https://animotaku.fr/actualite/anime-medaka-kuroiwa-saison-2-date-sortie-trailer/",
+   "work": "",
+   "key": null,
+   "ts": 1795859778.839707,
+   "type": "story",
+   "files": [
+    "stories/20261128-de60f3e95427.jpg"
    ]
   }
  ],
