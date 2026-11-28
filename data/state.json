@@ -1,6 +1,5 @@
 {
  "seen": {
-  "e1cc572263f8": 1793281725.661568,
   "e9917dccdf54": 1793282640.928877,
   "247b79c72058": 1793289039.295502,
   "a0e9f5993f9b": 1793291792.579132,
@@ -597,40 +596,6 @@
   }
  ],
  "posted": [
-  {
-   "id": "e1cc572263f8",
-   "type": "post",
-   "headline": "No-Clipping My Way to Supremacy! dévoile 7 nouvelles voix",
-   "key": [
-    "clipping",
-    "devoile",
-    "my",
-    "no",
-    "nouvelles",
-    "supremacy",
-    "to",
-    "voix",
-    "way"
-   ],
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/29/no-clipping-my-way-to-supremacy-casting-vocal",
-   "visual": "visuals/20261029-e1cc572263f8.jpg",
-   "work": "",
-   "media_id": "18124716829936437",
-   "ts": 1793281777.699156,
-   "card": "posts/20261029-e1cc572263f8.jpg"
-  },
-  {
-   "id": "e1cc572263f8",
-   "type": "story",
-   "headline": "No-Clipping My Way to Supremacy! dévoile 7 nouvelles voix",
-   "key": null,
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/29/no-clipping-my-way-to-supremacy-casting-vocal",
-   "visual": null,
-   "work": "",
-   "media_id": "18138518926632261",
-   "ts": 1793281793.06084,
-   "card": null
-  },
   {
    "id": "e9917dccdf54",
    "type": "reel",
