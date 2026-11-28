@@ -1,6 +1,5 @@
 {
  "seen": {
-  "e9917dccdf54": 1793282640.928877,
   "247b79c72058": 1793289039.295502,
   "a0e9f5993f9b": 1793291792.579132,
   "e89c4a7ff696": 1793344675.66532,
@@ -596,38 +595,6 @@
   }
  ],
  "posted": [
-  {
-   "id": "e9917dccdf54",
-   "type": "reel",
-   "headline": "Disney Twisted-Wonderland The Animation : La Saison 2 débutera le 23…",
-   "key": [
-    "23",
-    "animation",
-    "debutera",
-    "decembre",
-    "disney",
-    "twisted",
-    "wonderland"
-   ],
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/29/disney-twisted-wonderland-the-animation-saison-2-episode-of-savanaclaw-date-diffusion-visuel",
-   "visual": "visuals/20261029-e9917dccdf54.jpg",
-   "work": "Disney Twisted-Wonderland The Animation",
-   "media_id": "17933731392411646",
-   "ts": 1793282787.245204,
-   "card": "posts/20261029-e9917dccdf54.jpg"
-  },
-  {
-   "id": "e9917dccdf54",
-   "type": "story",
-   "headline": "Disney Twisted-Wonderland The Animation : La Saison 2 débutera le 23…",
-   "key": null,
-   "link": "https://crunchyroll.com/fr/news/latest/2026/10/29/disney-twisted-wonderland-the-animation-saison-2-episode-of-savanaclaw-date-diffusion-visuel",
-   "visual": null,
-   "work": "Disney Twisted-Wonderland The Animation",
-   "media_id": "18138211072645445",
-   "ts": 1793282801.624448,
-   "card": null
-  },
   {
    "id": "247b79c72058",
    "type": "post",
@@ -4572,7 +4539,7 @@
  "last_recap": "2026-W46",
  "news_count": 39,
  "manual_reels": [],
- "ig_pause_until": 1795875262.3881822,
+ "ig_pause_until": 1795877081.6410978,
  "carousels_done": {
   "upcoming": "2026-W48",
   "movies": "2026-W48",
