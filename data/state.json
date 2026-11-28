@@ -1,6 +1,5 @@
 {
  "seen": {
-  "39fd60f3fab1": 1793279901.803332,
   "e1cc572263f8": 1793281725.661568,
   "e9917dccdf54": 1793282640.928877,
   "247b79c72058": 1793289039.295502,
@@ -598,40 +597,6 @@
   }
  ],
  "posted": [
-  {
-   "id": "39fd60f3fab1",
-   "type": "reel",
-   "headline": "L’anime Disney Twisted-Wonderland Saison 2 sortira le 23 décembre 2026…",
-   "key": [
-    "2026",
-    "23",
-    "aura",
-    "decembre",
-    "disney",
-    "episodes",
-    "sortira",
-    "twisted",
-    "wonderland"
-   ],
-   "link": "https://animotaku.fr/actualite/anime-disney-twisted-wonderland-saison-2-date-sortie-trailer/",
-   "visual": "visuals/20261029-39fd60f3fab1.jpg",
-   "work": "anime disney twisted-wonderland",
-   "media_id": "18103104032182982",
-   "ts": 1793280040.25358,
-   "card": "posts/20261029-39fd60f3fab1.jpg"
-  },
-  {
-   "id": "39fd60f3fab1",
-   "type": "story",
-   "headline": "L’anime Disney Twisted-Wonderland Saison 2 sortira le 23 décembre 2026…",
-   "key": null,
-   "link": "https://animotaku.fr/actualite/anime-disney-twisted-wonderland-saison-2-date-sortie-trailer/",
-   "visual": null,
-   "work": "anime disney twisted-wonderland",
-   "media_id": "18504814480098090",
-   "ts": 1793280053.367778,
-   "card": null
-  },
   {
    "id": "e1cc572263f8",
    "type": "post",
